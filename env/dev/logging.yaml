@@ -1,0 +1,15 @@
+version: 1
+handlers:
+  console:
+    class: logging.StreamHandler
+    formatter: default
+    level: INFO
+    stream: ext://sys.stdout
+root:
+  level: DEBUG
+  handlers: [console]
+formatters:
+  default:
+    format: "%(asctime)s %(levelname)-8s %(name)-15s %(message)s"
+    datefmt: "%Y-%m-%d %H:%M:%S"
+disable_existing_loggers: False

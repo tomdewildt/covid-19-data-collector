@@ -1,0 +1,18 @@
+[master]
+ignore=notebooks
+
+[messages control]
+disable=too-few-public-methods,
+        redefined-outer-name,
+        too-many-arguments,
+        redefined-builtin,
+        missing-docstring,
+        locally-disabled,
+        duplicate-code,
+        invalid-name,
+        no-self-use,
+        fixme,
+
+[report]
+exclude_lines =
+    if __name__ == .__main__.:

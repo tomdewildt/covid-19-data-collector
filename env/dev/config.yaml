@@ -1,0 +1,11 @@
+environment: development
+log_config: env/dev/logging.yaml
+collector:
+  url: https://www.rivm.nl/actuele-informatie-over-coronavirus
+  municipalities: external/gemeenten.csv
+  elements:
+    data: csvData
+    metadata: mapTitles
+    general: table
+store:
+  path: data
