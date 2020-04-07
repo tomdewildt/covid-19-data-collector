@@ -1,7 +1,7 @@
 environment: prod
 log_config: env/prod/logging.yaml
 collector:
-  url: https://www.rivm.nl/actuele-informatie-over-coronavirus
+  url: https://www.rivm.nl/coronavirus-covid-19/actueel
   municipalities: external/gemeenten.csv
   elements:
     data: csvData
