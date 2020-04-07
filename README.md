@@ -34,7 +34,7 @@ Prerequisites:
 
 # References
 
-[RIVM COVID-19](https://www.rivm.nl/actuele-informatie-over-coronavirus)
+[RIVM COVID-19](https://www.rivm.nl/coronavirus-covid-19/actueel)
 
 [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 
