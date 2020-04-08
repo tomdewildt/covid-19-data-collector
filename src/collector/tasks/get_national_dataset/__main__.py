@@ -1,7 +1,7 @@
 import click
 
 from collector.config import read_config, init_logging
-from collector.tasks.get_general_dataset.task import GetGeneralDataset
+from collector.tasks.get_national_dataset.task import GetNationalDataset
 from collector.client import WebClient
 from collector.store import LocalStore
 
@@ -13,7 +13,7 @@ def main(output_folder):
     client = WebClient()
     store = LocalStore(config["store"]["path"])
 
-    task = GetGeneralDataset(config["collector"], client, store)
+    task = GetNationalDataset(config["collector"], client, store)
     task(output_folder=output_folder)
 
 
