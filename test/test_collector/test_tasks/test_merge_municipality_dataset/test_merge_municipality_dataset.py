@@ -73,7 +73,7 @@ class TestMergeMunicipalityDatasetRun:
                 [
                     {
                         "Gemeentecode": [1],
-                        "Aantal": [100],
+                        "Opgenomen": [100],
                         "Gemeente": ["gemeente 1"],
                         "Provinciecode": [2],
                         "Provincie": ["provincie 2"],
@@ -81,7 +81,7 @@ class TestMergeMunicipalityDatasetRun:
                     },
                     {
                         "Gemeentecode": [3],
-                        "Aantal": [100],
+                        "Opgenomen": [100],
                         "Gemeente": ["gemeente 3"],
                         "Provinciecode": [4],
                         "Provincie": ["provincie 4"],
@@ -90,7 +90,7 @@ class TestMergeMunicipalityDatasetRun:
                 ],
                 {
                     "Gemeentecode": [1, 3],
-                    "Aantal": [100, 100],
+                    "Opgenomen": [100, 100],
                     "Gemeente": ["gemeente 1", "gemeente 3"],
                     "Provinciecode": [2, 4],
                     "Provincie": ["provincie 2", "provincie 4"],
