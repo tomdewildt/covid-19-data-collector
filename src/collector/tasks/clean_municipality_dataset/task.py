@@ -35,7 +35,8 @@ class CleanMunicipalityDataset:
                 columns={
                     "id": "Gemeentecode",
                     "Gemnr": "Gemeentecode",
-                    "Zkh opname": "Aantal",
+                    "Aantal": "Opgenomen",
+                    "Zkh opname": "Opgenomen",
                 }
             )
             data["Gemeentecode"] = data["Gemeentecode"].astype(int)
@@ -44,10 +45,10 @@ class CleanMunicipalityDataset:
             cell = data.loc[data["Gemeentecode"] == -1, "Gemeente"]
             if len(cell.values) > 0:
                 amount = sum(int(s) for s in cell.values[0].split() if s.isdigit())
-                data.loc[data["Gemeentecode"] == -1, "Aantal"] = amount
+                data.loc[data["Gemeentecode"] == -1, "Opgenomen"] = amount
 
             # Select columns
-            data = data[["Gemeentecode", "Aantal"]]
+            data = data[["Gemeentecode", "Opgenomen"]]
 
             # Merge municipality data
             data = data.merge(
@@ -61,14 +62,16 @@ class CleanMunicipalityDataset:
             data["Datum"] = os.path.splitext(file)[0]
 
             # Fill empty values
-            data = data.fillna({"Provinciecode": -1, "Gemeentecode": -1, "Aantal": 0,})
+            data = data.fillna(
+                {"Provinciecode": -1, "Gemeentecode": -1, "Opgenomen": 0,}
+            )
             data.loc[data["Provinciecode"] == -1, "Provincie"] = None
             data.loc[data["Gemeentecode"] == -1, "Gemeente"] = None
 
             # Set data types
             data["Provinciecode"] = data["Provinciecode"].astype(int)
             data["Gemeentecode"] = data["Gemeentecode"].astype(int)
-            data["Aantal"] = data["Aantal"].astype(int)
+            data["Opgenomen"] = data["Opgenomen"].astype(int)
 
             # Store dataset
             path = f"{inputs['output_folder']}/{file}"
