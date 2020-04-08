@@ -31,7 +31,13 @@ class CleanMunicipalityDataset:
             data = self._read(f"{inputs['input_folder']}/{file}")
 
             # Rename columns
-            data = data.rename(columns={"id": "Gemeentecode", "Gemnr": "Gemeentecode"})
+            data = data.rename(
+                columns={
+                    "id": "Gemeentecode",
+                    "Gemnr": "Gemeentecode",
+                    "Zkh opname": "Aantal",
+                }
+            )
             data["Gemeentecode"] = data["Gemeentecode"].astype(int)
 
             # Fix missing cases
