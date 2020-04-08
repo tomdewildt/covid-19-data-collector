@@ -2,12 +2,12 @@ environment: prod
 log_config: env/prod/logging.yaml
 collector:
   urls:
-    general: https://www.rivm.nl/coronavirus-covid-19/actueel
+    national: https://www.rivm.nl/coronavirus-covid-19/actueel
     municipality: https://www.rivm.nl/coronavirus-covid-19/actueel
   municipalities: external/gemeenten.csv
   elements:
-    data: csvData
+    national: table
+    municipality: csvData
     metadata: mapTitles
-    general: table
 store:
   path: data
