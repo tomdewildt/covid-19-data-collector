@@ -74,7 +74,9 @@ class TestGetMunicipalityDatasetRun:
         task = GetMunicipalityDataset(self.config["collector"], Client(), Store())
         task(output_folder="raw")
 
-        mock_get.assert_called_once_with(self.config["collector"]["url"])
+        mock_get.assert_called_once_with(
+            self.config["collector"]["urls"]["municipality"]
+        )
         mock_write.assert_called_once_with(mock.ANY, "raw/1970-01-01.csv", index=False)
 
         pd.testing.assert_frame_equal(

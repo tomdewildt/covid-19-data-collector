@@ -28,7 +28,7 @@ class GetGeneralDataset:
 
     def run(self, inputs):
         log.info("Requesting document")
-        document = self._client.get(self._config["url"])
+        document = self._client.get(self._config["urls"]["general"])
 
         log.info("Parsing document")
         soup = BeautifulSoup(document, features="html.parser")
