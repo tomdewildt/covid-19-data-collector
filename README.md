@@ -20,11 +20,11 @@ Prerequisites:
 
 #### Available tasks
 
-* ```get_general_dataset``` retrieves general outbreak data.
+* ```get_national_dataset``` retrieves national outbreak data.
 * ```get_municipality_dataset``` retrieves outbreak data per municipality.
-* ```clean_general_dataset``` clean the general datasets.
+* ```clean_national_dataset``` clean the national datasets.
 * ```clean_municipality_dataset``` clean the municipality datasets.
-* ```merge_general_dataset``` merge the general datasets.
+* ```merge_national_dataset``` merge the national datasets.
 * ```merge_municipality_dataset``` merge the municipality datasets.
 
 ### Test
