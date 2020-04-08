@@ -4,7 +4,10 @@ _CONFIG_DEFAULTS = {
     "environment": "test",
     "log_config": None,
     "collector": {
-        "url": "https://example.com",
+        "urls": {
+            "general": "http://data.com/general",
+            "municipality": "http://data.com/municipality",
+        },
         "municipalities": "external/gemeenten.csv",
         "elements": {"data": "data", "metadata": "metadata", "general": "table"},
     },
