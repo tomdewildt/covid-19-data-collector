@@ -8,7 +8,7 @@ from collector.schema import obj, string, validate
 log = logging.getLogger(__name__)
 
 
-class MergeGeneralDataset:
+class MergeNationalDataset:
     inputs_schema = obj(name=string(), input_folder=string(), output_folder=string())
 
     def __init__(self, config, store):

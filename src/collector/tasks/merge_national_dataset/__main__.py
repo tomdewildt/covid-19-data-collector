@@ -1,7 +1,7 @@
 import click
 
 from collector.config import read_config, init_logging
-from collector.tasks.merge_general_dataset.task import MergeGeneralDataset
+from collector.tasks.merge_national_dataset.task import MergeNationalDataset
 from collector.store import LocalStore
 
 
@@ -13,7 +13,7 @@ def main(name, input_folder, output_folder):
     config = read_config()
     store = LocalStore(config["store"]["path"])
 
-    task = MergeGeneralDataset(config["collector"], store)
+    task = MergeNationalDataset(config["collector"], store)
     task(name=name, input_folder=input_folder, output_folder=output_folder)
 
 
