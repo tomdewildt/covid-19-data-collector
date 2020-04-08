@@ -64,10 +64,10 @@ class TestCleanMunicipalityDatasetRun:
         "input_dataset,output_dataset",
         [
             (
-                {"id": [1], "Gemeente": ["gemeente 1"], "Aantal": [100]},
+                {"id": [1], "Gemeente": ["gemeente 1"], "Opgenomen": [100]},
                 {
                     "Gemeentecode": [1],
-                    "Aantal": [100],
+                    "Opgenomen": [100],
                     "Gemeente": ["gemeente 1"],
                     "Provinciecode": [2],
                     "Provincie": ["provincie 2"],
@@ -75,10 +75,10 @@ class TestCleanMunicipalityDatasetRun:
                 },
             ),
             (
-                {"Gemnr": [1], "Gemeente": ["gemeente 1"], "Aantal": [100]},
+                {"Gemnr": [1], "Gemeente": ["gemeente 1"], "Opgenomen": [100]},
                 {
                     "Gemeentecode": [1],
-                    "Aantal": [100],
+                    "Opgenomen": [100],
                     "Gemeente": ["gemeente 1"],
                     "Provinciecode": [2],
                     "Provincie": ["provincie 2"],
@@ -86,10 +86,10 @@ class TestCleanMunicipalityDatasetRun:
                 },
             ),
             (
-                {"id": [-1], "Gemeente": ["10 onbekend"], "Aantal": [99]},
+                {"id": [-1], "Gemeente": ["10 onbekend"], "Opgenomen": [99]},
                 {
                     "Gemeentecode": [-1],
-                    "Aantal": [10],
+                    "Opgenomen": [10],
                     "Gemeente": [None],
                     "Provinciecode": [-1],
                     "Provincie": [None],
@@ -97,10 +97,14 @@ class TestCleanMunicipalityDatasetRun:
                 },
             ),
             (
-                {"id": [-1], "Gemeente": ["9 onbekend 1 buitenland"], "Aantal": [99]},
+                {
+                    "id": [-1],
+                    "Gemeente": ["9 onbekend 1 buitenland"],
+                    "Opgenomen": [99],
+                },
                 {
                     "Gemeentecode": [-1],
-                    "Aantal": [10],
+                    "Opgenomen": [10],
                     "Gemeente": [None],
                     "Provinciecode": [-1],
                     "Provincie": [None],

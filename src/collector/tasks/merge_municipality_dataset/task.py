@@ -23,7 +23,7 @@ class MergeMunicipalityDataset:
         data = pd.DataFrame(
             columns=[
                 "Gemeentecode",
-                "Aantal",
+                "Opgenomen",
                 "Gemeente",
                 "Provinciecode",
                 "Provincie",
@@ -39,7 +39,7 @@ class MergeMunicipalityDataset:
             dataset = self._read(f"{inputs['input_folder']}/{file}")
 
             # Select rows
-            dataset = dataset.loc[dataset["Aantal"] != 0]
+            dataset = dataset.loc[dataset["Opgenomen"] != 0]
 
             # Append dataset
             data = data.append(dataset, ignore_index=True)
