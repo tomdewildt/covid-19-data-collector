@@ -33,7 +33,7 @@ class GetMunicipalityDataset:
 
         log.info("Parsing document")
         soup = BeautifulSoup(document, features="html.parser")
-        data_element = soup.find(id=self._config["elements"]["data"])
+        data_element = soup.find(id=self._config["elements"]["municipality"])
         metadata_element = soup.find(id=self._config["elements"]["metadata"])
         if data_element is None:
             raise GetMunicipalityDatasetError("Data element not found in document")
