@@ -4,6 +4,12 @@ collector:
   urls:
     national: https://www.rivm.nl/coronavirus-covid-19/actueel
     municipality: https://www.rivm.nl/coronavirus-covid-19/actueel
+    intensive_care:
+      - https://www.stichting-nice.nl/covid-19/public/new-intake
+      - https://www.stichting-nice.nl/covid-19/public/intake-count
+      - https://www.stichting-nice.nl/covid-19/public/intake-cumulative
+      - https://www.stichting-nice.nl/covid-19/public/ic-count
+      - https://www.stichting-nice.nl/covid-19/public/died-and-survivors-cumulative
   municipalities: external/gemeenten.csv
   elements:
     national: table
