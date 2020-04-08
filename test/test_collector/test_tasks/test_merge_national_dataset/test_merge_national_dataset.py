@@ -3,20 +3,20 @@ import numpy as np
 import pytest
 import mock
 
-from collector.tasks.merge_general_dataset.task import MergeGeneralDataset
+from collector.tasks.merge_national_dataset.task import MergeNationalDataset
 from collector.schema import ValidationError
 from data import create_config
 from fixtures import Store
 
 
-class TestMergeGeneralDatasetRun:
+class TestMergeNationalDatasetRun:
     @property
     def config(self):
         return create_config()
 
-    @mock.patch.object(MergeGeneralDataset, "run")
+    @mock.patch.object(MergeNationalDataset, "run")
     def test_run_valid_input(self, mock_run):
-        task = MergeGeneralDataset(self.config["collector"], Store())
+        task = MergeNationalDataset(self.config["collector"], Store())
         task(name="test", input_folder="interim", output_folder="processed")
 
         mock_run.assert_called_once_with(
@@ -52,9 +52,9 @@ class TestMergeGeneralDatasetRun:
             ),
         ],
     )
-    @mock.patch.object(MergeGeneralDataset, "run")
+    @mock.patch.object(MergeNationalDataset, "run")
     def test_run_invalid_input(self, mock_run, inputs, messages):
-        task = MergeGeneralDataset(self.config["collector"], Store())
+        task = MergeNationalDataset(self.config["collector"], Store())
         with pytest.raises(ValidationError) as error:
             task(**inputs)
 
@@ -64,8 +64,8 @@ class TestMergeGeneralDatasetRun:
             assert error.message == messages[idx]
 
     @mock.patch.object(Store, "list")
-    @mock.patch.object(MergeGeneralDataset, "_read")
-    @mock.patch.object(MergeGeneralDataset, "_write")
+    @mock.patch.object(MergeNationalDataset, "_read")
+    @mock.patch.object(MergeNationalDataset, "_write")
     @pytest.mark.parametrize(
         "input_dataset, output_dataset",
         [
@@ -97,7 +97,7 @@ class TestMergeGeneralDatasetRun:
         mock_list.return_value = ["interim/1970-01-01.csv", "interim/1970-01-02.csv"]
         mock_read.side_effect = [*map(pd.DataFrame, input_dataset)]
 
-        task = MergeGeneralDataset(self.config["collector"], Store())
+        task = MergeNationalDataset(self.config["collector"], Store())
         task(name="test", input_folder="interim", output_folder="processed")
 
         mock_list.assert_called_once_with("interim/*.csv")
@@ -113,24 +113,24 @@ class TestMergeGeneralDatasetRun:
         )
 
 
-class TestMergeGeneralDatasetRead:
+class TestMergeNationalDatasetRead:
     @mock.patch.object(Store, "open")
     @mock.patch.object(pd, "read_csv")
     def test_read(self, mock_read_csv, mock_open):
         # pylint: disable=protected-access
-        task = MergeGeneralDataset(None, Store())
+        task = MergeNationalDataset(None, Store())
         task._read("test.csv", delimiter=",")
 
         mock_read_csv.assert_called_once_with(mock.ANY, delimiter=",")
         mock_open.assert_called_once_with("test.csv", "r")
 
 
-class TestMergeGeneralDatasetWrite:
+class TestMergeNationalDatasetWrite:
     @mock.patch.object(Store, "open")
     @mock.patch.object(pd.DataFrame, "to_csv")
     def test_write(self, mock_to_csv, mock_open):
         # pylint: disable=protected-access
-        task = MergeGeneralDataset(None, Store())
+        task = MergeNationalDataset(None, Store())
         task._write(pd.DataFrame(np.zeros(shape=(3, 3))), "test.csv", index=False)
 
         mock_to_csv.assert_called_once_with(mock.ANY, index=False)

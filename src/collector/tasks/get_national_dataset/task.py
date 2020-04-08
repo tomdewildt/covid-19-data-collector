@@ -10,11 +10,11 @@ from collector.utils import format_date
 log = logging.getLogger(__name__)
 
 
-class GetGeneralDatasetError(Exception):
+class GetNationalDatasetError(Exception):
     pass
 
 
-class GetGeneralDataset:
+class GetNationalDataset:
     inputs_schema = obj(output_folder=string())
 
     def __init__(self, config, client, store):
@@ -28,16 +28,16 @@ class GetGeneralDataset:
 
     def run(self, inputs):
         log.info("Requesting document")
-        document = self._client.get(self._config["urls"]["general"])
+        document = self._client.get(self._config["urls"]["national"])
 
         log.info("Parsing document")
         soup = BeautifulSoup(document, features="html.parser")
-        data_element = soup.find(self._config["elements"]["general"])
+        data_element = soup.find(self._config["elements"]["national"])
         metadata_element = soup.find(id=self._config["elements"]["metadata"])
         if data_element is None:
-            raise GetGeneralDatasetError("Data element not found in document")
+            raise GetNationalDatasetError("Data element not found in document")
         if metadata_element is None:
-            raise GetGeneralDatasetError("Metadata element not found in document")
+            raise GetNationalDatasetError("Metadata element not found in document")
 
         log.info("Parsing data")
         data = pd.DataFrame(columns=["PositiefGetest", "Opgenomen", "Overleden"])

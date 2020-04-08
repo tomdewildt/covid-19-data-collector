@@ -1,20 +1,20 @@
 import click
 
 from collector.config import read_config, init_logging
-from collector.tasks.get_general_dataset.task import GetGeneralDataset
-from collector.client import WebClient
+from collector.tasks.merge_national_dataset.task import MergeNationalDataset
 from collector.store import LocalStore
 
 
 @click.command()
+@click.option("--name", help="The name of the dataset")
+@click.option("--input_folder", help="The folder containing the dataset files")
 @click.option("--output_folder", help="The folder where the dataset should be stored")
-def main(output_folder):
+def main(name, input_folder, output_folder):
     config = read_config()
-    client = WebClient()
     store = LocalStore(config["store"]["path"])
 
-    task = GetGeneralDataset(config["collector"], client, store)
-    task(output_folder=output_folder)
+    task = MergeNationalDataset(config["collector"], store)
+    task(name=name, input_folder=input_folder, output_folder=output_folder)
 
 
 if __name__ == "__main__":

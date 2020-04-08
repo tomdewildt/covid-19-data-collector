@@ -8,8 +8,8 @@ from collector.schema import obj, string, validate
 log = logging.getLogger(__name__)
 
 
-class CleanGeneralDataset:
-    inputs_schema = obj(input_folder=string(), output_folder=string())
+class MergeNationalDataset:
+    inputs_schema = obj(name=string(), input_folder=string(), output_folder=string())
 
     def __init__(self, config, store):
         self._config = config
@@ -20,20 +20,25 @@ class CleanGeneralDataset:
         return self.run(kwargs)
 
     def run(self, inputs):
-        log.info("Loading datasets")
+        data = pd.DataFrame(
+            columns=["PositiefGetest", "Opgenomen", "Overleden", "Datum"]
+        )
+
+        log.info("Merging datasets")
         for file in self._store.list(f"{inputs['input_folder']}/*.csv"):
             file = os.path.basename(file)
 
-            # Load dataset
-            data = self._read(f"{inputs['input_folder']}/{file}")
+            data = data.append(
+                self._read(f"{inputs['input_folder']}/{file}"), ignore_index=True
+            )
 
-            # Add datum column
-            data["Datum"] = os.path.splitext(file)[0]
+        log.info("Sorting dataset")
+        data = data.sort_values(["Datum"])
 
-            # Store dataset
-            path = f"{inputs['output_folder']}/{file}"
+        log.info("Storing dataset")
+        path = f"{inputs['output_folder']}/{inputs['name']}.csv"
 
-            self._write(data, path, index=False)
+        self._write(data, path, index=False)
 
     def _read(self, path, **kwargs):
         with self._store.open(path, "r") as handle:
