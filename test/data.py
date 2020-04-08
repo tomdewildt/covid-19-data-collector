@@ -5,11 +5,15 @@ _CONFIG_DEFAULTS = {
     "log_config": None,
     "collector": {
         "urls": {
-            "general": "http://data.com/general",
+            "national": "http://data.com/national",
             "municipality": "http://data.com/municipality",
         },
         "municipalities": "external/gemeenten.csv",
-        "elements": {"data": "data", "metadata": "metadata", "general": "table"},
+        "elements": {
+            "national": "table",
+            "municipality": "data",
+            "metadata": "metadata",
+        },
     },
     "store": {"path": "/tmp"},
 }
