@@ -42,7 +42,7 @@ class GetNationalDataset:
         log.info("Parsing data")
         data = pd.DataFrame(columns=["PositiefGetest", "Opgenomen", "Overleden"])
         for (idx, row) in enumerate(data_element.findAll("tr")):
-            element = row.findAll("td")[1].find("h4")
+            element = row.findAll("td")[1]
             amount = element.text.split()[0].replace(".", "").replace("*", "")
 
             data.at[0, data.columns[idx]] = int(amount)
