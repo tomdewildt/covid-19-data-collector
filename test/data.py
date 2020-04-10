@@ -1,4 +1,5 @@
 import string
+import json
 
 _CONFIG_DEFAULTS = {
     "environment": "test",
@@ -7,11 +8,15 @@ _CONFIG_DEFAULTS = {
         "urls": {
             "national": "http://data.com/national",
             "municipality": "http://data.com/municipality",
+            "intensive_care": [
+                "http://data.com/new-intake",
+                "http://data.com/died-and-survivors-cumulative",
+            ],
         },
         "municipalities": "external/gemeenten.csv",
         "elements": {
             "national": "table",
-            "municipality": "data",
+            "municipality": "municipality",
             "metadata": "metadata",
         },
     },
@@ -38,7 +43,7 @@ _LOG_CONFIG_DEFAULTS = {
     "disable_existing_loggers": False,
 }
 
-_REPONSE_DEFAULTS = """
+_RESPONSE_NATIONAL_DEFAULTS = """
     <table>
         <tbody>
             <tr>
@@ -50,13 +55,32 @@ _REPONSE_DEFAULTS = """
 		    </tr>
             <tr>
                 <td />
-			    <td><h4>$passed_away</h4></td>
+			    <td><h4>$deceased</h4></td>
             </tr>
         </tbody>
     </table>
-    <div id="data">$data</div>
-    <div id="metadata">{ "nl":  { "mapSubtitle":"$metadata" } }</div>
+    <div id="metadata">{ "nl": { "mapSubtitle":"$metadata" } }</div>
 """
+
+_RESPONSE_MUNICIPALITY_DEFAULTS = """
+    <div id="municipality">$municipality</div>
+    <div id="metadata">{ "nl": { "mapSubtitle":"$metadata" } }</div>
+"""
+
+_RESPONSE_INTENSIVE_CARE_DEFAULTS = [
+    [
+        {
+            "date": "1970-01-01",
+            "newIntake": 100,
+            "diedCumulative": 0,
+            "intakeCount": 0,
+            "intakeCumulative": 0,
+            "icCount": 0,
+            "icCumulative": 0,
+        },
+    ],
+    [[{"date": "1970-01-01", "value": 100}], [{"date": "1970-01-01", "value": 100}]],
+]
 
 
 def create_config(**kwargs):
@@ -69,6 +93,15 @@ def create_log_config(**kwargs):
     }
 
 
-def create_response(**kwargs):
-    response = string.Template(_REPONSE_DEFAULTS)
+def create_national_response(**kwargs):
+    response = string.Template(_RESPONSE_NATIONAL_DEFAULTS)
     return response.safe_substitute(**kwargs)
+
+
+def create_municipality_response(**kwargs):
+    response = string.Template(_RESPONSE_MUNICIPALITY_DEFAULTS)
+    return response.safe_substitute(**kwargs)
+
+
+def create_intensive_care_response():
+    return list(map(json.dumps, _RESPONSE_INTENSIVE_CARE_DEFAULTS))
