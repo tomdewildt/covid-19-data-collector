@@ -1,0 +1,106 @@
+[
+    {
+        "date": "2020-03-08",
+        "diedCumulative": 2
+    },
+    {
+        "date": "2020-03-11",
+        "diedCumulative": 3
+    },
+    {
+        "date": "2020-03-12",
+        "diedCumulative": 4
+    },
+    {
+        "date": "2020-03-15",
+        "diedCumulative": 6
+    },
+    {
+        "date": "2020-03-16",
+        "diedCumulative": 10
+    },
+    {
+        "date": "2020-03-17",
+        "diedCumulative": 12
+    },
+    {
+        "date": "2020-03-18",
+        "diedCumulative": 15
+    },
+    {
+        "date": "2020-03-19",
+        "diedCumulative": 21
+    },
+    {
+        "date": "2020-03-20",
+        "diedCumulative": 25
+    },
+    {
+        "date": "2020-03-21",
+        "diedCumulative": 35
+    },
+    {
+        "date": "2020-03-22",
+        "diedCumulative": 41
+    },
+    {
+        "date": "2020-03-23",
+        "diedCumulative": 54
+    },
+    {
+        "date": "2020-03-24",
+        "diedCumulative": 61
+    },
+    {
+        "date": "2020-03-25",
+        "diedCumulative": 71
+    },
+    {
+        "date": "2020-03-26",
+        "diedCumulative": 87
+    },
+    {
+        "date": "2020-03-27",
+        "diedCumulative": 100
+    },
+    {
+        "date": "2020-03-28",
+        "diedCumulative": 118
+    },
+    {
+        "date": "2020-03-29",
+        "diedCumulative": 141
+    },
+    {
+        "date": "2020-03-30",
+        "diedCumulative": 160
+    },
+    {
+        "date": "2020-03-31",
+        "diedCumulative": 191
+    },
+    {
+        "date": "2020-04-01",
+        "diedCumulative": 209
+    },
+    {
+        "date": "2020-04-02",
+        "diedCumulative": 229
+    },
+    {
+        "date": "2020-04-03",
+        "diedCumulative": 258
+    },
+    {
+        "date": "2020-04-04",
+        "diedCumulative": 274
+    },
+    {
+        "date": "2020-04-05",
+        "diedCumulative": 292
+    },
+    {
+        "date": "2020-04-06",
+        "diedCumulative": 295
+    }
+]
