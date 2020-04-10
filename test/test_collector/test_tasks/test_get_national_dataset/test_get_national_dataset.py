@@ -8,7 +8,7 @@ from collector.tasks.get_national_dataset.task import (
     GetNationalDatasetError,
 )
 from collector.schema import ValidationError
-from data import create_config, create_response
+from data import create_config, create_national_response
 from fixtures import Client, Store
 
 
@@ -66,10 +66,10 @@ class TestGetNationalDatasetRun:
     @mock.patch.object(Client, "get")
     @mock.patch.object(GetNationalDataset, "_write")
     def test_run(self, mock_write, mock_get):
-        mock_get.return_value = create_response(
+        mock_get.return_value = create_national_response(
             tested_positive="1.000",
             hospitalized="2.000",
-            passed_away="3.000*",
+            deceased="3.000*",
             metadata="map subtitle 1-1-1970",
         )
 
