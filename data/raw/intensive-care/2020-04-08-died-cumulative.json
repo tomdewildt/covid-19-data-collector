@@ -1,0 +1,114 @@
+[
+    {
+        "date": "2020-03-08",
+        "diedCumulative": 2
+    },
+    {
+        "date": "2020-03-11",
+        "diedCumulative": 3
+    },
+    {
+        "date": "2020-03-12",
+        "diedCumulative": 4
+    },
+    {
+        "date": "2020-03-15",
+        "diedCumulative": 6
+    },
+    {
+        "date": "2020-03-16",
+        "diedCumulative": 10
+    },
+    {
+        "date": "2020-03-17",
+        "diedCumulative": 12
+    },
+    {
+        "date": "2020-03-18",
+        "diedCumulative": 15
+    },
+    {
+        "date": "2020-03-19",
+        "diedCumulative": 21
+    },
+    {
+        "date": "2020-03-20",
+        "diedCumulative": 25
+    },
+    {
+        "date": "2020-03-21",
+        "diedCumulative": 35
+    },
+    {
+        "date": "2020-03-22",
+        "diedCumulative": 41
+    },
+    {
+        "date": "2020-03-23",
+        "diedCumulative": 55
+    },
+    {
+        "date": "2020-03-24",
+        "diedCumulative": 62
+    },
+    {
+        "date": "2020-03-25",
+        "diedCumulative": 72
+    },
+    {
+        "date": "2020-03-26",
+        "diedCumulative": 88
+    },
+    {
+        "date": "2020-03-27",
+        "diedCumulative": 101
+    },
+    {
+        "date": "2020-03-28",
+        "diedCumulative": 119
+    },
+    {
+        "date": "2020-03-29",
+        "diedCumulative": 142
+    },
+    {
+        "date": "2020-03-30",
+        "diedCumulative": 162
+    },
+    {
+        "date": "2020-03-31",
+        "diedCumulative": 194
+    },
+    {
+        "date": "2020-04-01",
+        "diedCumulative": 213
+    },
+    {
+        "date": "2020-04-02",
+        "diedCumulative": 233
+    },
+    {
+        "date": "2020-04-03",
+        "diedCumulative": 263
+    },
+    {
+        "date": "2020-04-04",
+        "diedCumulative": 280
+    },
+    {
+        "date": "2020-04-05",
+        "diedCumulative": 300
+    },
+    {
+        "date": "2020-04-06",
+        "diedCumulative": 317
+    },
+    {
+        "date": "2020-04-07",
+        "diedCumulative": 348
+    },
+    {
+        "date": "2020-04-08",
+        "diedCumulative": 357
+    }
+]
