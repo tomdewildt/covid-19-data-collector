@@ -22,10 +22,13 @@ Prerequisites:
 
 * ```get_national_dataset``` retrieves national outbreak data.
 * ```get_municipality_dataset``` retrieves outbreak data per municipality.
+* ```get_intensive_care_dataset``` retrieves intensive care data.
 * ```clean_national_dataset``` clean the national datasets.
 * ```clean_municipality_dataset``` clean the municipality datasets.
+* ```clean_intensive_care_dataset``` clean the intensive care datasets.
 * ```merge_national_dataset``` merge the national datasets.
 * ```merge_municipality_dataset``` merge the municipality datasets.
+* ```merge_intensive_care_dataset``` merge the intensive care datasets.
 
 ### Test
 
