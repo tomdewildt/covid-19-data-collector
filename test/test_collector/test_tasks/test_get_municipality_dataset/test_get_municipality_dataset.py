@@ -8,7 +8,7 @@ from collector.tasks.get_municipality_dataset.task import (
     GetMunicipalityDatasetError,
 )
 from collector.schema import ValidationError
-from data import create_config, create_response
+from data import create_config, create_municipality_response
 from fixtures import Client, Store
 
 
@@ -55,7 +55,7 @@ class TestGetMunicipalityDatasetRun:
 
     @mock.patch.object(Client, "get")
     def test_run_invalid_metadata_element(self, mock_get):
-        mock_get.return_value = "<div id='data'></div>"
+        mock_get.return_value = "<div id='municipality'></div>"
 
         task = GetMunicipalityDataset(self.config["collector"], Client(), Store())
         with pytest.raises(GetMunicipalityDatasetError) as error:
@@ -66,8 +66,8 @@ class TestGetMunicipalityDatasetRun:
     @mock.patch.object(Client, "get")
     @mock.patch.object(GetMunicipalityDataset, "_write")
     def test_run(self, mock_write, mock_get):
-        mock_get.return_value = create_response(
-            data="id;gemeente;aantal\n1;gemeente 1;1\n2;gemeente 2;2\n",
+        mock_get.return_value = create_municipality_response(
+            municipality="id;gemeente;aantal\n1;gemeente 1;1\n2;gemeente 2;2\n",
             metadata="map subtitle 1-1-1970",
         )
 

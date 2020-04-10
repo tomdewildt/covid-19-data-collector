@@ -66,42 +66,30 @@ class TestMergeMunicipalityDatasetRun:
     @mock.patch.object(Store, "list")
     @mock.patch.object(MergeMunicipalityDataset, "_read")
     @mock.patch.object(MergeMunicipalityDataset, "_write")
-    @pytest.mark.parametrize(
-        "input_dataset, output_dataset",
-        [
-            (
-                [
-                    {
-                        "Gemeentecode": [1],
-                        "Opgenomen": [100],
-                        "Gemeente": ["gemeente 1"],
-                        "Provinciecode": [2],
-                        "Provincie": ["provincie 2"],
-                        "Datum": ["1970-01-01"],
-                    },
-                    {
-                        "Gemeentecode": [3],
-                        "Opgenomen": [100],
-                        "Gemeente": ["gemeente 3"],
-                        "Provinciecode": [4],
-                        "Provincie": ["provincie 4"],
-                        "Datum": ["1970-01-02"],
-                    },
-                ],
-                {
-                    "Gemeentecode": [1, 3],
-                    "Opgenomen": [100, 100],
-                    "Gemeente": ["gemeente 1", "gemeente 3"],
-                    "Provinciecode": [2, 4],
-                    "Provincie": ["provincie 2", "provincie 4"],
-                    "Datum": ["1970-01-01", "1970-01-02"],
-                },
-            )
-        ],
-    )
-    def test_run(self, mock_write, mock_read, mock_list, input_dataset, output_dataset):
+    def test_run(self, mock_write, mock_read, mock_list):
         mock_list.return_value = ["interim/1970-01-01.csv", "interim/1970-01-02.csv"]
-        mock_read.side_effect = [*map(pd.DataFrame, input_dataset)]
+        mock_read.side_effect = [
+            pd.DataFrame(
+                {
+                    "Gemeentecode": [1],
+                    "Opgenomen": [100],
+                    "Gemeente": ["gemeente 1"],
+                    "Provinciecode": [2],
+                    "Provincie": ["provincie 2"],
+                    "Datum": ["1970-01-01"],
+                }
+            ),
+            pd.DataFrame(
+                {
+                    "Gemeentecode": [3],
+                    "Opgenomen": [100],
+                    "Gemeente": ["gemeente 3"],
+                    "Provinciecode": [4],
+                    "Provincie": ["provincie 4"],
+                    "Datum": ["1970-01-02"],
+                }
+            ),
+        ]
 
         task = MergeMunicipalityDataset(self.config["collector"], Store())
         task(name="test", input_folder="interim", output_folder="processed")
@@ -114,7 +102,16 @@ class TestMergeMunicipalityDatasetRun:
 
         pd.testing.assert_frame_equal(
             mock_write.call_args.args[0],
-            pd.DataFrame(output_dataset),
+            pd.DataFrame(
+                {
+                    "Gemeentecode": [1, 3],
+                    "Opgenomen": [100, 100],
+                    "Gemeente": ["gemeente 1", "gemeente 3"],
+                    "Provinciecode": [2, 4],
+                    "Provincie": ["provincie 2", "provincie 4"],
+                    "Datum": ["1970-01-01", "1970-01-02"],
+                }
+            ),
             check_dtype=False,
         )
 

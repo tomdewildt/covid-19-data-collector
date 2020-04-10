@@ -3,20 +3,20 @@ import numpy as np
 import pytest
 import mock
 
-from collector.tasks.merge_national_dataset.task import MergeNationalDataset
+from collector.tasks.merge_intensive_care_dataset.task import MergeIntensiveCareDataset
 from collector.schema import ValidationError
 from data import create_config
 from fixtures import Store
 
 
-class TestMergeNationalDatasetRun:
+class TestMergeIntensiveCareDatasetRun:
     @property
     def config(self):
         return create_config()
 
-    @mock.patch.object(MergeNationalDataset, "run")
+    @mock.patch.object(MergeIntensiveCareDataset, "run")
     def test_run_valid_input(self, mock_run):
-        task = MergeNationalDataset(self.config["collector"], Store())
+        task = MergeIntensiveCareDataset(self.config["collector"], Store())
         task(name="test", input_folder="interim", output_folder="processed")
 
         mock_run.assert_called_once_with(
@@ -52,9 +52,9 @@ class TestMergeNationalDatasetRun:
             ),
         ],
     )
-    @mock.patch.object(MergeNationalDataset, "run")
+    @mock.patch.object(MergeIntensiveCareDataset, "run")
     def test_run_invalid_input(self, mock_run, inputs, messages):
-        task = MergeNationalDataset(self.config["collector"], Store())
+        task = MergeIntensiveCareDataset(self.config["collector"], Store())
         with pytest.raises(ValidationError) as error:
             task(**inputs)
 
@@ -64,35 +64,44 @@ class TestMergeNationalDatasetRun:
             assert error.message == messages[idx]
 
     @mock.patch.object(Store, "list")
-    @mock.patch.object(MergeNationalDataset, "_read")
-    @mock.patch.object(MergeNationalDataset, "_write")
+    @mock.patch.object(MergeIntensiveCareDataset, "_read")
+    @mock.patch.object(MergeIntensiveCareDataset, "_write")
     def test_run(self, mock_write, mock_read, mock_list):
-        mock_list.return_value = ["interim/1970-01-01.csv", "interim/1970-01-02.csv"]
+        mock_list.return_value = [
+            "interim/1970-01-02-file-1.csv",
+            "interim/1970-01-02-file-2.csv",
+        ]
         mock_read.side_effect = [
             pd.DataFrame(
                 {
-                    "PositiefGetest": [1000],
-                    "Opgenomen": [2000],
-                    "Overleden": [3000],
-                    "Datum": ["1970-01-01"],
+                    "Datum": ["1970-01-01", "1970-01-02"],
+                    "NieuwOpgenomen": [100, 200],
+                    "OverledenCumulatief": [100, 200],
+                    "OverleeftCumulatief": [100, 200],
+                    "Opgenomen": [100, 200],
+                    "OpgenomenCumulatief": [100, 200],
+                    "IntensiveCare": [100, 200],
+                    "IntensiveCareCumulatief": [100, 200],
                 }
             ),
             pd.DataFrame(
                 {
-                    "PositiefGetest": [1000],
-                    "Opgenomen": [2000],
-                    "Overleden": [3000],
-                    "Datum": ["1970-01-02"],
+                    "Datum": ["1970-01-01", "1970-01-02"],
+                    "OverledenCumulatief": [200, 300],
+                    "OverleeftCumulatief": [200, 100],
                 }
             ),
         ]
 
-        task = MergeNationalDataset(self.config["collector"], Store())
+        task = MergeIntensiveCareDataset(self.config["collector"], Store())
         task(name="test", input_folder="interim", output_folder="processed")
 
         mock_list.assert_called_once_with("interim/*.csv")
         mock_read.assert_has_calls(
-            [mock.call("interim/1970-01-01.csv"), mock.call("interim/1970-01-02.csv")]
+            [
+                mock.call("interim/1970-01-02-file-1.csv"),
+                mock.call("interim/1970-01-02-file-2.csv"),
+            ]
         )
         mock_write.assert_called_once_with(mock.ANY, "processed/test.csv", index=False)
 
@@ -100,34 +109,38 @@ class TestMergeNationalDatasetRun:
             mock_write.call_args.args[0],
             pd.DataFrame(
                 {
-                    "PositiefGetest": [1000, 1000],
-                    "Opgenomen": [2000, 2000],
-                    "Overleden": [3000, 3000],
                     "Datum": ["1970-01-01", "1970-01-02"],
+                    "NieuwOpgenomen": [100, 200],
+                    "Opgenomen": [100, 200],
+                    "OpgenomenCumulatief": [100, 200],
+                    "IntensiveCare": [100, 200],
+                    "IntensiveCareCumulatief": [100, 200],
+                    "OverledenCumulatief": [200, 300],
+                    "OverleeftCumulatief": [200, 200],
                 }
             ),
             check_dtype=False,
         )
 
 
-class TestMergeNationalDatasetRead:
+class TestMergeIntensiveCareDatasetRead:
     @mock.patch.object(Store, "open")
     @mock.patch.object(pd, "read_csv")
     def test_read(self, mock_read_csv, mock_open):
         # pylint: disable=protected-access
-        task = MergeNationalDataset(None, Store())
+        task = MergeIntensiveCareDataset(None, Store())
         task._read("test.csv", delimiter=",")
 
         mock_read_csv.assert_called_once_with(mock.ANY, delimiter=",")
         mock_open.assert_called_once_with("test.csv", "r")
 
 
-class TestMergeNationalDatasetWrite:
+class TestMergeIntensiveCareDatasetWrite:
     @mock.patch.object(Store, "open")
     @mock.patch.object(pd.DataFrame, "to_csv")
     def test_write(self, mock_to_csv, mock_open):
         # pylint: disable=protected-access
-        task = MergeNationalDataset(None, Store())
+        task = MergeIntensiveCareDataset(None, Store())
         task._write(pd.DataFrame(np.zeros(shape=(3, 3))), "test.csv", index=False)
 
         mock_to_csv.assert_called_once_with(mock.ANY, index=False)
