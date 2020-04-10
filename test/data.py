@@ -48,14 +48,14 @@ _RESPONSE_NATIONAL_DEFAULTS = """
         <tbody>
             <tr>
                 <td />
-                <td><h4>$tested_positive</h4></td>
+                <td>$tested_positive</td>
             <tr>
                 <td />
-			    <td><h4>$hospitalized</h4></td>
+			    <td>$hospitalized</td>
 		    </tr>
             <tr>
                 <td />
-			    <td><h4>$deceased</h4></td>
+			    <td>$deceased</td>
             </tr>
         </tbody>
     </table>
