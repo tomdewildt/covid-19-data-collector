@@ -34,7 +34,7 @@ class MergeIntensiveCareDataset:
 
             # Load dataset
             data = data.merge(
-                self._read(f"{inputs['input_folder']}/{file}"), how="left", on="Datum"
+                self._read(f"{inputs['input_folder']}/{file}"), how="outer", on="Datum"
             )
 
             # Clean columns
