@@ -53,17 +53,25 @@ class TestGetIntensiveCareDatasetRun:
             [
                 mock.call(self.config["collector"]["urls"]["intensive_care"][0]),
                 mock.call(self.config["collector"]["urls"]["intensive_care"][1]),
+                mock.call(self.config["collector"]["urls"]["intensive_care"][2]),
             ]
         )
         mock_write.assert_has_calls(
             [
-                mock.call(json.loads(response[0]), "raw/1970-01-01-new-intake.json"),
+                mock.call(json.loads(response[0]), "raw/1970-01-01-ic-count.json"),
                 mock.call(
-                    [{"date": "1970-01-01", "diedCumulative": 100}],
-                    "raw/1970-01-01-died-cumulative.json",
+                    json.loads(response[1])[0],
+                    "raw/1970-01-01-new-intake-confirmed.json",
                 ),
                 mock.call(
-                    [{"date": "1970-01-01", "survivedCumulative": 100}],
+                    json.loads(response[1])[1],
+                    "raw/1970-01-01-new-intake-suspicious.json",
+                ),
+                mock.call(
+                    json.loads(response[2])[0], "raw/1970-01-01-died-cumulative.json",
+                ),
+                mock.call(
+                    json.loads(response[2])[1],
                     "raw/1970-01-01-survived-cumulative.json",
                 ),
             ]
