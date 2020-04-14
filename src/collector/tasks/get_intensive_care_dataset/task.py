@@ -28,30 +28,30 @@ class GetIntensiveCareDataset:
             log.info("Parsing document")
             data = json.loads(document)
 
-            if name == "died-and-survivors-cumulative":
-                log.info("Parsing data")
-                deceased = []
-                for row in data[0]:
-                    row["diedCumulative"] = row.pop("value")
-                    deceased.append(row)
+            if name == "new-intake":
+                log.info("Storing dataset")
+                date = data[0][-1]["date"]
+                path = f"{inputs['output_folder']}/{date}-new-intake-confirmed.json"
+
+                self._write(data[0], path)
 
                 log.info("Storing dataset")
-                date = deceased[-1]["date"]
+                date = data[0][-1]["date"]
+                path = f"{inputs['output_folder']}/{date}-new-intake-suspicious.json"
+
+                self._write(data[0], path)
+            elif name == "died-and-survivors-cumulative":
+                log.info("Storing dataset")
+                date = data[0][-1]["date"]
                 path = f"{inputs['output_folder']}/{date}-died-cumulative.json"
 
-                self._write(deceased, path)
-
-                log.info("Parsing data")
-                survivors = []
-                for row in data[1]:
-                    row["survivedCumulative"] = row.pop("value")
-                    survivors.append(row)
+                self._write(data[0], path)
 
                 log.info("Storing dataset")
-                date = survivors[-1]["date"]
+                date = data[0][-1]["date"]
                 path = f"{inputs['output_folder']}/{date}-survived-cumulative.json"
 
-                self._write(survivors, path)
+                self._write(data[0], path)
             else:
                 log.info("Storing dataset")
                 date = data[-1]["date"]
