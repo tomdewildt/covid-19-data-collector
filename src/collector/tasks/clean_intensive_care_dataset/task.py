@@ -41,6 +41,23 @@ class CleanIntensiveCareDataset:
                 }
             )
 
+            if "value" in data.columns:
+                name = file[11:-5]
+                if name == "new-intake-confirmed":
+                    data = data.rename(columns={"value": "NieuwOpgenomenBewezen"})
+                elif name == "new-intake-suspicious":
+                    data = data.rename(columns={"value": "NieuwOpgenomenVerdacht"})
+                elif name == "intake-count":
+                    data = data.rename(columns={"value": "Opgenomen"})
+                elif name == "intake-cumulative":
+                    data = data.rename(columns={"value": "OpgenomenCumulatief"})
+                elif name == "ic-count":
+                    data = data.rename(columns={"value": "IntensiveCare"})
+                elif name == "died-cumulative":
+                    data = data.rename(columns={"value": "OverledenCumulatief"})
+                elif name == "survived-cumulative":
+                    data = data.rename(columns={"value": "OverleeftCumulatief"})
+
             # Store dataset
             path = f"{inputs['output_folder']}/{file.split('.')[0]}.csv"
 

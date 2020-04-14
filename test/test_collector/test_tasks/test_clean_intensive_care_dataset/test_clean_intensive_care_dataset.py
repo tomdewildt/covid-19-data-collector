@@ -1,3 +1,4 @@
+# pylint: disable=bad-continuation
 import pandas as pd
 import numpy as np
 import pytest
@@ -60,7 +61,7 @@ class TestCleanIntensiveCareDatasetRun:
     @mock.patch.object(Store, "list")
     @mock.patch.object(CleanIntensiveCareDataset, "_read")
     @mock.patch.object(CleanIntensiveCareDataset, "_write")
-    def test_run(self, mock_write, mock_read, mock_list):
+    def test_run_old_format(self, mock_write, mock_read, mock_list):
         mock_list.return_value = [
             "raw/1970-01-01.json",
         ]
@@ -102,6 +103,75 @@ class TestCleanIntensiveCareDatasetRun:
                     "IntensiveCareCumulatief": [700],
                 }
             ),
+            check_dtype=False,
+        )
+
+    @mock.patch.object(Store, "list")
+    @mock.patch.object(CleanIntensiveCareDataset, "_read")
+    @mock.patch.object(CleanIntensiveCareDataset, "_write")
+    @pytest.mark.parametrize(
+        "file,input_dataset,output_dataset",
+        [
+            (
+                "raw/1970-01-01-new-intake-confirmed.json",
+                {"date": ["1970-01-01"], "value": [100]},
+                {"Datum": ["1970-01-01"], "NieuwOpgenomenBewezen": [100]},
+            ),
+            (
+                "raw/1970-01-01-new-intake-suspicious.json",
+                {"date": ["1970-01-01"], "value": [100]},
+                {"Datum": ["1970-01-01"], "NieuwOpgenomenVerdacht": [100]},
+            ),
+            (
+                "raw/1970-01-01-intake-count.json",
+                {"date": ["1970-01-01"], "value": [100]},
+                {"Datum": ["1970-01-01"], "Opgenomen": [100]},
+            ),
+            (
+                "raw/1970-01-01-intake-cumulative.json",
+                {"date": ["1970-01-01"], "value": [100]},
+                {"Datum": ["1970-01-01"], "OpgenomenCumulatief": [100]},
+            ),
+            (
+                "raw/1970-01-01-ic-count.json",
+                {"date": ["1970-01-01"], "value": [100]},
+                {"Datum": ["1970-01-01"], "IntensiveCare": [100]},
+            ),
+            (
+                "raw/1970-01-01-died-cumulative.json",
+                {"date": ["1970-01-01"], "value": [100]},
+                {"Datum": ["1970-01-01"], "OverledenCumulatief": [100]},
+            ),
+            (
+                "raw/1970-01-01-survived-cumulative.json",
+                {"date": ["1970-01-01"], "value": [100]},
+                {"Datum": ["1970-01-01"], "OverleeftCumulatief": [100]},
+            ),
+            (
+                "raw/1970-01-01.json",
+                {"date": ["1970-01-01"], "value": [100]},
+                {"Datum": ["1970-01-01"], "value": [100]},
+            ),
+        ],
+    )
+    def test_run_new_format(
+        self, mock_write, mock_read, mock_list, file, input_dataset, output_dataset,
+    ):
+        mock_list.return_value = [file]
+        mock_read.return_value = pd.DataFrame(input_dataset)
+
+        task = CleanIntensiveCareDataset(self.config["collector"], Store())
+        task(input_folder="raw", output_folder="interim")
+
+        mock_list.assert_called_once_with("raw/*.json")
+        mock_read.assert_called_once_with(file)
+        mock_write.assert_called_once_with(
+            mock.ANY, f"interim/{file[4:-5]}.csv", index=False
+        )
+
+        pd.testing.assert_frame_equal(
+            mock_write.call_args_list[0].args[0],
+            pd.DataFrame(output_dataset),
             check_dtype=False,
         )
 
