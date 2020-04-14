@@ -9,6 +9,7 @@ _CONFIG_DEFAULTS = {
             "national": "http://data.com/national",
             "municipality": "http://data.com/municipality",
             "intensive_care": [
+                "http://data.com/ic-count",
                 "http://data.com/new-intake",
                 "http://data.com/died-and-survivors-cumulative",
             ],
@@ -68,17 +69,8 @@ _RESPONSE_MUNICIPALITY_DEFAULTS = """
 """
 
 _RESPONSE_INTENSIVE_CARE_DEFAULTS = [
-    [
-        {
-            "date": "1970-01-01",
-            "newIntake": 100,
-            "diedCumulative": 0,
-            "intakeCount": 0,
-            "intakeCumulative": 0,
-            "icCount": 0,
-            "icCumulative": 0,
-        },
-    ],
+    [{"date": "1970-01-01", "value": 100}],
+    [[{"date": "1970-01-01", "value": 100}], [{"date": "1970-01-01", "value": 100}]],
     [[{"date": "1970-01-01", "value": 100}], [{"date": "1970-01-01", "value": 100}]],
 ]
 
