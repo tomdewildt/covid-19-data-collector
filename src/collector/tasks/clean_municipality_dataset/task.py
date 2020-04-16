@@ -35,8 +35,8 @@ class CleanMunicipalityDataset:
                 columns={
                     "id": "Gemeentecode",
                     "Gemnr": "Gemeentecode",
-                    "Aantal": "Opgenomen",
-                    "Zkh opname": "Opgenomen",
+                    "Aantal": "PositiefGetest",
+                    "Meldingen": "PositiefGetest",
                 }
             )
             data["Gemeentecode"] = data["Gemeentecode"].astype(int)
@@ -45,10 +45,10 @@ class CleanMunicipalityDataset:
             cell = data.loc[data["Gemeentecode"] == -1, "Gemeente"]
             if len(cell.values) > 0:
                 amount = sum(int(s) for s in cell.values[0].split() if s.isdigit())
-                data.loc[data["Gemeentecode"] == -1, "Opgenomen"] = amount
+                data.loc[data["Gemeentecode"] == -1, "PositiefGetest"] = amount
 
             # Select columns
-            data = data[["Gemeentecode", "Opgenomen"]]
+            data = data[["Gemeentecode", "PositiefGetest"]]
 
             # Merge municipality data
             data = data.merge(
@@ -63,7 +63,7 @@ class CleanMunicipalityDataset:
 
             # Fill empty values
             data = data.fillna(
-                {"Provinciecode": -1, "Gemeentecode": -1, "Opgenomen": 0,}
+                {"Provinciecode": -1, "Gemeentecode": -1, "PositiefGetest": 0,}
             )
             data.loc[data["Provinciecode"] == -1, "Provincie"] = None
             data.loc[data["Gemeentecode"] == -1, "Gemeente"] = None
@@ -71,7 +71,22 @@ class CleanMunicipalityDataset:
             # Set data types
             data["Provinciecode"] = data["Provinciecode"].astype(int)
             data["Gemeentecode"] = data["Gemeentecode"].astype(int)
-            data["Opgenomen"] = data["Opgenomen"].astype(int)
+            data["PositiefGetest"] = data["PositiefGetest"].astype(int)
+
+            # Fix invalid datasets
+            invalid_datasets = [
+                "2020-03-31",
+                "2020-04-01",
+                "2020-04-02",
+                "2020-04-03",
+                "2020-04-04",
+                "2020-04-05",
+                "2020-04-06",
+                "2020-04-07",
+            ]
+
+            if file[:-4] in invalid_datasets:
+                data = data.rename(columns={"PositiefGetest": "Opgenomen"})
 
             # Store dataset
             path = f"{inputs['output_folder']}/{file}"
