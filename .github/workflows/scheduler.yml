@@ -28,20 +28,20 @@ jobs:
         run: python src/collector/tasks/get_national_dataset --output_folder raw/national
       - name: Retrieving municipality data
         run: python src/collector/tasks/get_municipality_dataset --output_folder raw/municipality
-#       - name: Retrieving intensive care data
-#         run: python src/collector/tasks/get_intensive_care_dataset --output_folder raw/intensive-care
+      # - name: Retrieving intensive care data
+      #   run: python src/collector/tasks/get_intensive_care_dataset --output_folder raw/intensive-care
       - name: Cleaning national data
         run: python src/collector/tasks/clean_national_dataset --input_folder raw/national --output_folder interim/national
       - name: Cleaning municipality data
         run: python src/collector/tasks/clean_municipality_dataset --input_folder raw/municipality --output_folder interim/municipality
-#       - name: Cleaning intensive care data
-#         run: python src/collector/tasks/clean_intensive_care_dataset --input_folder raw/intensive-care --output_folder interim/intensive-care
+      # - name: Cleaning intensive care data
+      #   run: python src/collector/tasks/clean_intensive_care_dataset --input_folder raw/intensive-care --output_folder interim/intensive-care
       - name: Merging national data
         run: python src/collector/tasks/merge_national_dataset --name rivm-covid-19-national --input_folder interim/national --output_folder processed
       - name: Merging municipality data
         run: python src/collector/tasks/merge_municipality_dataset --name rivm-covid-19-municipality --input_folder interim/municipality --output_folder processed
-#       - name: Merging intensive care data
-#         run: python src/collector/tasks/merge_intensive_care_dataset --name rivm-covid-19-intensive-care --input_folder interim/intensive-care --output_folder processed
+      # - name: Merging intensive care data
+      #   run: python src/collector/tasks/merge_intensive_care_dataset --name nice-covid-19-intensive-care --input_folder interim/intensive-care --output_folder processed
       - name: Committing changes
         uses: dciborow/commit@0.0.1
         with:
