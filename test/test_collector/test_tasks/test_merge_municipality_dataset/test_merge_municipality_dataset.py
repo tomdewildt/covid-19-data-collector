@@ -67,12 +67,16 @@ class TestMergeMunicipalityDatasetRun:
     @mock.patch.object(MergeMunicipalityDataset, "_read")
     @mock.patch.object(MergeMunicipalityDataset, "_write")
     def test_run(self, mock_write, mock_read, mock_list):
-        mock_list.return_value = ["interim/1970-01-01.csv", "interim/1970-01-02.csv"]
+        mock_list.return_value = [
+            "interim/1970-01-01.csv",
+            "interim/1970-01-02.csv",
+            "interim/1970-01-03.csv",
+        ]
         mock_read.side_effect = [
             pd.DataFrame(
                 {
                     "Gemeentecode": [1],
-                    "Opgenomen": [100],
+                    "PositiefGetest": [100],
                     "Gemeente": ["gemeente 1"],
                     "Provinciecode": [2],
                     "Provincie": ["provincie 2"],
@@ -81,12 +85,22 @@ class TestMergeMunicipalityDatasetRun:
             ),
             pd.DataFrame(
                 {
-                    "Gemeentecode": [3],
-                    "Opgenomen": [100],
-                    "Gemeente": ["gemeente 3"],
-                    "Provinciecode": [4],
-                    "Provincie": ["provincie 4"],
+                    "Gemeentecode": [1],
+                    "Opgenomen": [150],
+                    "Gemeente": ["gemeente 1"],
+                    "Provinciecode": [2],
+                    "Provincie": ["provincie 2"],
                     "Datum": ["1970-01-02"],
+                }
+            ),
+            pd.DataFrame(
+                {
+                    "Gemeentecode": [1],
+                    "PositiefGetest": [200],
+                    "Gemeente": ["gemeente 1"],
+                    "Provinciecode": [2],
+                    "Provincie": ["provincie 2"],
+                    "Datum": ["1970-01-03"],
                 }
             ),
         ]
@@ -96,7 +110,11 @@ class TestMergeMunicipalityDatasetRun:
 
         mock_list.assert_called_once_with("interim/*.csv")
         mock_read.assert_has_calls(
-            [mock.call("interim/1970-01-01.csv"), mock.call("interim/1970-01-02.csv")]
+            [
+                mock.call("interim/1970-01-01.csv"),
+                mock.call("interim/1970-01-02.csv"),
+                mock.call("interim/1970-01-03.csv"),
+            ]
         )
         mock_write.assert_called_once_with(mock.ANY, "processed/test.csv", index=False)
 
@@ -104,12 +122,12 @@ class TestMergeMunicipalityDatasetRun:
             mock_write.call_args.args[0],
             pd.DataFrame(
                 {
-                    "Gemeentecode": [1, 3],
-                    "Opgenomen": [100, 100],
-                    "Gemeente": ["gemeente 1", "gemeente 3"],
-                    "Provinciecode": [2, 4],
-                    "Provincie": ["provincie 2", "provincie 4"],
-                    "Datum": ["1970-01-01", "1970-01-02"],
+                    "Gemeentecode": [1, 1, 1],
+                    "PositiefGetest": [100, 150, 200],
+                    "Gemeente": ["gemeente 1", "gemeente 1", "gemeente 1"],
+                    "Provinciecode": [2, 2, 2],
+                    "Provincie": ["provincie 2", "provincie 2", "provincie 2"],
+                    "Datum": ["1970-01-01", "1970-01-02", "1970-01-03"],
                 }
             ),
             check_dtype=False,

@@ -2,6 +2,7 @@ import logging
 import os
 
 import pandas as pd
+import numpy as np
 
 from collector.schema import obj, string, validate
 
@@ -23,7 +24,7 @@ class MergeMunicipalityDataset:
         data = pd.DataFrame(
             columns=[
                 "Gemeentecode",
-                "Opgenomen",
+                "PositiefGetest",
                 "Gemeente",
                 "Provinciecode",
                 "Provincie",
@@ -38,14 +39,25 @@ class MergeMunicipalityDataset:
             # Load dataset
             dataset = self._read(f"{inputs['input_folder']}/{file}")
 
-            # Select rows
-            dataset = dataset.loc[dataset["Opgenomen"] != 0]
+            # Filter rows
+            if "PositiefGetest" in dataset.columns:
+                dataset = dataset.loc[dataset["PositiefGetest"] != 0]
+            if "Opgenomen" in dataset.columns:
+                dataset = dataset.loc[dataset["Opgenomen"] != 0]
+
+            # Drop columns
+            dataset = dataset.drop(columns=["Opgenomen"], errors="ignore")
 
             # Append dataset
             data = data.append(dataset, ignore_index=True)
 
         log.info("Sorting dataset")
         data = data.sort_values(["Datum", "Gemeentecode"])
+
+        log.info("Fixing dataset")
+        data["PositiefGetest"] = data["PositiefGetest"].fillna(np.NaN)
+        data = data.groupby("Gemeentecode").apply(lambda group: group.interpolate())
+        data["PositiefGetest"] = data["PositiefGetest"].astype(int)
 
         log.info("Storing dataset")
         path = f"{inputs['output_folder']}/{inputs['name']}.csv"
