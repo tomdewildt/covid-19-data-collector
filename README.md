@@ -5,7 +5,7 @@
 ![Size](https://img.shields.io/github/repo-size/tomdewildt/covid-19-data-collector)
 [![License](https://img.shields.io/github/license/tomdewildt/covid-19-data-collector)](https://github.com/tomdewildt/covid-19-data-collector/blob/master/LICENSE)
 
-This tool automatically collects and parses the data from the RIVM website on the COVID-19 oubreak in The Netherlands.
+This tool automatically collects and parses the data from the RIVM and NICE websites on the COVID-19 oubreak in The Netherlands.
 
 # How To Run
 
@@ -37,9 +37,28 @@ Prerequisites:
 1. Run ```make init``` to initialize the environment.
 2. Run ```make test``` to execute the tests.
 
+# Datasets
+
+This repository contains three datasets that are updated every day. The data is collected from the RIVM and NICE websites.
+
+The data folder contains four subfolders:
+
+* `raw` contains the raw datasets.
+* `interim` contains contains the cleaned datasets.
+* `processed` contains the merged datasets.
+* `external` contains external datasets.
+
+| Dataset                                                                                                                                               | Source | Fields                                                                                                                                                                                                                                                                                                                                  |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [rivm-covid-19-national.csv](https://github.com/tomdewildt/covid-19-data-collector/blob/master/data/processed/rivm-covid-19-national.csv)             | RIVM   | Confirmed Cases (`PositiefGetest`), Hospitalized (`Opgenomen`), Deceased (`Overleden`), Date (`Datum`)                                                                                                                                                                                                                                  |
+| [rivm-covid-19-municipality.csv](https://github.com/tomdewildt/covid-19-data-collector/blob/master/data/processed/rivm-covid-19-municipality.csv)     | RIVM   | Municipality Code (`Gemeentecode`), Confirmed Cases (`PositiefGetest`), Municipality (`Gemeente`), Province Code (`Provinciecode`), Province (`Provincie`), Date (`Datum`)                                                                                                                                                              |
+| [nice-covid-19-intensive-care.csv](https://github.com/tomdewildt/covid-19-data-collector/blob/master/data/processed/nice-covid-19-intensive-care.csv) | NICE   | Date (`Datum`), Hospitalized Cumulative (`OpgenomenCumulatief`), Intensive Care (`Intensive Care`), Survived Cumulative (`OverleeftCumulatief`), Deceased Cumulative (`OverledenCumulatief`), Hospitalized (`Opgenomen`), Newly Hospitalized Suspicious (`NieuwOpgenomenVerdacht`), Newly Hospitalized Proven (`NieuwOpgenomenBewezen`) |
+
 # References
 
 [RIVM COVID-19](https://www.rivm.nl/coronavirus-covid-19/actueel)
+
+[NICE COVID-19](https://www.stichting-nice.nl/)
 
 [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 
