@@ -49,7 +49,7 @@ run/merge_municipality_dataset: ## Run the merge municipality dataset task
 	python src/collector/tasks/merge_municipality_dataset --name rivm-covid-19-municipality --input_folder interim/municipality --output_folder processed
 	
 run/merge_intensive_care_dataset: ## Run the merge intensive care dataset task
-	python src/collector/tasks/merge_intensive_care_dataset --name rivm-covid-19-intensive-care --input_folder interim/intensive-care --output_folder processed
+	python src/collector/tasks/merge_intensive_care_dataset --name nice-covid-19-intensive-care --input_folder interim/intensive-care --output_folder processed
 
 test: ## Run tests
 	pytest test
