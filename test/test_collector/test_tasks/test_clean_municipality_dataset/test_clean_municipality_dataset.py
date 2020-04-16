@@ -1,3 +1,4 @@
+# pylint: disable=bad-continuation
 import pandas as pd
 import numpy as np
 import pytest
@@ -61,13 +62,14 @@ class TestCleanMunicipalityDatasetRun:
     @mock.patch.object(CleanMunicipalityDataset, "_read")
     @mock.patch.object(CleanMunicipalityDataset, "_write")
     @pytest.mark.parametrize(
-        "input_dataset,output_dataset",
+        "input_date,input_dataset,output_dataset",
         [
             (
-                {"id": [1], "Gemeente": ["gemeente 1"], "Opgenomen": [100]},
+                "1970-01-01",
+                {"id": [1], "Gemeente": ["gemeente 1"], "PositiefGetest": [100]},
                 {
                     "Gemeentecode": [1],
-                    "Opgenomen": [100],
+                    "PositiefGetest": [100],
                     "Gemeente": ["gemeente 1"],
                     "Provinciecode": [2],
                     "Provincie": ["provincie 2"],
@@ -75,10 +77,11 @@ class TestCleanMunicipalityDatasetRun:
                 },
             ),
             (
-                {"Gemnr": [1], "Gemeente": ["gemeente 1"], "Opgenomen": [100]},
+                "1970-01-01",
+                {"Gemnr": [1], "Gemeente": ["gemeente 1"], "PositiefGetest": [100]},
                 {
                     "Gemeentecode": [1],
-                    "Opgenomen": [100],
+                    "PositiefGetest": [100],
                     "Gemeente": ["gemeente 1"],
                     "Provinciecode": [2],
                     "Provincie": ["provincie 2"],
@@ -86,10 +89,11 @@ class TestCleanMunicipalityDatasetRun:
                 },
             ),
             (
-                {"id": [-1], "Gemeente": ["10 onbekend"], "Opgenomen": [99]},
+                "1970-01-01",
+                {"id": [-1], "Gemeente": ["10 onbekend"], "PositiefGetest": [99]},
                 {
                     "Gemeentecode": [-1],
-                    "Opgenomen": [10],
+                    "PositiefGetest": [10],
                     "Gemeente": [None],
                     "Provinciecode": [-1],
                     "Provincie": [None],
@@ -97,24 +101,45 @@ class TestCleanMunicipalityDatasetRun:
                 },
             ),
             (
+                "1970-01-01",
                 {
                     "id": [-1],
                     "Gemeente": ["9 onbekend 1 buitenland"],
-                    "Opgenomen": [99],
+                    "PositiefGetest": [99],
                 },
                 {
                     "Gemeentecode": [-1],
-                    "Opgenomen": [10],
+                    "PositiefGetest": [10],
                     "Gemeente": [None],
                     "Provinciecode": [-1],
                     "Provincie": [None],
                     "Datum": ["1970-01-01"],
+                },
+            ),
+            (
+                "2020-03-31",
+                {"id": [1], "Gemeente": ["gemeente 1"], "PositiefGetest": [100]},
+                {
+                    "Gemeentecode": [1],
+                    "Opgenomen": [100],
+                    "Gemeente": ["gemeente 1"],
+                    "Provinciecode": [2],
+                    "Provincie": ["provincie 2"],
+                    "Datum": ["2020-03-31"],
                 },
             ),
         ],
     )
-    def test_run(self, mock_write, mock_read, mock_list, input_dataset, output_dataset):
-        mock_list.return_value = ["raw/1970-01-01.csv"]
+    def test_run(
+        self,
+        mock_write,
+        mock_read,
+        mock_list,
+        input_date,
+        input_dataset,
+        output_dataset,
+    ):
+        mock_list.return_value = [f"raw/{input_date}.csv"]
         mock_read.side_effect = [
             pd.DataFrame(
                 {
@@ -132,10 +157,10 @@ class TestCleanMunicipalityDatasetRun:
 
         mock_list.assert_called_once_with("raw/*.csv")
         mock_read.assert_has_calls(
-            [mock.call("external/gemeenten.csv"), mock.call("raw/1970-01-01.csv")]
+            [mock.call("external/gemeenten.csv"), mock.call(f"raw/{input_date}.csv")]
         )
         mock_write.assert_called_once_with(
-            mock.ANY, "interim/1970-01-01.csv", index=False
+            mock.ANY, f"interim/{input_date}.csv", index=False
         )
 
         pd.testing.assert_frame_equal(
