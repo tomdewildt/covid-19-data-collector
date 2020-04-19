@@ -36,10 +36,10 @@ class GetIntensiveCareDataset:
                 self._write(data[0], path)
 
                 log.info("Storing dataset")
-                date = data[0][-1]["date"]
+                date = data[1][-1]["date"]
                 path = f"{inputs['output_folder']}/{date}-new-intake-suspicious.json"
 
-                self._write(data[0], path)
+                self._write(data[1], path)
             elif name == "died-and-survivors-cumulative":
                 log.info("Storing dataset")
                 date = data[0][-1]["date"]
@@ -48,10 +48,10 @@ class GetIntensiveCareDataset:
                 self._write(data[0], path)
 
                 log.info("Storing dataset")
-                date = data[0][-1]["date"]
+                date = data[1][-1]["date"]
                 path = f"{inputs['output_folder']}/{date}-survived-cumulative.json"
 
-                self._write(data[0], path)
+                self._write(data[1], path)
             else:
                 log.info("Storing dataset")
                 date = data[-1]["date"]
