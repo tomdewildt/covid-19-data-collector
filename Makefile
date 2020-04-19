@@ -24,6 +24,9 @@ init: ## Initialize the environment
 
 ##
 
+notebook: ## Run the notebook server
+	jupyter-notebook --notebook-dir notebooks
+
 run/get_national_dataset: ## Run the get national dataset task
 	python src/collector/tasks/get_national_dataset --output_folder raw/national
 
