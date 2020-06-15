@@ -18,7 +18,7 @@ _CONFIG_DEFAULTS = {
         "elements": {
             "national": "table",
             "municipality": "municipality",
-            "metadata": "metadata",
+            "date": "date",
         },
     },
     "store": {"path": "/tmp"},
@@ -60,12 +60,12 @@ _RESPONSE_NATIONAL_DEFAULTS = """
             </tr>
         </tbody>
     </table>
-    <div id="metadata">{ "nl": { "mapSubtitle":"$metadata" } }</div>
+    <span class="date">$date</span>
 """
 
 _RESPONSE_MUNICIPALITY_DEFAULTS = """
     <div id="municipality">$municipality</div>
-    <div id="metadata">{ "nl": { "mapSubtitle":"$metadata" } }</div>
+    <span class="date">$date</span>
 """
 
 _RESPONSE_INTENSIVE_CARE_DEFAULTS = [
