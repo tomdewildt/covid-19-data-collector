@@ -45,7 +45,7 @@ class TestGetMunicipalityDatasetRun:
 
     @mock.patch.object(Client, "get")
     def test_run_invalid_data_element(self, mock_get):
-        mock_get.return_value = "<div id='metadata'></div>"
+        mock_get.return_value = "<span class='date'></div>"
 
         task = GetMunicipalityDataset(self.config["collector"], Client(), Store())
         with pytest.raises(GetMunicipalityDatasetError) as error:
@@ -61,14 +61,14 @@ class TestGetMunicipalityDatasetRun:
         with pytest.raises(GetMunicipalityDatasetError) as error:
             task(output_folder="raw")
 
-        assert str(error.value) == "Metadata element not found in document"
+        assert str(error.value) == "Date element not found in document"
 
     @mock.patch.object(Client, "get")
     @mock.patch.object(GetMunicipalityDataset, "_write")
     def test_run(self, mock_write, mock_get):
         mock_get.return_value = create_municipality_response(
             municipality="id;gemeente;aantal\n1;gemeente 1;1\n2;gemeente 2;2\n",
-            metadata="map subtitle 1-1-1970",
+            date="date 1-1-1970 | 00:00",
         )
 
         task = GetMunicipalityDataset(self.config["collector"], Client(), Store())

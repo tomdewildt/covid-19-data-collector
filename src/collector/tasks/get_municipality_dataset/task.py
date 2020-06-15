@@ -34,20 +34,19 @@ class GetMunicipalityDataset:
         log.info("Parsing document")
         soup = BeautifulSoup(document, features="html.parser")
         data_element = soup.find(id=self._config["elements"]["municipality"])
-        metadata_element = soup.find(id=self._config["elements"]["metadata"])
+        date_element = soup.findAll("span", {"class": self._config["elements"]["date"]})
         if data_element is None:
             raise GetMunicipalityDatasetError("Data element not found in document")
-        if metadata_element is None:
-            raise GetMunicipalityDatasetError("Metadata element not found in document")
+        if not date_element:
+            raise GetMunicipalityDatasetError("Date element not found in document")
 
         log.info("Parsing data")
         data = pd.read_csv(io.StringIO(data_element.text), delimiter=";", decimal=",")
 
-        metadata = metadata_element.text
-        metadata = json.loads(metadata)
+        date = date_element[0].text
 
         log.info("Storing dataset")
-        path = f"{inputs['output_folder']}/{format_date(metadata)}.csv"
+        path = f"{inputs['output_folder']}/{format_date(date)}.csv"
 
         self._write(data, path, index=False)
 
