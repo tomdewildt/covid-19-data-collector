@@ -14,6 +14,6 @@ collector:
   elements:
     national: table
     municipality: csvData
-    metadata: mapTitles
+    date: content-date-edited
 store:
   path: data

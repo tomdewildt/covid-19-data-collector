@@ -61,7 +61,7 @@ class TestGetNationalDatasetRun:
         with pytest.raises(GetNationalDatasetError) as error:
             task(output_folder="raw")
 
-        assert str(error.value) == "Metadata element not found in document"
+        assert str(error.value) == "Date element not found in document"
 
     @mock.patch.object(Client, "get")
     @mock.patch.object(GetNationalDataset, "_write")
@@ -70,7 +70,7 @@ class TestGetNationalDatasetRun:
             tested_positive="1.000",
             hospitalized="2.000",
             deceased="3.000*",
-            metadata="map subtitle 1-1-1970",
+            date="date 1-1-1970 | 00:00",
         )
 
         task = GetNationalDataset(self.config["collector"], Client(), Store())

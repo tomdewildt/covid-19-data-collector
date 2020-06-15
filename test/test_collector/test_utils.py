@@ -5,14 +5,14 @@ from collector.utils import format_date, filter_files
 
 class TestFormatDate:
     @pytest.mark.parametrize(
-        "metadata,date",
+        "text,date",
         [
-            ({"nl": {"mapSubtitle": "content 01-01-2020"}}, "2020-01-01"),
-            ({"nl": {"mapSubtitle": "content 1-1-2020"}}, "2020-01-01"),
+            ("content 01-01-2020 | 00:00", "2020-01-01"),
+            ("content 1-1-2020 | 00:00", "2020-01-01"),
         ],
     )
-    def test_format_date(self, metadata, date):
-        assert format_date(metadata) == date
+    def test_format_date(self, text, date):
+        assert format_date(text) == date
 
 
 class TestFilterFiles:

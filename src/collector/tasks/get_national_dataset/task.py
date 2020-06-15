@@ -1,5 +1,4 @@
 import logging
-import json
 
 from bs4 import BeautifulSoup
 import pandas as pd
@@ -33,11 +32,11 @@ class GetNationalDataset:
         log.info("Parsing document")
         soup = BeautifulSoup(document, features="html.parser")
         data_element = soup.find(self._config["elements"]["national"])
-        metadata_element = soup.find(id=self._config["elements"]["metadata"])
+        date_element = soup.findAll("span", {"class": self._config["elements"]["date"]})
         if data_element is None:
             raise GetNationalDatasetError("Data element not found in document")
-        if metadata_element is None:
-            raise GetNationalDatasetError("Metadata element not found in document")
+        if not date_element:
+            raise GetNationalDatasetError("Date element not found in document")
 
         log.info("Parsing data")
         data = pd.DataFrame(columns=["PositiefGetest", "Opgenomen", "Overleden"])
@@ -47,11 +46,10 @@ class GetNationalDataset:
 
             data.at[0, data.columns[idx]] = int(amount)
 
-        metadata = metadata_element.text
-        metadata = json.loads(metadata)
+        date = date_element[0].text
 
         log.info("Storing dataset")
-        path = f"{inputs['output_folder']}/{format_date(metadata)}.csv"
+        path = f"{inputs['output_folder']}/{format_date(date)}.csv"
 
         self._write(data, path, index=False)
 

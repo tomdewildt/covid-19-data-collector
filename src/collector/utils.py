@@ -2,10 +2,8 @@ from datetime import datetime
 import os
 
 
-def format_date(metadata):
-    text = metadata["nl"]["mapSubtitle"]
-
-    date = datetime.strptime(text.split()[-1], "%d-%m-%Y")
+def format_date(text):
+    date = datetime.strptime(text.split()[1], "%d-%m-%Y")
 
     return date.strftime("%Y-%m-%d")
 

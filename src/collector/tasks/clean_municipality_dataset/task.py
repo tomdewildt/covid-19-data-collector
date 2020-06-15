@@ -37,6 +37,7 @@ class CleanMunicipalityDataset:
                     "Gemnr": "Gemeentecode",
                     "Aantal": "PositiefGetest",
                     "Meldingen": "PositiefGetest",
+                    "Totaal_Absoluut": "PositiefGetest",
                 }
             )
             data["Gemeentecode"] = data["Gemeentecode"].astype(int)
