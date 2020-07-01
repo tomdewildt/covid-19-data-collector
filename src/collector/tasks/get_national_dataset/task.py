@@ -1,5 +1,4 @@
 import logging
-import json
 
 import pandas as pd
 
