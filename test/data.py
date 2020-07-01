@@ -44,24 +44,26 @@ _LOG_CONFIG_DEFAULTS = {
     "disable_existing_loggers": False,
 }
 
-_RESPONSE_NATIONAL_DEFAULTS = """
-    <table>
-        <tbody>
-            <tr>
-                <td />
-                <td>$tested_positive</td>
-            <tr>
-                <td />
-			    <td>$hospitalized</td>
-		    </tr>
-            <tr>
-                <td />
-			    <td>$deceased</td>
-            </tr>
-        </tbody>
-    </table>
-    <span class="date">$date</span>
-"""
+_RESPONSE_NATIONAL_DEFAULTS = [
+    {
+        "Date_of_report": "1970-01-01 12:00:00",
+        "Municipality_code": None,
+        "Municipality_name": None,
+        "Province": "Noord-Brabant",
+        "Total_reported": 500,
+        "Hospital_admission": 1000,
+        "Deceased": 1500,
+    },
+    {
+        "Date_of_report": "1970-01-01 12:00:00",
+        "Municipality_code": None,
+        "Municipality_name": None,
+        "Province": "Limburg",
+        "Total_reported": 500,
+        "Hospital_admission": 1000,
+        "Deceased": 1500,
+    },
+]
 
 _RESPONSE_MUNICIPALITY_DEFAULTS = """
     <div id="municipality">$municipality</div>
@@ -85,9 +87,8 @@ def create_log_config(**kwargs):
     }
 
 
-def create_national_response(**kwargs):
-    response = string.Template(_RESPONSE_NATIONAL_DEFAULTS)
-    return response.safe_substitute(**kwargs)
+def create_national_response():
+    return json.dumps(_RESPONSE_NATIONAL_DEFAULTS)
 
 
 def create_municipality_response(**kwargs):
