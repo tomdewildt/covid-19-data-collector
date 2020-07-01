@@ -2,7 +2,7 @@ environment: development
 log_config: env/dev/logging.yaml
 collector:
   urls:
-    national: https://www.rivm.nl/coronavirus-covid-19/actueel
+    national: https://data.rivm.nl/covid-19/COVID-19_aantallen_gemeente_cumulatief.json
     municipality: https://www.rivm.nl/coronavirus-covid-19/actueel
     intensive_care:
       - https://www.stichting-nice.nl/covid-19/public/new-intake
@@ -12,7 +12,7 @@ collector:
       - https://www.stichting-nice.nl/covid-19/public/died-and-survivors-cumulative
   municipalities: external/gemeenten.csv
   elements:
-    national: table
+    national: null
     municipality: csvData
     date: content-date-edited
 store:

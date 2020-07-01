@@ -3,10 +3,7 @@ import numpy as np
 import pytest
 import mock
 
-from collector.tasks.get_national_dataset.task import (
-    GetNationalDataset,
-    GetNationalDatasetError,
-)
+from collector.tasks.get_national_dataset.task import GetNationalDataset
 from collector.schema import ValidationError
 from data import create_config, create_national_response
 from fixtures import Client, Store
@@ -44,34 +41,9 @@ class TestGetNationalDatasetRun:
             assert error.message == messages[idx]
 
     @mock.patch.object(Client, "get")
-    def test_run_invalid_data_element(self, mock_get):
-        mock_get.return_value = "<div id='metadata'></div>"
-
-        task = GetNationalDataset(self.config["collector"], Client(), Store())
-        with pytest.raises(GetNationalDatasetError) as error:
-            task(output_folder="raw")
-
-        assert str(error.value) == "Data element not found in document"
-
-    @mock.patch.object(Client, "get")
-    def test_run_invalid_metadata_element(self, mock_get):
-        mock_get.return_value = "<table></table>"
-
-        task = GetNationalDataset(self.config["collector"], Client(), Store())
-        with pytest.raises(GetNationalDatasetError) as error:
-            task(output_folder="raw")
-
-        assert str(error.value) == "Date element not found in document"
-
-    @mock.patch.object(Client, "get")
     @mock.patch.object(GetNationalDataset, "_write")
     def test_run(self, mock_write, mock_get):
-        mock_get.return_value = create_national_response(
-            tested_positive="1.000",
-            hospitalized="2.000",
-            deceased="3.000*",
-            date="date 1-1-1970 | 00:00",
-        )
+        mock_get.return_value = create_national_response()
 
         task = GetNationalDataset(self.config["collector"], Client(), Store())
         task(output_folder="raw")
