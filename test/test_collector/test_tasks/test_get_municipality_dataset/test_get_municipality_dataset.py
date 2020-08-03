@@ -67,7 +67,7 @@ class TestGetMunicipalityDatasetRun:
     @mock.patch.object(GetMunicipalityDataset, "_write")
     def test_run(self, mock_write, mock_get):
         mock_get.return_value = create_municipality_response(
-            municipality="id;gemeente;aantal\n1;gemeente 1;1\n2;gemeente 2;2\n",
+            municipality="Gemnr;Gemeente;Totaal_Absoluut\n1;gemeente 1;1\n2;gemeente 2;2\n",
             date="date 1-1-1970 | 00:00",
         )
 
@@ -83,9 +83,9 @@ class TestGetMunicipalityDatasetRun:
             mock_write.call_args.args[0],
             pd.DataFrame(
                 {
-                    "id": [1, 2],
-                    "gemeente": ["gemeente 1", "gemeente 2"],
-                    "aantal": [1, 2],
+                    "Gemnr": [1, 2],
+                    "Gemeente": ["gemeente 1", "gemeente 2"],
+                    "Totaal_Absoluut": [1, 2],
                 }
             ),
             check_dtype=False,

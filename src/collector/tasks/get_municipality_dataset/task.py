@@ -41,6 +41,7 @@ class GetMunicipalityDataset:
 
         log.info("Parsing data")
         data = pd.read_csv(io.StringIO(data_element.text), delimiter=";", decimal=",")
+        data = data.drop_duplicates("Gemnr")
 
         date = date_element[0].text
 
