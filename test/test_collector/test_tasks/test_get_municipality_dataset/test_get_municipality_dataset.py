@@ -3,13 +3,14 @@ import numpy as np
 import pytest
 import mock
 
+from fixtures import Client, Store
+from data import create_config, create_municipality_response
+
 from collector.tasks.get_municipality_dataset.task import (
     GetMunicipalityDataset,
     GetMunicipalityDatasetError,
 )
 from collector.schema import ValidationError
-from data import create_config, create_municipality_response
-from fixtures import Client, Store
 
 
 class TestGetMunicipalityDatasetRun:

@@ -3,10 +3,11 @@ import numpy as np
 import pytest
 import mock
 
+from fixtures import Store
+from data import create_config
+
 from collector.tasks.merge_intensive_care_dataset.task import MergeIntensiveCareDataset
 from collector.schema import ValidationError
-from data import create_config
-from fixtures import Store
 
 
 class TestMergeIntensiveCareDatasetRun:

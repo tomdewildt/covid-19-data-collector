@@ -3,10 +3,11 @@ import json
 import pytest
 import mock
 
+from fixtures import Client, Store
+from data import create_config, create_intensive_care_response
+
 from collector.tasks.get_intensive_care_dataset.task import GetIntensiveCareDataset
 from collector.schema import ValidationError
-from data import create_config, create_intensive_care_response
-from fixtures import Client, Store
 
 
 class TestGetIntensiveCareDatasetRun:
