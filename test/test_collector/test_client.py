@@ -1,8 +1,9 @@
 import pytest
 import mock
 
-from collector.client import WebClient, WebClientError
 from fixtures import Response
+
+from collector.client import WebClient, WebClientError
 
 
 class TestWebClientGet:

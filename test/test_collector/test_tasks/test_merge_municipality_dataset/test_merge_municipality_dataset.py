@@ -3,10 +3,11 @@ import numpy as np
 import pytest
 import mock
 
+from fixtures import Store
+from data import create_config
+
 from collector.tasks.merge_municipality_dataset.task import MergeMunicipalityDataset
 from collector.schema import ValidationError
-from data import create_config
-from fixtures import Store
 
 
 class TestMergeMunicipalityDatasetRun:
