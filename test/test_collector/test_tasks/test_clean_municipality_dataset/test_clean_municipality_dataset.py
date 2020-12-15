@@ -117,6 +117,22 @@ class TestCleanMunicipalityDatasetRun:
                 },
             ),
             (
+                "1970-01-01",
+                {
+                    "Municipality_code": ["GM0001"],
+                    "Municipality_name": ["gemeente 1"],
+                    "Total_reported": [100],
+                },
+                {
+                    "Gemeentecode": [1],
+                    "PositiefGetest": [100],
+                    "Gemeente": ["gemeente 1"],
+                    "Provinciecode": [2],
+                    "Provincie": ["provincie 2"],
+                    "Datum": ["1970-01-01"],
+                },
+            ),
+            (
                 "2020-03-31",
                 {"id": [1], "Gemeente": ["gemeente 1"], "PositiefGetest": [100]},
                 {
