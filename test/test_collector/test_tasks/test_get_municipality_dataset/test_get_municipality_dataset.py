@@ -6,10 +6,7 @@ import mock
 from fixtures import Client, Store
 from data import create_config, create_municipality_response
 
-from collector.tasks.get_municipality_dataset.task import (
-    GetMunicipalityDataset,
-    GetMunicipalityDatasetError,
-)
+from collector.tasks.get_municipality_dataset.task import GetMunicipalityDataset
 from collector.schema import ValidationError
 
 
@@ -45,32 +42,9 @@ class TestGetMunicipalityDatasetRun:
             assert error.message == messages[idx]
 
     @mock.patch.object(Client, "get")
-    def test_run_invalid_data_element(self, mock_get):
-        mock_get.return_value = "<span class='date'></div>"
-
-        task = GetMunicipalityDataset(self.config["collector"], Client(), Store())
-        with pytest.raises(GetMunicipalityDatasetError) as error:
-            task(output_folder="raw")
-
-        assert str(error.value) == "Data element not found in document"
-
-    @mock.patch.object(Client, "get")
-    def test_run_invalid_metadata_element(self, mock_get):
-        mock_get.return_value = "<div id='municipality'></div>"
-
-        task = GetMunicipalityDataset(self.config["collector"], Client(), Store())
-        with pytest.raises(GetMunicipalityDatasetError) as error:
-            task(output_folder="raw")
-
-        assert str(error.value) == "Date element not found in document"
-
-    @mock.patch.object(Client, "get")
     @mock.patch.object(GetMunicipalityDataset, "_write")
     def test_run(self, mock_write, mock_get):
-        mock_get.return_value = create_municipality_response(
-            municipality="Gemnr;Gemeente;Totaal_Absoluut\n1;gemeente 1;1\n2;gemeente 2;2\n",
-            date="date 1-1-1970 | 00:00",
-        )
+        mock_get.return_value = create_municipality_response()
 
         task = GetMunicipalityDataset(self.config["collector"], Client(), Store())
         task(output_folder="raw")
@@ -84,9 +58,13 @@ class TestGetMunicipalityDatasetRun:
             mock_write.call_args.args[0],
             pd.DataFrame(
                 {
-                    "Gemnr": [1, 2],
-                    "Gemeente": ["gemeente 1", "gemeente 2"],
-                    "Totaal_Absoluut": [1, 2],
+                    "Date_of_report": ["1970-01-01 12:00:00", "1970-01-01 12:00:00"],
+                    "Municipality_code": ["GM0001", "GM0002"],
+                    "Municipality_name": ["gemeente 1", "gemeente 2"],
+                    "Province": ["provincie 1", "provincie 2"],
+                    "Total_reported": [500, 500],
+                    "Hospital_admission": [1000, 1000],
+                    "Deceased": [1500, 1500],
                 }
             ),
             check_dtype=False,
