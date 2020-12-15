@@ -1,4 +1,5 @@
 import logging
+import io
 
 import pandas as pd
 
@@ -26,9 +27,10 @@ class GetNationalDataset:
     def run(self, inputs):
         log.info("Requesting document")
         document = self._client.get(self._config["urls"]["national"])
+        buffer = io.StringIO(document)
 
         log.info("Parsing document")
-        data = pd.read_json(document)
+        data = pd.read_csv(buffer, delimiter=";")
         date = data["Date_of_report"].iat[-1]
 
         log.info("Parsing data")
