@@ -30,14 +30,21 @@ class CleanMunicipalityDataset:
             # Load dataset
             data = self._read(f"{inputs['input_folder']}/{file}")
 
+            # Fix municipality code
+            if "Municipality_code" in data:
+                data["Municipality_code"] = data["Municipality_code"].str[2:6]
+
             # Rename columns
             data = data.rename(
                 columns={
                     "id": "Gemeentecode",
                     "Gemnr": "Gemeentecode",
+                    "Municipality_code": "Gemeentecode",
+                    "Municipality_name": "Gemeente",
                     "Aantal": "PositiefGetest",
                     "Meldingen": "PositiefGetest",
                     "Totaal_Absoluut": "PositiefGetest",
+                    "Total_reported": "PositiefGetest",
                 }
             )
             data["Gemeentecode"] = data["Gemeentecode"].astype(int)
