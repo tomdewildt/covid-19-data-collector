@@ -2,12 +2,6 @@ from datetime import datetime
 import os
 
 
-def format_date(text):
-    date = datetime.strptime(text.split()[1], "%d-%m-%Y")
-
-    return date.strftime("%Y-%m-%d")
-
-
 def filter_files(files):
     max_date = datetime(1970, 1, 1)
 
