@@ -1,5 +1,7 @@
 import string
 import json
+import csv
+import io
 
 _CONFIG_DEFAULTS = {
     "environment": "test",
@@ -88,7 +90,14 @@ def create_log_config(**kwargs):
 
 
 def create_national_response():
-    return json.dumps(_RESPONSE_NATIONAL_DEFAULTS)
+    buffer = io.StringIO()
+    keys = _RESPONSE_NATIONAL_DEFAULTS[0].keys()
+
+    writer = csv.DictWriter(buffer, keys, delimiter=";")
+    writer.writeheader()
+    writer.writerows(_RESPONSE_NATIONAL_DEFAULTS)
+
+    return buffer.getvalue()
 
 
 def create_municipality_response(**kwargs):
