@@ -1,4 +1,3 @@
-import string
 import json
 import csv
 import io
@@ -17,11 +16,6 @@ _CONFIG_DEFAULTS = {
             ],
         },
         "municipalities": "external/gemeenten.csv",
-        "elements": {
-            "national": "table",
-            "municipality": "municipality",
-            "date": "date",
-        },
     },
     "store": {"path": "/tmp"},
 }
@@ -49,28 +43,44 @@ _LOG_CONFIG_DEFAULTS = {
 _RESPONSE_NATIONAL_DEFAULTS = [
     {
         "Date_of_report": "1970-01-01 12:00:00",
-        "Municipality_code": None,
-        "Municipality_name": None,
-        "Province": "Noord-Brabant",
+        "Municipality_code": "GM0001",
+        "Municipality_name": "gemeente 1",
+        "Province": "provincie 1",
         "Total_reported": 500,
         "Hospital_admission": 1000,
         "Deceased": 1500,
     },
     {
         "Date_of_report": "1970-01-01 12:00:00",
-        "Municipality_code": None,
-        "Municipality_name": None,
-        "Province": "Limburg",
+        "Municipality_code": "GM0002",
+        "Municipality_name": "gemeente 2",
+        "Province": "provincie 2",
         "Total_reported": 500,
         "Hospital_admission": 1000,
         "Deceased": 1500,
     },
 ]
 
-_RESPONSE_MUNICIPALITY_DEFAULTS = """
-    <div id="municipality">$municipality</div>
-    <span class="date">$date</span>
-"""
+_RESPONSE_MUNICIPALITY_DEFAULTS = [
+    {
+        "Date_of_report": "1970-01-01 12:00:00",
+        "Municipality_code": "GM0001",
+        "Municipality_name": "gemeente 1",
+        "Province": "provincie 1",
+        "Total_reported": 500,
+        "Hospital_admission": 1000,
+        "Deceased": 1500,
+    },
+    {
+        "Date_of_report": "1970-01-01 12:00:00",
+        "Municipality_code": "GM0002",
+        "Municipality_name": "gemeente 2",
+        "Province": "provincie 2",
+        "Total_reported": 500,
+        "Hospital_admission": 1000,
+        "Deceased": 1500,
+    },
+]
 
 _RESPONSE_INTENSIVE_CARE_DEFAULTS = [
     [{"date": "1970-01-01", "value": 100}],
@@ -100,9 +110,15 @@ def create_national_response():
     return buffer.getvalue()
 
 
-def create_municipality_response(**kwargs):
-    response = string.Template(_RESPONSE_MUNICIPALITY_DEFAULTS)
-    return response.safe_substitute(**kwargs)
+def create_municipality_response():
+    buffer = io.StringIO()
+    keys = _RESPONSE_MUNICIPALITY_DEFAULTS[0].keys()
+
+    writer = csv.DictWriter(buffer, keys, delimiter=";")
+    writer.writeheader()
+    writer.writerows(_RESPONSE_MUNICIPALITY_DEFAULTS)
+
+    return buffer.getvalue()
 
 
 def create_intensive_care_response():

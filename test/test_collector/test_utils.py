@@ -1,18 +1,6 @@
 import pytest
 
-from collector.utils import format_date, filter_files
-
-
-class TestFormatDate:
-    @pytest.mark.parametrize(
-        "text,date",
-        [
-            ("content 01-01-2020 | 00:00", "2020-01-01"),
-            ("content 1-1-2020 | 00:00", "2020-01-01"),
-        ],
-    )
-    def test_format_date(self, text, date):
-        assert format_date(text) == date
+from collector.utils import filter_files
 
 
 class TestFilterFiles:
@@ -41,5 +29,5 @@ class TestFilterFiles:
             ),
         ],
     )
-    def test_format_date(self, files, output):
+    def test_filter_files(self, files, output):
         assert filter_files(files) == output

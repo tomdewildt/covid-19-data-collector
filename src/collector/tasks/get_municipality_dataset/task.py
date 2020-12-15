@@ -1,11 +1,9 @@
 import logging
 import io
 
-from bs4 import BeautifulSoup
 import pandas as pd
 
 from collector.schema import obj, string, validate
-from collector.utils import format_date
 
 log = logging.getLogger(__name__)
 
@@ -29,24 +27,19 @@ class GetMunicipalityDataset:
     def run(self, inputs):
         log.info("Requesting document")
         document = self._client.get(self._config["urls"]["municipality"])
+        buffer = io.StringIO(document)
 
         log.info("Parsing document")
-        soup = BeautifulSoup(document, features="html.parser")
-        data_element = soup.find(id=self._config["elements"]["municipality"])
-        date_element = soup.findAll("span", {"class": self._config["elements"]["date"]})
-        if data_element is None:
-            raise GetMunicipalityDatasetError("Data element not found in document")
-        if not date_element:
-            raise GetMunicipalityDatasetError("Date element not found in document")
+        data = pd.read_csv(buffer, delimiter=";")
+        date = data["Date_of_report"].iat[-1]
 
         log.info("Parsing data")
-        data = pd.read_csv(io.StringIO(data_element.text), delimiter=";", decimal=",")
-        data = data.drop_duplicates("Gemnr")
-
-        date = date_element[0].text
+        data = data[data["Date_of_report"] == date]
+        data = data.dropna(subset=["Municipality_code"])
+        date = date.split()[0]
 
         log.info("Storing dataset")
-        path = f"{inputs['output_folder']}/{format_date(date)}.csv"
+        path = f"{inputs['output_folder']}/{date}.csv"
 
         self._write(data, path, index=False)
 

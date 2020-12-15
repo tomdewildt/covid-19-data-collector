@@ -3,7 +3,7 @@ log_config: env/prod/logging.yaml
 collector:
   urls:
     national: https://data.rivm.nl/covid-19/COVID-19_aantallen_gemeente_cumulatief.csv
-    municipality: https://www.rivm.nl/coronavirus-covid-19/actueel
+    municipality: https://data.rivm.nl/covid-19/COVID-19_aantallen_gemeente_cumulatief.csv
     intensive_care:
       - https://www.stichting-nice.nl/covid-19/public/new-intake
       - https://www.stichting-nice.nl/covid-19/public/intake-count
@@ -11,9 +11,5 @@ collector:
       - https://www.stichting-nice.nl/covid-19/public/ic-count
       - https://www.stichting-nice.nl/covid-19/public/died-and-survivors-cumulative
   municipalities: external/gemeenten.csv
-  elements:
-    national: null
-    municipality: csvData
-    date: content-date-edited
 store:
   path: data
