@@ -1,0 +1,356 @@
+Date_of_report,Municipality_code,Municipality_name,Province,Total_reported,Hospital_admission,Deceased
+2020-11-08 10:00:00,GM0003,Appingedam,Groningen,65,8,1
+2020-11-08 10:00:00,GM0010,Delfzijl,Groningen,158,8,0
+2020-11-08 10:00:00,GM0014,Groningen,Groningen,3752,32,4
+2020-11-08 10:00:00,GM0024,Loppersum,Groningen,61,0,0
+2020-11-08 10:00:00,GM0034,Almere,Flevoland,4781,173,45
+2020-11-08 10:00:00,GM0037,Stadskanaal,Groningen,406,9,7
+2020-11-08 10:00:00,GM0047,Veendam,Groningen,209,4,1
+2020-11-08 10:00:00,GM0050,Zeewolde,Flevoland,317,13,6
+2020-11-08 10:00:00,GM0059,Achtkarspelen,Friesland,215,0,0
+2020-11-08 10:00:00,GM0060,Ameland,Friesland,46,0,0
+2020-11-08 10:00:00,GM0072,Harlingen,Friesland,114,5,2
+2020-11-08 10:00:00,GM0074,Heerenveen,Friesland,472,16,22
+2020-11-08 10:00:00,GM0080,Leeuwarden,Friesland,1535,47,11
+2020-11-08 10:00:00,GM0085,Ooststellingwerf,Friesland,209,5,1
+2020-11-08 10:00:00,GM0086,Opsterland,Friesland,201,9,0
+2020-11-08 10:00:00,GM0088,Schiermonnikoog,Friesland,4,1,0
+2020-11-08 10:00:00,GM0090,Smallingerland,Friesland,460,12,8
+2020-11-08 10:00:00,GM0093,Terschelling,Friesland,66,1,1
+2020-11-08 10:00:00,GM0096,Vlieland,Friesland,18,0,0
+2020-11-08 10:00:00,GM0098,Weststellingwerf,Friesland,278,3,5
+2020-11-08 10:00:00,GM0106,Assen,Drenthe,781,14,3
+2020-11-08 10:00:00,GM0109,Coevorden,Drenthe,412,19,3
+2020-11-08 10:00:00,GM0114,Emmen,Drenthe,1715,52,24
+2020-11-08 10:00:00,GM0118,Hoogeveen,Drenthe,735,31,14
+2020-11-08 10:00:00,GM0119,Meppel,Drenthe,361,11,5
+2020-11-08 10:00:00,GM0141,Almelo,Overijssel,1803,36,19
+2020-11-08 10:00:00,GM0147,Borne,Overijssel,485,16,6
+2020-11-08 10:00:00,GM0148,Dalfsen,Overijssel,548,18,9
+2020-11-08 10:00:00,GM0150,Deventer,Overijssel,1718,51,44
+2020-11-08 10:00:00,GM0153,Enschede,Overijssel,3668,76,50
+2020-11-08 10:00:00,GM0158,Haaksbergen,Overijssel,641,18,14
+2020-11-08 10:00:00,GM0160,Hardenberg,Overijssel,872,25,10
+2020-11-08 10:00:00,GM0163,Hellendoorn,Overijssel,723,13,14
+2020-11-08 10:00:00,GM0164,Hengelo,Overijssel,1844,41,25
+2020-11-08 10:00:00,GM0166,Kampen,Overijssel,791,62,37
+2020-11-08 10:00:00,GM0168,Losser,Overijssel,540,13,3
+2020-11-08 10:00:00,GM0171,Noordoostpolder,Flevoland,525,20,12
+2020-11-08 10:00:00,GM0173,Oldenzaal,Overijssel,829,17,21
+2020-11-08 10:00:00,GM0175,Ommen,Overijssel,254,9,4
+2020-11-08 10:00:00,GM0177,Raalte,Overijssel,680,26,25
+2020-11-08 10:00:00,GM0180,Staphorst,Overijssel,382,10,4
+2020-11-08 10:00:00,GM0183,Tubbergen,Overijssel,844,12,8
+2020-11-08 10:00:00,GM0184,Urk,Flevoland,319,26,5
+2020-11-08 10:00:00,GM0189,Wierden,Overijssel,710,8,7
+2020-11-08 10:00:00,GM0193,Zwolle,Overijssel,1878,56,53
+2020-11-08 10:00:00,GM0197,Aalten,Gelderland,472,13,9
+2020-11-08 10:00:00,GM0200,Apeldoorn,Gelderland,2478,123,59
+2020-11-08 10:00:00,GM0202,Arnhem,Gelderland,3052,106,49
+2020-11-08 10:00:00,GM0203,Barneveld,Gelderland,1191,25,14
+2020-11-08 10:00:00,GM0209,Beuningen,Gelderland,503,22,8
+2020-11-08 10:00:00,GM0213,Brummen,Gelderland,290,21,7
+2020-11-08 10:00:00,GM0214,Buren,Gelderland,508,23,9
+2020-11-08 10:00:00,GM0216,Culemborg,Gelderland,693,29,10
+2020-11-08 10:00:00,GM0221,Doesburg,Gelderland,208,11,7
+2020-11-08 10:00:00,GM0222,Doetinchem,Gelderland,956,36,17
+2020-11-08 10:00:00,GM0225,Druten,Gelderland,387,29,13
+2020-11-08 10:00:00,GM0226,Duiven,Gelderland,440,18,6
+2020-11-08 10:00:00,GM0228,Ede,Gelderland,2358,78,35
+2020-11-08 10:00:00,GM0230,Elburg,Gelderland,371,29,9
+2020-11-08 10:00:00,GM0232,Epe,Gelderland,536,53,24
+2020-11-08 10:00:00,GM0233,Ermelo,Gelderland,460,33,23
+2020-11-08 10:00:00,GM0243,Harderwijk,Gelderland,845,50,22
+2020-11-08 10:00:00,GM0244,Hattem,Gelderland,175,18,5
+2020-11-08 10:00:00,GM0246,Heerde,Gelderland,363,55,28
+2020-11-08 10:00:00,GM0252,Heumen,Gelderland,421,19,13
+2020-11-08 10:00:00,GM0262,Lochem,Gelderland,484,19,16
+2020-11-08 10:00:00,GM0263,Maasdriel,Gelderland,579,25,10
+2020-11-08 10:00:00,GM0267,Nijkerk,Gelderland,923,30,4
+2020-11-08 10:00:00,GM0268,Nijmegen,Gelderland,4282,186,102
+2020-11-08 10:00:00,GM0269,Oldebroek,Gelderland,346,40,20
+2020-11-08 10:00:00,GM0273,Putten,Gelderland,383,12,1
+2020-11-08 10:00:00,GM0274,Renkum,Gelderland,584,19,11
+2020-11-08 10:00:00,GM0275,Rheden,Gelderland,735,37,18
+2020-11-08 10:00:00,GM0277,Rozendaal,Gelderland,13,1,0
+2020-11-08 10:00:00,GM0279,Scherpenzeel,Gelderland,190,5,2
+2020-11-08 10:00:00,GM0281,Tiel,Gelderland,1133,53,24
+2020-11-08 10:00:00,GM0285,Voorst,Gelderland,353,18,11
+2020-11-08 10:00:00,GM0289,Wageningen,Gelderland,736,26,20
+2020-11-08 10:00:00,GM0293,Westervoort,Gelderland,230,12,6
+2020-11-08 10:00:00,GM0294,Winterswijk,Gelderland,435,9,4
+2020-11-08 10:00:00,GM0296,Wijchen,Gelderland,849,55,22
+2020-11-08 10:00:00,GM0297,Zaltbommel,Gelderland,626,24,10
+2020-11-08 10:00:00,GM0299,Zevenaar,Gelderland,682,59,19
+2020-11-08 10:00:00,GM0301,Zutphen,Gelderland,723,35,14
+2020-11-08 10:00:00,GM0302,Nunspeet,Gelderland,514,61,22
+2020-11-08 10:00:00,GM0303,Dronten,Flevoland,449,40,15
+2020-11-08 10:00:00,GM0307,Amersfoort,Utrecht,3490,105,36
+2020-11-08 10:00:00,GM0308,Baarn,Utrecht,505,18,11
+2020-11-08 10:00:00,GM0310,De Bilt,Utrecht,1082,35,24
+2020-11-08 10:00:00,GM0312,Bunnik,Utrecht,321,12,4
+2020-11-08 10:00:00,GM0313,Bunschoten,Utrecht,790,19,8
+2020-11-08 10:00:00,GM0317,Eemnes,Utrecht,189,3,1
+2020-11-08 10:00:00,GM0321,Houten,Utrecht,1102,37,33
+2020-11-08 10:00:00,GM0327,Leusden,Utrecht,601,12,11
+2020-11-08 10:00:00,GM0331,Lopik,Utrecht,398,25,8
+2020-11-08 10:00:00,GM0335,Montfoort,Utrecht,331,16,7
+2020-11-08 10:00:00,GM0339,Renswoude,Utrecht,106,5,5
+2020-11-08 10:00:00,GM0340,Rhenen,Utrecht,415,13,6
+2020-11-08 10:00:00,GM0342,Soest,Utrecht,1196,39,30
+2020-11-08 10:00:00,GM0344,Utrecht,Utrecht,11788,390,136
+2020-11-08 10:00:00,GM0345,Veenendaal,Utrecht,1802,63,17
+2020-11-08 10:00:00,GM0351,Woudenberg,Utrecht,273,10,3
+2020-11-08 10:00:00,GM0352,Wijk bij Duurstede,Utrecht,434,12,6
+2020-11-08 10:00:00,GM0353,IJsselstein,Utrecht,865,48,38
+2020-11-08 10:00:00,GM0355,Zeist,Utrecht,1465,47,30
+2020-11-08 10:00:00,GM0356,Nieuwegein,Utrecht,1391,60,17
+2020-11-08 10:00:00,GM0358,Aalsmeer,Noord-Holland,824,14,10
+2020-11-08 10:00:00,GM0361,Alkmaar,Noord-Holland,1950,71,35
+2020-11-08 10:00:00,GM0362,Amstelveen,Noord-Holland,2506,79,51
+2020-11-08 10:00:00,GM0363,Amsterdam,Noord-Holland,33501,1086,361
+2020-11-08 10:00:00,GM0370,Beemster,Noord-Holland,166,4,2
+2020-11-08 10:00:00,GM0373,Bergen (NH.),Noord-Holland,646,23,24
+2020-11-08 10:00:00,GM0375,Beverwijk,Noord-Holland,926,22,15
+2020-11-08 10:00:00,GM0376,Blaricum,Noord-Holland,236,8,2
+2020-11-08 10:00:00,GM0377,Bloemendaal,Noord-Holland,431,10,6
+2020-11-08 10:00:00,GM0383,Castricum,Noord-Holland,558,18,11
+2020-11-08 10:00:00,GM0384,Diemen,Noord-Holland,1117,25,19
+2020-11-08 10:00:00,GM0385,Edam-Volendam,Noord-Holland,1124,48,5
+2020-11-08 10:00:00,GM0388,Enkhuizen,Noord-Holland,277,20,5
+2020-11-08 10:00:00,GM0392,Haarlem,Noord-Holland,3358,116,78
+2020-11-08 10:00:00,GM0394,Haarlemmermeer,Noord-Holland,3712,105,42
+2020-11-08 10:00:00,GM0396,Heemskerk,Noord-Holland,843,35,18
+2020-11-08 10:00:00,GM0397,Heemstede,Noord-Holland,492,17,35
+2020-11-08 10:00:00,GM0398,Heerhugowaard,Noord-Holland,990,32,10
+2020-11-08 10:00:00,GM0399,Heiloo,Noord-Holland,337,13,10
+2020-11-08 10:00:00,GM0400,Den Helder,Noord-Holland,539,17,4
+2020-11-08 10:00:00,GM0402,Hilversum,Noord-Holland,1861,45,33
+2020-11-08 10:00:00,GM0405,Hoorn,Noord-Holland,1266,41,14
+2020-11-08 10:00:00,GM0406,Huizen,Noord-Holland,1084,31,16
+2020-11-08 10:00:00,GM0415,Landsmeer,Noord-Holland,283,6,3
+2020-11-08 10:00:00,GM0416,Langedijk,Noord-Holland,549,21,7
+2020-11-08 10:00:00,GM0417,Laren,Noord-Holland,269,10,5
+2020-11-08 10:00:00,GM0420,Medemblik,Noord-Holland,685,22,6
+2020-11-08 10:00:00,GM0431,Oostzaan,Noord-Holland,290,12,2
+2020-11-08 10:00:00,GM0432,Opmeer,Noord-Holland,161,1,2
+2020-11-08 10:00:00,GM0437,Ouder-Amstel,Noord-Holland,427,8,0
+2020-11-08 10:00:00,GM0439,Purmerend,Noord-Holland,1693,90,39
+2020-11-08 10:00:00,GM0441,Schagen,Noord-Holland,782,21,13
+2020-11-08 10:00:00,GM0448,Texel,Noord-Holland,106,6,2
+2020-11-08 10:00:00,GM0450,Uitgeest,Noord-Holland,278,7,3
+2020-11-08 10:00:00,GM0451,Uithoorn,Noord-Holland,713,21,4
+2020-11-08 10:00:00,GM0453,Velsen,Noord-Holland,1515,50,46
+2020-11-08 10:00:00,GM0457,Weesp,Noord-Holland,654,11,15
+2020-11-08 10:00:00,GM0473,Zandvoort,Noord-Holland,304,15,9
+2020-11-08 10:00:00,GM0479,Zaanstad,Noord-Holland,4356,176,75
+2020-11-08 10:00:00,GM0482,Alblasserdam,Zuid-Holland,748,11,12
+2020-11-08 10:00:00,GM0484,Alphen aan den Rijn,Zuid-Holland,2890,92,40
+2020-11-08 10:00:00,GM0489,Barendrecht,Zuid-Holland,1753,55,25
+2020-11-08 10:00:00,GM0498,Drechterland,Noord-Holland,363,7,8
+2020-11-08 10:00:00,GM0501,Brielle,Zuid-Holland,406,18,1
+2020-11-08 10:00:00,GM0502,Capelle aan den IJssel,Zuid-Holland,2251,79,73
+2020-11-08 10:00:00,GM0503,Delft,Zuid-Holland,3056,54,23
+2020-11-08 10:00:00,GM0505,Dordrecht,Zuid-Holland,3855,98,90
+2020-11-08 10:00:00,GM0512,Gorinchem,Zuid-Holland,996,20,22
+2020-11-08 10:00:00,GM0513,Gouda,Zuid-Holland,2255,79,63
+2020-11-08 10:00:00,GM0518,'s-Gravenhage,Zuid-Holland,19061,676,344
+2020-11-08 10:00:00,GM0523,Hardinxveld-Giessendam,Zuid-Holland,476,2,7
+2020-11-08 10:00:00,GM0530,Hellevoetsluis,Zuid-Holland,859,20,7
+2020-11-08 10:00:00,GM0531,Hendrik-Ido-Ambacht,Zuid-Holland,1011,13,9
+2020-11-08 10:00:00,GM0532,Stede Broec,Noord-Holland,328,20,5
+2020-11-08 10:00:00,GM0534,Hillegom,Zuid-Holland,455,9,2
+2020-11-08 10:00:00,GM0537,Katwijk,Zuid-Holland,2148,52,24
+2020-11-08 10:00:00,GM0542,Krimpen aan den IJssel,Zuid-Holland,961,22,17
+2020-11-08 10:00:00,GM0546,Leiden,Zuid-Holland,3439,66,28
+2020-11-08 10:00:00,GM0547,Leiderdorp,Zuid-Holland,668,27,8
+2020-11-08 10:00:00,GM0553,Lisse,Zuid-Holland,465,11,5
+2020-11-08 10:00:00,GM0556,Maassluis,Zuid-Holland,1094,35,15
+2020-11-08 10:00:00,GM0569,Nieuwkoop,Zuid-Holland,603,14,7
+2020-11-08 10:00:00,GM0575,Noordwijk,Zuid-Holland,1026,36,6
+2020-11-08 10:00:00,GM0579,Oegstgeest,Zuid-Holland,535,14,3
+2020-11-08 10:00:00,GM0589,Oudewater,Utrecht,250,31,11
+2020-11-08 10:00:00,GM0590,Papendrecht,Zuid-Holland,856,9,12
+2020-11-08 10:00:00,GM0597,Ridderkerk,Zuid-Holland,1491,50,22
+2020-11-08 10:00:00,GM0599,Rotterdam,Zuid-Holland,28393,927,483
+2020-11-08 10:00:00,GM0603,Rijswijk,Zuid-Holland,1620,64,50
+2020-11-08 10:00:00,GM0606,Schiedam,Zuid-Holland,3132,92,33
+2020-11-08 10:00:00,GM0610,Sliedrecht,Zuid-Holland,645,10,7
+2020-11-08 10:00:00,GM0613,Albrandswaard,Zuid-Holland,1007,20,14
+2020-11-08 10:00:00,GM0614,Westvoorne,Zuid-Holland,349,8,1
+2020-11-08 10:00:00,GM0622,Vlaardingen,Zuid-Holland,2932,69,43
+2020-11-08 10:00:00,GM0626,Voorschoten,Zuid-Holland,520,12,12
+2020-11-08 10:00:00,GM0627,Waddinxveen,Zuid-Holland,769,31,7
+2020-11-08 10:00:00,GM0629,Wassenaar,Zuid-Holland,555,11,13
+2020-11-08 10:00:00,GM0632,Woerden,Utrecht,1138,66,23
+2020-11-08 10:00:00,GM0637,Zoetermeer,Zuid-Holland,3148,74,20
+2020-11-08 10:00:00,GM0638,Zoeterwoude,Zuid-Holland,181,4,1
+2020-11-08 10:00:00,GM0642,Zwijndrecht,Zuid-Holland,1529,30,42
+2020-11-08 10:00:00,GM0654,Borsele,Zeeland,191,5,1
+2020-11-08 10:00:00,GM0664,Goes,Zeeland,500,15,13
+2020-11-08 10:00:00,GM0668,West Maas en Waal,Gelderland,386,24,15
+2020-11-08 10:00:00,GM0677,Hulst,Zeeland,421,14,5
+2020-11-08 10:00:00,GM0678,Kapelle,Zeeland,109,3,1
+2020-11-08 10:00:00,GM0687,Middelburg,Zeeland,463,22,11
+2020-11-08 10:00:00,GM0703,Reimerswaal,Zeeland,269,6,3
+2020-11-08 10:00:00,GM0715,Terneuzen,Zeeland,630,28,4
+2020-11-08 10:00:00,GM0716,Tholen,Zeeland,556,46,19
+2020-11-08 10:00:00,GM0717,Veere,Zeeland,139,8,2
+2020-11-08 10:00:00,GM0718,Vlissingen,Zeeland,403,13,5
+2020-11-08 10:00:00,GM0736,De Ronde Venen,Utrecht,1050,59,19
+2020-11-08 10:00:00,GM0737,Tytsjerksteradiel,Friesland,268,7,3
+2020-11-08 10:00:00,GM0743,Asten,Noord-Brabant,362,19,12
+2020-11-08 10:00:00,GM0744,Baarle-Nassau,Noord-Brabant,151,10,2
+2020-11-08 10:00:00,GM0748,Bergen op Zoom,Noord-Brabant,2167,52,20
+2020-11-08 10:00:00,GM0753,Best,Noord-Brabant,594,35,13
+2020-11-08 10:00:00,GM0755,Boekel,Noord-Brabant,241,36,20
+2020-11-08 10:00:00,GM0756,Boxmeer,Noord-Brabant,646,23,29
+2020-11-08 10:00:00,GM0757,Boxtel,Noord-Brabant,660,25,27
+2020-11-08 10:00:00,GM0758,Breda,Noord-Brabant,4793,189,93
+2020-11-08 10:00:00,GM0762,Deurne,Noord-Brabant,883,59,28
+2020-11-08 10:00:00,GM0765,Pekela,Groningen,96,7,1
+2020-11-08 10:00:00,GM0766,Dongen,Noord-Brabant,661,31,16
+2020-11-08 10:00:00,GM0770,Eersel,Noord-Brabant,582,33,16
+2020-11-08 10:00:00,GM0772,Eindhoven,Noord-Brabant,4933,216,115
+2020-11-08 10:00:00,GM0777,Etten-Leur,Noord-Brabant,1140,53,31
+2020-11-08 10:00:00,GM0779,Geertruidenberg,Noord-Brabant,397,17,6
+2020-11-08 10:00:00,GM0784,Gilze en Rijen,Noord-Brabant,622,25,16
+2020-11-08 10:00:00,GM0785,Goirle,Noord-Brabant,594,35,23
+2020-11-08 10:00:00,GM0786,Grave,Noord-Brabant,368,27,14
+2020-11-08 10:00:00,GM0788,Haaren,Noord-Brabant,364,20,8
+2020-11-08 10:00:00,GM0794,Helmond,Noord-Brabant,2738,130,51
+2020-11-08 10:00:00,GM0796,'s-Hertogenbosch,Noord-Brabant,3526,154,93
+2020-11-08 10:00:00,GM0797,Heusden,Noord-Brabant,1113,53,28
+2020-11-08 10:00:00,GM0798,Hilvarenbeek,Noord-Brabant,420,16,14
+2020-11-08 10:00:00,GM0809,Loon op Zand,Noord-Brabant,618,31,24
+2020-11-08 10:00:00,GM0815,Mill en Sint Hubert,Noord-Brabant,290,13,6
+2020-11-08 10:00:00,GM0820,"Nuenen, Gerwen en Nederwetten",Noord-Brabant,492,20,10
+2020-11-08 10:00:00,GM0823,Oirschot,Noord-Brabant,489,17,11
+2020-11-08 10:00:00,GM0824,Oisterwijk,Noord-Brabant,539,29,14
+2020-11-08 10:00:00,GM0826,Oosterhout,Noord-Brabant,1399,53,17
+2020-11-08 10:00:00,GM0828,Oss,Noord-Brabant,2783,185,96
+2020-11-08 10:00:00,GM0840,Rucphen,Noord-Brabant,661,18,10
+2020-11-08 10:00:00,GM0845,Sint-Michielsgestel,Noord-Brabant,711,38,19
+2020-11-08 10:00:00,GM0847,Someren,Noord-Brabant,387,34,8
+2020-11-08 10:00:00,GM0848,Son en Breugel,Noord-Brabant,352,32,15
+2020-11-08 10:00:00,GM0851,Steenbergen,Noord-Brabant,614,18,14
+2020-11-08 10:00:00,GM0852,Waterland,Noord-Holland,444,23,9
+2020-11-08 10:00:00,GM0855,Tilburg,Noord-Brabant,5471,286,182
+2020-11-08 10:00:00,GM0856,Uden,Noord-Brabant,813,116,65
+2020-11-08 10:00:00,GM0858,Valkenswaard,Noord-Brabant,825,23,40
+2020-11-08 10:00:00,GM0861,Veldhoven,Noord-Brabant,1133,40,21
+2020-11-08 10:00:00,GM0865,Vught,Noord-Brabant,593,43,18
+2020-11-08 10:00:00,GM0866,Waalre,Noord-Brabant,393,8,9
+2020-11-08 10:00:00,GM0867,Waalwijk,Noord-Brabant,1285,48,45
+2020-11-08 10:00:00,GM0873,Woensdrecht,Noord-Brabant,531,10,15
+2020-11-08 10:00:00,GM0879,Zundert,Noord-Brabant,533,27,11
+2020-11-08 10:00:00,GM0880,Wormerland,Noord-Holland,370,22,12
+2020-11-08 10:00:00,GM0882,Landgraaf,Limburg,424,55,15
+2020-11-08 10:00:00,GM0888,Beek,Limburg,205,18,8
+2020-11-08 10:00:00,GM0889,Beesel,Limburg,226,21,8
+2020-11-08 10:00:00,GM0893,Bergen (L.),Limburg,242,10,3
+2020-11-08 10:00:00,GM0899,Brunssum,Limburg,371,50,21
+2020-11-08 10:00:00,GM0907,Gennep,Limburg,320,18,11
+2020-11-08 10:00:00,GM0917,Heerlen,Limburg,1215,132,56
+2020-11-08 10:00:00,GM0928,Kerkrade,Limburg,637,73,37
+2020-11-08 10:00:00,GM0935,Maastricht,Limburg,2279,203,141
+2020-11-08 10:00:00,GM0938,Meerssen,Limburg,259,23,13
+2020-11-08 10:00:00,GM0944,Mook en Middelaar,Limburg,195,8,6
+2020-11-08 10:00:00,GM0946,Nederweert,Limburg,353,34,7
+2020-11-08 10:00:00,GM0957,Roermond,Limburg,810,65,24
+2020-11-08 10:00:00,GM0965,Simpelveld,Limburg,124,19,5
+2020-11-08 10:00:00,GM0971,Stein,Limburg,335,49,16
+2020-11-08 10:00:00,GM0981,Vaals,Limburg,84,10,2
+2020-11-08 10:00:00,GM0983,Venlo,Limburg,2243,147,78
+2020-11-08 10:00:00,GM0984,Venray,Limburg,1070,43,23
+2020-11-08 10:00:00,GM0986,Voerendaal,Limburg,158,18,8
+2020-11-08 10:00:00,GM0988,Weert,Limburg,1039,75,19
+2020-11-08 10:00:00,GM0994,Valkenburg aan de Geul,Limburg,258,23,9
+2020-11-08 10:00:00,GM0995,Lelystad,Flevoland,1322,88,34
+2020-11-08 10:00:00,GM1507,Horst aan de Maas,Limburg,895,47,28
+2020-11-08 10:00:00,GM1509,Oude IJsselstreek,Gelderland,595,25,9
+2020-11-08 10:00:00,GM1525,Teylingen,Zuid-Holland,888,19,4
+2020-11-08 10:00:00,GM1581,Utrechtse Heuvelrug,Utrecht,1066,33,20
+2020-11-08 10:00:00,GM1586,Oost Gelre,Gelderland,692,21,18
+2020-11-08 10:00:00,GM1598,Koggenland,Noord-Holland,393,10,8
+2020-11-08 10:00:00,GM1621,Lansingerland,Zuid-Holland,1904,53,38
+2020-11-08 10:00:00,GM1640,Leudal,Limburg,563,55,38
+2020-11-08 10:00:00,GM1641,Maasgouw,Limburg,307,28,15
+2020-11-08 10:00:00,GM1652,Gemert-Bakel,Noord-Brabant,669,80,34
+2020-11-08 10:00:00,GM1655,Halderberge,Noord-Brabant,802,29,14
+2020-11-08 10:00:00,GM1658,Heeze-Leende,Noord-Brabant,404,18,9
+2020-11-08 10:00:00,GM1659,Laarbeek,Noord-Brabant,520,42,26
+2020-11-08 10:00:00,GM1667,Reusel-De Mierden,Noord-Brabant,504,15,4
+2020-11-08 10:00:00,GM1669,Roerdalen,Limburg,213,28,8
+2020-11-08 10:00:00,GM1674,Roosendaal,Noord-Brabant,2225,49,34
+2020-11-08 10:00:00,GM1676,Schouwen-Duiveland,Zeeland,435,13,14
+2020-11-08 10:00:00,GM1680,Aa en Hunze,Drenthe,237,1,1
+2020-11-08 10:00:00,GM1681,Borger-Odoorn,Drenthe,313,8,8
+2020-11-08 10:00:00,GM1684,Cuijk,Noord-Brabant,576,18,14
+2020-11-08 10:00:00,GM1685,Landerd,Noord-Brabant,501,42,21
+2020-11-08 10:00:00,GM1690,De Wolden,Drenthe,303,16,6
+2020-11-08 10:00:00,GM1695,Noord-Beveland,Zeeland,88,1,1
+2020-11-08 10:00:00,GM1696,Wijdemeren,Noord-Holland,511,14,5
+2020-11-08 10:00:00,GM1699,Noordenveld,Drenthe,261,7,14
+2020-11-08 10:00:00,GM1700,Twenterand,Overijssel,706,12,3
+2020-11-08 10:00:00,GM1701,Westerveld,Drenthe,152,9,5
+2020-11-08 10:00:00,GM1702,Sint Anthonis,Noord-Brabant,252,21,11
+2020-11-08 10:00:00,GM1705,Lingewaard,Gelderland,964,41,15
+2020-11-08 10:00:00,GM1706,Cranendonck,Noord-Brabant,587,65,36
+2020-11-08 10:00:00,GM1708,Steenwijkerland,Overijssel,476,16,10
+2020-11-08 10:00:00,GM1709,Moerdijk,Noord-Brabant,908,23,16
+2020-11-08 10:00:00,GM1711,Echt-Susteren,Limburg,342,43,19
+2020-11-08 10:00:00,GM1714,Sluis,Zeeland,206,12,4
+2020-11-08 10:00:00,GM1719,Drimmelen,Noord-Brabant,573,22,10
+2020-11-08 10:00:00,GM1721,Bernheze,Noord-Brabant,926,98,67
+2020-11-08 10:00:00,GM1723,Alphen-Chaam,Noord-Brabant,223,18,5
+2020-11-08 10:00:00,GM1724,Bergeijk,Noord-Brabant,531,20,5
+2020-11-08 10:00:00,GM1728,Bladel,Noord-Brabant,843,24,11
+2020-11-08 10:00:00,GM1729,Gulpen-Wittem,Limburg,270,26,16
+2020-11-08 10:00:00,GM1730,Tynaarlo,Drenthe,334,11,4
+2020-11-08 10:00:00,GM1731,Midden-Drenthe,Drenthe,367,6,0
+2020-11-08 10:00:00,GM1734,Overbetuwe,Gelderland,812,62,19
+2020-11-08 10:00:00,GM1735,Hof van Twente,Overijssel,741,21,7
+2020-11-08 10:00:00,GM1740,Neder-Betuwe,Gelderland,571,44,22
+2020-11-08 10:00:00,GM1742,Rijssen-Holten,Overijssel,946,30,29
+2020-11-08 10:00:00,GM1771,Geldrop-Mierlo,Noord-Brabant,866,37,17
+2020-11-08 10:00:00,GM1773,Olst-Wijhe,Overijssel,253,12,8
+2020-11-08 10:00:00,GM1774,Dinkelland,Overijssel,786,22,13
+2020-11-08 10:00:00,GM1783,Westland,Zuid-Holland,3018,78,34
+2020-11-08 10:00:00,GM1842,Midden-Delfland,Zuid-Holland,473,9,2
+2020-11-08 10:00:00,GM1859,Berkelland,Gelderland,918,22,16
+2020-11-08 10:00:00,GM1876,Bronckhorst,Gelderland,665,19,7
+2020-11-08 10:00:00,GM1883,Sittard-Geleen,Limburg,1208,129,66
+2020-11-08 10:00:00,GM1884,Kaag en Braassem,Zuid-Holland,573,9,3
+2020-11-08 10:00:00,GM1891,Dantumadiel,Friesland,153,2,0
+2020-11-08 10:00:00,GM1892,Zuidplas,Zuid-Holland,1288,37,23
+2020-11-08 10:00:00,GM1894,Peel en Maas,Limburg,931,146,65
+2020-11-08 10:00:00,GM1895,Oldambt,Groningen,261,11,5
+2020-11-08 10:00:00,GM1896,Zwartewaterland,Overijssel,472,35,22
+2020-11-08 10:00:00,GM1900,SÃºdwest-FryslÃ¢n,Friesland,1134,23,10
+2020-11-08 10:00:00,GM1901,Bodegraven-Reeuwijk,Zuid-Holland,838,17,11
+2020-11-08 10:00:00,GM1903,Eijsden-Margraten,Limburg,511,60,28
+2020-11-08 10:00:00,GM1904,Stichtse Vecht,Utrecht,1507,56,17
+2020-11-08 10:00:00,GM1911,Hollands Kroon,Noord-Holland,568,30,6
+2020-11-08 10:00:00,GM1916,Leidschendam-Voorburg,Zuid-Holland,1852,48,34
+2020-11-08 10:00:00,GM1924,Goeree-Overflakkee,Zuid-Holland,1172,64,39
+2020-11-08 10:00:00,GM1926,Pijnacker-Nootdorp,Zuid-Holland,1532,33,18
+2020-11-08 10:00:00,GM1930,Nissewaard,Zuid-Holland,2550,81,30
+2020-11-08 10:00:00,GM1931,Krimpenerwaard,Zuid-Holland,1523,64,39
+2020-11-08 10:00:00,GM1940,De Fryske Marren,Friesland,569,24,9
+2020-11-08 10:00:00,GM1942,Gooise Meren,Noord-Holland,1274,32,16
+2020-11-08 10:00:00,GM1945,Berg en Dal,Gelderland,985,42,30
+2020-11-08 10:00:00,GM1948,Meierijstad,Noord-Brabant,1890,220,138
+2020-11-08 10:00:00,GM1949,Waadhoeke,Friesland,480,15,17
+2020-11-08 10:00:00,GM1950,Westerwolde,Groningen,241,12,3
+2020-11-08 10:00:00,GM1952,Midden-Groningen,Groningen,448,10,5
+2020-11-08 10:00:00,GM1954,Beekdaelen,Limburg,520,52,26
+2020-11-08 10:00:00,GM1955,Montferland,Gelderland,608,25,10
+2020-11-08 10:00:00,GM1959,Altena,Noord-Brabant,1303,41,22
+2020-11-08 10:00:00,GM1960,West Betuwe,Gelderland,1085,58,30
+2020-11-08 10:00:00,GM1961,Vijfheerenlanden,Utrecht,1514,51,45
+2020-11-08 10:00:00,GM1963,Hoeksche Waard,Zuid-Holland,2242,85,31
+2020-11-08 10:00:00,GM1966,Het Hogeland,Groningen,458,9,6
+2020-11-08 10:00:00,GM1969,Westerkwartier,Groningen,491,20,7
+2020-11-08 10:00:00,GM1970,Noardeast-FryslÃ¢n,Friesland,339,9,4
+2020-11-08 10:00:00,GM1978,Molenlanden,Zuid-Holland,1106,20,12

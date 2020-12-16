@@ -1,358 +1,356 @@
-Gemnr,Gemeente,Aantal,BevAant,Aantal per 100.000 inwoners
--2,peildatum 25 maart 14:00,,,
--1,* Bij 213 personen is de woonplaats niet van bekend,99,,
-518,'s-Gravenhage,81,537833,15.1
-796,'s-Hertogenbosch,75,154205,48.6
-1680,Aa en Hunze,1,25386,3.9
-358,Aalsmeer,10,31728,31.5
-197,Aalten,2,27011,7.4
-59,Achtkarspelen,1,27852,3.6
-482,Alblasserdam,5,20069,24.9
-613,Albrandswaard,18,25271,71.2
-361,Alkmaar,24,108558,22.1
-141,Almelo,10,72849,13.7
-34,Almere,28,207904,13.5
-484,Alphen aan den Rijn,22,110986,19.8
-1723,Alphen-Chaam,16,10149,157.7
-1959,Altena,35,55386,63.2
-60,Ameland,0,3673,0
-307,Amersfoort,47,156286,30.1
-362,Amstelveen,35,90838,38.5
-363,Amsterdam,297,862965,34.4
-200,Apeldoorn,34,162445,20.9
-3,Appingedam,0,11721,0
-202,Arnhem,25,159265,15.7
-106,Assen,5,67963,7.4
-743,Asten,6,16710,35.9
-744,Baarle-Nassau,2,6847,29.2
-308,Baarn,4,24767,16.2
-489,Barendrecht,16,48673,32.9
-203,Barneveld,13,57971,22.4
-888,Beek,13,15929,81.6
-1954,Beekdaelen,30,35727,84
-370,Beemster,2,9748,20.5
-889,Beesel,7,13519,51.8
-1945,Berg en Dal,37,34798,106.3
-1724,Bergeijk,10,18491,54.1
-893,Bergen (L),1,13140,7.6
-373,Bergen (NH),12,29974,40
-748,Bergen op Zoom,12,66811,18
-1859,Berkelland,2,43904,4.6
-1721,Bernheze,69,30806,224
-753,Best,19,29821,63.7
-209,Beuningen,15,25882,58
-375,Beverwijk,11,41176,26.7
-1728,Bladel,15,20175,74.3
-376,Blaricum,5,11202,44.6
-377,Bloemendaal,13,23410,55.5
-1901,Bodegraven-Reeuwijk,5,34462,14.5
-755,Boekel,42,10588,396.7
-1681,Borger-Odoorn,0,25372,0
-147,Borne,11,23210,47.4
-654,Borsele,5,22800,21.9
-756,Boxmeer,9,29065,31
-757,Boxtel,15,30747,48.8
-758,Breda,181,183873,98.4
-501,Brielle,1,17182,5.8
-1876,Bronckhorst,7,36212,19.3
-213,Brummen,4,20698,19.3
-899,Brunssum,20,28103,71.2
-312,Bunnik,8,15192,52.7
-313,Bunschoten,3,21576,13.9
-214,Buren,7,26568,26.3
-502,Capelle aan den IJssel,23,66818,34.4
-383,Castricum,10,35772,28
-109,Coevorden,15,35483,42.3
-1706,Cranendonck,25,20440,122.3
-1684,Cuijk,8,24931,32.1
-216,Culemborg,8,28555,28
-148,Dalfsen,12,28499,42.1
-1891,Dantumadiel,0,18923,0
-310,De Bilt,32,42824,74.7
-1940,De Fryske Marren,9,51430,17.5
-736,De Ronde Venen,9,44059,20.4
-1690,De Wolden,3,24110,12.4
-503,Delft,21,103163,20.4
-10,Delfzijl,1,24716,4
-400,Den Helder,5,55604,9
-762,Deurne,30,32362,92.7
-150,Deventer,26,99957,26
-384,Diemen,6,29196,20.6
-1774,Dinkelland,20,26350,75.9
-221,Doesburg,5,11148,44.9
-222,Doetinchem,10,57555,17.4
-766,Dongen,6,26051,23
-505,Dordrecht,26,118654,21.9
-498,Drechterland,3,19597,15.3
-1719,Drimmelen,20,27150,73.7
-303,Dronten,11,40815,27
-225,Druten,7,18797,37.2
-226,Duiven,2,25332,7.9
-1711,Echt-Susteren,20,31638,63.2
-385,Edam-Volendam,9,36099,24.9
-228,Ede,26,115710,22.5
-317,Eemnes,1,9113,11
-770,Eersel,13,19110,68
-1903,Eijsden-Margraten,20,25658,77.9
-772,Eindhoven,80,231642,34.5
-230,Elburg,5,23086,21.7
-114,Emmen,8,107113,7.5
-388,Enkhuizen,13,18507,70.2
-153,Enschede,26,158986,16.4
-232,Epe,15,33145,45.3
-233,Ermelo,17,26858,63.3
-777,Etten-Leur,31,43774,70.8
-779,Geertruidenberg,11,21515,51.1
-1771,Geldrop-Mierlo,15,39595,37.9
-1652,Gemert-Bakel,68,30447,223.3
-907,Gennep,7,17071,41
-784,Gilze en Rijen,18,26431,68.1
-1924,Goeree-Overflakkee,44,49611,88.7
-664,Goes,4,37653,10.6
-785,Goirle,18,23793,75.7
-1942,Gooise Meren,18,57715,31.2
-512,Gorinchem,8,36682,21.8
-513,Gouda,18,73181,24.6
-786,Grave,11,12483,88.1
-14,Groningen,58,231299,25.1
-1729,Gulpen-Wittem,5,14246,35.1
-158,Haaksbergen,3,24277,12.4
-788,Haaren,12,14195,84.5
-392,Haarlem,46,161265,28.5
-394,Haarlemmermeer,23,154235,14.9
-1655,Halderberge,8,30194,26.5
-160,Hardenberg,7,60574,11.6
-243,Harderwijk,13,47581,27.3
-523,Hardinxveld-Giessendam,6,18051,33.2
-72,Harlingen,3,15758,19
-244,Hattem,3,12173,24.6
-396,Heemskerk,9,39164,23
-397,Heemstede,17,27286,62.3
-246,Heerde,19,18546,102.4
-74,Heerenveen,3,50257,6
-398,Heerhugowaard,16,56742,28.2
-917,Heerlen,53,86832,61
-1658,Heeze-Leende,10,15964,62.6
-399,Heiloo,9,23464,38.4
-163,Hellendoorn,7,35808,19.5
-530,Hellevoetsluis,5,40049,12.5
-794,Helmond,63,91524,68.8
-531,Hendrik-Ido-Ambacht,3,30966,9.7
-164,Hengelo (O),17,80683,21.1
-1966,Het Hogeland,4,47888,8.4
-252,Heumen,12,16486,72.8
-797,Heusden,20,44135,45.3
-534,Hillegom,3,21966,13.7
-798,Hilvarenbeek,10,15334,65.2
-402,Hilversum,16,90238,17.7
-1963,Hoeksche Waard,36,86656,41.5
-1735,Hof van Twente,6,34940,17.2
-1911,Hollands Kroon,10,47815,20.9
-118,Hoogeveen,7,55662,12.6
-405,Hoorn,14,73004,19.2
-1507,Horst aan de Maas,18,42291,42.6
-321,Houten,37,49911,74.1
-406,Huizen,7,41273,17
-677,Hulst,1,27524,3.6
-353,IJsselstein,18,34160,52.7
-1884,Kaag en Braassem,5,26866,18.6
-166,Kampen,30,53779,55.8
-678,Kapelle,2,12785,15.6
-537,Katwijk,7,65302,10.7
-928,Kerkrade,21,45642,46
-1598,Koggenland,5,22738,22
-542,Krimpen aan den IJssel,6,29376,20.4
-1931,Krimpenerwaard,16,56048,28.5
-1659,Laarbeek,19,22333,85.1
-1685,Landerd,25,15529,161
-882,Landgraaf,21,37591,55.9
-415,Landsmeer,6,11488,52.2
-416,Langedijk,12,27992,42.9
-1621,Lansingerland,25,61601,40.6
-417,Laren,4,11195,35.7
-80,Leeuwarden,12,123107,9.7
-546,Leiden,21,124899,16.8
-547,Leiderdorp,3,27109,11.1
-1916,Leidschendam-Voorburg,14,75425,18.6
-995,Lelystad,26,77893,33.4
-1640,Leudal,29,35681,81.3
-327,Leusden,13,30030,43.3
-1705,Lingewaard,14,46475,30.1
-553,Lisse,2,22800,8.8
-262,Lochem,6,33590,17.9
-809,Loon op Zand,20,23327,85.7
-331,Lopik,11,14473,76
-24,Loppersum,0,9614,0
-168,Losser,1,22622,4.4
-263,Maasdriel,3,24693,12.1
-1641,Maasgouw,10,23716,42.2
-556,Maassluis,7,32768,21.4
-935,Maastricht,112,121565,92.1
-420,Medemblik,4,44809,8.9
-938,Meerssen,8,18923,42.3
-1948,Meierijstad,149,80815,184.4
-119,Meppel,3,33564,8.9
-687,Middelburg,7,48544,14.4
-1842,Midden-Delfland,2,19391,10.3
-1731,Midden-Drenthe,1,33178,3
-1952,Midden-Groningen,2,60899,3.3
-815,Mill en Sint Hubert,5,10891,45.9
-1709,Moerdijk,5,36961,13.5
-1978,Molenlanden,16,43858,36.5
-1955,Montferland,3,36026,8.3
-335,Montfoort,5,13996,35.7
-944,Mook en Middelaar,5,7806,64.1
-1740,Neder-Betuwe,11,24034,45.8
-946,Nederweert,14,17001,82.3
-356,Nieuwegein,12,63036,19
-569,Nieuwkoop,6,28628,21
-267,Nijkerk,8,42943,18.6
-268,Nijmegen,108,176731,61.1
-1930,Nissewaard,19,84797,22.4
-1970,Noardeast-Fryslân,3,45181,6.6
-1695,Noord-Beveland,2,7308,27.4
-1699,Noordenveld,1,31290,3.2
-171,Noordoostpolder,5,46849,10.7
-575,Noordwijk,7,42859,16.3
-820,"Nuenen, Gerwen en Nederwetten",8,23186,34.5
-302,Nunspeet,29,27481,105.5
-579,Oegstgeest,9,24426,36.8
-823,Oirschot,6,18623,32.2
-824,Oisterwijk,18,26140,68.9
-1895,Oldambt,0,38129,0
-269,Oldebroek,12,23598,50.9
-173,Oldenzaal,13,31840,40.8
-1773,Olst-Wijhe,6,18071,33.2
-175,Ommen,7,17813,39.3
-1586,Oost Gelre,6,29704,20.2
-826,Oosterhout,26,55616,46.7
-85,Ooststellingwerf,1,25497,3.9
-431,Oostzaan,6,9757,61.5
-432,Opmeer,0,11779,0
-86,Opsterland,4,29723,13.5
-828,Oss,81,91451,88.6
-1509,Oude IJsselstreek,4,39473,10.1
-437,Ouder-Amstel,7,13916,50.3
-589,Oudewater,10,10201,98
-1734,Overbetuwe,38,47543,79.9
-590,Papendrecht,6,32290,18.6
-1894,Peel en Maas,88,43311,203.2
-765,Pekela,2,12214,16.4
-1926,Pijnacker-Nootdorp,16,54331,29.4
-439,Purmerend,32,80117,39.9
-273,Putten,5,24198,20.7
-177,Raalte,10,37511,26.7
-703,Reimerswaal,7,22678,30.9
-274,Renkum,12,31302,38.3
-339,Renswoude,0,5259,0
-1667,Reusel-De Mierden,1,13060,7.7
-275,Rheden,18,43640,41.2
-340,Rhenen,1,20004,5
-597,Ridderkerk,9,46241,19.5
-1742,Rijssen-Holten,9,38300,23.5
-603,Rijswijk,10,53467,18.7
-1669,Roerdalen,10,20615,48.5
-957,Roermond,28,58209,48.1
-1674,Roosendaal,20,77032,26
-599,Rotterdam,186,644618,28.9
-277,Rozendaal,2,1654,120.9
-840,Rucphen,6,22572,26.6
-441,Schagen,11,46553,23.6
-279,Scherpenzeel,2,9873,20.3
-606,Schiedam,14,77999,17.9
-88,Schiermonnikoog,0,936,0
-1676,Schouwen-Duiveland,6,33779,17.8
-965,Simpelveld,8,10516,76.1
-1702,Sint Anthonis,13,11606,112
-845,Sint-Michielsgestel,18,28991,62.1
-1883,Sittard-Geleen,86,92661,92.8
-610,Sliedrecht,5,25026,20
-1714,Sluis,5,23386,21.4
-90,Smallingerland,4,55938,7.2
-342,Soest,21,46194,45.5
-847,Someren,10,19322,51.8
-848,Son en Breugel,15,16904,88.7
-37,Stadskanaal,0,31789,0
-180,Staphorst,4,17003,23.5
-532,Stede Broec,13,21706,59.9
-851,Steenbergen,11,25054,43.9
-1708,Steenwijkerland,6,43940,13.7
-971,Stein,24,24961,96.1
-1904,Stichtse Vecht,22,64336,34.2
-1900,Súdwest-Fryslân,8,89710,8.9
-715,Terneuzen,10,54589,18.3
-93,Terschelling,0,4890,0
-448,Texel,3,13547,22.1
-1525,Teylingen,8,37061,21.6
-716,Tholen,13,25780,50.4
-281,Tiel,14,41978,33.4
-855,Tilburg,224,217259,103.1
-183,Tubbergen,4,21276,18.8
-1700,Twenterand,3,33792,8.9
-1730,Tynaarlo,13,33698,38.6
-737,Tytsjerksteradiel,2,31780,6.3
-856,Uden,94,41782,225
-450,Uitgeest,4,13528,29.6
-451,Uithoorn,5,29424,17
-184,Urk,7,20776,33.7
-344,Utrecht,191,352866,54.1
-1581,Utrechtse Heuvelrug,15,49515,30.3
-981,Vaals,4,10092,39.6
-994,Valkenburg aan de Geul,9,16470,54.6
-858,Valkenswaard,9,30910,29.1
-47,Veendam,1,27491,3.6
-345,Veenendaal,7,65589,10.7
-717,Veere,6,21835,27.5
-861,Veldhoven,18,45337,39.7
-453,Velsen,15,68348,21.9
-983,Venlo,47,101603,46.3
-984,Venray,17,43326,39.2
-1961,Vijfheerenlanden,21,55712,37.7
-622,Vlaardingen,22,72404,30.4
-96,Vlieland,0,1138,0
-718,Vlissingen,8,44371,18
-986,Voerendaal,6,12452,48.2
-626,Voorschoten,5,25479,19.6
-285,Voorst,6,24417,24.6
-865,Vught,22,26396,83.3
-1949,Waadhoeke,0,46039,0
-866,Waalre,2,17247,11.6
-867,Waalwijk,34,48240,70.5
-627,Waddinxveen,5,28316,17.7
-289,Wageningen,3,38774,7.7
-629,Wassenaar,5,26211,19.1
-852,Waterland,11,17315,63.5
-988,Weert,24,49842,48.2
-457,Weesp,6,19334,31
-1960,West Betuwe,19,50697,37.5
-668,West Maas en Waal,11,19076,57.7
-1969,Westerkwartier,9,63031,14.3
-1701,Westerveld,2,19348,10.3
-293,Westervoort,2,14944,13.4
-1950,Westerwolde,3,25199,11.9
-1783,Westland,28,108603,25.8
-98,Weststellingwerf,1,25840,3.9
-614,Westvoorne,8,14626,54.7
-189,Wierden,1,24351,4.1
-296,Wijchen,24,40951,58.6
-1696,Wijdemeren,3,24013,12.5
-352,Wijk bij Duurstede,6,23762,25.3
-294,Winterswijk,2,28903,6.9
-873,Woensdrecht,5,21866,22.9
-632,Woerden,22,52197,42.1
-880,Wormerland,3,16329,18.4
-351,Woudenberg,6,13166,45.6
-479,Zaanstad,29,155885,18.6
-297,Zaltbommel,7,28451,24.6
-473,Zandvoort,6,17011,35.3
-50,Zeewolde,5,22309,22.4
-355,Zeist,25,63934,39.1
-299,Zevenaar,10,43488,23
-637,Zoetermeer,13,124944,10.4
-638,Zoeterwoude,1,8450,11.8
-1892,Zuidplas,6,42762,14
-879,Zundert,14,21612,64.8
-301,Zutphen,8,47609,16.8
-1896,Zwartewaterland,30,22503,133.3
-642,Zwijndrecht,9,44639,20.2
-193,Zwolle,47,127497,36.9
+Date_of_report,Municipality_code,Municipality_name,Province,Total_reported,Hospital_admission,Deceased
+2020-03-25 10:00:00,GM0003,Appingedam,Groningen,0,0,0
+2020-03-25 10:00:00,GM0010,Delfzijl,Groningen,1,0,0
+2020-03-25 10:00:00,GM0014,Groningen,Groningen,59,1,0
+2020-03-25 10:00:00,GM0024,Loppersum,Groningen,0,0,0
+2020-03-25 10:00:00,GM0034,Almere,Flevoland,29,18,0
+2020-03-25 10:00:00,GM0037,Stadskanaal,Groningen,0,0,0
+2020-03-25 10:00:00,GM0047,Veendam,Groningen,1,0,0
+2020-03-25 10:00:00,GM0050,Zeewolde,Flevoland,5,2,0
+2020-03-25 10:00:00,GM0059,Achtkarspelen,Friesland,1,0,0
+2020-03-25 10:00:00,GM0060,Ameland,Friesland,0,0,0
+2020-03-25 10:00:00,GM0072,Harlingen,Friesland,3,1,0
+2020-03-25 10:00:00,GM0074,Heerenveen,Friesland,3,2,0
+2020-03-25 10:00:00,GM0080,Leeuwarden,Friesland,12,6,1
+2020-03-25 10:00:00,GM0085,Ooststellingwerf,Friesland,1,1,0
+2020-03-25 10:00:00,GM0086,Opsterland,Friesland,4,2,0
+2020-03-25 10:00:00,GM0088,Schiermonnikoog,Friesland,0,0,0
+2020-03-25 10:00:00,GM0090,Smallingerland,Friesland,4,1,0
+2020-03-25 10:00:00,GM0093,Terschelling,Friesland,0,0,0
+2020-03-25 10:00:00,GM0096,Vlieland,Friesland,0,0,0
+2020-03-25 10:00:00,GM0098,Weststellingwerf,Friesland,1,1,0
+2020-03-25 10:00:00,GM0106,Assen,Drenthe,5,1,0
+2020-03-25 10:00:00,GM0109,Coevorden,Drenthe,15,2,0
+2020-03-25 10:00:00,GM0114,Emmen,Drenthe,8,4,0
+2020-03-25 10:00:00,GM0118,Hoogeveen,Drenthe,7,2,0
+2020-03-25 10:00:00,GM0119,Meppel,Drenthe,3,0,0
+2020-03-25 10:00:00,GM0141,Almelo,Overijssel,10,3,0
+2020-03-25 10:00:00,GM0147,Borne,Overijssel,11,3,1
+2020-03-25 10:00:00,GM0148,Dalfsen,Overijssel,12,3,0
+2020-03-25 10:00:00,GM0150,Deventer,Overijssel,26,4,3
+2020-03-25 10:00:00,GM0153,Enschede,Overijssel,26,8,1
+2020-03-25 10:00:00,GM0158,Haaksbergen,Overijssel,3,0,0
+2020-03-25 10:00:00,GM0160,Hardenberg,Overijssel,7,2,0
+2020-03-25 10:00:00,GM0163,Hellendoorn,Overijssel,7,2,0
+2020-03-25 10:00:00,GM0164,Hengelo,Overijssel,17,3,0
+2020-03-25 10:00:00,GM0166,Kampen,Overijssel,30,2,0
+2020-03-25 10:00:00,GM0168,Losser,Overijssel,1,0,0
+2020-03-25 10:00:00,GM0171,Noordoostpolder,Flevoland,5,3,1
+2020-03-25 10:00:00,GM0173,Oldenzaal,Overijssel,13,4,0
+2020-03-25 10:00:00,GM0175,Ommen,Overijssel,7,2,0
+2020-03-25 10:00:00,GM0177,Raalte,Overijssel,10,5,0
+2020-03-25 10:00:00,GM0180,Staphorst,Overijssel,4,1,0
+2020-03-25 10:00:00,GM0183,Tubbergen,Overijssel,4,1,0
+2020-03-25 10:00:00,GM0184,Urk,Flevoland,7,6,0
+2020-03-25 10:00:00,GM0189,Wierden,Overijssel,2,0,0
+2020-03-25 10:00:00,GM0193,Zwolle,Overijssel,47,9,3
+2020-03-25 10:00:00,GM0197,Aalten,Gelderland,2,0,0
+2020-03-25 10:00:00,GM0200,Apeldoorn,Gelderland,35,12,2
+2020-03-25 10:00:00,GM0202,Arnhem,Gelderland,25,7,1
+2020-03-25 10:00:00,GM0203,Barneveld,Gelderland,13,2,1
+2020-03-25 10:00:00,GM0209,Beuningen,Gelderland,15,4,1
+2020-03-25 10:00:00,GM0213,Brummen,Gelderland,4,2,1
+2020-03-25 10:00:00,GM0214,Buren,Gelderland,7,2,0
+2020-03-25 10:00:00,GM0216,Culemborg,Gelderland,8,4,0
+2020-03-25 10:00:00,GM0221,Doesburg,Gelderland,5,2,1
+2020-03-25 10:00:00,GM0222,Doetinchem,Gelderland,10,3,2
+2020-03-25 10:00:00,GM0225,Druten,Gelderland,7,4,0
+2020-03-25 10:00:00,GM0226,Duiven,Gelderland,2,0,0
+2020-03-25 10:00:00,GM0228,Ede,Gelderland,27,8,0
+2020-03-25 10:00:00,GM0230,Elburg,Gelderland,5,1,0
+2020-03-25 10:00:00,GM0232,Epe,Gelderland,16,4,0
+2020-03-25 10:00:00,GM0233,Ermelo,Gelderland,17,4,1
+2020-03-25 10:00:00,GM0243,Harderwijk,Gelderland,14,4,2
+2020-03-25 10:00:00,GM0244,Hattem,Gelderland,3,0,0
+2020-03-25 10:00:00,GM0246,Heerde,Gelderland,19,13,2
+2020-03-25 10:00:00,GM0252,Heumen,Gelderland,12,2,1
+2020-03-25 10:00:00,GM0262,Lochem,Gelderland,6,0,0
+2020-03-25 10:00:00,GM0263,Maasdriel,Gelderland,3,2,1
+2020-03-25 10:00:00,GM0267,Nijkerk,Gelderland,9,3,1
+2020-03-25 10:00:00,GM0268,Nijmegen,Gelderland,114,30,4
+2020-03-25 10:00:00,GM0269,Oldebroek,Gelderland,13,3,1
+2020-03-25 10:00:00,GM0273,Putten,Gelderland,5,1,0
+2020-03-25 10:00:00,GM0274,Renkum,Gelderland,12,3,0
+2020-03-25 10:00:00,GM0275,Rheden,Gelderland,18,6,1
+2020-03-25 10:00:00,GM0277,Rozendaal,Gelderland,2,1,0
+2020-03-25 10:00:00,GM0279,Scherpenzeel,Gelderland,3,0,0
+2020-03-25 10:00:00,GM0281,Tiel,Gelderland,14,6,1
+2020-03-25 10:00:00,GM0285,Voorst,Gelderland,6,1,0
+2020-03-25 10:00:00,GM0289,Wageningen,Gelderland,3,2,0
+2020-03-25 10:00:00,GM0293,Westervoort,Gelderland,2,0,0
+2020-03-25 10:00:00,GM0294,Winterswijk,Gelderland,2,1,0
+2020-03-25 10:00:00,GM0296,Wijchen,Gelderland,25,16,0
+2020-03-25 10:00:00,GM0297,Zaltbommel,Gelderland,7,3,0
+2020-03-25 10:00:00,GM0299,Zevenaar,Gelderland,10,5,1
+2020-03-25 10:00:00,GM0301,Zutphen,Gelderland,9,4,2
+2020-03-25 10:00:00,GM0302,Nunspeet,Gelderland,30,9,2
+2020-03-25 10:00:00,GM0303,Dronten,Flevoland,11,6,1
+2020-03-25 10:00:00,GM0307,Amersfoort,Utrecht,47,13,2
+2020-03-25 10:00:00,GM0308,Baarn,Utrecht,4,1,0
+2020-03-25 10:00:00,GM0310,De Bilt,Utrecht,34,6,1
+2020-03-25 10:00:00,GM0312,Bunnik,Utrecht,8,2,0
+2020-03-25 10:00:00,GM0313,Bunschoten,Utrecht,3,0,0
+2020-03-25 10:00:00,GM0317,Eemnes,Utrecht,1,0,0
+2020-03-25 10:00:00,GM0321,Houten,Utrecht,37,1,0
+2020-03-25 10:00:00,GM0327,Leusden,Utrecht,13,3,2
+2020-03-25 10:00:00,GM0331,Lopik,Utrecht,11,6,0
+2020-03-25 10:00:00,GM0335,Montfoort,Utrecht,5,1,0
+2020-03-25 10:00:00,GM0339,Renswoude,Utrecht,0,0,0
+2020-03-25 10:00:00,GM0340,Rhenen,Utrecht,1,0,0
+2020-03-25 10:00:00,GM0342,Soest,Utrecht,21,3,0
+2020-03-25 10:00:00,GM0344,Utrecht,Utrecht,193,27,3
+2020-03-25 10:00:00,GM0345,Veenendaal,Utrecht,7,3,1
+2020-03-25 10:00:00,GM0351,Woudenberg,Utrecht,6,1,0
+2020-03-25 10:00:00,GM0352,Wijk bij Duurstede,Utrecht,6,3,0
+2020-03-25 10:00:00,GM0353,IJsselstein,Utrecht,18,6,2
+2020-03-25 10:00:00,GM0355,Zeist,Utrecht,25,1,0
+2020-03-25 10:00:00,GM0356,Nieuwegein,Utrecht,12,3,0
+2020-03-25 10:00:00,GM0358,Aalsmeer,Noord-Holland,10,0,0
+2020-03-25 10:00:00,GM0361,Alkmaar,Noord-Holland,24,8,0
+2020-03-25 10:00:00,GM0362,Amstelveen,Noord-Holland,36,5,0
+2020-03-25 10:00:00,GM0363,Amsterdam,Noord-Holland,299,85,5
+2020-03-25 10:00:00,GM0370,Beemster,Noord-Holland,2,1,0
+2020-03-25 10:00:00,GM0373,Bergen (NH.),Noord-Holland,12,2,0
+2020-03-25 10:00:00,GM0375,Beverwijk,Noord-Holland,11,3,0
+2020-03-25 10:00:00,GM0376,Blaricum,Noord-Holland,5,1,0
+2020-03-25 10:00:00,GM0377,Bloemendaal,Noord-Holland,13,2,0
+2020-03-25 10:00:00,GM0383,Castricum,Noord-Holland,10,3,0
+2020-03-25 10:00:00,GM0384,Diemen,Noord-Holland,9,3,0
+2020-03-25 10:00:00,GM0385,Edam-Volendam,Noord-Holland,9,4,0
+2020-03-25 10:00:00,GM0388,Enkhuizen,Noord-Holland,13,5,1
+2020-03-25 10:00:00,GM0392,Haarlem,Noord-Holland,46,10,3
+2020-03-25 10:00:00,GM0394,Haarlemmermeer,Noord-Holland,23,9,2
+2020-03-25 10:00:00,GM0396,Heemskerk,Noord-Holland,9,5,0
+2020-03-25 10:00:00,GM0397,Heemstede,Noord-Holland,17,2,1
+2020-03-25 10:00:00,GM0398,Heerhugowaard,Noord-Holland,16,6,2
+2020-03-25 10:00:00,GM0399,Heiloo,Noord-Holland,9,1,1
+2020-03-25 10:00:00,GM0400,Den Helder,Noord-Holland,5,2,0
+2020-03-25 10:00:00,GM0402,Hilversum,Noord-Holland,16,4,0
+2020-03-25 10:00:00,GM0405,Hoorn,Noord-Holland,17,8,1
+2020-03-25 10:00:00,GM0406,Huizen,Noord-Holland,7,1,0
+2020-03-25 10:00:00,GM0415,Landsmeer,Noord-Holland,6,2,0
+2020-03-25 10:00:00,GM0416,Langedijk,Noord-Holland,12,5,0
+2020-03-25 10:00:00,GM0417,Laren,Noord-Holland,4,2,0
+2020-03-25 10:00:00,GM0420,Medemblik,Noord-Holland,4,0,0
+2020-03-25 10:00:00,GM0431,Oostzaan,Noord-Holland,6,1,0
+2020-03-25 10:00:00,GM0432,Opmeer,Noord-Holland,0,0,0
+2020-03-25 10:00:00,GM0437,Ouder-Amstel,Noord-Holland,8,2,0
+2020-03-25 10:00:00,GM0439,Purmerend,Noord-Holland,32,10,1
+2020-03-25 10:00:00,GM0441,Schagen,Noord-Holland,11,3,0
+2020-03-25 10:00:00,GM0448,Texel,Noord-Holland,3,1,0
+2020-03-25 10:00:00,GM0450,Uitgeest,Noord-Holland,4,1,0
+2020-03-25 10:00:00,GM0451,Uithoorn,Noord-Holland,5,3,0
+2020-03-25 10:00:00,GM0453,Velsen,Noord-Holland,15,7,1
+2020-03-25 10:00:00,GM0457,Weesp,Noord-Holland,6,0,1
+2020-03-25 10:00:00,GM0473,Zandvoort,Noord-Holland,6,4,1
+2020-03-25 10:00:00,GM0479,Zaanstad,Noord-Holland,30,12,2
+2020-03-25 10:00:00,GM0482,Alblasserdam,Zuid-Holland,5,1,0
+2020-03-25 10:00:00,GM0484,Alphen aan den Rijn,Zuid-Holland,22,8,1
+2020-03-25 10:00:00,GM0489,Barendrecht,Zuid-Holland,16,5,0
+2020-03-25 10:00:00,GM0498,Drechterland,Noord-Holland,4,2,0
+2020-03-25 10:00:00,GM0501,Brielle,Zuid-Holland,1,0,0
+2020-03-25 10:00:00,GM0502,Capelle aan den IJssel,Zuid-Holland,23,5,0
+2020-03-25 10:00:00,GM0503,Delft,Zuid-Holland,22,14,0
+2020-03-25 10:00:00,GM0505,Dordrecht,Zuid-Holland,26,10,0
+2020-03-25 10:00:00,GM0512,Gorinchem,Zuid-Holland,10,4,0
+2020-03-25 10:00:00,GM0513,Gouda,Zuid-Holland,18,6,1
+2020-03-25 10:00:00,GM0518,'s-Gravenhage,Zuid-Holland,83,28,0
+2020-03-25 10:00:00,GM0523,Hardinxveld-Giessendam,Zuid-Holland,6,0,0
+2020-03-25 10:00:00,GM0530,Hellevoetsluis,Zuid-Holland,5,1,0
+2020-03-25 10:00:00,GM0531,Hendrik-Ido-Ambacht,Zuid-Holland,4,2,0
+2020-03-25 10:00:00,GM0532,Stede Broec,Noord-Holland,13,5,1
+2020-03-25 10:00:00,GM0534,Hillegom,Zuid-Holland,4,1,0
+2020-03-25 10:00:00,GM0537,Katwijk,Zuid-Holland,7,2,0
+2020-03-25 10:00:00,GM0542,Krimpen aan den IJssel,Zuid-Holland,6,0,0
+2020-03-25 10:00:00,GM0546,Leiden,Zuid-Holland,21,7,0
+2020-03-25 10:00:00,GM0547,Leiderdorp,Zuid-Holland,3,1,0
+2020-03-25 10:00:00,GM0553,Lisse,Zuid-Holland,2,1,0
+2020-03-25 10:00:00,GM0556,Maassluis,Zuid-Holland,7,5,0
+2020-03-25 10:00:00,GM0569,Nieuwkoop,Zuid-Holland,6,2,0
+2020-03-25 10:00:00,GM0575,Noordwijk,Zuid-Holland,8,3,0
+2020-03-25 10:00:00,GM0579,Oegstgeest,Zuid-Holland,9,2,0
+2020-03-25 10:00:00,GM0589,Oudewater,Utrecht,10,3,1
+2020-03-25 10:00:00,GM0590,Papendrecht,Zuid-Holland,6,0,0
+2020-03-25 10:00:00,GM0597,Ridderkerk,Zuid-Holland,9,5,1
+2020-03-25 10:00:00,GM0599,Rotterdam,Zuid-Holland,188,48,2
+2020-03-25 10:00:00,GM0603,Rijswijk,Zuid-Holland,11,8,0
+2020-03-25 10:00:00,GM0606,Schiedam,Zuid-Holland,14,7,1
+2020-03-25 10:00:00,GM0610,Sliedrecht,Zuid-Holland,5,1,0
+2020-03-25 10:00:00,GM0613,Albrandswaard,Zuid-Holland,18,2,0
+2020-03-25 10:00:00,GM0614,Westvoorne,Zuid-Holland,8,2,0
+2020-03-25 10:00:00,GM0622,Vlaardingen,Zuid-Holland,22,4,0
+2020-03-25 10:00:00,GM0626,Voorschoten,Zuid-Holland,5,1,0
+2020-03-25 10:00:00,GM0627,Waddinxveen,Zuid-Holland,5,1,0
+2020-03-25 10:00:00,GM0629,Wassenaar,Zuid-Holland,6,2,0
+2020-03-25 10:00:00,GM0632,Woerden,Utrecht,22,8,0
+2020-03-25 10:00:00,GM0637,Zoetermeer,Zuid-Holland,14,9,2
+2020-03-25 10:00:00,GM0638,Zoeterwoude,Zuid-Holland,1,0,0
+2020-03-25 10:00:00,GM0642,Zwijndrecht,Zuid-Holland,9,1,1
+2020-03-25 10:00:00,GM0654,Borsele,Zeeland,5,3,0
+2020-03-25 10:00:00,GM0664,Goes,Zeeland,4,0,0
+2020-03-25 10:00:00,GM0668,West Maas en Waal,Gelderland,11,4,0
+2020-03-25 10:00:00,GM0677,Hulst,Zeeland,1,1,0
+2020-03-25 10:00:00,GM0678,Kapelle,Zeeland,2,1,0
+2020-03-25 10:00:00,GM0687,Middelburg,Zeeland,7,6,0
+2020-03-25 10:00:00,GM0703,Reimerswaal,Zeeland,7,4,1
+2020-03-25 10:00:00,GM0715,Terneuzen,Zeeland,10,7,1
+2020-03-25 10:00:00,GM0716,Tholen,Zeeland,13,8,1
+2020-03-25 10:00:00,GM0717,Veere,Zeeland,6,2,0
+2020-03-25 10:00:00,GM0718,Vlissingen,Zeeland,8,2,0
+2020-03-25 10:00:00,GM0736,De Ronde Venen,Utrecht,9,3,0
+2020-03-25 10:00:00,GM0737,Tytsjerksteradiel,Friesland,2,0,0
+2020-03-25 10:00:00,GM0743,Asten,Noord-Brabant,6,3,2
+2020-03-25 10:00:00,GM0744,Baarle-Nassau,Noord-Brabant,4,0,0
+2020-03-25 10:00:00,GM0748,Bergen op Zoom,Noord-Brabant,12,7,2
+2020-03-25 10:00:00,GM0753,Best,Noord-Brabant,19,3,1
+2020-03-25 10:00:00,GM0755,Boekel,Noord-Brabant,42,12,4
+2020-03-25 10:00:00,GM0756,Boxmeer,Noord-Brabant,9,2,0
+2020-03-25 10:00:00,GM0757,Boxtel,Noord-Brabant,16,1,2
+2020-03-25 10:00:00,GM0758,Breda,Noord-Brabant,182,72,14
+2020-03-25 10:00:00,GM0762,Deurne,Noord-Brabant,30,8,4
+2020-03-25 10:00:00,GM0765,Pekela,Groningen,2,2,0
+2020-03-25 10:00:00,GM0766,Dongen,Noord-Brabant,9,0,0
+2020-03-25 10:00:00,GM0770,Eersel,Noord-Brabant,13,2,0
+2020-03-25 10:00:00,GM0772,Eindhoven,Noord-Brabant,82,4,2
+2020-03-25 10:00:00,GM0777,Etten-Leur,Noord-Brabant,31,12,3
+2020-03-25 10:00:00,GM0779,Geertruidenberg,Noord-Brabant,11,6,0
+2020-03-25 10:00:00,GM0784,Gilze en Rijen,Noord-Brabant,18,1,0
+2020-03-25 10:00:00,GM0785,Goirle,Noord-Brabant,18,3,3
+2020-03-25 10:00:00,GM0786,Grave,Noord-Brabant,11,2,1
+2020-03-25 10:00:00,GM0788,Haaren,Noord-Brabant,12,6,3
+2020-03-25 10:00:00,GM0794,Helmond,Noord-Brabant,63,9,5
+2020-03-25 10:00:00,GM0796,'s-Hertogenbosch,Noord-Brabant,75,17,8
+2020-03-25 10:00:00,GM0797,Heusden,Noord-Brabant,20,4,3
+2020-03-25 10:00:00,GM0798,Hilvarenbeek,Noord-Brabant,10,1,0
+2020-03-25 10:00:00,GM0809,Loon op Zand,Noord-Brabant,20,4,2
+2020-03-25 10:00:00,GM0815,Mill en Sint Hubert,Noord-Brabant,5,0,0
+2020-03-25 10:00:00,GM0820,"Nuenen, Gerwen en Nederwetten",Noord-Brabant,8,1,2
+2020-03-25 10:00:00,GM0823,Oirschot,Noord-Brabant,6,0,0
+2020-03-25 10:00:00,GM0824,Oisterwijk,Noord-Brabant,19,2,0
+2020-03-25 10:00:00,GM0826,Oosterhout,Noord-Brabant,26,14,1
+2020-03-25 10:00:00,GM0828,Oss,Noord-Brabant,81,20,7
+2020-03-25 10:00:00,GM0840,Rucphen,Noord-Brabant,6,1,0
+2020-03-25 10:00:00,GM0845,Sint-Michielsgestel,Noord-Brabant,18,4,1
+2020-03-25 10:00:00,GM0847,Someren,Noord-Brabant,10,3,1
+2020-03-25 10:00:00,GM0848,Son en Breugel,Noord-Brabant,15,4,2
+2020-03-25 10:00:00,GM0851,Steenbergen,Noord-Brabant,11,4,1
+2020-03-25 10:00:00,GM0852,Waterland,Noord-Holland,11,4,0
+2020-03-25 10:00:00,GM0855,Tilburg,Noord-Brabant,224,37,29
+2020-03-25 10:00:00,GM0856,Uden,Noord-Brabant,94,21,11
+2020-03-25 10:00:00,GM0858,Valkenswaard,Noord-Brabant,9,1,0
+2020-03-25 10:00:00,GM0861,Veldhoven,Noord-Brabant,18,1,0
+2020-03-25 10:00:00,GM0865,Vught,Noord-Brabant,22,6,2
+2020-03-25 10:00:00,GM0866,Waalre,Noord-Brabant,2,0,0
+2020-03-25 10:00:00,GM0867,Waalwijk,Noord-Brabant,34,3,3
+2020-03-25 10:00:00,GM0873,Woensdrecht,Noord-Brabant,5,3,0
+2020-03-25 10:00:00,GM0879,Zundert,Noord-Brabant,14,9,1
+2020-03-25 10:00:00,GM0880,Wormerland,Noord-Holland,3,1,0
+2020-03-25 10:00:00,GM0882,Landgraaf,Limburg,21,7,1
+2020-03-25 10:00:00,GM0888,Beek,Limburg,13,0,0
+2020-03-25 10:00:00,GM0889,Beesel,Limburg,7,4,0
+2020-03-25 10:00:00,GM0893,Bergen (L.),Limburg,1,0,0
+2020-03-25 10:00:00,GM0899,Brunssum,Limburg,20,7,2
+2020-03-25 10:00:00,GM0907,Gennep,Limburg,7,2,1
+2020-03-25 10:00:00,GM0917,Heerlen,Limburg,53,20,9
+2020-03-25 10:00:00,GM0928,Kerkrade,Limburg,21,5,2
+2020-03-25 10:00:00,GM0935,Maastricht,Limburg,112,19,4
+2020-03-25 10:00:00,GM0938,Meerssen,Limburg,8,3,2
+2020-03-25 10:00:00,GM0944,Mook en Middelaar,Limburg,5,0,0
+2020-03-25 10:00:00,GM0946,Nederweert,Limburg,14,10,0
+2020-03-25 10:00:00,GM0957,Roermond,Limburg,28,16,3
+2020-03-25 10:00:00,GM0965,Simpelveld,Limburg,8,2,0
+2020-03-25 10:00:00,GM0971,Stein,Limburg,24,9,0
+2020-03-25 10:00:00,GM0981,Vaals,Limburg,4,1,0
+2020-03-25 10:00:00,GM0983,Venlo,Limburg,47,29,5
+2020-03-25 10:00:00,GM0984,Venray,Limburg,17,8,1
+2020-03-25 10:00:00,GM0986,Voerendaal,Limburg,6,2,1
+2020-03-25 10:00:00,GM0988,Weert,Limburg,24,12,2
+2020-03-25 10:00:00,GM0994,Valkenburg aan de Geul,Limburg,9,1,0
+2020-03-25 10:00:00,GM0995,Lelystad,Flevoland,26,17,2
+2020-03-25 10:00:00,GM1507,Horst aan de Maas,Limburg,18,11,2
+2020-03-25 10:00:00,GM1509,Oude IJsselstreek,Gelderland,4,1,0
+2020-03-25 10:00:00,GM1525,Teylingen,Zuid-Holland,8,2,0
+2020-03-25 10:00:00,GM1581,Utrechtse Heuvelrug,Utrecht,15,1,0
+2020-03-25 10:00:00,GM1586,Oost Gelre,Gelderland,7,2,0
+2020-03-25 10:00:00,GM1598,Koggenland,Noord-Holland,5,1,0
+2020-03-25 10:00:00,GM1621,Lansingerland,Zuid-Holland,25,9,0
+2020-03-25 10:00:00,GM1640,Leudal,Limburg,29,18,1
+2020-03-25 10:00:00,GM1641,Maasgouw,Limburg,10,6,2
+2020-03-25 10:00:00,GM1652,Gemert-Bakel,Noord-Brabant,68,13,1
+2020-03-25 10:00:00,GM1655,Halderberge,Noord-Brabant,8,6,1
+2020-03-25 10:00:00,GM1658,Heeze-Leende,Noord-Brabant,11,2,0
+2020-03-25 10:00:00,GM1659,Laarbeek,Noord-Brabant,19,4,3
+2020-03-25 10:00:00,GM1667,Reusel-De Mierden,Noord-Brabant,1,0,0
+2020-03-25 10:00:00,GM1669,Roerdalen,Limburg,10,6,0
+2020-03-25 10:00:00,GM1674,Roosendaal,Noord-Brabant,20,9,0
+2020-03-25 10:00:00,GM1676,Schouwen-Duiveland,Zeeland,6,3,0
+2020-03-25 10:00:00,GM1680,Aa en Hunze,Drenthe,1,0,0
+2020-03-25 10:00:00,GM1681,Borger-Odoorn,Drenthe,0,0,0
+2020-03-25 10:00:00,GM1684,Cuijk,Noord-Brabant,8,0,0
+2020-03-25 10:00:00,GM1685,Landerd,Noord-Brabant,25,8,3
+2020-03-25 10:00:00,GM1690,De Wolden,Drenthe,3,1,0
+2020-03-25 10:00:00,GM1695,Noord-Beveland,Zeeland,2,0,0
+2020-03-25 10:00:00,GM1696,Wijdemeren,Noord-Holland,3,2,0
+2020-03-25 10:00:00,GM1699,Noordenveld,Drenthe,1,1,1
+2020-03-25 10:00:00,GM1700,Twenterand,Overijssel,3,2,0
+2020-03-25 10:00:00,GM1701,Westerveld,Drenthe,2,1,1
+2020-03-25 10:00:00,GM1702,Sint Anthonis,Noord-Brabant,13,4,1
+2020-03-25 10:00:00,GM1705,Lingewaard,Gelderland,14,5,0
+2020-03-25 10:00:00,GM1706,Cranendonck,Noord-Brabant,25,1,2
+2020-03-25 10:00:00,GM1708,Steenwijkerland,Overijssel,6,3,0
+2020-03-25 10:00:00,GM1709,Moerdijk,Noord-Brabant,5,2,0
+2020-03-25 10:00:00,GM1711,Echt-Susteren,Limburg,21,13,4
+2020-03-25 10:00:00,GM1714,Sluis,Zeeland,5,3,2
+2020-03-25 10:00:00,GM1719,Drimmelen,Noord-Brabant,20,8,0
+2020-03-25 10:00:00,GM1721,Bernheze,Noord-Brabant,69,16,5
+2020-03-25 10:00:00,GM1723,Alphen-Chaam,Noord-Brabant,17,7,0
+2020-03-25 10:00:00,GM1724,Bergeijk,Noord-Brabant,10,0,0
+2020-03-25 10:00:00,GM1728,Bladel,Noord-Brabant,15,4,2
+2020-03-25 10:00:00,GM1729,Gulpen-Wittem,Limburg,5,1,0
+2020-03-25 10:00:00,GM1730,Tynaarlo,Drenthe,14,2,0
+2020-03-25 10:00:00,GM1731,Midden-Drenthe,Drenthe,1,0,0
+2020-03-25 10:00:00,GM1734,Overbetuwe,Gelderland,38,20,2
+2020-03-25 10:00:00,GM1735,Hof van Twente,Overijssel,6,2,1
+2020-03-25 10:00:00,GM1740,Neder-Betuwe,Gelderland,11,8,1
+2020-03-25 10:00:00,GM1742,Rijssen-Holten,Overijssel,9,2,0
+2020-03-25 10:00:00,GM1771,Geldrop-Mierlo,Noord-Brabant,16,2,1
+2020-03-25 10:00:00,GM1773,Olst-Wijhe,Overijssel,6,1,1
+2020-03-25 10:00:00,GM1774,Dinkelland,Overijssel,20,4,1
+2020-03-25 10:00:00,GM1783,Westland,Zuid-Holland,28,13,0
+2020-03-25 10:00:00,GM1842,Midden-Delfland,Zuid-Holland,2,0,0
+2020-03-25 10:00:00,GM1859,Berkelland,Gelderland,3,1,0
+2020-03-25 10:00:00,GM1876,Bronckhorst,Gelderland,7,1,0
+2020-03-25 10:00:00,GM1883,Sittard-Geleen,Limburg,87,19,11
+2020-03-25 10:00:00,GM1884,Kaag en Braassem,Zuid-Holland,5,1,0
+2020-03-25 10:00:00,GM1891,Dantumadiel,Friesland,0,0,0
+2020-03-25 10:00:00,GM1892,Zuidplas,Zuid-Holland,6,2,0
+2020-03-25 10:00:00,GM1894,Peel en Maas,Limburg,89,54,10
+2020-03-25 10:00:00,GM1895,Oldambt,Groningen,0,0,0
+2020-03-25 10:00:00,GM1896,Zwartewaterland,Overijssel,30,6,3
+2020-03-25 10:00:00,GM1900,SÃºdwest-FryslÃ¢n,Friesland,8,5,0
+2020-03-25 10:00:00,GM1901,Bodegraven-Reeuwijk,Zuid-Holland,5,1,0
+2020-03-25 10:00:00,GM1903,Eijsden-Margraten,Limburg,20,1,0
+2020-03-25 10:00:00,GM1904,Stichtse Vecht,Utrecht,22,4,1
+2020-03-25 10:00:00,GM1911,Hollands Kroon,Noord-Holland,10,6,0
+2020-03-25 10:00:00,GM1916,Leidschendam-Voorburg,Zuid-Holland,14,5,0
+2020-03-25 10:00:00,GM1924,Goeree-Overflakkee,Zuid-Holland,44,7,0
+2020-03-25 10:00:00,GM1926,Pijnacker-Nootdorp,Zuid-Holland,16,5,0
+2020-03-25 10:00:00,GM1930,Nissewaard,Zuid-Holland,19,7,3
+2020-03-25 10:00:00,GM1931,Krimpenerwaard,Zuid-Holland,16,8,1
+2020-03-25 10:00:00,GM1940,De Fryske Marren,Friesland,9,3,0
+2020-03-25 10:00:00,GM1942,Gooise Meren,Noord-Holland,18,6,0
+2020-03-25 10:00:00,GM1945,Berg en Dal,Gelderland,32,4,1
+2020-03-25 10:00:00,GM1948,Meierijstad,Noord-Brabant,149,41,34
+2020-03-25 10:00:00,GM1949,Waadhoeke,Friesland,0,0,0
+2020-03-25 10:00:00,GM1950,Westerwolde,Groningen,3,3,0
+2020-03-25 10:00:00,GM1952,Midden-Groningen,Groningen,2,0,0
+2020-03-25 10:00:00,GM1954,Beekdaelen,Limburg,30,12,5
+2020-03-25 10:00:00,GM1955,Montferland,Gelderland,3,1,0
+2020-03-25 10:00:00,GM1959,Altena,Noord-Brabant,36,12,0
+2020-03-25 10:00:00,GM1960,West Betuwe,Gelderland,19,4,0
+2020-03-25 10:00:00,GM1961,Vijfheerenlanden,Utrecht,21,4,0
+2020-03-25 10:00:00,GM1963,Hoeksche Waard,Zuid-Holland,39,12,2
+2020-03-25 10:00:00,GM1966,Het Hogeland,Groningen,4,1,0
+2020-03-25 10:00:00,GM1969,Westerkwartier,Groningen,10,3,0
+2020-03-25 10:00:00,GM1970,Noardeast-FryslÃ¢n,Friesland,3,2,0
+2020-03-25 10:00:00,GM1978,Molenlanden,Zuid-Holland,17,2,0
