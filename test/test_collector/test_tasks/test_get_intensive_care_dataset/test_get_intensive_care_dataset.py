@@ -15,6 +15,10 @@ class TestGetIntensiveCareDatasetRun:
     def config(self):
         return create_config()
 
+    @property
+    def intensive_care_response(self):
+        return create_intensive_care_response()
+
     @mock.patch.object(GetIntensiveCareDataset, "run")
     def test_run_valid_input(self, mock_run):
         task = GetIntensiveCareDataset(self.config["collector"], Client(), Store())
@@ -44,7 +48,7 @@ class TestGetIntensiveCareDatasetRun:
     @mock.patch.object(Client, "get")
     @mock.patch.object(GetIntensiveCareDataset, "_write")
     def test_run(self, mock_write, mock_get):
-        response = create_intensive_care_response()
+        response = self.intensive_care_response
         mock_get.side_effect = response
 
         task = GetIntensiveCareDataset(self.config["collector"], Client(), Store())
