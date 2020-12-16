@@ -81,21 +81,6 @@ class CleanMunicipalityDataset:
             data["Gemeentecode"] = data["Gemeentecode"].astype(int)
             data["PositiefGetest"] = data["PositiefGetest"].astype(int)
 
-            # Fix invalid datasets
-            invalid_datasets = [
-                "2020-03-31",
-                "2020-04-01",
-                "2020-04-02",
-                "2020-04-03",
-                "2020-04-04",
-                "2020-04-05",
-                "2020-04-06",
-                "2020-04-07",
-            ]
-
-            if file[:-4] in invalid_datasets:
-                data = data.rename(columns={"PositiefGetest": "Opgenomen"})
-
             # Store dataset
             path = f"{inputs['output_folder']}/{file}"
 

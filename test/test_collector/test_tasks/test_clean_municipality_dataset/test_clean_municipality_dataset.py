@@ -132,18 +132,6 @@ class TestCleanMunicipalityDatasetRun:
                     "Datum": ["1970-01-01"],
                 },
             ),
-            (
-                "2020-03-31",
-                {"id": [1], "Gemeente": ["gemeente 1"], "PositiefGetest": [100]},
-                {
-                    "Gemeentecode": [1],
-                    "Opgenomen": [100],
-                    "Gemeente": ["gemeente 1"],
-                    "Provinciecode": [2],
-                    "Provincie": ["provincie 2"],
-                    "Datum": ["2020-03-31"],
-                },
-            ),
         ],
     )
     def test_run(
