@@ -15,6 +15,10 @@ class TestGetNationalDatasetRun:
     def config(self):
         return create_config()
 
+    @property
+    def national_response(self):
+        return create_national_response()
+
     @mock.patch.object(GetNationalDataset, "run")
     def test_run_valid_input(self, mock_run):
         task = GetNationalDataset(self.config["collector"], Client(), Store())
@@ -44,7 +48,7 @@ class TestGetNationalDatasetRun:
     @mock.patch.object(Client, "get")
     @mock.patch.object(GetNationalDataset, "_write")
     def test_run(self, mock_write, mock_get):
-        mock_get.return_value = create_national_response()
+        mock_get.return_value = self.national_response
 
         task = GetNationalDataset(self.config["collector"], Client(), Store())
         task(output_folder="raw")

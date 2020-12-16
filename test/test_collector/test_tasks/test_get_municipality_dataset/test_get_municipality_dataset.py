@@ -15,6 +15,10 @@ class TestGetMunicipalityDatasetRun:
     def config(self):
         return create_config()
 
+    @property
+    def municipality_response(self):
+        return create_municipality_response()
+
     @mock.patch.object(GetMunicipalityDataset, "run")
     def test_run_valid_input(self, mock_run):
         task = GetMunicipalityDataset(self.config["collector"], Client(), Store())
@@ -44,7 +48,7 @@ class TestGetMunicipalityDatasetRun:
     @mock.patch.object(Client, "get")
     @mock.patch.object(GetMunicipalityDataset, "_write")
     def test_run(self, mock_write, mock_get):
-        mock_get.return_value = create_municipality_response()
+        mock_get.return_value = self.municipality_response
 
         task = GetMunicipalityDataset(self.config["collector"], Client(), Store())
         task(output_folder="raw")
