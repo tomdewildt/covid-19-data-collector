@@ -8,10 +8,6 @@ from collector.schema import obj, string, validate
 log = logging.getLogger(__name__)
 
 
-class GetMunicipalityDatasetError(Exception):
-    pass
-
-
 class GetMunicipalityDataset:
     inputs_schema = obj(output_folder=string())
 

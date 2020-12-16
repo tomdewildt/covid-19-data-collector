@@ -8,10 +8,6 @@ from collector.schema import obj, string, validate
 log = logging.getLogger(__name__)
 
 
-class GetNationalDatasetError(Exception):
-    pass
-
-
 class GetNationalDataset:
     inputs_schema = obj(output_folder=string())
 
