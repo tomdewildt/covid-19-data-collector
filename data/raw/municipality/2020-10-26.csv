@@ -1,0 +1,356 @@
+Date_of_report,Municipality_code,Municipality_name,Province,Total_reported,Hospital_admission,Deceased
+2020-10-26 10:00:00,GM0003,Appingedam,Groningen,45,7,0
+2020-10-26 10:00:00,GM0010,Delfzijl,Groningen,125,7,0
+2020-10-26 10:00:00,GM0014,Groningen,Groningen,3200,32,4
+2020-10-26 10:00:00,GM0024,Loppersum,Groningen,42,0,0
+2020-10-26 10:00:00,GM0034,Almere,Flevoland,3391,165,39
+2020-10-26 10:00:00,GM0037,Stadskanaal,Groningen,226,7,2
+2020-10-26 10:00:00,GM0047,Veendam,Groningen,164,2,1
+2020-10-26 10:00:00,GM0050,Zeewolde,Flevoland,240,13,6
+2020-10-26 10:00:00,GM0059,Achtkarspelen,Friesland,171,0,0
+2020-10-26 10:00:00,GM0060,Ameland,Friesland,35,0,0
+2020-10-26 10:00:00,GM0072,Harlingen,Friesland,86,4,1
+2020-10-26 10:00:00,GM0074,Heerenveen,Friesland,370,16,22
+2020-10-26 10:00:00,GM0080,Leeuwarden,Friesland,1309,45,8
+2020-10-26 10:00:00,GM0085,Ooststellingwerf,Friesland,152,5,1
+2020-10-26 10:00:00,GM0086,Opsterland,Friesland,170,8,0
+2020-10-26 10:00:00,GM0088,Schiermonnikoog,Friesland,2,1,0
+2020-10-26 10:00:00,GM0090,Smallingerland,Friesland,365,12,7
+2020-10-26 10:00:00,GM0093,Terschelling,Friesland,56,1,1
+2020-10-26 10:00:00,GM0096,Vlieland,Friesland,16,0,0
+2020-10-26 10:00:00,GM0098,Weststellingwerf,Friesland,192,3,5
+2020-10-26 10:00:00,GM0106,Assen,Drenthe,590,14,3
+2020-10-26 10:00:00,GM0109,Coevorden,Drenthe,299,14,2
+2020-10-26 10:00:00,GM0114,Emmen,Drenthe,1319,46,22
+2020-10-26 10:00:00,GM0118,Hoogeveen,Drenthe,558,27,12
+2020-10-26 10:00:00,GM0119,Meppel,Drenthe,266,11,5
+2020-10-26 10:00:00,GM0141,Almelo,Overijssel,1057,32,14
+2020-10-26 10:00:00,GM0147,Borne,Overijssel,334,16,6
+2020-10-26 10:00:00,GM0148,Dalfsen,Overijssel,407,17,7
+2020-10-26 10:00:00,GM0150,Deventer,Overijssel,1286,50,39
+2020-10-26 10:00:00,GM0153,Enschede,Overijssel,2324,68,33
+2020-10-26 10:00:00,GM0158,Haaksbergen,Overijssel,462,17,10
+2020-10-26 10:00:00,GM0160,Hardenberg,Overijssel,622,24,10
+2020-10-26 10:00:00,GM0163,Hellendoorn,Overijssel,434,13,14
+2020-10-26 10:00:00,GM0164,Hengelo,Overijssel,1305,39,24
+2020-10-26 10:00:00,GM0166,Kampen,Overijssel,647,60,37
+2020-10-26 10:00:00,GM0168,Losser,Overijssel,346,11,2
+2020-10-26 10:00:00,GM0171,Noordoostpolder,Flevoland,394,19,11
+2020-10-26 10:00:00,GM0173,Oldenzaal,Overijssel,602,16,14
+2020-10-26 10:00:00,GM0175,Ommen,Overijssel,172,9,4
+2020-10-26 10:00:00,GM0177,Raalte,Overijssel,497,25,23
+2020-10-26 10:00:00,GM0180,Staphorst,Overijssel,301,8,4
+2020-10-26 10:00:00,GM0183,Tubbergen,Overijssel,613,12,6
+2020-10-26 10:00:00,GM0184,Urk,Flevoland,147,23,4
+2020-10-26 10:00:00,GM0189,Wierden,Overijssel,448,7,6
+2020-10-26 10:00:00,GM0193,Zwolle,Overijssel,1367,54,50
+2020-10-26 10:00:00,GM0197,Aalten,Gelderland,332,13,7
+2020-10-26 10:00:00,GM0200,Apeldoorn,Gelderland,1671,113,54
+2020-10-26 10:00:00,GM0202,Arnhem,Gelderland,2141,88,35
+2020-10-26 10:00:00,GM0203,Barneveld,Gelderland,769,24,11
+2020-10-26 10:00:00,GM0209,Beuningen,Gelderland,342,20,6
+2020-10-26 10:00:00,GM0213,Brummen,Gelderland,168,19,6
+2020-10-26 10:00:00,GM0214,Buren,Gelderland,329,23,8
+2020-10-26 10:00:00,GM0216,Culemborg,Gelderland,492,27,9
+2020-10-26 10:00:00,GM0221,Doesburg,Gelderland,163,11,7
+2020-10-26 10:00:00,GM0222,Doetinchem,Gelderland,664,32,16
+2020-10-26 10:00:00,GM0225,Druten,Gelderland,279,28,9
+2020-10-26 10:00:00,GM0226,Duiven,Gelderland,318,16,6
+2020-10-26 10:00:00,GM0228,Ede,Gelderland,1735,72,28
+2020-10-26 10:00:00,GM0230,Elburg,Gelderland,281,28,8
+2020-10-26 10:00:00,GM0232,Epe,Gelderland,374,52,23
+2020-10-26 10:00:00,GM0233,Ermelo,Gelderland,334,33,23
+2020-10-26 10:00:00,GM0243,Harderwijk,Gelderland,630,47,21
+2020-10-26 10:00:00,GM0244,Hattem,Gelderland,131,18,5
+2020-10-26 10:00:00,GM0246,Heerde,Gelderland,299,55,28
+2020-10-26 10:00:00,GM0252,Heumen,Gelderland,326,19,13
+2020-10-26 10:00:00,GM0262,Lochem,Gelderland,366,17,15
+2020-10-26 10:00:00,GM0263,Maasdriel,Gelderland,329,17,8
+2020-10-26 10:00:00,GM0267,Nijkerk,Gelderland,685,26,4
+2020-10-26 10:00:00,GM0268,Nijmegen,Gelderland,3372,172,78
+2020-10-26 10:00:00,GM0269,Oldebroek,Gelderland,273,40,19
+2020-10-26 10:00:00,GM0273,Putten,Gelderland,225,11,1
+2020-10-26 10:00:00,GM0274,Renkum,Gelderland,446,17,10
+2020-10-26 10:00:00,GM0275,Rheden,Gelderland,487,35,15
+2020-10-26 10:00:00,GM0277,Rozendaal,Gelderland,11,1,0
+2020-10-26 10:00:00,GM0279,Scherpenzeel,Gelderland,142,5,2
+2020-10-26 10:00:00,GM0281,Tiel,Gelderland,716,48,22
+2020-10-26 10:00:00,GM0285,Voorst,Gelderland,245,18,11
+2020-10-26 10:00:00,GM0289,Wageningen,Gelderland,583,23,19
+2020-10-26 10:00:00,GM0293,Westervoort,Gelderland,153,12,6
+2020-10-26 10:00:00,GM0294,Winterswijk,Gelderland,238,9,4
+2020-10-26 10:00:00,GM0296,Wijchen,Gelderland,603,50,15
+2020-10-26 10:00:00,GM0297,Zaltbommel,Gelderland,395,23,10
+2020-10-26 10:00:00,GM0299,Zevenaar,Gelderland,477,54,17
+2020-10-26 10:00:00,GM0301,Zutphen,Gelderland,434,34,13
+2020-10-26 10:00:00,GM0302,Nunspeet,Gelderland,399,61,22
+2020-10-26 10:00:00,GM0303,Dronten,Flevoland,337,39,14
+2020-10-26 10:00:00,GM0307,Amersfoort,Utrecht,2510,91,28
+2020-10-26 10:00:00,GM0308,Baarn,Utrecht,378,15,9
+2020-10-26 10:00:00,GM0310,De Bilt,Utrecht,856,33,24
+2020-10-26 10:00:00,GM0312,Bunnik,Utrecht,239,12,1
+2020-10-26 10:00:00,GM0313,Bunschoten,Utrecht,490,16,8
+2020-10-26 10:00:00,GM0317,Eemnes,Utrecht,117,2,1
+2020-10-26 10:00:00,GM0321,Houten,Utrecht,802,33,17
+2020-10-26 10:00:00,GM0327,Leusden,Utrecht,445,11,9
+2020-10-26 10:00:00,GM0331,Lopik,Utrecht,275,22,8
+2020-10-26 10:00:00,GM0335,Montfoort,Utrecht,222,15,7
+2020-10-26 10:00:00,GM0339,Renswoude,Utrecht,73,5,5
+2020-10-26 10:00:00,GM0340,Rhenen,Utrecht,307,13,6
+2020-10-26 10:00:00,GM0342,Soest,Utrecht,937,33,15
+2020-10-26 10:00:00,GM0344,Utrecht,Utrecht,9256,350,124
+2020-10-26 10:00:00,GM0345,Veenendaal,Utrecht,1321,56,16
+2020-10-26 10:00:00,GM0351,Woudenberg,Utrecht,191,9,2
+2020-10-26 10:00:00,GM0352,Wijk bij Duurstede,Utrecht,315,13,4
+2020-10-26 10:00:00,GM0353,IJsselstein,Utrecht,647,42,35
+2020-10-26 10:00:00,GM0355,Zeist,Utrecht,1161,44,27
+2020-10-26 10:00:00,GM0356,Nieuwegein,Utrecht,1019,53,15
+2020-10-26 10:00:00,GM0358,Aalsmeer,Noord-Holland,569,11,6
+2020-10-26 10:00:00,GM0361,Alkmaar,Noord-Holland,1316,64,32
+2020-10-26 10:00:00,GM0362,Amstelveen,Noord-Holland,2013,74,45
+2020-10-26 10:00:00,GM0363,Amsterdam,Noord-Holland,27799,988,324
+2020-10-26 10:00:00,GM0370,Beemster,Noord-Holland,113,4,1
+2020-10-26 10:00:00,GM0373,Bergen (NH.),Noord-Holland,514,22,12
+2020-10-26 10:00:00,GM0375,Beverwijk,Noord-Holland,637,20,13
+2020-10-26 10:00:00,GM0376,Blaricum,Noord-Holland,173,8,2
+2020-10-26 10:00:00,GM0377,Bloemendaal,Noord-Holland,349,10,6
+2020-10-26 10:00:00,GM0383,Castricum,Noord-Holland,395,18,10
+2020-10-26 10:00:00,GM0384,Diemen,Noord-Holland,924,24,14
+2020-10-26 10:00:00,GM0385,Edam-Volendam,Noord-Holland,856,38,4
+2020-10-26 10:00:00,GM0388,Enkhuizen,Noord-Holland,161,20,4
+2020-10-26 10:00:00,GM0392,Haarlem,Noord-Holland,2588,104,75
+2020-10-26 10:00:00,GM0394,Haarlemmermeer,Noord-Holland,2816,94,38
+2020-10-26 10:00:00,GM0396,Heemskerk,Noord-Holland,576,34,14
+2020-10-26 10:00:00,GM0397,Heemstede,Noord-Holland,407,15,35
+2020-10-26 10:00:00,GM0398,Heerhugowaard,Noord-Holland,650,29,9
+2020-10-26 10:00:00,GM0399,Heiloo,Noord-Holland,245,12,9
+2020-10-26 10:00:00,GM0400,Den Helder,Noord-Holland,357,15,2
+2020-10-26 10:00:00,GM0402,Hilversum,Noord-Holland,1417,39,26
+2020-10-26 10:00:00,GM0405,Hoorn,Noord-Holland,840,39,14
+2020-10-26 10:00:00,GM0406,Huizen,Noord-Holland,778,28,10
+2020-10-26 10:00:00,GM0415,Landsmeer,Noord-Holland,196,5,3
+2020-10-26 10:00:00,GM0416,Langedijk,Noord-Holland,353,21,7
+2020-10-26 10:00:00,GM0417,Laren,Noord-Holland,187,10,3
+2020-10-26 10:00:00,GM0420,Medemblik,Noord-Holland,416,19,6
+2020-10-26 10:00:00,GM0431,Oostzaan,Noord-Holland,236,12,2
+2020-10-26 10:00:00,GM0432,Opmeer,Noord-Holland,101,1,2
+2020-10-26 10:00:00,GM0437,Ouder-Amstel,Noord-Holland,366,8,0
+2020-10-26 10:00:00,GM0439,Purmerend,Noord-Holland,1224,83,38
+2020-10-26 10:00:00,GM0441,Schagen,Noord-Holland,461,20,10
+2020-10-26 10:00:00,GM0448,Texel,Noord-Holland,80,6,2
+2020-10-26 10:00:00,GM0450,Uitgeest,Noord-Holland,206,7,1
+2020-10-26 10:00:00,GM0451,Uithoorn,Noord-Holland,535,21,3
+2020-10-26 10:00:00,GM0453,Velsen,Noord-Holland,1107,46,44
+2020-10-26 10:00:00,GM0457,Weesp,Noord-Holland,520,10,14
+2020-10-26 10:00:00,GM0473,Zandvoort,Noord-Holland,233,12,9
+2020-10-26 10:00:00,GM0479,Zaanstad,Noord-Holland,3112,154,59
+2020-10-26 10:00:00,GM0482,Alblasserdam,Zuid-Holland,520,11,7
+2020-10-26 10:00:00,GM0484,Alphen aan den Rijn,Zuid-Holland,2051,84,32
+2020-10-26 10:00:00,GM0489,Barendrecht,Zuid-Holland,1318,49,16
+2020-10-26 10:00:00,GM0498,Drechterland,Noord-Holland,246,6,8
+2020-10-26 10:00:00,GM0501,Brielle,Zuid-Holland,304,16,0
+2020-10-26 10:00:00,GM0502,Capelle aan den IJssel,Zuid-Holland,1673,68,65
+2020-10-26 10:00:00,GM0503,Delft,Zuid-Holland,2417,47,15
+2020-10-26 10:00:00,GM0505,Dordrecht,Zuid-Holland,2620,97,76
+2020-10-26 10:00:00,GM0512,Gorinchem,Zuid-Holland,700,19,16
+2020-10-26 10:00:00,GM0513,Gouda,Zuid-Holland,1702,64,48
+2020-10-26 10:00:00,GM0518,'s-Gravenhage,Zuid-Holland,15180,568,318
+2020-10-26 10:00:00,GM0523,Hardinxveld-Giessendam,Zuid-Holland,293,2,2
+2020-10-26 10:00:00,GM0530,Hellevoetsluis,Zuid-Holland,619,21,7
+2020-10-26 10:00:00,GM0531,Hendrik-Ido-Ambacht,Zuid-Holland,673,13,6
+2020-10-26 10:00:00,GM0532,Stede Broec,Noord-Holland,207,19,5
+2020-10-26 10:00:00,GM0534,Hillegom,Zuid-Holland,362,8,2
+2020-10-26 10:00:00,GM0537,Katwijk,Zuid-Holland,1448,43,18
+2020-10-26 10:00:00,GM0542,Krimpen aan den IJssel,Zuid-Holland,722,18,10
+2020-10-26 10:00:00,GM0546,Leiden,Zuid-Holland,2629,59,25
+2020-10-26 10:00:00,GM0547,Leiderdorp,Zuid-Holland,491,23,7
+2020-10-26 10:00:00,GM0553,Lisse,Zuid-Holland,320,11,4
+2020-10-26 10:00:00,GM0556,Maassluis,Zuid-Holland,818,30,11
+2020-10-26 10:00:00,GM0569,Nieuwkoop,Zuid-Holland,406,13,6
+2020-10-26 10:00:00,GM0575,Noordwijk,Zuid-Holland,716,29,4
+2020-10-26 10:00:00,GM0579,Oegstgeest,Zuid-Holland,399,11,3
+2020-10-26 10:00:00,GM0589,Oudewater,Utrecht,193,30,11
+2020-10-26 10:00:00,GM0590,Papendrecht,Zuid-Holland,556,9,9
+2020-10-26 10:00:00,GM0597,Ridderkerk,Zuid-Holland,1075,44,19
+2020-10-26 10:00:00,GM0599,Rotterdam,Zuid-Holland,21365,798,420
+2020-10-26 10:00:00,GM0603,Rijswijk,Zuid-Holland,1271,60,35
+2020-10-26 10:00:00,GM0606,Schiedam,Zuid-Holland,2198,74,27
+2020-10-26 10:00:00,GM0610,Sliedrecht,Zuid-Holland,393,9,5
+2020-10-26 10:00:00,GM0613,Albrandswaard,Zuid-Holland,717,17,9
+2020-10-26 10:00:00,GM0614,Westvoorne,Zuid-Holland,269,6,0
+2020-10-26 10:00:00,GM0622,Vlaardingen,Zuid-Holland,2064,57,34
+2020-10-26 10:00:00,GM0626,Voorschoten,Zuid-Holland,378,11,11
+2020-10-26 10:00:00,GM0627,Waddinxveen,Zuid-Holland,566,26,7
+2020-10-26 10:00:00,GM0629,Wassenaar,Zuid-Holland,451,10,13
+2020-10-26 10:00:00,GM0632,Woerden,Utrecht,835,62,22
+2020-10-26 10:00:00,GM0637,Zoetermeer,Zuid-Holland,2382,67,18
+2020-10-26 10:00:00,GM0638,Zoeterwoude,Zuid-Holland,137,4,1
+2020-10-26 10:00:00,GM0642,Zwijndrecht,Zuid-Holland,1066,29,30
+2020-10-26 10:00:00,GM0654,Borsele,Zeeland,134,5,1
+2020-10-26 10:00:00,GM0664,Goes,Zeeland,362,14,13
+2020-10-26 10:00:00,GM0668,West Maas en Waal,Gelderland,264,23,10
+2020-10-26 10:00:00,GM0677,Hulst,Zeeland,221,11,5
+2020-10-26 10:00:00,GM0678,Kapelle,Zeeland,80,3,1
+2020-10-26 10:00:00,GM0687,Middelburg,Zeeland,296,21,10
+2020-10-26 10:00:00,GM0703,Reimerswaal,Zeeland,187,6,2
+2020-10-26 10:00:00,GM0715,Terneuzen,Zeeland,392,25,4
+2020-10-26 10:00:00,GM0716,Tholen,Zeeland,378,43,19
+2020-10-26 10:00:00,GM0717,Veere,Zeeland,112,8,2
+2020-10-26 10:00:00,GM0718,Vlissingen,Zeeland,280,10,5
+2020-10-26 10:00:00,GM0736,De Ronde Venen,Utrecht,782,47,14
+2020-10-26 10:00:00,GM0737,Tytsjerksteradiel,Friesland,218,7,3
+2020-10-26 10:00:00,GM0743,Asten,Noord-Brabant,237,18,12
+2020-10-26 10:00:00,GM0744,Baarle-Nassau,Noord-Brabant,90,9,2
+2020-10-26 10:00:00,GM0748,Bergen op Zoom,Noord-Brabant,1558,45,15
+2020-10-26 10:00:00,GM0753,Best,Noord-Brabant,411,35,12
+2020-10-26 10:00:00,GM0755,Boekel,Noord-Brabant,174,36,20
+2020-10-26 10:00:00,GM0756,Boxmeer,Noord-Brabant,464,20,28
+2020-10-26 10:00:00,GM0757,Boxtel,Noord-Brabant,434,24,26
+2020-10-26 10:00:00,GM0758,Breda,Noord-Brabant,3300,176,79
+2020-10-26 10:00:00,GM0762,Deurne,Noord-Brabant,630,58,26
+2020-10-26 10:00:00,GM0765,Pekela,Groningen,68,5,0
+2020-10-26 10:00:00,GM0766,Dongen,Noord-Brabant,385,24,13
+2020-10-26 10:00:00,GM0770,Eersel,Noord-Brabant,434,29,10
+2020-10-26 10:00:00,GM0772,Eindhoven,Noord-Brabant,3594,208,101
+2020-10-26 10:00:00,GM0777,Etten-Leur,Noord-Brabant,831,48,31
+2020-10-26 10:00:00,GM0779,Geertruidenberg,Noord-Brabant,283,14,6
+2020-10-26 10:00:00,GM0784,Gilze en Rijen,Noord-Brabant,403,21,16
+2020-10-26 10:00:00,GM0785,Goirle,Noord-Brabant,401,33,20
+2020-10-26 10:00:00,GM0786,Grave,Noord-Brabant,247,21,11
+2020-10-26 10:00:00,GM0788,Haaren,Noord-Brabant,235,20,8
+2020-10-26 10:00:00,GM0794,Helmond,Noord-Brabant,1993,124,46
+2020-10-26 10:00:00,GM0796,'s-Hertogenbosch,Noord-Brabant,2465,149,86
+2020-10-26 10:00:00,GM0797,Heusden,Noord-Brabant,735,49,26
+2020-10-26 10:00:00,GM0798,Hilvarenbeek,Noord-Brabant,273,12,8
+2020-10-26 10:00:00,GM0809,Loon op Zand,Noord-Brabant,371,29,16
+2020-10-26 10:00:00,GM0815,Mill en Sint Hubert,Noord-Brabant,216,9,5
+2020-10-26 10:00:00,GM0820,"Nuenen, Gerwen en Nederwetten",Noord-Brabant,348,19,10
+2020-10-26 10:00:00,GM0823,Oirschot,Noord-Brabant,359,17,9
+2020-10-26 10:00:00,GM0824,Oisterwijk,Noord-Brabant,362,27,12
+2020-10-26 10:00:00,GM0826,Oosterhout,Noord-Brabant,853,52,17
+2020-10-26 10:00:00,GM0828,Oss,Noord-Brabant,1953,175,93
+2020-10-26 10:00:00,GM0840,Rucphen,Noord-Brabant,441,14,10
+2020-10-26 10:00:00,GM0845,Sint-Michielsgestel,Noord-Brabant,518,37,19
+2020-10-26 10:00:00,GM0847,Someren,Noord-Brabant,258,34,8
+2020-10-26 10:00:00,GM0848,Son en Breugel,Noord-Brabant,250,31,14
+2020-10-26 10:00:00,GM0851,Steenbergen,Noord-Brabant,430,18,13
+2020-10-26 10:00:00,GM0852,Waterland,Noord-Holland,326,20,6
+2020-10-26 10:00:00,GM0855,Tilburg,Noord-Brabant,3776,268,173
+2020-10-26 10:00:00,GM0856,Uden,Noord-Brabant,604,115,63
+2020-10-26 10:00:00,GM0858,Valkenswaard,Noord-Brabant,627,23,37
+2020-10-26 10:00:00,GM0861,Veldhoven,Noord-Brabant,799,37,19
+2020-10-26 10:00:00,GM0865,Vught,Noord-Brabant,410,43,17
+2020-10-26 10:00:00,GM0866,Waalre,Noord-Brabant,261,8,8
+2020-10-26 10:00:00,GM0867,Waalwijk,Noord-Brabant,808,43,39
+2020-10-26 10:00:00,GM0873,Woensdrecht,Noord-Brabant,364,9,9
+2020-10-26 10:00:00,GM0879,Zundert,Noord-Brabant,390,24,11
+2020-10-26 10:00:00,GM0880,Wormerland,Noord-Holland,266,21,12
+2020-10-26 10:00:00,GM0882,Landgraaf,Limburg,315,54,14
+2020-10-26 10:00:00,GM0888,Beek,Limburg,146,17,7
+2020-10-26 10:00:00,GM0889,Beesel,Limburg,168,20,8
+2020-10-26 10:00:00,GM0893,Bergen (L.),Limburg,157,9,2
+2020-10-26 10:00:00,GM0899,Brunssum,Limburg,295,50,21
+2020-10-26 10:00:00,GM0907,Gennep,Limburg,205,17,10
+2020-10-26 10:00:00,GM0917,Heerlen,Limburg,872,130,55
+2020-10-26 10:00:00,GM0928,Kerkrade,Limburg,480,68,37
+2020-10-26 10:00:00,GM0935,Maastricht,Limburg,1835,198,140
+2020-10-26 10:00:00,GM0938,Meerssen,Limburg,206,23,13
+2020-10-26 10:00:00,GM0944,Mook en Middelaar,Limburg,146,7,5
+2020-10-26 10:00:00,GM0946,Nederweert,Limburg,226,33,7
+2020-10-26 10:00:00,GM0957,Roermond,Limburg,570,65,24
+2020-10-26 10:00:00,GM0965,Simpelveld,Limburg,87,19,5
+2020-10-26 10:00:00,GM0971,Stein,Limburg,239,46,15
+2020-10-26 10:00:00,GM0981,Vaals,Limburg,63,10,2
+2020-10-26 10:00:00,GM0983,Venlo,Limburg,1650,139,70
+2020-10-26 10:00:00,GM0984,Venray,Limburg,754,40,20
+2020-10-26 10:00:00,GM0986,Voerendaal,Limburg,110,17,8
+2020-10-26 10:00:00,GM0988,Weert,Limburg,637,70,16
+2020-10-26 10:00:00,GM0994,Valkenburg aan de Geul,Limburg,204,20,8
+2020-10-26 10:00:00,GM0995,Lelystad,Flevoland,944,81,32
+2020-10-26 10:00:00,GM1507,Horst aan de Maas,Limburg,625,41,28
+2020-10-26 10:00:00,GM1509,Oude IJsselstreek,Gelderland,369,24,9
+2020-10-26 10:00:00,GM1525,Teylingen,Zuid-Holland,639,18,4
+2020-10-26 10:00:00,GM1581,Utrechtse Heuvelrug,Utrecht,851,32,17
+2020-10-26 10:00:00,GM1586,Oost Gelre,Gelderland,439,21,11
+2020-10-26 10:00:00,GM1598,Koggenland,Noord-Holland,251,8,8
+2020-10-26 10:00:00,GM1621,Lansingerland,Zuid-Holland,1436,49,32
+2020-10-26 10:00:00,GM1640,Leudal,Limburg,407,54,33
+2020-10-26 10:00:00,GM1641,Maasgouw,Limburg,234,28,15
+2020-10-26 10:00:00,GM1652,Gemert-Bakel,Noord-Brabant,502,79,32
+2020-10-26 10:00:00,GM1655,Halderberge,Noord-Brabant,534,23,12
+2020-10-26 10:00:00,GM1658,Heeze-Leende,Noord-Brabant,293,18,8
+2020-10-26 10:00:00,GM1659,Laarbeek,Noord-Brabant,373,42,26
+2020-10-26 10:00:00,GM1667,Reusel-De Mierden,Noord-Brabant,371,15,2
+2020-10-26 10:00:00,GM1669,Roerdalen,Limburg,133,27,8
+2020-10-26 10:00:00,GM1674,Roosendaal,Noord-Brabant,1459,45,27
+2020-10-26 10:00:00,GM1676,Schouwen-Duiveland,Zeeland,310,12,13
+2020-10-26 10:00:00,GM1680,Aa en Hunze,Drenthe,205,1,1
+2020-10-26 10:00:00,GM1681,Borger-Odoorn,Drenthe,237,8,6
+2020-10-26 10:00:00,GM1684,Cuijk,Noord-Brabant,385,13,10
+2020-10-26 10:00:00,GM1685,Landerd,Noord-Brabant,389,42,21
+2020-10-26 10:00:00,GM1690,De Wolden,Drenthe,215,14,5
+2020-10-26 10:00:00,GM1695,Noord-Beveland,Zeeland,58,1,1
+2020-10-26 10:00:00,GM1696,Wijdemeren,Noord-Holland,398,12,1
+2020-10-26 10:00:00,GM1699,Noordenveld,Drenthe,236,6,14
+2020-10-26 10:00:00,GM1700,Twenterand,Overijssel,385,12,2
+2020-10-26 10:00:00,GM1701,Westerveld,Drenthe,101,9,4
+2020-10-26 10:00:00,GM1702,Sint Anthonis,Noord-Brabant,199,21,11
+2020-10-26 10:00:00,GM1705,Lingewaard,Gelderland,694,38,12
+2020-10-26 10:00:00,GM1706,Cranendonck,Noord-Brabant,445,63,36
+2020-10-26 10:00:00,GM1708,Steenwijkerland,Overijssel,379,15,8
+2020-10-26 10:00:00,GM1709,Moerdijk,Noord-Brabant,588,19,10
+2020-10-26 10:00:00,GM1711,Echt-Susteren,Limburg,247,43,19
+2020-10-26 10:00:00,GM1714,Sluis,Zeeland,78,9,4
+2020-10-26 10:00:00,GM1719,Drimmelen,Noord-Brabant,357,21,9
+2020-10-26 10:00:00,GM1721,Bernheze,Noord-Brabant,653,97,66
+2020-10-26 10:00:00,GM1723,Alphen-Chaam,Noord-Brabant,164,18,5
+2020-10-26 10:00:00,GM1724,Bergeijk,Noord-Brabant,385,20,5
+2020-10-26 10:00:00,GM1728,Bladel,Noord-Brabant,627,23,9
+2020-10-26 10:00:00,GM1729,Gulpen-Wittem,Limburg,216,24,15
+2020-10-26 10:00:00,GM1730,Tynaarlo,Drenthe,263,11,0
+2020-10-26 10:00:00,GM1731,Midden-Drenthe,Drenthe,262,6,0
+2020-10-26 10:00:00,GM1734,Overbetuwe,Gelderland,616,60,17
+2020-10-26 10:00:00,GM1735,Hof van Twente,Overijssel,480,19,6
+2020-10-26 10:00:00,GM1740,Neder-Betuwe,Gelderland,414,42,22
+2020-10-26 10:00:00,GM1742,Rijssen-Holten,Overijssel,563,30,26
+2020-10-26 10:00:00,GM1771,Geldrop-Mierlo,Noord-Brabant,589,36,16
+2020-10-26 10:00:00,GM1773,Olst-Wijhe,Overijssel,184,12,8
+2020-10-26 10:00:00,GM1774,Dinkelland,Overijssel,559,21,10
+2020-10-26 10:00:00,GM1783,Westland,Zuid-Holland,2193,70,30
+2020-10-26 10:00:00,GM1842,Midden-Delfland,Zuid-Holland,363,6,1
+2020-10-26 10:00:00,GM1859,Berkelland,Gelderland,550,18,9
+2020-10-26 10:00:00,GM1876,Bronckhorst,Gelderland,467,18,7
+2020-10-26 10:00:00,GM1883,Sittard-Geleen,Limburg,910,124,66
+2020-10-26 10:00:00,GM1884,Kaag en Braassem,Zuid-Holland,429,8,3
+2020-10-26 10:00:00,GM1891,Dantumadiel,Friesland,114,2,0
+2020-10-26 10:00:00,GM1892,Zuidplas,Zuid-Holland,989,32,23
+2020-10-26 10:00:00,GM1894,Peel en Maas,Limburg,742,145,65
+2020-10-26 10:00:00,GM1895,Oldambt,Groningen,200,10,4
+2020-10-26 10:00:00,GM1896,Zwartewaterland,Overijssel,339,35,22
+2020-10-26 10:00:00,GM1900,SÃºdwest-FryslÃ¢n,Friesland,805,21,6
+2020-10-26 10:00:00,GM1901,Bodegraven-Reeuwijk,Zuid-Holland,595,12,10
+2020-10-26 10:00:00,GM1903,Eijsden-Margraten,Limburg,387,58,28
+2020-10-26 10:00:00,GM1904,Stichtse Vecht,Utrecht,1108,47,14
+2020-10-26 10:00:00,GM1911,Hollands Kroon,Noord-Holland,363,26,6
+2020-10-26 10:00:00,GM1916,Leidschendam-Voorburg,Zuid-Holland,1430,36,28
+2020-10-26 10:00:00,GM1924,Goeree-Overflakkee,Zuid-Holland,838,58,35
+2020-10-26 10:00:00,GM1926,Pijnacker-Nootdorp,Zuid-Holland,1158,32,18
+2020-10-26 10:00:00,GM1930,Nissewaard,Zuid-Holland,1677,72,25
+2020-10-26 10:00:00,GM1931,Krimpenerwaard,Zuid-Holland,1139,55,37
+2020-10-26 10:00:00,GM1940,De Fryske Marren,Friesland,452,23,8
+2020-10-26 10:00:00,GM1942,Gooise Meren,Noord-Holland,945,27,15
+2020-10-26 10:00:00,GM1945,Berg en Dal,Gelderland,686,37,23
+2020-10-26 10:00:00,GM1948,Meierijstad,Noord-Brabant,1431,214,134
+2020-10-26 10:00:00,GM1949,Waadhoeke,Friesland,401,15,17
+2020-10-26 10:00:00,GM1950,Westerwolde,Groningen,171,11,2
+2020-10-26 10:00:00,GM1952,Midden-Groningen,Groningen,341,10,5
+2020-10-26 10:00:00,GM1954,Beekdaelen,Limburg,384,52,25
+2020-10-26 10:00:00,GM1955,Montferland,Gelderland,385,25,9
+2020-10-26 10:00:00,GM1959,Altena,Noord-Brabant,797,38,18
+2020-10-26 10:00:00,GM1960,West Betuwe,Gelderland,719,51,30
+2020-10-26 10:00:00,GM1961,Vijfheerenlanden,Utrecht,1117,47,44
+2020-10-26 10:00:00,GM1963,Hoeksche Waard,Zuid-Holland,1711,83,28
+2020-10-26 10:00:00,GM1966,Het Hogeland,Groningen,348,7,5
+2020-10-26 10:00:00,GM1969,Westerkwartier,Groningen,385,19,4
+2020-10-26 10:00:00,GM1970,Noardeast-FryslÃ¢n,Friesland,263,7,4
+2020-10-26 10:00:00,GM1978,Molenlanden,Zuid-Holland,693,20,10

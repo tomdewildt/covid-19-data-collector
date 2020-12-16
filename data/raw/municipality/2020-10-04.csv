@@ -1,0 +1,356 @@
+Date_of_report,Municipality_code,Municipality_name,Province,Total_reported,Hospital_admission,Deceased
+2020-10-04 10:00:00,GM0003,Appingedam,Groningen,20,3,0
+2020-10-04 10:00:00,GM0010,Delfzijl,Groningen,74,6,0
+2020-10-04 10:00:00,GM0014,Groningen,Groningen,1507,19,3
+2020-10-04 10:00:00,GM0024,Loppersum,Groningen,17,0,0
+2020-10-04 10:00:00,GM0034,Almere,Flevoland,1536,140,37
+2020-10-04 10:00:00,GM0037,Stadskanaal,Groningen,66,2,2
+2020-10-04 10:00:00,GM0047,Veendam,Groningen,60,2,1
+2020-10-04 10:00:00,GM0050,Zeewolde,Flevoland,115,12,6
+2020-10-04 10:00:00,GM0059,Achtkarspelen,Friesland,49,0,0
+2020-10-04 10:00:00,GM0060,Ameland,Friesland,8,0,0
+2020-10-04 10:00:00,GM0072,Harlingen,Friesland,33,4,1
+2020-10-04 10:00:00,GM0074,Heerenveen,Friesland,165,13,21
+2020-10-04 10:00:00,GM0080,Leeuwarden,Friesland,562,37,6
+2020-10-04 10:00:00,GM0085,Ooststellingwerf,Friesland,23,3,1
+2020-10-04 10:00:00,GM0086,Opsterland,Friesland,55,7,0
+2020-10-04 10:00:00,GM0088,Schiermonnikoog,Friesland,0,0,0
+2020-10-04 10:00:00,GM0090,Smallingerland,Friesland,104,9,5
+2020-10-04 10:00:00,GM0093,Terschelling,Friesland,9,0,0
+2020-10-04 10:00:00,GM0096,Vlieland,Friesland,5,0,0
+2020-10-04 10:00:00,GM0098,Weststellingwerf,Friesland,69,3,4
+2020-10-04 10:00:00,GM0106,Assen,Drenthe,155,12,2
+2020-10-04 10:00:00,GM0109,Coevorden,Drenthe,99,13,2
+2020-10-04 10:00:00,GM0114,Emmen,Drenthe,453,24,14
+2020-10-04 10:00:00,GM0118,Hoogeveen,Drenthe,154,20,8
+2020-10-04 10:00:00,GM0119,Meppel,Drenthe,113,11,5
+2020-10-04 10:00:00,GM0141,Almelo,Overijssel,268,27,10
+2020-10-04 10:00:00,GM0147,Borne,Overijssel,81,14,6
+2020-10-04 10:00:00,GM0148,Dalfsen,Overijssel,150,16,7
+2020-10-04 10:00:00,GM0150,Deventer,Overijssel,602,48,37
+2020-10-04 10:00:00,GM0153,Enschede,Overijssel,617,59,26
+2020-10-04 10:00:00,GM0158,Haaksbergen,Overijssel,215,15,7
+2020-10-04 10:00:00,GM0160,Hardenberg,Overijssel,219,23,10
+2020-10-04 10:00:00,GM0163,Hellendoorn,Overijssel,109,8,12
+2020-10-04 10:00:00,GM0164,Hengelo,Overijssel,387,28,20
+2020-10-04 10:00:00,GM0166,Kampen,Overijssel,446,59,37
+2020-10-04 10:00:00,GM0168,Losser,Overijssel,97,11,0
+2020-10-04 10:00:00,GM0171,Noordoostpolder,Flevoland,137,17,10
+2020-10-04 10:00:00,GM0173,Oldenzaal,Overijssel,157,15,7
+2020-10-04 10:00:00,GM0175,Ommen,Overijssel,105,9,4
+2020-10-04 10:00:00,GM0177,Raalte,Overijssel,233,24,21
+2020-10-04 10:00:00,GM0180,Staphorst,Overijssel,93,8,4
+2020-10-04 10:00:00,GM0183,Tubbergen,Overijssel,145,12,5
+2020-10-04 10:00:00,GM0184,Urk,Flevoland,94,23,4
+2020-10-04 10:00:00,GM0189,Wierden,Overijssel,109,7,6
+2020-10-04 10:00:00,GM0193,Zwolle,Overijssel,649,53,49
+2020-10-04 10:00:00,GM0197,Aalten,Gelderland,112,9,7
+2020-10-04 10:00:00,GM0200,Apeldoorn,Gelderland,849,102,51
+2020-10-04 10:00:00,GM0202,Arnhem,Gelderland,944,74,34
+2020-10-04 10:00:00,GM0203,Barneveld,Gelderland,253,18,8
+2020-10-04 10:00:00,GM0209,Beuningen,Gelderland,187,19,5
+2020-10-04 10:00:00,GM0213,Brummen,Gelderland,85,18,6
+2020-10-04 10:00:00,GM0214,Buren,Gelderland,97,17,8
+2020-10-04 10:00:00,GM0216,Culemborg,Gelderland,218,24,8
+2020-10-04 10:00:00,GM0221,Doesburg,Gelderland,62,9,6
+2020-10-04 10:00:00,GM0222,Doetinchem,Gelderland,264,27,15
+2020-10-04 10:00:00,GM0225,Druten,Gelderland,145,25,8
+2020-10-04 10:00:00,GM0226,Duiven,Gelderland,117,14,6
+2020-10-04 10:00:00,GM0228,Ede,Gelderland,657,59,23
+2020-10-04 10:00:00,GM0230,Elburg,Gelderland,182,28,8
+2020-10-04 10:00:00,GM0232,Epe,Gelderland,193,49,23
+2020-10-04 10:00:00,GM0233,Ermelo,Gelderland,210,33,23
+2020-10-04 10:00:00,GM0243,Harderwijk,Gelderland,348,44,20
+2020-10-04 10:00:00,GM0244,Hattem,Gelderland,73,18,5
+2020-10-04 10:00:00,GM0246,Heerde,Gelderland,246,55,28
+2020-10-04 10:00:00,GM0252,Heumen,Gelderland,155,18,11
+2020-10-04 10:00:00,GM0262,Lochem,Gelderland,164,16,15
+2020-10-04 10:00:00,GM0263,Maasdriel,Gelderland,115,15,7
+2020-10-04 10:00:00,GM0267,Nijkerk,Gelderland,261,22,3
+2020-10-04 10:00:00,GM0268,Nijmegen,Gelderland,1971,145,72
+2020-10-04 10:00:00,GM0269,Oldebroek,Gelderland,203,40,19
+2020-10-04 10:00:00,GM0273,Putten,Gelderland,103,10,1
+2020-10-04 10:00:00,GM0274,Renkum,Gelderland,184,14,7
+2020-10-04 10:00:00,GM0275,Rheden,Gelderland,230,34,14
+2020-10-04 10:00:00,GM0277,Rozendaal,Gelderland,6,1,0
+2020-10-04 10:00:00,GM0279,Scherpenzeel,Gelderland,51,4,2
+2020-10-04 10:00:00,GM0281,Tiel,Gelderland,282,43,21
+2020-10-04 10:00:00,GM0285,Voorst,Gelderland,138,17,11
+2020-10-04 10:00:00,GM0289,Wageningen,Gelderland,246,21,9
+2020-10-04 10:00:00,GM0293,Westervoort,Gelderland,73,12,6
+2020-10-04 10:00:00,GM0294,Winterswijk,Gelderland,87,7,3
+2020-10-04 10:00:00,GM0296,Wijchen,Gelderland,310,44,13
+2020-10-04 10:00:00,GM0297,Zaltbommel,Gelderland,172,21,9
+2020-10-04 10:00:00,GM0299,Zevenaar,Gelderland,236,49,16
+2020-10-04 10:00:00,GM0301,Zutphen,Gelderland,187,31,13
+2020-10-04 10:00:00,GM0302,Nunspeet,Gelderland,280,56,21
+2020-10-04 10:00:00,GM0303,Dronten,Flevoland,168,32,13
+2020-10-04 10:00:00,GM0307,Amersfoort,Utrecht,923,78,25
+2020-10-04 10:00:00,GM0308,Baarn,Utrecht,134,12,9
+2020-10-04 10:00:00,GM0310,De Bilt,Utrecht,347,29,24
+2020-10-04 10:00:00,GM0312,Bunnik,Utrecht,101,10,1
+2020-10-04 10:00:00,GM0313,Bunschoten,Utrecht,142,12,7
+2020-10-04 10:00:00,GM0317,Eemnes,Utrecht,51,2,1
+2020-10-04 10:00:00,GM0321,Houten,Utrecht,309,27,15
+2020-10-04 10:00:00,GM0327,Leusden,Utrecht,185,9,8
+2020-10-04 10:00:00,GM0331,Lopik,Utrecht,141,20,8
+2020-10-04 10:00:00,GM0335,Montfoort,Utrecht,114,15,6
+2020-10-04 10:00:00,GM0339,Renswoude,Utrecht,29,5,5
+2020-10-04 10:00:00,GM0340,Rhenen,Utrecht,81,11,6
+2020-10-04 10:00:00,GM0342,Soest,Utrecht,317,24,13
+2020-10-04 10:00:00,GM0344,Utrecht,Utrecht,4133,303,122
+2020-10-04 10:00:00,GM0345,Veenendaal,Utrecht,404,50,11
+2020-10-04 10:00:00,GM0351,Woudenberg,Utrecht,68,10,2
+2020-10-04 10:00:00,GM0352,Wijk bij Duurstede,Utrecht,98,10,1
+2020-10-04 10:00:00,GM0353,IJsselstein,Utrecht,281,36,35
+2020-10-04 10:00:00,GM0355,Zeist,Utrecht,537,38,27
+2020-10-04 10:00:00,GM0356,Nieuwegein,Utrecht,418,46,14
+2020-10-04 10:00:00,GM0358,Aalsmeer,Noord-Holland,211,10,5
+2020-10-04 10:00:00,GM0361,Alkmaar,Noord-Holland,564,57,31
+2020-10-04 10:00:00,GM0362,Amstelveen,Noord-Holland,1040,69,41
+2020-10-04 10:00:00,GM0363,Amsterdam,Noord-Holland,14552,780,302
+2020-10-04 10:00:00,GM0370,Beemster,Noord-Holland,55,4,1
+2020-10-04 10:00:00,GM0373,Bergen (NH.),Noord-Holland,222,21,5
+2020-10-04 10:00:00,GM0375,Beverwijk,Noord-Holland,260,15,12
+2020-10-04 10:00:00,GM0376,Blaricum,Noord-Holland,77,8,2
+2020-10-04 10:00:00,GM0377,Bloemendaal,Noord-Holland,177,7,5
+2020-10-04 10:00:00,GM0383,Castricum,Noord-Holland,156,16,9
+2020-10-04 10:00:00,GM0384,Diemen,Noord-Holland,464,20,14
+2020-10-04 10:00:00,GM0385,Edam-Volendam,Noord-Holland,328,27,3
+2020-10-04 10:00:00,GM0388,Enkhuizen,Noord-Holland,50,18,4
+2020-10-04 10:00:00,GM0392,Haarlem,Noord-Holland,1170,76,62
+2020-10-04 10:00:00,GM0394,Haarlemmermeer,Noord-Holland,1206,77,31
+2020-10-04 10:00:00,GM0396,Heemskerk,Noord-Holland,196,31,10
+2020-10-04 10:00:00,GM0397,Heemstede,Noord-Holland,241,13,33
+2020-10-04 10:00:00,GM0398,Heerhugowaard,Noord-Holland,324,27,9
+2020-10-04 10:00:00,GM0399,Heiloo,Noord-Holland,90,11,8
+2020-10-04 10:00:00,GM0400,Den Helder,Noord-Holland,115,13,2
+2020-10-04 10:00:00,GM0402,Hilversum,Noord-Holland,639,37,25
+2020-10-04 10:00:00,GM0405,Hoorn,Noord-Holland,332,36,12
+2020-10-04 10:00:00,GM0406,Huizen,Noord-Holland,338,24,10
+2020-10-04 10:00:00,GM0415,Landsmeer,Noord-Holland,102,3,3
+2020-10-04 10:00:00,GM0416,Langedijk,Noord-Holland,154,17,4
+2020-10-04 10:00:00,GM0417,Laren,Noord-Holland,89,8,2
+2020-10-04 10:00:00,GM0420,Medemblik,Noord-Holland,136,19,6
+2020-10-04 10:00:00,GM0431,Oostzaan,Noord-Holland,76,12,2
+2020-10-04 10:00:00,GM0432,Opmeer,Noord-Holland,36,1,1
+2020-10-04 10:00:00,GM0437,Ouder-Amstel,Noord-Holland,178,6,0
+2020-10-04 10:00:00,GM0439,Purmerend,Noord-Holland,515,74,35
+2020-10-04 10:00:00,GM0441,Schagen,Noord-Holland,171,19,10
+2020-10-04 10:00:00,GM0448,Texel,Noord-Holland,39,5,2
+2020-10-04 10:00:00,GM0450,Uitgeest,Noord-Holland,64,5,1
+2020-10-04 10:00:00,GM0451,Uithoorn,Noord-Holland,226,18,2
+2020-10-04 10:00:00,GM0453,Velsen,Noord-Holland,545,36,42
+2020-10-04 10:00:00,GM0457,Weesp,Noord-Holland,265,9,13
+2020-10-04 10:00:00,GM0473,Zandvoort,Noord-Holland,122,12,9
+2020-10-04 10:00:00,GM0479,Zaanstad,Noord-Holland,1247,133,52
+2020-10-04 10:00:00,GM0482,Alblasserdam,Zuid-Holland,171,11,5
+2020-10-04 10:00:00,GM0484,Alphen aan den Rijn,Zuid-Holland,788,69,26
+2020-10-04 10:00:00,GM0489,Barendrecht,Zuid-Holland,546,40,12
+2020-10-04 10:00:00,GM0498,Drechterland,Noord-Holland,83,5,8
+2020-10-04 10:00:00,GM0501,Brielle,Zuid-Holland,103,12,0
+2020-10-04 10:00:00,GM0502,Capelle aan den IJssel,Zuid-Holland,837,59,61
+2020-10-04 10:00:00,GM0503,Delft,Zuid-Holland,1101,41,12
+2020-10-04 10:00:00,GM0505,Dordrecht,Zuid-Holland,1129,96,68
+2020-10-04 10:00:00,GM0512,Gorinchem,Zuid-Holland,335,19,16
+2020-10-04 10:00:00,GM0513,Gouda,Zuid-Holland,856,48,43
+2020-10-04 10:00:00,GM0518,'s-Gravenhage,Zuid-Holland,8115,447,278
+2020-10-04 10:00:00,GM0523,Hardinxveld-Giessendam,Zuid-Holland,89,2,2
+2020-10-04 10:00:00,GM0530,Hellevoetsluis,Zuid-Holland,267,16,5
+2020-10-04 10:00:00,GM0531,Hendrik-Ido-Ambacht,Zuid-Holland,271,13,6
+2020-10-04 10:00:00,GM0532,Stede Broec,Noord-Holland,84,18,5
+2020-10-04 10:00:00,GM0534,Hillegom,Zuid-Holland,167,8,2
+2020-10-04 10:00:00,GM0537,Katwijk,Zuid-Holland,486,34,15
+2020-10-04 10:00:00,GM0542,Krimpen aan den IJssel,Zuid-Holland,251,12,8
+2020-10-04 10:00:00,GM0546,Leiden,Zuid-Holland,1141,47,21
+2020-10-04 10:00:00,GM0547,Leiderdorp,Zuid-Holland,135,15,7
+2020-10-04 10:00:00,GM0553,Lisse,Zuid-Holland,88,8,2
+2020-10-04 10:00:00,GM0556,Maassluis,Zuid-Holland,325,23,9
+2020-10-04 10:00:00,GM0569,Nieuwkoop,Zuid-Holland,136,9,6
+2020-10-04 10:00:00,GM0575,Noordwijk,Zuid-Holland,268,21,3
+2020-10-04 10:00:00,GM0579,Oegstgeest,Zuid-Holland,155,9,3
+2020-10-04 10:00:00,GM0589,Oudewater,Utrecht,98,26,9
+2020-10-04 10:00:00,GM0590,Papendrecht,Zuid-Holland,178,9,8
+2020-10-04 10:00:00,GM0597,Ridderkerk,Zuid-Holland,402,40,18
+2020-10-04 10:00:00,GM0599,Rotterdam,Zuid-Holland,10961,654,368
+2020-10-04 10:00:00,GM0603,Rijswijk,Zuid-Holland,557,43,26
+2020-10-04 10:00:00,GM0606,Schiedam,Zuid-Holland,1029,63,24
+2020-10-04 10:00:00,GM0610,Sliedrecht,Zuid-Holland,154,9,5
+2020-10-04 10:00:00,GM0613,Albrandswaard,Zuid-Holland,282,16,8
+2020-10-04 10:00:00,GM0614,Westvoorne,Zuid-Holland,95,6,0
+2020-10-04 10:00:00,GM0622,Vlaardingen,Zuid-Holland,850,49,30
+2020-10-04 10:00:00,GM0626,Voorschoten,Zuid-Holland,170,9,11
+2020-10-04 10:00:00,GM0627,Waddinxveen,Zuid-Holland,255,19,7
+2020-10-04 10:00:00,GM0629,Wassenaar,Zuid-Holland,201,10,12
+2020-10-04 10:00:00,GM0632,Woerden,Utrecht,361,53,20
+2020-10-04 10:00:00,GM0637,Zoetermeer,Zuid-Holland,1062,59,14
+2020-10-04 10:00:00,GM0638,Zoeterwoude,Zuid-Holland,49,3,1
+2020-10-04 10:00:00,GM0642,Zwijndrecht,Zuid-Holland,430,27,27
+2020-10-04 10:00:00,GM0654,Borsele,Zeeland,63,5,1
+2020-10-04 10:00:00,GM0664,Goes,Zeeland,235,12,13
+2020-10-04 10:00:00,GM0668,West Maas en Waal,Gelderland,130,21,9
+2020-10-04 10:00:00,GM0677,Hulst,Zeeland,85,9,5
+2020-10-04 10:00:00,GM0678,Kapelle,Zeeland,40,3,1
+2020-10-04 10:00:00,GM0687,Middelburg,Zeeland,184,19,10
+2020-10-04 10:00:00,GM0703,Reimerswaal,Zeeland,64,5,2
+2020-10-04 10:00:00,GM0715,Terneuzen,Zeeland,194,25,4
+2020-10-04 10:00:00,GM0716,Tholen,Zeeland,212,40,16
+2020-10-04 10:00:00,GM0717,Veere,Zeeland,67,6,2
+2020-10-04 10:00:00,GM0718,Vlissingen,Zeeland,144,9,5
+2020-10-04 10:00:00,GM0736,De Ronde Venen,Utrecht,341,40,13
+2020-10-04 10:00:00,GM0737,Tytsjerksteradiel,Friesland,78,5,1
+2020-10-04 10:00:00,GM0743,Asten,Noord-Brabant,107,18,12
+2020-10-04 10:00:00,GM0744,Baarle-Nassau,Noord-Brabant,42,9,2
+2020-10-04 10:00:00,GM0748,Bergen op Zoom,Noord-Brabant,670,31,13
+2020-10-04 10:00:00,GM0753,Best,Noord-Brabant,166,31,10
+2020-10-04 10:00:00,GM0755,Boekel,Noord-Brabant,104,34,20
+2020-10-04 10:00:00,GM0756,Boxmeer,Noord-Brabant,196,20,27
+2020-10-04 10:00:00,GM0757,Boxtel,Noord-Brabant,194,24,26
+2020-10-04 10:00:00,GM0758,Breda,Noord-Brabant,1380,151,67
+2020-10-04 10:00:00,GM0762,Deurne,Noord-Brabant,293,56,25
+2020-10-04 10:00:00,GM0765,Pekela,Groningen,13,4,0
+2020-10-04 10:00:00,GM0766,Dongen,Noord-Brabant,150,20,13
+2020-10-04 10:00:00,GM0770,Eersel,Noord-Brabant,190,27,10
+2020-10-04 10:00:00,GM0772,Eindhoven,Noord-Brabant,1520,185,89
+2020-10-04 10:00:00,GM0777,Etten-Leur,Noord-Brabant,340,43,30
+2020-10-04 10:00:00,GM0779,Geertruidenberg,Noord-Brabant,96,12,6
+2020-10-04 10:00:00,GM0784,Gilze en Rijen,Noord-Brabant,174,20,15
+2020-10-04 10:00:00,GM0785,Goirle,Noord-Brabant,204,32,18
+2020-10-04 10:00:00,GM0786,Grave,Noord-Brabant,112,21,11
+2020-10-04 10:00:00,GM0788,Haaren,Noord-Brabant,90,19,8
+2020-10-04 10:00:00,GM0794,Helmond,Noord-Brabant,848,118,44
+2020-10-04 10:00:00,GM0796,'s-Hertogenbosch,Noord-Brabant,1122,135,79
+2020-10-04 10:00:00,GM0797,Heusden,Noord-Brabant,298,45,25
+2020-10-04 10:00:00,GM0798,Hilvarenbeek,Noord-Brabant,121,10,7
+2020-10-04 10:00:00,GM0809,Loon op Zand,Noord-Brabant,151,27,7
+2020-10-04 10:00:00,GM0815,Mill en Sint Hubert,Noord-Brabant,81,9,5
+2020-10-04 10:00:00,GM0820,"Nuenen, Gerwen en Nederwetten",Noord-Brabant,143,18,9
+2020-10-04 10:00:00,GM0823,Oirschot,Noord-Brabant,137,13,9
+2020-10-04 10:00:00,GM0824,Oisterwijk,Noord-Brabant,144,24,11
+2020-10-04 10:00:00,GM0826,Oosterhout,Noord-Brabant,335,50,17
+2020-10-04 10:00:00,GM0828,Oss,Noord-Brabant,967,168,88
+2020-10-04 10:00:00,GM0840,Rucphen,Noord-Brabant,142,10,10
+2020-10-04 10:00:00,GM0845,Sint-Michielsgestel,Noord-Brabant,242,36,19
+2020-10-04 10:00:00,GM0847,Someren,Noord-Brabant,128,33,8
+2020-10-04 10:00:00,GM0848,Son en Breugel,Noord-Brabant,107,31,14
+2020-10-04 10:00:00,GM0851,Steenbergen,Noord-Brabant,159,13,13
+2020-10-04 10:00:00,GM0852,Waterland,Noord-Holland,112,16,4
+2020-10-04 10:00:00,GM0855,Tilburg,Noord-Brabant,1889,257,168
+2020-10-04 10:00:00,GM0856,Uden,Noord-Brabant,353,115,63
+2020-10-04 10:00:00,GM0858,Valkenswaard,Noord-Brabant,272,19,37
+2020-10-04 10:00:00,GM0861,Veldhoven,Noord-Brabant,288,31,16
+2020-10-04 10:00:00,GM0865,Vught,Noord-Brabant,184,43,17
+2020-10-04 10:00:00,GM0866,Waalre,Noord-Brabant,92,7,5
+2020-10-04 10:00:00,GM0867,Waalwijk,Noord-Brabant,350,39,37
+2020-10-04 10:00:00,GM0873,Woensdrecht,Noord-Brabant,127,6,7
+2020-10-04 10:00:00,GM0879,Zundert,Noord-Brabant,156,24,11
+2020-10-04 10:00:00,GM0880,Wormerland,Noord-Holland,90,20,6
+2020-10-04 10:00:00,GM0882,Landgraaf,Limburg,188,52,14
+2020-10-04 10:00:00,GM0888,Beek,Limburg,60,16,6
+2020-10-04 10:00:00,GM0889,Beesel,Limburg,60,20,8
+2020-10-04 10:00:00,GM0893,Bergen (L.),Limburg,56,7,2
+2020-10-04 10:00:00,GM0899,Brunssum,Limburg,173,46,19
+2020-10-04 10:00:00,GM0907,Gennep,Limburg,114,17,10
+2020-10-04 10:00:00,GM0917,Heerlen,Limburg,559,126,54
+2020-10-04 10:00:00,GM0928,Kerkrade,Limburg,290,64,35
+2020-10-04 10:00:00,GM0935,Maastricht,Limburg,1229,193,140
+2020-10-04 10:00:00,GM0938,Meerssen,Limburg,146,22,13
+2020-10-04 10:00:00,GM0944,Mook en Middelaar,Limburg,79,7,5
+2020-10-04 10:00:00,GM0946,Nederweert,Limburg,88,31,7
+2020-10-04 10:00:00,GM0957,Roermond,Limburg,282,61,23
+2020-10-04 10:00:00,GM0965,Simpelveld,Limburg,57,19,5
+2020-10-04 10:00:00,GM0971,Stein,Limburg,147,44,15
+2020-10-04 10:00:00,GM0981,Vaals,Limburg,37,10,2
+2020-10-04 10:00:00,GM0983,Venlo,Limburg,695,135,67
+2020-10-04 10:00:00,GM0984,Venray,Limburg,259,37,17
+2020-10-04 10:00:00,GM0986,Voerendaal,Limburg,63,17,8
+2020-10-04 10:00:00,GM0988,Weert,Limburg,237,68,15
+2020-10-04 10:00:00,GM0994,Valkenburg aan de Geul,Limburg,108,19,7
+2020-10-04 10:00:00,GM0995,Lelystad,Flevoland,432,69,31
+2020-10-04 10:00:00,GM1507,Horst aan de Maas,Limburg,229,41,25
+2020-10-04 10:00:00,GM1509,Oude IJsselstreek,Gelderland,169,21,9
+2020-10-04 10:00:00,GM1525,Teylingen,Zuid-Holland,248,15,2
+2020-10-04 10:00:00,GM1581,Utrechtse Heuvelrug,Utrecht,301,29,14
+2020-10-04 10:00:00,GM1586,Oost Gelre,Gelderland,165,18,6
+2020-10-04 10:00:00,GM1598,Koggenland,Noord-Holland,116,7,7
+2020-10-04 10:00:00,GM1621,Lansingerland,Zuid-Holland,614,44,26
+2020-10-04 10:00:00,GM1640,Leudal,Limburg,229,54,33
+2020-10-04 10:00:00,GM1641,Maasgouw,Limburg,141,28,15
+2020-10-04 10:00:00,GM1652,Gemert-Bakel,Noord-Brabant,284,79,32
+2020-10-04 10:00:00,GM1655,Halderberge,Noord-Brabant,193,16,8
+2020-10-04 10:00:00,GM1658,Heeze-Leende,Noord-Brabant,103,16,8
+2020-10-04 10:00:00,GM1659,Laarbeek,Noord-Brabant,172,41,26
+2020-10-04 10:00:00,GM1667,Reusel-De Mierden,Noord-Brabant,150,11,2
+2020-10-04 10:00:00,GM1669,Roerdalen,Limburg,72,27,8
+2020-10-04 10:00:00,GM1674,Roosendaal,Noord-Brabant,557,35,24
+2020-10-04 10:00:00,GM1676,Schouwen-Duiveland,Zeeland,155,12,9
+2020-10-04 10:00:00,GM1680,Aa en Hunze,Drenthe,58,1,0
+2020-10-04 10:00:00,GM1681,Borger-Odoorn,Drenthe,46,4,3
+2020-10-04 10:00:00,GM1684,Cuijk,Noord-Brabant,144,12,10
+2020-10-04 10:00:00,GM1685,Landerd,Noord-Brabant,190,42,21
+2020-10-04 10:00:00,GM1690,De Wolden,Drenthe,71,11,5
+2020-10-04 10:00:00,GM1695,Noord-Beveland,Zeeland,23,1,0
+2020-10-04 10:00:00,GM1696,Wijdemeren,Noord-Holland,140,8,0
+2020-10-04 10:00:00,GM1699,Noordenveld,Drenthe,101,4,8
+2020-10-04 10:00:00,GM1700,Twenterand,Overijssel,76,12,2
+2020-10-04 10:00:00,GM1701,Westerveld,Drenthe,50,9,4
+2020-10-04 10:00:00,GM1702,Sint Anthonis,Noord-Brabant,94,20,11
+2020-10-04 10:00:00,GM1705,Lingewaard,Gelderland,286,35,10
+2020-10-04 10:00:00,GM1706,Cranendonck,Noord-Brabant,232,63,36
+2020-10-04 10:00:00,GM1708,Steenwijkerland,Overijssel,170,14,8
+2020-10-04 10:00:00,GM1709,Moerdijk,Noord-Brabant,191,16,8
+2020-10-04 10:00:00,GM1711,Echt-Susteren,Limburg,120,40,18
+2020-10-04 10:00:00,GM1714,Sluis,Zeeland,34,9,4
+2020-10-04 10:00:00,GM1719,Drimmelen,Noord-Brabant,139,19,8
+2020-10-04 10:00:00,GM1721,Bernheze,Noord-Brabant,370,95,65
+2020-10-04 10:00:00,GM1723,Alphen-Chaam,Noord-Brabant,83,18,5
+2020-10-04 10:00:00,GM1724,Bergeijk,Noord-Brabant,187,19,5
+2020-10-04 10:00:00,GM1728,Bladel,Noord-Brabant,251,21,9
+2020-10-04 10:00:00,GM1729,Gulpen-Wittem,Limburg,106,22,15
+2020-10-04 10:00:00,GM1730,Tynaarlo,Drenthe,89,9,0
+2020-10-04 10:00:00,GM1731,Midden-Drenthe,Drenthe,57,6,0
+2020-10-04 10:00:00,GM1734,Overbetuwe,Gelderland,293,56,16
+2020-10-04 10:00:00,GM1735,Hof van Twente,Overijssel,135,15,5
+2020-10-04 10:00:00,GM1740,Neder-Betuwe,Gelderland,172,37,21
+2020-10-04 10:00:00,GM1742,Rijssen-Holten,Overijssel,266,29,24
+2020-10-04 10:00:00,GM1771,Geldrop-Mierlo,Noord-Brabant,214,33,16
+2020-10-04 10:00:00,GM1773,Olst-Wijhe,Overijssel,78,12,8
+2020-10-04 10:00:00,GM1774,Dinkelland,Overijssel,126,20,10
+2020-10-04 10:00:00,GM1783,Westland,Zuid-Holland,888,64,30
+2020-10-04 10:00:00,GM1842,Midden-Delfland,Zuid-Holland,120,5,0
+2020-10-04 10:00:00,GM1859,Berkelland,Gelderland,183,14,7
+2020-10-04 10:00:00,GM1876,Bronckhorst,Gelderland,140,17,7
+2020-10-04 10:00:00,GM1883,Sittard-Geleen,Limburg,545,119,64
+2020-10-04 10:00:00,GM1884,Kaag en Braassem,Zuid-Holland,121,8,3
+2020-10-04 10:00:00,GM1891,Dantumadiel,Friesland,56,2,0
+2020-10-04 10:00:00,GM1892,Zuidplas,Zuid-Holland,523,27,21
+2020-10-04 10:00:00,GM1894,Peel en Maas,Limburg,335,144,65
+2020-10-04 10:00:00,GM1895,Oldambt,Groningen,77,7,3
+2020-10-04 10:00:00,GM1896,Zwartewaterland,Overijssel,187,35,21
+2020-10-04 10:00:00,GM1900,SÃºdwest-FryslÃ¢n,Friesland,245,19,6
+2020-10-04 10:00:00,GM1901,Bodegraven-Reeuwijk,Zuid-Holland,258,8,7
+2020-10-04 10:00:00,GM1903,Eijsden-Margraten,Limburg,212,54,27
+2020-10-04 10:00:00,GM1904,Stichtse Vecht,Utrecht,467,39,14
+2020-10-04 10:00:00,GM1911,Hollands Kroon,Noord-Holland,130,26,6
+2020-10-04 10:00:00,GM1916,Leidschendam-Voorburg,Zuid-Holland,669,32,23
+2020-10-04 10:00:00,GM1924,Goeree-Overflakkee,Zuid-Holland,444,56,35
+2020-10-04 10:00:00,GM1926,Pijnacker-Nootdorp,Zuid-Holland,497,30,17
+2020-10-04 10:00:00,GM1930,Nissewaard,Zuid-Holland,597,60,22
+2020-10-04 10:00:00,GM1931,Krimpenerwaard,Zuid-Holland,513,47,35
+2020-10-04 10:00:00,GM1940,De Fryske Marren,Friesland,166,17,6
+2020-10-04 10:00:00,GM1942,Gooise Meren,Noord-Holland,391,25,15
+2020-10-04 10:00:00,GM1945,Berg en Dal,Gelderland,317,31,19
+2020-10-04 10:00:00,GM1948,Meierijstad,Noord-Brabant,779,211,131
+2020-10-04 10:00:00,GM1949,Waadhoeke,Friesland,160,13,15
+2020-10-04 10:00:00,GM1950,Westerwolde,Groningen,45,5,0
+2020-10-04 10:00:00,GM1952,Midden-Groningen,Groningen,113,7,4
+2020-10-04 10:00:00,GM1954,Beekdaelen,Limburg,228,52,23
+2020-10-04 10:00:00,GM1955,Montferland,Gelderland,151,22,9
+2020-10-04 10:00:00,GM1959,Altena,Noord-Brabant,267,33,11
+2020-10-04 10:00:00,GM1960,West Betuwe,Gelderland,319,44,27
+2020-10-04 10:00:00,GM1961,Vijfheerenlanden,Utrecht,590,38,41
+2020-10-04 10:00:00,GM1963,Hoeksche Waard,Zuid-Holland,752,80,21
+2020-10-04 10:00:00,GM1966,Het Hogeland,Groningen,134,7,3
+2020-10-04 10:00:00,GM1969,Westerkwartier,Groningen,138,14,4
+2020-10-04 10:00:00,GM1970,Noardeast-FryslÃ¢n,Friesland,129,7,4
+2020-10-04 10:00:00,GM1978,Molenlanden,Zuid-Holland,234,20,9
