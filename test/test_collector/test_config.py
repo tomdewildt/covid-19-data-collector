@@ -14,8 +14,8 @@ class TestLoadConfig:
         return create_config()
 
     def test_load_config(self):
-        stream = io.StringIO(yaml.dump(self.config))
-        config = load_config(stream)
+        buffer = io.StringIO(yaml.dump(self.config))
+        config = load_config(buffer)
 
         assert config == self.config
 
