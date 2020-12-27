@@ -1,0 +1,356 @@
+Date_of_report,Municipality_code,Municipality_name,Province,Total_reported,Hospital_admission,Deceased
+2020-12-27 10:00:00,GM0003,Appingedam,Groningen,279,9,1
+2020-12-27 10:00:00,GM0010,Delfzijl,Groningen,649,11,3
+2020-12-27 10:00:00,GM0014,Groningen,Groningen,6083,51,14
+2020-12-27 10:00:00,GM0024,Loppersum,Groningen,185,2,0
+2020-12-27 10:00:00,GM0034,Almere,Flevoland,10049,211,52
+2020-12-27 10:00:00,GM0037,Stadskanaal,Groningen,1160,13,8
+2020-12-27 10:00:00,GM0047,Veendam,Groningen,617,4,2
+2020-12-27 10:00:00,GM0050,Zeewolde,Flevoland,760,16,9
+2020-12-27 10:00:00,GM0059,Achtkarspelen,Friesland,563,2,0
+2020-12-27 10:00:00,GM0060,Ameland,Friesland,112,0,0
+2020-12-27 10:00:00,GM0072,Harlingen,Friesland,207,5,2
+2020-12-27 10:00:00,GM0074,Heerenveen,Friesland,854,17,24
+2020-12-27 10:00:00,GM0080,Leeuwarden,Friesland,2736,55,18
+2020-12-27 10:00:00,GM0085,Ooststellingwerf,Friesland,482,10,1
+2020-12-27 10:00:00,GM0086,Opsterland,Friesland,477,15,1
+2020-12-27 10:00:00,GM0088,Schiermonnikoog,Friesland,7,1,0
+2020-12-27 10:00:00,GM0090,Smallingerland,Friesland,965,16,13
+2020-12-27 10:00:00,GM0093,Terschelling,Friesland,83,1,1
+2020-12-27 10:00:00,GM0096,Vlieland,Friesland,21,0,0
+2020-12-27 10:00:00,GM0098,Weststellingwerf,Friesland,557,6,12
+2020-12-27 10:00:00,GM0106,Assen,Drenthe,1438,30,9
+2020-12-27 10:00:00,GM0109,Coevorden,Drenthe,992,27,8
+2020-12-27 10:00:00,GM0114,Emmen,Drenthe,3427,63,34
+2020-12-27 10:00:00,GM0118,Hoogeveen,Drenthe,1830,38,18
+2020-12-27 10:00:00,GM0119,Meppel,Drenthe,890,14,9
+2020-12-27 10:00:00,GM0141,Almelo,Overijssel,3927,53,32
+2020-12-27 10:00:00,GM0147,Borne,Overijssel,1146,21,14
+2020-12-27 10:00:00,GM0148,Dalfsen,Overijssel,1018,18,11
+2020-12-27 10:00:00,GM0150,Deventer,Overijssel,4020,66,59
+2020-12-27 10:00:00,GM0153,Enschede,Overijssel,7008,126,89
+2020-12-27 10:00:00,GM0158,Haaksbergen,Overijssel,1453,24,23
+2020-12-27 10:00:00,GM0160,Hardenberg,Overijssel,2018,36,18
+2020-12-27 10:00:00,GM0163,Hellendoorn,Overijssel,1915,17,21
+2020-12-27 10:00:00,GM0164,Hengelo,Overijssel,3764,54,39
+2020-12-27 10:00:00,GM0166,Kampen,Overijssel,1684,68,41
+2020-12-27 10:00:00,GM0168,Losser,Overijssel,1281,23,13
+2020-12-27 10:00:00,GM0171,Noordoostpolder,Flevoland,1747,26,21
+2020-12-27 10:00:00,GM0173,Oldenzaal,Overijssel,1694,34,33
+2020-12-27 10:00:00,GM0175,Ommen,Overijssel,512,10,8
+2020-12-27 10:00:00,GM0177,Raalte,Overijssel,1698,27,25
+2020-12-27 10:00:00,GM0180,Staphorst,Overijssel,928,11,5
+2020-12-27 10:00:00,GM0183,Tubbergen,Overijssel,1431,16,11
+2020-12-27 10:00:00,GM0184,Urk,Flevoland,1581,40,11
+2020-12-27 10:00:00,GM0189,Wierden,Overijssel,1738,11,17
+2020-12-27 10:00:00,GM0193,Zwolle,Overijssel,3536,65,68
+2020-12-27 10:00:00,GM0197,Aalten,Gelderland,979,17,13
+2020-12-27 10:00:00,GM0200,Apeldoorn,Gelderland,5400,144,76
+2020-12-27 10:00:00,GM0202,Arnhem,Gelderland,6405,128,81
+2020-12-27 10:00:00,GM0203,Barneveld,Gelderland,3691,32,23
+2020-12-27 10:00:00,GM0209,Beuningen,Gelderland,975,25,11
+2020-12-27 10:00:00,GM0213,Brummen,Gelderland,674,25,7
+2020-12-27 10:00:00,GM0214,Buren,Gelderland,1066,29,13
+2020-12-27 10:00:00,GM0216,Culemborg,Gelderland,1260,35,12
+2020-12-27 10:00:00,GM0221,Doesburg,Gelderland,365,14,8
+2020-12-27 10:00:00,GM0222,Doetinchem,Gelderland,1984,44,22
+2020-12-27 10:00:00,GM0225,Druten,Gelderland,757,31,18
+2020-12-27 10:00:00,GM0226,Duiven,Gelderland,1049,21,8
+2020-12-27 10:00:00,GM0228,Ede,Gelderland,5820,101,55
+2020-12-27 10:00:00,GM0230,Elburg,Gelderland,907,32,11
+2020-12-27 10:00:00,GM0232,Epe,Gelderland,1115,59,27
+2020-12-27 10:00:00,GM0233,Ermelo,Gelderland,1244,34,28
+2020-12-27 10:00:00,GM0243,Harderwijk,Gelderland,1854,58,26
+2020-12-27 10:00:00,GM0244,Hattem,Gelderland,363,19,5
+2020-12-27 10:00:00,GM0246,Heerde,Gelderland,566,55,29
+2020-12-27 10:00:00,GM0252,Heumen,Gelderland,718,24,13
+2020-12-27 10:00:00,GM0262,Lochem,Gelderland,1018,26,24
+2020-12-27 10:00:00,GM0263,Maasdriel,Gelderland,1162,28,22
+2020-12-27 10:00:00,GM0267,Nijkerk,Gelderland,2122,36,7
+2020-12-27 10:00:00,GM0268,Nijmegen,Gelderland,7081,210,129
+2020-12-27 10:00:00,GM0269,Oldebroek,Gelderland,882,43,24
+2020-12-27 10:00:00,GM0273,Putten,Gelderland,1185,13,6
+2020-12-27 10:00:00,GM0274,Renkum,Gelderland,1055,22,19
+2020-12-27 10:00:00,GM0275,Rheden,Gelderland,1602,43,28
+2020-12-27 10:00:00,GM0277,Rozendaal,Gelderland,54,1,0
+2020-12-27 10:00:00,GM0279,Scherpenzeel,Gelderland,587,5,6
+2020-12-27 10:00:00,GM0281,Tiel,Gelderland,1890,66,39
+2020-12-27 10:00:00,GM0285,Voorst,Gelderland,801,22,12
+2020-12-27 10:00:00,GM0289,Wageningen,Gelderland,1446,30,29
+2020-12-27 10:00:00,GM0293,Westervoort,Gelderland,586,17,7
+2020-12-27 10:00:00,GM0294,Winterswijk,Gelderland,889,13,8
+2020-12-27 10:00:00,GM0296,Wijchen,Gelderland,1833,62,32
+2020-12-27 10:00:00,GM0297,Zaltbommel,Gelderland,1664,27,28
+2020-12-27 10:00:00,GM0299,Zevenaar,Gelderland,1297,64,23
+2020-12-27 10:00:00,GM0301,Zutphen,Gelderland,1402,42,19
+2020-12-27 10:00:00,GM0302,Nunspeet,Gelderland,1051,69,25
+2020-12-27 10:00:00,GM0303,Dronten,Flevoland,1449,50,17
+2020-12-27 10:00:00,GM0307,Amersfoort,Utrecht,7260,151,72
+2020-12-27 10:00:00,GM0308,Baarn,Utrecht,1055,26,20
+2020-12-27 10:00:00,GM0310,De Bilt,Utrecht,1873,41,42
+2020-12-27 10:00:00,GM0312,Bunnik,Utrecht,586,16,11
+2020-12-27 10:00:00,GM0313,Bunschoten,Utrecht,2207,38,24
+2020-12-27 10:00:00,GM0317,Eemnes,Utrecht,398,7,1
+2020-12-27 10:00:00,GM0321,Houten,Utrecht,2093,44,48
+2020-12-27 10:00:00,GM0327,Leusden,Utrecht,1174,20,17
+2020-12-27 10:00:00,GM0331,Lopik,Utrecht,710,25,9
+2020-12-27 10:00:00,GM0335,Montfoort,Utrecht,696,16,7
+2020-12-27 10:00:00,GM0339,Renswoude,Utrecht,300,5,5
+2020-12-27 10:00:00,GM0340,Rhenen,Utrecht,1206,20,9
+2020-12-27 10:00:00,GM0342,Soest,Utrecht,2138,50,36
+2020-12-27 10:00:00,GM0344,Utrecht,Utrecht,17391,481,183
+2020-12-27 10:00:00,GM0345,Veenendaal,Utrecht,4444,84,41
+2020-12-27 10:00:00,GM0351,Woudenberg,Utrecht,776,12,5
+2020-12-27 10:00:00,GM0352,Wijk bij Duurstede,Utrecht,851,15,8
+2020-12-27 10:00:00,GM0353,IJsselstein,Utrecht,1473,56,46
+2020-12-27 10:00:00,GM0355,Zeist,Utrecht,2661,55,36
+2020-12-27 10:00:00,GM0356,Nieuwegein,Utrecht,2394,75,18
+2020-12-27 10:00:00,GM0358,Aalsmeer,Noord-Holland,1403,19,21
+2020-12-27 10:00:00,GM0361,Alkmaar,Noord-Holland,4010,88,47
+2020-12-27 10:00:00,GM0362,Amstelveen,Noord-Holland,3854,93,78
+2020-12-27 10:00:00,GM0363,Amsterdam,Noord-Holland,50010,1315,485
+2020-12-27 10:00:00,GM0370,Beemster,Noord-Holland,313,5,2
+2020-12-27 10:00:00,GM0373,Bergen (NH.),Noord-Holland,1168,27,28
+2020-12-27 10:00:00,GM0375,Beverwijk,Noord-Holland,1636,25,17
+2020-12-27 10:00:00,GM0376,Blaricum,Noord-Holland,456,8,4
+2020-12-27 10:00:00,GM0377,Bloemendaal,Noord-Holland,741,11,8
+2020-12-27 10:00:00,GM0383,Castricum,Noord-Holland,1293,18,13
+2020-12-27 10:00:00,GM0384,Diemen,Noord-Holland,1766,32,24
+2020-12-27 10:00:00,GM0385,Edam-Volendam,Noord-Holland,1640,61,8
+2020-12-27 10:00:00,GM0388,Enkhuizen,Noord-Holland,942,24,5
+2020-12-27 10:00:00,GM0392,Haarlem,Noord-Holland,6227,146,111
+2020-12-27 10:00:00,GM0394,Haarlemmermeer,Noord-Holland,6776,125,74
+2020-12-27 10:00:00,GM0396,Heemskerk,Noord-Holland,1660,42,23
+2020-12-27 10:00:00,GM0397,Heemstede,Noord-Holland,970,21,49
+2020-12-27 10:00:00,GM0398,Heerhugowaard,Noord-Holland,2181,37,13
+2020-12-27 10:00:00,GM0399,Heiloo,Noord-Holland,768,15,10
+2020-12-27 10:00:00,GM0400,Den Helder,Noord-Holland,1559,25,8
+2020-12-27 10:00:00,GM0402,Hilversum,Noord-Holland,3249,52,52
+2020-12-27 10:00:00,GM0405,Hoorn,Noord-Holland,2879,54,20
+2020-12-27 10:00:00,GM0406,Huizen,Noord-Holland,2102,41,28
+2020-12-27 10:00:00,GM0415,Landsmeer,Noord-Holland,501,7,4
+2020-12-27 10:00:00,GM0416,Langedijk,Noord-Holland,1129,23,7
+2020-12-27 10:00:00,GM0417,Laren,Noord-Holland,502,12,9
+2020-12-27 10:00:00,GM0420,Medemblik,Noord-Holland,1857,24,10
+2020-12-27 10:00:00,GM0431,Oostzaan,Noord-Holland,514,13,3
+2020-12-27 10:00:00,GM0432,Opmeer,Noord-Holland,434,3,2
+2020-12-27 10:00:00,GM0437,Ouder-Amstel,Noord-Holland,737,8,1
+2020-12-27 10:00:00,GM0439,Purmerend,Noord-Holland,2861,104,50
+2020-12-27 10:00:00,GM0441,Schagen,Noord-Holland,1715,27,22
+2020-12-27 10:00:00,GM0448,Texel,Noord-Holland,236,6,2
+2020-12-27 10:00:00,GM0450,Uitgeest,Noord-Holland,652,8,6
+2020-12-27 10:00:00,GM0451,Uithoorn,Noord-Holland,1195,27,6
+2020-12-27 10:00:00,GM0453,Velsen,Noord-Holland,2967,66,64
+2020-12-27 10:00:00,GM0457,Weesp,Noord-Holland,1149,12,16
+2020-12-27 10:00:00,GM0473,Zandvoort,Noord-Holland,637,15,19
+2020-12-27 10:00:00,GM0479,Zaanstad,Noord-Holland,7850,221,116
+2020-12-27 10:00:00,GM0482,Alblasserdam,Zuid-Holland,1224,16,15
+2020-12-27 10:00:00,GM0484,Alphen aan den Rijn,Zuid-Holland,5798,124,66
+2020-12-27 10:00:00,GM0489,Barendrecht,Zuid-Holland,2651,73,34
+2020-12-27 10:00:00,GM0498,Drechterland,Noord-Holland,817,7,9
+2020-12-27 10:00:00,GM0501,Brielle,Zuid-Holland,724,23,5
+2020-12-27 10:00:00,GM0502,Capelle aan den IJssel,Zuid-Holland,3656,101,98
+2020-12-27 10:00:00,GM0503,Delft,Zuid-Holland,4847,72,53
+2020-12-27 10:00:00,GM0505,Dordrecht,Zuid-Holland,6699,120,108
+2020-12-27 10:00:00,GM0512,Gorinchem,Zuid-Holland,1978,23,26
+2020-12-27 10:00:00,GM0513,Gouda,Zuid-Holland,3968,116,103
+2020-12-27 10:00:00,GM0518,'s-Gravenhage,Zuid-Holland,27714,883,403
+2020-12-27 10:00:00,GM0523,Hardinxveld-Giessendam,Zuid-Holland,1072,2,8
+2020-12-27 10:00:00,GM0530,Hellevoetsluis,Zuid-Holland,1476,35,15
+2020-12-27 10:00:00,GM0531,Hendrik-Ido-Ambacht,Zuid-Holland,1689,15,20
+2020-12-27 10:00:00,GM0532,Stede Broec,Noord-Holland,897,20,6
+2020-12-27 10:00:00,GM0534,Hillegom,Zuid-Holland,816,11,2
+2020-12-27 10:00:00,GM0537,Katwijk,Zuid-Holland,3849,68,33
+2020-12-27 10:00:00,GM0542,Krimpen aan den IJssel,Zuid-Holland,1797,26,38
+2020-12-27 10:00:00,GM0546,Leiden,Zuid-Holland,5413,90,41
+2020-12-27 10:00:00,GM0547,Leiderdorp,Zuid-Holland,1179,30,14
+2020-12-27 10:00:00,GM0553,Lisse,Zuid-Holland,959,20,8
+2020-12-27 10:00:00,GM0556,Maassluis,Zuid-Holland,1851,45,20
+2020-12-27 10:00:00,GM0569,Nieuwkoop,Zuid-Holland,1324,22,16
+2020-12-27 10:00:00,GM0575,Noordwijk,Zuid-Holland,1854,45,10
+2020-12-27 10:00:00,GM0579,Oegstgeest,Zuid-Holland,1085,17,17
+2020-12-27 10:00:00,GM0589,Oudewater,Utrecht,502,32,12
+2020-12-27 10:00:00,GM0590,Papendrecht,Zuid-Holland,1596,13,25
+2020-12-27 10:00:00,GM0597,Ridderkerk,Zuid-Holland,2524,62,57
+2020-12-27 10:00:00,GM0599,Rotterdam,Zuid-Holland,41126,1230,658
+2020-12-27 10:00:00,GM0603,Rijswijk,Zuid-Holland,2593,86,64
+2020-12-27 10:00:00,GM0606,Schiedam,Zuid-Holland,4912,150,49
+2020-12-27 10:00:00,GM0610,Sliedrecht,Zuid-Holland,1516,12,21
+2020-12-27 10:00:00,GM0613,Albrandswaard,Zuid-Holland,1605,33,17
+2020-12-27 10:00:00,GM0614,Westvoorne,Zuid-Holland,518,10,3
+2020-12-27 10:00:00,GM0622,Vlaardingen,Zuid-Holland,4486,104,59
+2020-12-27 10:00:00,GM0626,Voorschoten,Zuid-Holland,936,13,15
+2020-12-27 10:00:00,GM0627,Waddinxveen,Zuid-Holland,1425,46,10
+2020-12-27 10:00:00,GM0629,Wassenaar,Zuid-Holland,995,21,19
+2020-12-27 10:00:00,GM0632,Woerden,Utrecht,2413,79,26
+2020-12-27 10:00:00,GM0637,Zoetermeer,Zuid-Holland,5928,97,31
+2020-12-27 10:00:00,GM0638,Zoeterwoude,Zuid-Holland,365,6,1
+2020-12-27 10:00:00,GM0642,Zwijndrecht,Zuid-Holland,2475,40,56
+2020-12-27 10:00:00,GM0654,Borsele,Zeeland,478,9,3
+2020-12-27 10:00:00,GM0664,Goes,Zeeland,862,33,15
+2020-12-27 10:00:00,GM0668,West Maas en Waal,Gelderland,668,24,15
+2020-12-27 10:00:00,GM0677,Hulst,Zeeland,833,22,11
+2020-12-27 10:00:00,GM0678,Kapelle,Zeeland,295,5,2
+2020-12-27 10:00:00,GM0687,Middelburg,Zeeland,984,31,15
+2020-12-27 10:00:00,GM0703,Reimerswaal,Zeeland,740,10,5
+2020-12-27 10:00:00,GM0715,Terneuzen,Zeeland,1802,42,9
+2020-12-27 10:00:00,GM0716,Tholen,Zeeland,1063,51,22
+2020-12-27 10:00:00,GM0717,Veere,Zeeland,434,10,2
+2020-12-27 10:00:00,GM0718,Vlissingen,Zeeland,812,23,7
+2020-12-27 10:00:00,GM0736,De Ronde Venen,Utrecht,1956,75,28
+2020-12-27 10:00:00,GM0737,Tytsjerksteradiel,Friesland,518,9,3
+2020-12-27 10:00:00,GM0743,Asten,Noord-Brabant,707,23,14
+2020-12-27 10:00:00,GM0744,Baarle-Nassau,Noord-Brabant,259,12,4
+2020-12-27 10:00:00,GM0748,Bergen op Zoom,Noord-Brabant,3517,68,32
+2020-12-27 10:00:00,GM0753,Best,Noord-Brabant,1312,41,17
+2020-12-27 10:00:00,GM0755,Boekel,Noord-Brabant,459,38,21
+2020-12-27 10:00:00,GM0756,Boxmeer,Noord-Brabant,1467,29,35
+2020-12-27 10:00:00,GM0757,Boxtel,Noord-Brabant,1362,35,43
+2020-12-27 10:00:00,GM0758,Breda,Noord-Brabant,8415,216,120
+2020-12-27 10:00:00,GM0762,Deurne,Noord-Brabant,1494,68,35
+2020-12-27 10:00:00,GM0765,Pekela,Groningen,214,11,2
+2020-12-27 10:00:00,GM0766,Dongen,Noord-Brabant,1463,39,22
+2020-12-27 10:00:00,GM0770,Eersel,Noord-Brabant,1086,40,19
+2020-12-27 10:00:00,GM0772,Eindhoven,Noord-Brabant,9304,284,163
+2020-12-27 10:00:00,GM0777,Etten-Leur,Noord-Brabant,2022,61,31
+2020-12-27 10:00:00,GM0779,Geertruidenberg,Noord-Brabant,982,22,19
+2020-12-27 10:00:00,GM0784,Gilze en Rijen,Noord-Brabant,1240,30,18
+2020-12-27 10:00:00,GM0785,Goirle,Noord-Brabant,1121,36,24
+2020-12-27 10:00:00,GM0786,Grave,Noord-Brabant,715,28,23
+2020-12-27 10:00:00,GM0788,Haaren,Noord-Brabant,689,25,13
+2020-12-27 10:00:00,GM0794,Helmond,Noord-Brabant,4380,151,54
+2020-12-27 10:00:00,GM0796,'s-Hertogenbosch,Noord-Brabant,7010,183,122
+2020-12-27 10:00:00,GM0797,Heusden,Noord-Brabant,2141,68,41
+2020-12-27 10:00:00,GM0798,Hilvarenbeek,Noord-Brabant,794,18,17
+2020-12-27 10:00:00,GM0809,Loon op Zand,Noord-Brabant,1252,39,30
+2020-12-27 10:00:00,GM0815,Mill en Sint Hubert,Noord-Brabant,509,14,7
+2020-12-27 10:00:00,GM0820,"Nuenen, Gerwen en Nederwetten",Noord-Brabant,893,24,14
+2020-12-27 10:00:00,GM0823,Oirschot,Noord-Brabant,974,21,20
+2020-12-27 10:00:00,GM0824,Oisterwijk,Noord-Brabant,1198,32,15
+2020-12-27 10:00:00,GM0826,Oosterhout,Noord-Brabant,2659,63,32
+2020-12-27 10:00:00,GM0828,Oss,Noord-Brabant,4267,201,106
+2020-12-27 10:00:00,GM0840,Rucphen,Noord-Brabant,1099,25,12
+2020-12-27 10:00:00,GM0845,Sint-Michielsgestel,Noord-Brabant,1402,42,27
+2020-12-27 10:00:00,GM0847,Someren,Noord-Brabant,872,37,10
+2020-12-27 10:00:00,GM0848,Son en Breugel,Noord-Brabant,635,35,22
+2020-12-27 10:00:00,GM0851,Steenbergen,Noord-Brabant,989,22,15
+2020-12-27 10:00:00,GM0852,Waterland,Noord-Holland,820,27,14
+2020-12-27 10:00:00,GM0855,Tilburg,Noord-Brabant,10625,337,235
+2020-12-27 10:00:00,GM0856,Uden,Noord-Brabant,1625,121,70
+2020-12-27 10:00:00,GM0858,Valkenswaard,Noord-Brabant,1587,30,45
+2020-12-27 10:00:00,GM0861,Veldhoven,Noord-Brabant,2141,51,28
+2020-12-27 10:00:00,GM0865,Vught,Noord-Brabant,1458,51,38
+2020-12-27 10:00:00,GM0866,Waalre,Noord-Brabant,730,9,10
+2020-12-27 10:00:00,GM0867,Waalwijk,Noord-Brabant,2573,60,61
+2020-12-27 10:00:00,GM0873,Woensdrecht,Noord-Brabant,827,12,21
+2020-12-27 10:00:00,GM0879,Zundert,Noord-Brabant,872,32,13
+2020-12-27 10:00:00,GM0880,Wormerland,Noord-Holland,679,25,14
+2020-12-27 10:00:00,GM0882,Landgraaf,Limburg,1237,59,28
+2020-12-27 10:00:00,GM0888,Beek,Limburg,599,19,11
+2020-12-27 10:00:00,GM0889,Beesel,Limburg,480,24,10
+2020-12-27 10:00:00,GM0893,Bergen (L.),Limburg,610,12,5
+2020-12-27 10:00:00,GM0899,Brunssum,Limburg,1014,59,25
+2020-12-27 10:00:00,GM0907,Gennep,Limburg,878,23,16
+2020-12-27 10:00:00,GM0917,Heerlen,Limburg,2821,147,66
+2020-12-27 10:00:00,GM0928,Kerkrade,Limburg,1301,88,45
+2020-12-27 10:00:00,GM0935,Maastricht,Limburg,4610,224,149
+2020-12-27 10:00:00,GM0938,Meerssen,Limburg,642,26,17
+2020-12-27 10:00:00,GM0944,Mook en Middelaar,Limburg,333,10,9
+2020-12-27 10:00:00,GM0946,Nederweert,Limburg,972,38,12
+2020-12-27 10:00:00,GM0957,Roermond,Limburg,2182,68,29
+2020-12-27 10:00:00,GM0965,Simpelveld,Limburg,383,22,5
+2020-12-27 10:00:00,GM0971,Stein,Limburg,879,55,16
+2020-12-27 10:00:00,GM0981,Vaals,Limburg,234,13,5
+2020-12-27 10:00:00,GM0983,Venlo,Limburg,4913,169,105
+2020-12-27 10:00:00,GM0984,Venray,Limburg,2603,48,26
+2020-12-27 10:00:00,GM0986,Voerendaal,Limburg,378,18,8
+2020-12-27 10:00:00,GM0988,Weert,Limburg,3085,91,38
+2020-12-27 10:00:00,GM0994,Valkenburg aan de Geul,Limburg,595,26,12
+2020-12-27 10:00:00,GM0995,Lelystad,Flevoland,2884,102,46
+2020-12-27 10:00:00,GM1507,Horst aan de Maas,Limburg,2354,51,46
+2020-12-27 10:00:00,GM1509,Oude IJsselstreek,Gelderland,1425,29,25
+2020-12-27 10:00:00,GM1525,Teylingen,Zuid-Holland,1862,27,7
+2020-12-27 10:00:00,GM1581,Utrechtse Heuvelrug,Utrecht,2176,49,32
+2020-12-27 10:00:00,GM1586,Oost Gelre,Gelderland,1258,25,28
+2020-12-27 10:00:00,GM1598,Koggenland,Noord-Holland,829,13,12
+2020-12-27 10:00:00,GM1621,Lansingerland,Zuid-Holland,3306,67,53
+2020-12-27 10:00:00,GM1640,Leudal,Limburg,1582,61,42
+2020-12-27 10:00:00,GM1641,Maasgouw,Limburg,836,30,16
+2020-12-27 10:00:00,GM1652,Gemert-Bakel,Noord-Brabant,1230,84,34
+2020-12-27 10:00:00,GM1655,Halderberge,Noord-Brabant,1355,37,17
+2020-12-27 10:00:00,GM1658,Heeze-Leende,Noord-Brabant,765,20,13
+2020-12-27 10:00:00,GM1659,Laarbeek,Noord-Brabant,1089,45,29
+2020-12-27 10:00:00,GM1667,Reusel-De Mierden,Noord-Brabant,796,19,6
+2020-12-27 10:00:00,GM1669,Roerdalen,Limburg,683,29,13
+2020-12-27 10:00:00,GM1674,Roosendaal,Noord-Brabant,3821,65,55
+2020-12-27 10:00:00,GM1676,Schouwen-Duiveland,Zeeland,777,19,16
+2020-12-27 10:00:00,GM1680,Aa en Hunze,Drenthe,521,3,1
+2020-12-27 10:00:00,GM1681,Borger-Odoorn,Drenthe,657,13,10
+2020-12-27 10:00:00,GM1684,Cuijk,Noord-Brabant,1103,22,17
+2020-12-27 10:00:00,GM1685,Landerd,Noord-Brabant,885,45,22
+2020-12-27 10:00:00,GM1690,De Wolden,Drenthe,668,18,7
+2020-12-27 10:00:00,GM1695,Noord-Beveland,Zeeland,123,3,1
+2020-12-27 10:00:00,GM1696,Wijdemeren,Noord-Holland,900,17,6
+2020-12-27 10:00:00,GM1699,Noordenveld,Drenthe,450,11,16
+2020-12-27 10:00:00,GM1700,Twenterand,Overijssel,1995,22,9
+2020-12-27 10:00:00,GM1701,Westerveld,Drenthe,347,10,6
+2020-12-27 10:00:00,GM1702,Sint Anthonis,Noord-Brabant,526,21,11
+2020-12-27 10:00:00,GM1705,Lingewaard,Gelderland,1905,48,19
+2020-12-27 10:00:00,GM1706,Cranendonck,Noord-Brabant,1183,68,42
+2020-12-27 10:00:00,GM1708,Steenwijkerland,Overijssel,1139,19,11
+2020-12-27 10:00:00,GM1709,Moerdijk,Noord-Brabant,1494,31,24
+2020-12-27 10:00:00,GM1711,Echt-Susteren,Limburg,965,45,20
+2020-12-27 10:00:00,GM1714,Sluis,Zeeland,772,21,10
+2020-12-27 10:00:00,GM1719,Drimmelen,Noord-Brabant,1154,34,21
+2020-12-27 10:00:00,GM1721,Bernheze,Noord-Brabant,1534,102,68
+2020-12-27 10:00:00,GM1723,Alphen-Chaam,Noord-Brabant,439,21,5
+2020-12-27 10:00:00,GM1724,Bergeijk,Noord-Brabant,1150,23,6
+2020-12-27 10:00:00,GM1728,Bladel,Noord-Brabant,1393,27,18
+2020-12-27 10:00:00,GM1729,Gulpen-Wittem,Limburg,543,27,16
+2020-12-27 10:00:00,GM1730,Tynaarlo,Drenthe,574,13,13
+2020-12-27 10:00:00,GM1731,Midden-Drenthe,Drenthe,750,13,3
+2020-12-27 10:00:00,GM1734,Overbetuwe,Gelderland,1575,63,21
+2020-12-27 10:00:00,GM1735,Hof van Twente,Overijssel,1607,28,15
+2020-12-27 10:00:00,GM1740,Neder-Betuwe,Gelderland,1348,51,25
+2020-12-27 10:00:00,GM1742,Rijssen-Holten,Overijssel,2238,36,33
+2020-12-27 10:00:00,GM1771,Geldrop-Mierlo,Noord-Brabant,1792,51,20
+2020-12-27 10:00:00,GM1773,Olst-Wijhe,Overijssel,497,12,8
+2020-12-27 10:00:00,GM1774,Dinkelland,Overijssel,1553,24,18
+2020-12-27 10:00:00,GM1783,Westland,Zuid-Holland,6505,119,66
+2020-12-27 10:00:00,GM1842,Midden-Delfland,Zuid-Holland,992,13,8
+2020-12-27 10:00:00,GM1859,Berkelland,Gelderland,1730,30,35
+2020-12-27 10:00:00,GM1876,Bronckhorst,Gelderland,1382,22,12
+2020-12-27 10:00:00,GM1883,Sittard-Geleen,Limburg,3054,148,78
+2020-12-27 10:00:00,GM1884,Kaag en Braassem,Zuid-Holland,1113,16,3
+2020-12-27 10:00:00,GM1891,Dantumadiel,Friesland,450,3,0
+2020-12-27 10:00:00,GM1892,Zuidplas,Zuid-Holland,2210,51,31
+2020-12-27 10:00:00,GM1894,Peel en Maas,Limburg,1873,150,67
+2020-12-27 10:00:00,GM1895,Oldambt,Groningen,776,14,11
+2020-12-27 10:00:00,GM1896,Zwartewaterland,Overijssel,827,39,24
+2020-12-27 10:00:00,GM1900,SÃºdwest-FryslÃ¢n,Friesland,2826,30,39
+2020-12-27 10:00:00,GM1901,Bodegraven-Reeuwijk,Zuid-Holland,1821,34,16
+2020-12-27 10:00:00,GM1903,Eijsden-Margraten,Limburg,1029,62,32
+2020-12-27 10:00:00,GM1904,Stichtse Vecht,Utrecht,2814,73,40
+2020-12-27 10:00:00,GM1911,Hollands Kroon,Noord-Holland,1415,34,9
+2020-12-27 10:00:00,GM1916,Leidschendam-Voorburg,Zuid-Holland,3355,81,55
+2020-12-27 10:00:00,GM1924,Goeree-Overflakkee,Zuid-Holland,2169,80,57
+2020-12-27 10:00:00,GM1926,Pijnacker-Nootdorp,Zuid-Holland,2809,41,22
+2020-12-27 10:00:00,GM1930,Nissewaard,Zuid-Holland,4230,105,57
+2020-12-27 10:00:00,GM1931,Krimpenerwaard,Zuid-Holland,2748,82,54
+2020-12-27 10:00:00,GM1940,De Fryske Marren,Friesland,1109,31,13
+2020-12-27 10:00:00,GM1942,Gooise Meren,Noord-Holland,2352,40,22
+2020-12-27 10:00:00,GM1945,Berg en Dal,Gelderland,1580,45,36
+2020-12-27 10:00:00,GM1948,Meierijstad,Noord-Brabant,3582,229,145
+2020-12-27 10:00:00,GM1949,Waadhoeke,Friesland,1000,19,22
+2020-12-27 10:00:00,GM1950,Westerwolde,Groningen,753,14,3
+2020-12-27 10:00:00,GM1952,Midden-Groningen,Groningen,1246,22,16
+2020-12-27 10:00:00,GM1954,Beekdaelen,Limburg,1257,60,30
+2020-12-27 10:00:00,GM1955,Montferland,Gelderland,1237,30,12
+2020-12-27 10:00:00,GM1959,Altena,Noord-Brabant,3515,60,57
+2020-12-27 10:00:00,GM1960,West Betuwe,Gelderland,2531,73,42
+2020-12-27 10:00:00,GM1961,Vijfheerenlanden,Utrecht,2854,65,55
+2020-12-27 10:00:00,GM1963,Hoeksche Waard,Zuid-Holland,3610,92,36
+2020-12-27 10:00:00,GM1966,Het Hogeland,Groningen,1183,15,8
+2020-12-27 10:00:00,GM1969,Westerkwartier,Groningen,1106,21,10
+2020-12-27 10:00:00,GM1970,Noardeast-FryslÃ¢n,Friesland,970,17,9
+2020-12-27 10:00:00,GM1978,Molenlanden,Zuid-Holland,2221,25,19
