@@ -11,7 +11,7 @@ This tool automatically collects and parses the data from the RIVM and NICE webs
 
 Prerequisites:
 * virtualenv version ```20.0.3``` or later
-* python version ```3.6.9``` or later
+* python version ```3.8.5``` or later
 * pylint version ```2.4.4``` or later
 * black version ```19.10b0``` or later
 
