@@ -1,0 +1,353 @@
+Date_of_report,Municipality_code,Municipality_name,Province,Total_reported,Hospital_admission,Deceased
+2021-01-27 10:00:00,GM0014,Groningen,Groningen,7663,61,24
+2021-01-27 10:00:00,GM0034,Almere,Flevoland,12846,243,68
+2021-01-27 10:00:00,GM0037,Stadskanaal,Groningen,1485,15,9
+2021-01-27 10:00:00,GM0047,Veendam,Groningen,1023,6,7
+2021-01-27 10:00:00,GM0050,Zeewolde,Flevoland,1054,18,12
+2021-01-27 10:00:00,GM0059,Achtkarspelen,FryslÃ¢n,1156,6,9
+2021-01-27 10:00:00,GM0060,Ameland,FryslÃ¢n,133,0,0
+2021-01-27 10:00:00,GM0072,Harlingen,FryslÃ¢n,302,5,2
+2021-01-27 10:00:00,GM0074,Heerenveen,FryslÃ¢n,1372,21,25
+2021-01-27 10:00:00,GM0080,Leeuwarden,FryslÃ¢n,3698,62,33
+2021-01-27 10:00:00,GM0085,Ooststellingwerf,FryslÃ¢n,664,10,5
+2021-01-27 10:00:00,GM0086,Opsterland,FryslÃ¢n,821,17,3
+2021-01-27 10:00:00,GM0088,Schiermonnikoog,FryslÃ¢n,10,1,0
+2021-01-27 10:00:00,GM0090,Smallingerland,FryslÃ¢n,1598,22,19
+2021-01-27 10:00:00,GM0093,Terschelling,FryslÃ¢n,157,1,1
+2021-01-27 10:00:00,GM0096,Vlieland,FryslÃ¢n,30,0,0
+2021-01-27 10:00:00,GM0098,Weststellingwerf,FryslÃ¢n,756,9,13
+2021-01-27 10:00:00,GM0106,Assen,Drenthe,1871,36,11
+2021-01-27 10:00:00,GM0109,Coevorden,Drenthe,1604,36,20
+2021-01-27 10:00:00,GM0114,Emmen,Drenthe,4551,77,48
+2021-01-27 10:00:00,GM0118,Hoogeveen,Drenthe,2770,49,33
+2021-01-27 10:00:00,GM0119,Meppel,Drenthe,1331,20,22
+2021-01-27 10:00:00,GM0141,Almelo,Overijssel,4934,71,46
+2021-01-27 10:00:00,GM0147,Borne,Overijssel,1632,27,28
+2021-01-27 10:00:00,GM0148,Dalfsen,Overijssel,1416,20,17
+2021-01-27 10:00:00,GM0150,Deventer,Overijssel,5061,74,77
+2021-01-27 10:00:00,GM0153,Enschede,Overijssel,9092,168,141
+2021-01-27 10:00:00,GM0158,Haaksbergen,Overijssel,2013,29,30
+2021-01-27 10:00:00,GM0160,Hardenberg,Overijssel,3540,43,34
+2021-01-27 10:00:00,GM0163,Hellendoorn,Overijssel,2599,28,39
+2021-01-27 10:00:00,GM0164,Hengelo (O.),Overijssel,5052,60,58
+2021-01-27 10:00:00,GM0166,Kampen,Overijssel,2141,69,41
+2021-01-27 10:00:00,GM0168,Losser,Overijssel,1878,37,27
+2021-01-27 10:00:00,GM0171,Noordoostpolder,Flevoland,2232,27,25
+2021-01-27 10:00:00,GM0173,Oldenzaal,Overijssel,2235,40,40
+2021-01-27 10:00:00,GM0175,Ommen,Overijssel,845,13,14
+2021-01-27 10:00:00,GM0177,Raalte,Overijssel,2300,31,30
+2021-01-27 10:00:00,GM0180,Staphorst,Overijssel,1475,14,16
+2021-01-27 10:00:00,GM0183,Tubbergen,Overijssel,1942,18,15
+2021-01-27 10:00:00,GM0184,Urk,Flevoland,1859,43,12
+2021-01-27 10:00:00,GM0189,Wierden,Overijssel,2178,15,23
+2021-01-27 10:00:00,GM0193,Zwolle,Overijssel,4481,67,80
+2021-01-27 10:00:00,GM0197,Aalten,Gelderland,1289,19,18
+2021-01-27 10:00:00,GM0200,Apeldoorn,Gelderland,6908,158,135
+2021-01-27 10:00:00,GM0202,Arnhem,Gelderland,8049,148,103
+2021-01-27 10:00:00,GM0203,Barneveld,Gelderland,5241,38,49
+2021-01-27 10:00:00,GM0209,Beuningen,Gelderland,1268,29,16
+2021-01-27 10:00:00,GM0213,Brummen,Gelderland,826,27,15
+2021-01-27 10:00:00,GM0214,Buren,Gelderland,1422,32,15
+2021-01-27 10:00:00,GM0216,Culemborg,Gelderland,1638,38,17
+2021-01-27 10:00:00,GM0221,Doesburg,Gelderland,485,16,8
+2021-01-27 10:00:00,GM0222,Doetinchem,Gelderland,2597,51,25
+2021-01-27 10:00:00,GM0225,Druten,Gelderland,1087,34,22
+2021-01-27 10:00:00,GM0226,Duiven,Gelderland,1313,24,10
+2021-01-27 10:00:00,GM0228,Ede,Gelderland,7777,113,64
+2021-01-27 10:00:00,GM0230,Elburg,Gelderland,1200,33,12
+2021-01-27 10:00:00,GM0232,Epe,Gelderland,1522,62,35
+2021-01-27 10:00:00,GM0233,Ermelo,Gelderland,1669,35,30
+2021-01-27 10:00:00,GM0243,Harderwijk,Gelderland,2614,64,37
+2021-01-27 10:00:00,GM0244,Hattem,Gelderland,483,19,5
+2021-01-27 10:00:00,GM0246,Heerde,Gelderland,728,55,30
+2021-01-27 10:00:00,GM0252,Heumen,Gelderland,883,24,15
+2021-01-27 10:00:00,GM0262,Lochem,Gelderland,1260,30,26
+2021-01-27 10:00:00,GM0263,Maasdriel,Gelderland,1533,30,26
+2021-01-27 10:00:00,GM0267,Nijkerk,Gelderland,3121,44,19
+2021-01-27 10:00:00,GM0268,Nijmegen,Gelderland,8791,221,163
+2021-01-27 10:00:00,GM0269,Oldebroek,Gelderland,1286,44,29
+2021-01-27 10:00:00,GM0273,Putten,Gelderland,1667,16,12
+2021-01-27 10:00:00,GM0274,Renkum,Gelderland,1304,27,23
+2021-01-27 10:00:00,GM0275,Rheden,Gelderland,2209,55,41
+2021-01-27 10:00:00,GM0277,Rozendaal,Gelderland,70,1,0
+2021-01-27 10:00:00,GM0279,Scherpenzeel,Gelderland,719,5,12
+2021-01-27 10:00:00,GM0281,Tiel,Gelderland,2390,72,53
+2021-01-27 10:00:00,GM0285,Voorst,Gelderland,1099,25,18
+2021-01-27 10:00:00,GM0289,Wageningen,Gelderland,1840,33,33
+2021-01-27 10:00:00,GM0293,Westervoort,Gelderland,715,18,8
+2021-01-27 10:00:00,GM0294,Winterswijk,Gelderland,1212,13,13
+2021-01-27 10:00:00,GM0296,Wijchen,Gelderland,2384,69,48
+2021-01-27 10:00:00,GM0297,Zaltbommel,Gelderland,2168,33,34
+2021-01-27 10:00:00,GM0299,Zevenaar,Gelderland,1879,67,34
+2021-01-27 10:00:00,GM0301,Zutphen,Gelderland,1715,44,22
+2021-01-27 10:00:00,GM0302,Nunspeet,Gelderland,1338,74,29
+2021-01-27 10:00:00,GM0303,Dronten,Flevoland,1861,52,21
+2021-01-27 10:00:00,GM0307,Amersfoort,Utrecht,8877,181,94
+2021-01-27 10:00:00,GM0308,Baarn,Utrecht,1298,28,23
+2021-01-27 10:00:00,GM0310,De Bilt,Utrecht,2292,46,64
+2021-01-27 10:00:00,GM0312,Bunnik,Utrecht,715,16,11
+2021-01-27 10:00:00,GM0313,Bunschoten,Utrecht,2807,44,36
+2021-01-27 10:00:00,GM0317,Eemnes,Utrecht,548,12,2
+2021-01-27 10:00:00,GM0321,Houten,Utrecht,2483,52,50
+2021-01-27 10:00:00,GM0327,Leusden,Utrecht,1461,22,19
+2021-01-27 10:00:00,GM0331,Lopik,Utrecht,857,25,9
+2021-01-27 10:00:00,GM0335,Montfoort,Utrecht,812,18,7
+2021-01-27 10:00:00,GM0339,Renswoude,Utrecht,379,6,5
+2021-01-27 10:00:00,GM0340,Rhenen,Utrecht,1535,25,16
+2021-01-27 10:00:00,GM0342,Soest,Utrecht,2600,59,43
+2021-01-27 10:00:00,GM0344,Utrecht,Utrecht,20097,530,203
+2021-01-27 10:00:00,GM0345,Veenendaal,Utrecht,5344,97,66
+2021-01-27 10:00:00,GM0351,Woudenberg,Utrecht,1015,17,7
+2021-01-27 10:00:00,GM0352,Wijk bij Duurstede,Utrecht,1075,21,9
+2021-01-27 10:00:00,GM0353,IJsselstein,Utrecht,1739,61,47
+2021-01-27 10:00:00,GM0355,Zeist,Utrecht,3184,60,42
+2021-01-27 10:00:00,GM0356,Nieuwegein,Utrecht,2971,80,21
+2021-01-27 10:00:00,GM0358,Aalsmeer,Noord-Holland,1674,24,22
+2021-01-27 10:00:00,GM0361,Alkmaar,Noord-Holland,5095,95,56
+2021-01-27 10:00:00,GM0362,Amstelveen,Noord-Holland,4487,99,84
+2021-01-27 10:00:00,GM0363,Amsterdam,Noord-Holland,57549,1460,602
+2021-01-27 10:00:00,GM0370,Beemster,Noord-Holland,413,6,2
+2021-01-27 10:00:00,GM0373,Bergen (NH.),Noord-Holland,1409,30,29
+2021-01-27 10:00:00,GM0375,Beverwijk,Noord-Holland,2110,28,18
+2021-01-27 10:00:00,GM0376,Blaricum,Noord-Holland,573,9,5
+2021-01-27 10:00:00,GM0377,Bloemendaal,Noord-Holland,982,11,11
+2021-01-27 10:00:00,GM0383,Castricum,Noord-Holland,1585,19,17
+2021-01-27 10:00:00,GM0384,Diemen,Noord-Holland,2022,36,27
+2021-01-27 10:00:00,GM0385,Edam-Volendam,Noord-Holland,2262,65,10
+2021-01-27 10:00:00,GM0388,Enkhuizen,Noord-Holland,1242,26,9
+2021-01-27 10:00:00,GM0392,Haarlem,Noord-Holland,7582,157,135
+2021-01-27 10:00:00,GM0394,Haarlemmermeer,Noord-Holland,8197,144,91
+2021-01-27 10:00:00,GM0396,Heemskerk,Noord-Holland,2098,46,24
+2021-01-27 10:00:00,GM0397,Heemstede,Noord-Holland,1158,20,54
+2021-01-27 10:00:00,GM0398,Heerhugowaard,Noord-Holland,2900,43,22
+2021-01-27 10:00:00,GM0399,Heiloo,Noord-Holland,985,18,11
+2021-01-27 10:00:00,GM0400,Den Helder,Noord-Holland,2355,30,14
+2021-01-27 10:00:00,GM0402,Hilversum,Noord-Holland,4056,59,72
+2021-01-27 10:00:00,GM0405,Hoorn,Noord-Holland,4333,59,35
+2021-01-27 10:00:00,GM0406,Huizen,Noord-Holland,2641,46,51
+2021-01-27 10:00:00,GM0415,Landsmeer,Noord-Holland,644,9,5
+2021-01-27 10:00:00,GM0416,Langedijk,Noord-Holland,1455,23,7
+2021-01-27 10:00:00,GM0417,Laren,Noord-Holland,614,15,25
+2021-01-27 10:00:00,GM0420,Medemblik,Noord-Holland,2973,32,15
+2021-01-27 10:00:00,GM0431,Oostzaan,Noord-Holland,649,15,6
+2021-01-27 10:00:00,GM0432,Opmeer,Noord-Holland,691,3,3
+2021-01-27 10:00:00,GM0437,Ouder-Amstel,Noord-Holland,826,9,3
+2021-01-27 10:00:00,GM0439,Purmerend,Noord-Holland,4032,124,59
+2021-01-27 10:00:00,GM0441,Schagen,Noord-Holland,2395,33,27
+2021-01-27 10:00:00,GM0448,Texel,Noord-Holland,305,6,2
+2021-01-27 10:00:00,GM0450,Uitgeest,Noord-Holland,820,9,7
+2021-01-27 10:00:00,GM0451,Uithoorn,Noord-Holland,1436,28,11
+2021-01-27 10:00:00,GM0453,Velsen,Noord-Holland,3771,76,72
+2021-01-27 10:00:00,GM0457,Weesp,Noord-Holland,1335,16,17
+2021-01-27 10:00:00,GM0473,Zandvoort,Noord-Holland,787,16,40
+2021-01-27 10:00:00,GM0479,Zaanstad,Noord-Holland,9489,240,144
+2021-01-27 10:00:00,GM0482,Alblasserdam,Zuid-Holland,1497,23,17
+2021-01-27 10:00:00,GM0484,Alphen aan den Rijn,Zuid-Holland,6921,143,89
+2021-01-27 10:00:00,GM0489,Barendrecht,Zuid-Holland,3102,76,38
+2021-01-27 10:00:00,GM0498,Drechterland,Noord-Holland,1289,11,11
+2021-01-27 10:00:00,GM0501,Brielle,Zuid-Holland,843,28,9
+2021-01-27 10:00:00,GM0502,Capelle aan den IJssel,Zuid-Holland,4315,120,109
+2021-01-27 10:00:00,GM0503,Delft,Zuid-Holland,5662,79,64
+2021-01-27 10:00:00,GM0505,Dordrecht,Zuid-Holland,7945,150,123
+2021-01-27 10:00:00,GM0512,Gorinchem,Zuid-Holland,2474,33,29
+2021-01-27 10:00:00,GM0513,Gouda,Zuid-Holland,4748,146,132
+2021-01-27 10:00:00,GM0518,'s-Gravenhage,Zuid-Holland,32257,1028,469
+2021-01-27 10:00:00,GM0523,Hardinxveld-Giessendam,Zuid-Holland,1524,6,14
+2021-01-27 10:00:00,GM0530,Hellevoetsluis,Zuid-Holland,1895,43,35
+2021-01-27 10:00:00,GM0531,Hendrik-Ido-Ambacht,Zuid-Holland,2052,22,25
+2021-01-27 10:00:00,GM0532,Stede Broec,Noord-Holland,1458,25,10
+2021-01-27 10:00:00,GM0534,Hillegom,Zuid-Holland,1054,13,13
+2021-01-27 10:00:00,GM0537,Katwijk,Zuid-Holland,5079,86,41
+2021-01-27 10:00:00,GM0542,Krimpen aan den IJssel,Zuid-Holland,2263,35,56
+2021-01-27 10:00:00,GM0546,Leiden,Zuid-Holland,6306,103,49
+2021-01-27 10:00:00,GM0547,Leiderdorp,Zuid-Holland,1387,33,21
+2021-01-27 10:00:00,GM0553,Lisse,Zuid-Holland,1249,23,16
+2021-01-27 10:00:00,GM0556,Maassluis,Zuid-Holland,2111,55,28
+2021-01-27 10:00:00,GM0569,Nieuwkoop,Zuid-Holland,1643,29,18
+2021-01-27 10:00:00,GM0575,Noordwijk,Zuid-Holland,2361,55,17
+2021-01-27 10:00:00,GM0579,Oegstgeest,Zuid-Holland,1247,18,29
+2021-01-27 10:00:00,GM0589,Oudewater,Utrecht,608,33,12
+2021-01-27 10:00:00,GM0590,Papendrecht,Zuid-Holland,1954,21,31
+2021-01-27 10:00:00,GM0597,Ridderkerk,Zuid-Holland,3026,69,62
+2021-01-27 10:00:00,GM0599,Rotterdam,Zuid-Holland,46388,1373,743
+2021-01-27 10:00:00,GM0603,Rijswijk,Zuid-Holland,3008,95,70
+2021-01-27 10:00:00,GM0606,Schiedam,Zuid-Holland,5620,163,67
+2021-01-27 10:00:00,GM0610,Sliedrecht,Zuid-Holland,1966,22,30
+2021-01-27 10:00:00,GM0613,Albrandswaard,Zuid-Holland,1888,34,19
+2021-01-27 10:00:00,GM0614,Westvoorne,Zuid-Holland,620,13,14
+2021-01-27 10:00:00,GM0622,Vlaardingen,Zuid-Holland,5080,116,72
+2021-01-27 10:00:00,GM0626,Voorschoten,Zuid-Holland,1123,18,20
+2021-01-27 10:00:00,GM0627,Waddinxveen,Zuid-Holland,1749,55,13
+2021-01-27 10:00:00,GM0629,Wassenaar,Zuid-Holland,1235,27,27
+2021-01-27 10:00:00,GM0632,Woerden,Utrecht,2927,88,29
+2021-01-27 10:00:00,GM0637,Zoetermeer,Zuid-Holland,6876,112,51
+2021-01-27 10:00:00,GM0638,Zoeterwoude,Zuid-Holland,465,6,1
+2021-01-27 10:00:00,GM0642,Zwijndrecht,Zuid-Holland,2957,52,70
+2021-01-27 10:00:00,GM0654,Borsele,Zeeland,763,23,5
+2021-01-27 10:00:00,GM0664,Goes,Zeeland,1244,44,18
+2021-01-27 10:00:00,GM0668,West Maas en Waal,Gelderland,1095,24,15
+2021-01-27 10:00:00,GM0677,Hulst,Zeeland,1090,25,11
+2021-01-27 10:00:00,GM0678,Kapelle,Zeeland,421,7,5
+2021-01-27 10:00:00,GM0687,Middelburg,Zeeland,1485,41,16
+2021-01-27 10:00:00,GM0703,Reimerswaal,Zeeland,1247,20,7
+2021-01-27 10:00:00,GM0715,Terneuzen,Zeeland,2308,64,23
+2021-01-27 10:00:00,GM0716,Tholen,Zeeland,1310,53,22
+2021-01-27 10:00:00,GM0717,Veere,Zeeland,636,12,2
+2021-01-27 10:00:00,GM0718,Vlissingen,Zeeland,1310,36,8
+2021-01-27 10:00:00,GM0736,De Ronde Venen,Utrecht,2352,86,32
+2021-01-27 10:00:00,GM0737,Tytsjerksteradiel,FryslÃ¢n,937,13,9
+2021-01-27 10:00:00,GM0743,Asten,Noord-Brabant,896,25,15
+2021-01-27 10:00:00,GM0744,Baarle-Nassau,Noord-Brabant,296,12,4
+2021-01-27 10:00:00,GM0748,Bergen op Zoom,Noord-Brabant,3973,77,34
+2021-01-27 10:00:00,GM0753,Best,Noord-Brabant,1792,49,26
+2021-01-27 10:00:00,GM0755,Boekel,Noord-Brabant,631,39,22
+2021-01-27 10:00:00,GM0756,Boxmeer,Noord-Brabant,2061,33,39
+2021-01-27 10:00:00,GM0757,Boxtel,Noord-Brabant,1865,43,57
+2021-01-27 10:00:00,GM0758,Breda,Noord-Brabant,9784,222,134
+2021-01-27 10:00:00,GM0762,Deurne,Noord-Brabant,1961,73,37
+2021-01-27 10:00:00,GM0765,Pekela,Groningen,434,13,3
+2021-01-27 10:00:00,GM0766,Dongen,Noord-Brabant,1778,42,23
+2021-01-27 10:00:00,GM0770,Eersel,Noord-Brabant,1333,41,21
+2021-01-27 10:00:00,GM0772,Eindhoven,Noord-Brabant,11959,322,237
+2021-01-27 10:00:00,GM0777,Etten-Leur,Noord-Brabant,2344,63,34
+2021-01-27 10:00:00,GM0779,Geertruidenberg,Noord-Brabant,1314,25,21
+2021-01-27 10:00:00,GM0784,Gilze en Rijen,Noord-Brabant,1473,30,18
+2021-01-27 10:00:00,GM0785,Goirle,Noord-Brabant,1381,38,30
+2021-01-27 10:00:00,GM0786,Grave,Noord-Brabant,877,29,23
+2021-01-27 10:00:00,GM0794,Helmond,Noord-Brabant,5636,165,62
+2021-01-27 10:00:00,GM0796,'s-Hertogenbosch,Noord-Brabant,8705,198,135
+2021-01-27 10:00:00,GM0797,Heusden,Noord-Brabant,2672,69,44
+2021-01-27 10:00:00,GM0798,Hilvarenbeek,Noord-Brabant,1002,18,20
+2021-01-27 10:00:00,GM0809,Loon op Zand,Noord-Brabant,1607,40,33
+2021-01-27 10:00:00,GM0815,Mill en Sint Hubert,Noord-Brabant,717,16,8
+2021-01-27 10:00:00,GM0820,"Nuenen, Gerwen en Nederwetten",Noord-Brabant,1184,26,15
+2021-01-27 10:00:00,GM0823,Oirschot,Noord-Brabant,1212,24,23
+2021-01-27 10:00:00,GM0824,Oisterwijk,Noord-Brabant,1781,45,21
+2021-01-27 10:00:00,GM0826,Oosterhout,Noord-Brabant,3149,70,32
+2021-01-27 10:00:00,GM0828,Oss,Noord-Brabant,5520,207,112
+2021-01-27 10:00:00,GM0840,Rucphen,Noord-Brabant,1350,31,12
+2021-01-27 10:00:00,GM0845,Sint-Michielsgestel,Noord-Brabant,1782,42,28
+2021-01-27 10:00:00,GM0847,Someren,Noord-Brabant,1186,39,11
+2021-01-27 10:00:00,GM0848,Son en Breugel,Noord-Brabant,787,38,26
+2021-01-27 10:00:00,GM0851,Steenbergen,Noord-Brabant,1203,25,15
+2021-01-27 10:00:00,GM0852,Waterland,Noord-Holland,1064,28,14
+2021-01-27 10:00:00,GM0855,Tilburg,Noord-Brabant,12883,354,265
+2021-01-27 10:00:00,GM0856,Uden,Noord-Brabant,2022,123,75
+2021-01-27 10:00:00,GM0858,Valkenswaard,Noord-Brabant,2033,34,45
+2021-01-27 10:00:00,GM0861,Veldhoven,Noord-Brabant,2802,56,38
+2021-01-27 10:00:00,GM0865,Vught,Noord-Brabant,2005,63,50
+2021-01-27 10:00:00,GM0866,Waalre,Noord-Brabant,909,12,10
+2021-01-27 10:00:00,GM0867,Waalwijk,Noord-Brabant,3094,63,73
+2021-01-27 10:00:00,GM0873,Woensdrecht,Noord-Brabant,1103,14,21
+2021-01-27 10:00:00,GM0879,Zundert,Noord-Brabant,1033,32,15
+2021-01-27 10:00:00,GM0880,Wormerland,Noord-Holland,824,28,14
+2021-01-27 10:00:00,GM0882,Landgraaf,Limburg,1984,74,46
+2021-01-27 10:00:00,GM0888,Beek,Limburg,807,24,12
+2021-01-27 10:00:00,GM0889,Beesel,Limburg,695,24,10
+2021-01-27 10:00:00,GM0893,Bergen (L.),Limburg,990,15,10
+2021-01-27 10:00:00,GM0899,Brunssum,Limburg,1376,68,35
+2021-01-27 10:00:00,GM0907,Gennep,Limburg,1148,26,16
+2021-01-27 10:00:00,GM0917,Heerlen,Limburg,4041,179,103
+2021-01-27 10:00:00,GM0928,Kerkrade,Limburg,2148,107,74
+2021-01-27 10:00:00,GM0935,Maastricht,Limburg,5697,244,174
+2021-01-27 10:00:00,GM0938,Meerssen,Limburg,817,28,22
+2021-01-27 10:00:00,GM0944,Mook en Middelaar,Limburg,434,11,11
+2021-01-27 10:00:00,GM0946,Nederweert,Limburg,1398,39,15
+2021-01-27 10:00:00,GM0957,Roermond,Limburg,2999,73,36
+2021-01-27 10:00:00,GM0965,Simpelveld,Limburg,551,26,6
+2021-01-27 10:00:00,GM0971,Stein,Limburg,1211,58,18
+2021-01-27 10:00:00,GM0981,Vaals,Limburg,395,18,11
+2021-01-27 10:00:00,GM0983,Venlo,Limburg,6517,179,120
+2021-01-27 10:00:00,GM0984,Venray,Limburg,3502,52,34
+2021-01-27 10:00:00,GM0986,Voerendaal,Limburg,552,21,10
+2021-01-27 10:00:00,GM0988,Weert,Limburg,4164,102,64
+2021-01-27 10:00:00,GM0994,Valkenburg aan de Geul,Limburg,727,29,14
+2021-01-27 10:00:00,GM0995,Lelystad,Flevoland,3561,111,54
+2021-01-27 10:00:00,GM1507,Horst aan de Maas,Limburg,3196,52,57
+2021-01-27 10:00:00,GM1509,Oude IJsselstreek,Gelderland,2050,34,36
+2021-01-27 10:00:00,GM1525,Teylingen,Zuid-Holland,2245,31,10
+2021-01-27 10:00:00,GM1581,Utrechtse Heuvelrug,Utrecht,2663,55,43
+2021-01-27 10:00:00,GM1586,Oost Gelre,Gelderland,1757,27,34
+2021-01-27 10:00:00,GM1598,Koggenland,Noord-Holland,1271,15,15
+2021-01-27 10:00:00,GM1621,Lansingerland,Zuid-Holland,4095,76,58
+2021-01-27 10:00:00,GM1640,Leudal,Limburg,2157,63,44
+2021-01-27 10:00:00,GM1641,Maasgouw,Limburg,1300,32,18
+2021-01-27 10:00:00,GM1652,Gemert-Bakel,Noord-Brabant,1614,87,35
+2021-01-27 10:00:00,GM1655,Halderberge,Noord-Brabant,1678,42,21
+2021-01-27 10:00:00,GM1658,Heeze-Leende,Noord-Brabant,929,20,13
+2021-01-27 10:00:00,GM1659,Laarbeek,Noord-Brabant,1429,49,31
+2021-01-27 10:00:00,GM1667,Reusel-De Mierden,Noord-Brabant,1005,21,7
+2021-01-27 10:00:00,GM1669,Roerdalen,Limburg,943,32,22
+2021-01-27 10:00:00,GM1674,Roosendaal,Noord-Brabant,4486,74,60
+2021-01-27 10:00:00,GM1676,Schouwen-Duiveland,Zeeland,979,26,20
+2021-01-27 10:00:00,GM1680,Aa en Hunze,Drenthe,777,4,10
+2021-01-27 10:00:00,GM1681,Borger-Odoorn,Drenthe,904,17,11
+2021-01-27 10:00:00,GM1684,Cuijk,Noord-Brabant,1483,28,20
+2021-01-27 10:00:00,GM1685,Landerd,Noord-Brabant,1147,47,22
+2021-01-27 10:00:00,GM1690,De Wolden,Drenthe,1037,22,14
+2021-01-27 10:00:00,GM1695,Noord-Beveland,Zeeland,199,4,1
+2021-01-27 10:00:00,GM1696,Wijdemeren,Noord-Holland,1176,18,11
+2021-01-27 10:00:00,GM1699,Noordenveld,Drenthe,725,14,19
+2021-01-27 10:00:00,GM1700,Twenterand,Overijssel,2900,32,26
+2021-01-27 10:00:00,GM1701,Westerveld,Drenthe,464,11,7
+2021-01-27 10:00:00,GM1702,Sint Anthonis,Noord-Brabant,717,22,11
+2021-01-27 10:00:00,GM1705,Lingewaard,Gelderland,2403,54,22
+2021-01-27 10:00:00,GM1706,Cranendonck,Noord-Brabant,1546,70,47
+2021-01-27 10:00:00,GM1708,Steenwijkerland,Overijssel,1571,21,17
+2021-01-27 10:00:00,GM1709,Moerdijk,Noord-Brabant,1790,34,26
+2021-01-27 10:00:00,GM1711,Echt-Susteren,Limburg,1547,51,25
+2021-01-27 10:00:00,GM1714,Sluis,Zeeland,972,30,17
+2021-01-27 10:00:00,GM1719,Drimmelen,Noord-Brabant,1408,36,24
+2021-01-27 10:00:00,GM1721,Bernheze,Noord-Brabant,1962,105,68
+2021-01-27 10:00:00,GM1723,Alphen-Chaam,Noord-Brabant,491,21,5
+2021-01-27 10:00:00,GM1724,Bergeijk,Noord-Brabant,1440,27,7
+2021-01-27 10:00:00,GM1728,Bladel,Noord-Brabant,1770,32,20
+2021-01-27 10:00:00,GM1729,Gulpen-Wittem,Limburg,690,30,18
+2021-01-27 10:00:00,GM1730,Tynaarlo,Drenthe,878,14,17
+2021-01-27 10:00:00,GM1731,Midden-Drenthe,Drenthe,1128,18,23
+2021-01-27 10:00:00,GM1734,Overbetuwe,Gelderland,2042,68,26
+2021-01-27 10:00:00,GM1735,Hof van Twente,Overijssel,2267,30,19
+2021-01-27 10:00:00,GM1740,Neder-Betuwe,Gelderland,1704,55,29
+2021-01-27 10:00:00,GM1742,Rijssen-Holten,Overijssel,3151,42,43
+2021-01-27 10:00:00,GM1771,Geldrop-Mierlo,Noord-Brabant,2387,58,21
+2021-01-27 10:00:00,GM1773,Olst-Wijhe,Overijssel,681,14,9
+2021-01-27 10:00:00,GM1774,Dinkelland,Overijssel,2173,32,31
+2021-01-27 10:00:00,GM1783,Westland,Zuid-Holland,8044,143,76
+2021-01-27 10:00:00,GM1842,Midden-Delfland,Zuid-Holland,1198,16,12
+2021-01-27 10:00:00,GM1859,Berkelland,Gelderland,2407,32,39
+2021-01-27 10:00:00,GM1876,Bronckhorst,Gelderland,1801,26,12
+2021-01-27 10:00:00,GM1883,Sittard-Geleen,Limburg,4344,167,101
+2021-01-27 10:00:00,GM1884,Kaag en Braassem,Zuid-Holland,1402,18,9
+2021-01-27 10:00:00,GM1891,Dantumadiel,FryslÃ¢n,743,4,12
+2021-01-27 10:00:00,GM1892,Zuidplas,Zuid-Holland,2787,81,39
+2021-01-27 10:00:00,GM1894,Peel en Maas,Limburg,2380,151,71
+2021-01-27 10:00:00,GM1895,Oldambt,Groningen,1423,22,19
+2021-01-27 10:00:00,GM1896,Zwartewaterland,Overijssel,1107,41,25
+2021-01-27 10:00:00,GM1900,SÃºdwest-FryslÃ¢n,FryslÃ¢n,3948,32,55
+2021-01-27 10:00:00,GM1901,Bodegraven-Reeuwijk,Zuid-Holland,2410,48,27
+2021-01-27 10:00:00,GM1903,Eijsden-Margraten,Limburg,1383,66,36
+2021-01-27 10:00:00,GM1904,Stichtse Vecht,Utrecht,3492,84,54
+2021-01-27 10:00:00,GM1911,Hollands Kroon,Noord-Holland,2235,36,15
+2021-01-27 10:00:00,GM1916,Leidschendam-Voorburg,Zuid-Holland,4062,100,68
+2021-01-27 10:00:00,GM1924,Goeree-Overflakkee,Zuid-Holland,2562,94,63
+2021-01-27 10:00:00,GM1926,Pijnacker-Nootdorp,Zuid-Holland,3299,44,28
+2021-01-27 10:00:00,GM1930,Nissewaard,Zuid-Holland,4921,115,76
+2021-01-27 10:00:00,GM1931,Krimpenerwaard,Zuid-Holland,3583,102,59
+2021-01-27 10:00:00,GM1940,De Fryske Marren,FryslÃ¢n,1506,35,16
+2021-01-27 10:00:00,GM1942,Gooise Meren,Noord-Holland,2864,46,28
+2021-01-27 10:00:00,GM1945,Berg en Dal,Gelderland,1900,47,41
+2021-01-27 10:00:00,GM1948,Meierijstad,Noord-Brabant,4469,240,159
+2021-01-27 10:00:00,GM1949,Waadhoeke,FryslÃ¢n,1389,20,30
+2021-01-27 10:00:00,GM1950,Westerwolde,Groningen,1327,22,13
+2021-01-27 10:00:00,GM1952,Midden-Groningen,Groningen,1880,29,24
+2021-01-27 10:00:00,GM1954,Beekdaelen,Limburg,1763,71,39
+2021-01-27 10:00:00,GM1955,Montferland,Gelderland,1676,33,15
+2021-01-27 10:00:00,GM1959,Altena,Noord-Brabant,4483,72,65
+2021-01-27 10:00:00,GM1960,West Betuwe,Gelderland,3302,75,42
+2021-01-27 10:00:00,GM1961,Vijfheerenlanden,Utrecht,3578,78,58
+2021-01-27 10:00:00,GM1963,Hoeksche Waard,Zuid-Holland,4508,104,45
+2021-01-27 10:00:00,GM1966,Het Hogeland,Groningen,1853,20,19
+2021-01-27 10:00:00,GM1969,Westerkwartier,Groningen,1565,25,13
+2021-01-27 10:00:00,GM1970,Noardeast-FryslÃ¢n,FryslÃ¢n,1518,27,21
+2021-01-27 10:00:00,GM1978,Molenlanden,Zuid-Holland,2925,34,22
+2021-01-27 10:00:00,GM1979,Eemsdelta,Groningen,1688,33,10
