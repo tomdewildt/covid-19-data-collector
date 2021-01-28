@@ -62,7 +62,10 @@ class TestGetMunicipalityDatasetRun:
             mock_write.call_args.args[0],
             pd.DataFrame(
                 {
-                    "Date_of_report": ["1970-01-01 12:00:00", "1970-01-01 12:00:00"],
+                    "Date_of_publication": [
+                        "1970-01-01 12:00:00",
+                        "1970-01-01 12:00:00",
+                    ],
                     "Municipality_code": ["GM0001", "GM0002"],
                     "Municipality_name": ["gemeente 1", "gemeente 2"],
                     "Province": ["provincie 1", "provincie 2"],
