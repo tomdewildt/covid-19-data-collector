@@ -1,356 +1,354 @@
-Date_of_report,Municipality_code,Municipality_name,Province,Total_reported,Hospital_admission,Deceased
-2020-11-18 10:00:00,GM0003,Appingedam,Groningen,74,8,1
-2020-11-18 10:00:00,GM0010,Delfzijl,Groningen,176,9,0
-2020-11-18 10:00:00,GM0014,Groningen,Groningen,4068,33,5
-2020-11-18 10:00:00,GM0024,Loppersum,Groningen,72,1,0
-2020-11-18 10:00:00,GM0034,Almere,Flevoland,5491,175,46
-2020-11-18 10:00:00,GM0037,Stadskanaal,Groningen,504,9,7
-2020-11-18 10:00:00,GM0047,Veendam,Groningen,229,4,1
-2020-11-18 10:00:00,GM0050,Zeewolde,Flevoland,353,14,6
-2020-11-18 10:00:00,GM0059,Achtkarspelen,Friesland,249,0,0
-2020-11-18 10:00:00,GM0060,Ameland,Friesland,46,0,0
-2020-11-18 10:00:00,GM0072,Harlingen,Friesland,126,5,2
-2020-11-18 10:00:00,GM0074,Heerenveen,Friesland,528,17,22
-2020-11-18 10:00:00,GM0080,Leeuwarden,Friesland,1686,47,16
-2020-11-18 10:00:00,GM0085,Ooststellingwerf,Friesland,252,6,1
-2020-11-18 10:00:00,GM0086,Opsterland,Friesland,231,11,0
-2020-11-18 10:00:00,GM0088,Schiermonnikoog,Friesland,4,1,0
-2020-11-18 10:00:00,GM0090,Smallingerland,Friesland,529,13,8
-2020-11-18 10:00:00,GM0093,Terschelling,Friesland,66,1,1
-2020-11-18 10:00:00,GM0096,Vlieland,Friesland,18,0,0
-2020-11-18 10:00:00,GM0098,Weststellingwerf,Friesland,323,5,9
-2020-11-18 10:00:00,GM0106,Assen,Drenthe,863,17,5
-2020-11-18 10:00:00,GM0109,Coevorden,Drenthe,487,20,7
-2020-11-18 10:00:00,GM0114,Emmen,Drenthe,1965,53,26
-2020-11-18 10:00:00,GM0118,Hoogeveen,Drenthe,845,32,15
-2020-11-18 10:00:00,GM0119,Meppel,Drenthe,418,13,5
-2020-11-18 10:00:00,GM0141,Almelo,Overijssel,2205,39,22
-2020-11-18 10:00:00,GM0147,Borne,Overijssel,549,16,6
-2020-11-18 10:00:00,GM0148,Dalfsen,Overijssel,627,18,9
-2020-11-18 10:00:00,GM0150,Deventer,Overijssel,1932,54,50
-2020-11-18 10:00:00,GM0153,Enschede,Overijssel,4220,93,60
-2020-11-18 10:00:00,GM0158,Haaksbergen,Overijssel,730,21,18
-2020-11-18 10:00:00,GM0160,Hardenberg,Overijssel,1019,26,12
-2020-11-18 10:00:00,GM0163,Hellendoorn,Overijssel,842,15,15
-2020-11-18 10:00:00,GM0164,Hengelo,Overijssel,2116,42,27
-2020-11-18 10:00:00,GM0166,Kampen,Overijssel,879,63,37
-2020-11-18 10:00:00,GM0168,Losser,Overijssel,620,13,4
-2020-11-18 10:00:00,GM0171,Noordoostpolder,Flevoland,657,21,13
-2020-11-18 10:00:00,GM0173,Oldenzaal,Overijssel,946,22,23
-2020-11-18 10:00:00,GM0175,Ommen,Overijssel,281,9,4
-2020-11-18 10:00:00,GM0177,Raalte,Overijssel,783,26,25
-2020-11-18 10:00:00,GM0180,Staphorst,Overijssel,409,11,5
-2020-11-18 10:00:00,GM0183,Tubbergen,Overijssel,945,13,8
-2020-11-18 10:00:00,GM0184,Urk,Flevoland,588,28,6
-2020-11-18 10:00:00,GM0189,Wierden,Overijssel,849,8,7
-2020-11-18 10:00:00,GM0193,Zwolle,Overijssel,2110,57,59
-2020-11-18 10:00:00,GM0197,Aalten,Gelderland,543,14,9
-2020-11-18 10:00:00,GM0200,Apeldoorn,Gelderland,2812,124,61
-2020-11-18 10:00:00,GM0202,Arnhem,Gelderland,3479,109,63
-2020-11-18 10:00:00,GM0203,Barneveld,Gelderland,1445,30,16
-2020-11-18 10:00:00,GM0209,Beuningen,Gelderland,579,22,9
-2020-11-18 10:00:00,GM0213,Brummen,Gelderland,339,22,7
-2020-11-18 10:00:00,GM0214,Buren,Gelderland,583,24,11
-2020-11-18 10:00:00,GM0216,Culemborg,Gelderland,767,30,11
-2020-11-18 10:00:00,GM0221,Doesburg,Gelderland,226,11,7
-2020-11-18 10:00:00,GM0222,Doetinchem,Gelderland,1081,38,18
-2020-11-18 10:00:00,GM0225,Druten,Gelderland,435,29,14
-2020-11-18 10:00:00,GM0226,Duiven,Gelderland,526,18,8
-2020-11-18 10:00:00,GM0228,Ede,Gelderland,2696,82,39
-2020-11-18 10:00:00,GM0230,Elburg,Gelderland,419,30,10
-2020-11-18 10:00:00,GM0232,Epe,Gelderland,576,54,24
-2020-11-18 10:00:00,GM0233,Ermelo,Gelderland,516,33,24
-2020-11-18 10:00:00,GM0243,Harderwijk,Gelderland,956,51,22
-2020-11-18 10:00:00,GM0244,Hattem,Gelderland,207,18,5
-2020-11-18 10:00:00,GM0246,Heerde,Gelderland,383,55,28
-2020-11-18 10:00:00,GM0252,Heumen,Gelderland,453,19,13
-2020-11-18 10:00:00,GM0262,Lochem,Gelderland,544,21,16
-2020-11-18 10:00:00,GM0263,Maasdriel,Gelderland,693,26,13
-2020-11-18 10:00:00,GM0267,Nijkerk,Gelderland,1035,32,6
-2020-11-18 10:00:00,GM0268,Nijmegen,Gelderland,4695,193,114
-2020-11-18 10:00:00,GM0269,Oldebroek,Gelderland,394,40,20
-2020-11-18 10:00:00,GM0273,Putten,Gelderland,447,12,2
-2020-11-18 10:00:00,GM0274,Renkum,Gelderland,637,20,11
-2020-11-18 10:00:00,GM0275,Rheden,Gelderland,851,38,19
-2020-11-18 10:00:00,GM0277,Rozendaal,Gelderland,16,1,0
-2020-11-18 10:00:00,GM0279,Scherpenzeel,Gelderland,207,5,2
-2020-11-18 10:00:00,GM0281,Tiel,Gelderland,1246,56,30
-2020-11-18 10:00:00,GM0285,Voorst,Gelderland,401,18,11
-2020-11-18 10:00:00,GM0289,Wageningen,Gelderland,825,28,22
-2020-11-18 10:00:00,GM0293,Westervoort,Gelderland,274,13,7
-2020-11-18 10:00:00,GM0294,Winterswijk,Gelderland,495,10,7
-2020-11-18 10:00:00,GM0296,Wijchen,Gelderland,968,57,23
-2020-11-18 10:00:00,GM0297,Zaltbommel,Gelderland,787,25,10
-2020-11-18 10:00:00,GM0299,Zevenaar,Gelderland,764,60,20
-2020-11-18 10:00:00,GM0301,Zutphen,Gelderland,833,38,16
-2020-11-18 10:00:00,GM0302,Nunspeet,Gelderland,575,63,23
-2020-11-18 10:00:00,GM0303,Dronten,Flevoland,524,41,16
-2020-11-18 10:00:00,GM0307,Amersfoort,Utrecht,3983,112,48
-2020-11-18 10:00:00,GM0308,Baarn,Utrecht,564,20,12
-2020-11-18 10:00:00,GM0310,De Bilt,Utrecht,1229,37,27
-2020-11-18 10:00:00,GM0312,Bunnik,Utrecht,363,13,6
-2020-11-18 10:00:00,GM0313,Bunschoten,Utrecht,927,22,11
-2020-11-18 10:00:00,GM0317,Eemnes,Utrecht,238,4,1
-2020-11-18 10:00:00,GM0321,Houten,Utrecht,1228,40,42
-2020-11-18 10:00:00,GM0327,Leusden,Utrecht,674,15,12
-2020-11-18 10:00:00,GM0331,Lopik,Utrecht,450,25,8
-2020-11-18 10:00:00,GM0335,Montfoort,Utrecht,387,16,7
-2020-11-18 10:00:00,GM0339,Renswoude,Utrecht,114,5,5
-2020-11-18 10:00:00,GM0340,Rhenen,Utrecht,473,14,6
-2020-11-18 10:00:00,GM0342,Soest,Utrecht,1315,40,32
-2020-11-18 10:00:00,GM0344,Utrecht,Utrecht,12761,417,152
-2020-11-18 10:00:00,GM0345,Veenendaal,Utrecht,2045,65,17
-2020-11-18 10:00:00,GM0351,Woudenberg,Utrecht,299,11,4
-2020-11-18 10:00:00,GM0352,Wijk bij Duurstede,Utrecht,495,14,7
-2020-11-18 10:00:00,GM0353,IJsselstein,Utrecht,952,49,41
-2020-11-18 10:00:00,GM0355,Zeist,Utrecht,1594,47,32
-2020-11-18 10:00:00,GM0356,Nieuwegein,Utrecht,1537,62,17
-2020-11-18 10:00:00,GM0358,Aalsmeer,Noord-Holland,929,17,19
-2020-11-18 10:00:00,GM0361,Alkmaar,Noord-Holland,2299,75,40
-2020-11-18 10:00:00,GM0362,Amstelveen,Noord-Holland,2711,83,56
-2020-11-18 10:00:00,GM0363,Amsterdam,Noord-Holland,36471,1141,393
-2020-11-18 10:00:00,GM0370,Beemster,Noord-Holland,202,4,2
-2020-11-18 10:00:00,GM0373,Bergen (NH.),Noord-Holland,698,23,24
-2020-11-18 10:00:00,GM0375,Beverwijk,Noord-Holland,1074,23,15
-2020-11-18 10:00:00,GM0376,Blaricum,Noord-Holland,279,8,2
-2020-11-18 10:00:00,GM0377,Bloemendaal,Noord-Holland,480,10,6
-2020-11-18 10:00:00,GM0383,Castricum,Noord-Holland,631,18,11
-2020-11-18 10:00:00,GM0384,Diemen,Noord-Holland,1215,26,19
-2020-11-18 10:00:00,GM0385,Edam-Volendam,Noord-Holland,1269,50,6
-2020-11-18 10:00:00,GM0388,Enkhuizen,Noord-Holland,345,20,5
-2020-11-18 10:00:00,GM0392,Haarlem,Noord-Holland,3762,117,83
-2020-11-18 10:00:00,GM0394,Haarlemmermeer,Noord-Holland,4218,110,44
-2020-11-18 10:00:00,GM0396,Heemskerk,Noord-Holland,967,36,21
-2020-11-18 10:00:00,GM0397,Heemstede,Noord-Holland,555,17,35
-2020-11-18 10:00:00,GM0398,Heerhugowaard,Noord-Holland,1126,33,10
-2020-11-18 10:00:00,GM0399,Heiloo,Noord-Holland,400,13,10
-2020-11-18 10:00:00,GM0400,Den Helder,Noord-Holland,642,19,6
-2020-11-18 10:00:00,GM0402,Hilversum,Noord-Holland,2088,48,34
-2020-11-18 10:00:00,GM0405,Hoorn,Noord-Holland,1483,46,17
-2020-11-18 10:00:00,GM0406,Huizen,Noord-Holland,1244,34,16
-2020-11-18 10:00:00,GM0415,Landsmeer,Noord-Holland,330,6,3
-2020-11-18 10:00:00,GM0416,Langedijk,Noord-Holland,623,21,7
-2020-11-18 10:00:00,GM0417,Laren,Noord-Holland,311,10,6
-2020-11-18 10:00:00,GM0420,Medemblik,Noord-Holland,777,22,6
-2020-11-18 10:00:00,GM0431,Oostzaan,Noord-Holland,314,13,3
-2020-11-18 10:00:00,GM0432,Opmeer,Noord-Holland,198,3,2
-2020-11-18 10:00:00,GM0437,Ouder-Amstel,Noord-Holland,470,8,0
-2020-11-18 10:00:00,GM0439,Purmerend,Noord-Holland,1859,93,44
-2020-11-18 10:00:00,GM0441,Schagen,Noord-Holland,904,23,14
-2020-11-18 10:00:00,GM0448,Texel,Noord-Holland,114,6,2
-2020-11-18 10:00:00,GM0450,Uitgeest,Noord-Holland,326,7,3
-2020-11-18 10:00:00,GM0451,Uithoorn,Noord-Holland,791,23,4
-2020-11-18 10:00:00,GM0453,Velsen,Noord-Holland,1690,53,49
-2020-11-18 10:00:00,GM0457,Weesp,Noord-Holland,765,11,15
-2020-11-18 10:00:00,GM0473,Zandvoort,Noord-Holland,342,15,9
-2020-11-18 10:00:00,GM0479,Zaanstad,Noord-Holland,4915,182,83
-2020-11-18 10:00:00,GM0482,Alblasserdam,Zuid-Holland,855,11,13
-2020-11-18 10:00:00,GM0484,Alphen aan den Rijn,Zuid-Holland,3388,101,45
-2020-11-18 10:00:00,GM0489,Barendrecht,Zuid-Holland,1899,61,26
-2020-11-18 10:00:00,GM0498,Drechterland,Noord-Holland,416,7,8
-2020-11-18 10:00:00,GM0501,Brielle,Zuid-Holland,456,19,2
-2020-11-18 10:00:00,GM0502,Capelle aan den IJssel,Zuid-Holland,2509,89,77
-2020-11-18 10:00:00,GM0503,Delft,Zuid-Holland,3432,58,25
-2020-11-18 10:00:00,GM0505,Dordrecht,Zuid-Holland,4362,99,94
-2020-11-18 10:00:00,GM0512,Gorinchem,Zuid-Holland,1134,20,22
-2020-11-18 10:00:00,GM0513,Gouda,Zuid-Holland,2525,86,77
-2020-11-18 10:00:00,GM0518,'s-Gravenhage,Zuid-Holland,20587,727,358
-2020-11-18 10:00:00,GM0523,Hardinxveld-Giessendam,Zuid-Holland,580,2,7
-2020-11-18 10:00:00,GM0530,Hellevoetsluis,Zuid-Holland,988,25,8
-2020-11-18 10:00:00,GM0531,Hendrik-Ido-Ambacht,Zuid-Holland,1130,13,10
-2020-11-18 10:00:00,GM0532,Stede Broec,Noord-Holland,372,20,5
-2020-11-18 10:00:00,GM0534,Hillegom,Zuid-Holland,495,9,2
-2020-11-18 10:00:00,GM0537,Katwijk,Zuid-Holland,2351,54,26
-2020-11-18 10:00:00,GM0542,Krimpen aan den IJssel,Zuid-Holland,1072,25,29
-2020-11-18 10:00:00,GM0546,Leiden,Zuid-Holland,3804,75,35
-2020-11-18 10:00:00,GM0547,Leiderdorp,Zuid-Holland,735,28,10
-2020-11-18 10:00:00,GM0553,Lisse,Zuid-Holland,513,13,5
-2020-11-18 10:00:00,GM0556,Maassluis,Zuid-Holland,1218,39,16
-2020-11-18 10:00:00,GM0569,Nieuwkoop,Zuid-Holland,692,16,9
-2020-11-18 10:00:00,GM0575,Noordwijk,Zuid-Holland,1129,38,8
-2020-11-18 10:00:00,GM0579,Oegstgeest,Zuid-Holland,582,15,3
-2020-11-18 10:00:00,GM0589,Oudewater,Utrecht,277,31,11
-2020-11-18 10:00:00,GM0590,Papendrecht,Zuid-Holland,962,10,15
-2020-11-18 10:00:00,GM0597,Ridderkerk,Zuid-Holland,1694,50,26
-2020-11-18 10:00:00,GM0599,Rotterdam,Zuid-Holland,31267,1028,527
-2020-11-18 10:00:00,GM0603,Rijswijk,Zuid-Holland,1785,70,54
-2020-11-18 10:00:00,GM0606,Schiedam,Zuid-Holland,3549,104,34
-2020-11-18 10:00:00,GM0610,Sliedrecht,Zuid-Holland,779,11,11
-2020-11-18 10:00:00,GM0613,Albrandswaard,Zuid-Holland,1101,25,14
-2020-11-18 10:00:00,GM0614,Westvoorne,Zuid-Holland,372,8,1
-2020-11-18 10:00:00,GM0622,Vlaardingen,Zuid-Holland,3313,82,52
-2020-11-18 10:00:00,GM0626,Voorschoten,Zuid-Holland,578,12,12
-2020-11-18 10:00:00,GM0627,Waddinxveen,Zuid-Holland,866,34,7
-2020-11-18 10:00:00,GM0629,Wassenaar,Zuid-Holland,603,15,13
-2020-11-18 10:00:00,GM0632,Woerden,Utrecht,1351,70,23
-2020-11-18 10:00:00,GM0637,Zoetermeer,Zuid-Holland,3607,76,21
-2020-11-18 10:00:00,GM0638,Zoeterwoude,Zuid-Holland,211,4,1
-2020-11-18 10:00:00,GM0642,Zwijndrecht,Zuid-Holland,1732,30,49
-2020-11-18 10:00:00,GM0654,Borsele,Zeeland,226,6,1
-2020-11-18 10:00:00,GM0664,Goes,Zeeland,573,19,14
-2020-11-18 10:00:00,GM0668,West Maas en Waal,Gelderland,422,24,15
-2020-11-18 10:00:00,GM0677,Hulst,Zeeland,523,16,7
-2020-11-18 10:00:00,GM0678,Kapelle,Zeeland,118,4,1
-2020-11-18 10:00:00,GM0687,Middelburg,Zeeland,517,24,14
-2020-11-18 10:00:00,GM0703,Reimerswaal,Zeeland,299,6,3
-2020-11-18 10:00:00,GM0715,Terneuzen,Zeeland,818,30,4
-2020-11-18 10:00:00,GM0716,Tholen,Zeeland,678,48,19
-2020-11-18 10:00:00,GM0717,Veere,Zeeland,171,9,2
-2020-11-18 10:00:00,GM0718,Vlissingen,Zeeland,484,15,6
-2020-11-18 10:00:00,GM0736,De Ronde Venen,Utrecht,1187,62,20
-2020-11-18 10:00:00,GM0737,Tytsjerksteradiel,Friesland,302,8,3
-2020-11-18 10:00:00,GM0743,Asten,Noord-Brabant,400,20,14
-2020-11-18 10:00:00,GM0744,Baarle-Nassau,Noord-Brabant,171,10,2
-2020-11-18 10:00:00,GM0748,Bergen op Zoom,Noord-Brabant,2552,53,27
-2020-11-18 10:00:00,GM0753,Best,Noord-Brabant,666,36,13
-2020-11-18 10:00:00,GM0755,Boekel,Noord-Brabant,258,36,20
-2020-11-18 10:00:00,GM0756,Boxmeer,Noord-Brabant,721,25,31
-2020-11-18 10:00:00,GM0757,Boxtel,Noord-Brabant,747,27,28
-2020-11-18 10:00:00,GM0758,Breda,Noord-Brabant,5329,197,106
-2020-11-18 10:00:00,GM0762,Deurne,Noord-Brabant,978,61,28
-2020-11-18 10:00:00,GM0765,Pekela,Groningen,103,7,2
-2020-11-18 10:00:00,GM0766,Dongen,Noord-Brabant,779,34,18
-2020-11-18 10:00:00,GM0770,Eersel,Noord-Brabant,666,35,17
-2020-11-18 10:00:00,GM0772,Eindhoven,Noord-Brabant,5680,226,125
-2020-11-18 10:00:00,GM0777,Etten-Leur,Noord-Brabant,1261,56,32
-2020-11-18 10:00:00,GM0779,Geertruidenberg,Noord-Brabant,453,18,6
-2020-11-18 10:00:00,GM0784,Gilze en Rijen,Noord-Brabant,701,27,18
-2020-11-18 10:00:00,GM0785,Goirle,Noord-Brabant,691,36,23
-2020-11-18 10:00:00,GM0786,Grave,Noord-Brabant,427,28,18
-2020-11-18 10:00:00,GM0788,Haaren,Noord-Brabant,417,20,9
-2020-11-18 10:00:00,GM0794,Helmond,Noord-Brabant,2998,135,53
-2020-11-18 10:00:00,GM0796,'s-Hertogenbosch,Noord-Brabant,4091,157,100
-2020-11-18 10:00:00,GM0797,Heusden,Noord-Brabant,1329,56,30
-2020-11-18 10:00:00,GM0798,Hilvarenbeek,Noord-Brabant,477,17,15
-2020-11-18 10:00:00,GM0809,Loon op Zand,Noord-Brabant,717,32,25
-2020-11-18 10:00:00,GM0815,Mill en Sint Hubert,Noord-Brabant,322,14,6
-2020-11-18 10:00:00,GM0820,"Nuenen, Gerwen en Nederwetten",Noord-Brabant,553,21,12
-2020-11-18 10:00:00,GM0823,Oirschot,Noord-Brabant,570,18,17
-2020-11-18 10:00:00,GM0824,Oisterwijk,Noord-Brabant,637,29,14
-2020-11-18 10:00:00,GM0826,Oosterhout,Noord-Brabant,1614,54,21
-2020-11-18 10:00:00,GM0828,Oss,Noord-Brabant,3060,189,100
-2020-11-18 10:00:00,GM0840,Rucphen,Noord-Brabant,754,19,11
-2020-11-18 10:00:00,GM0845,Sint-Michielsgestel,Noord-Brabant,822,39,20
-2020-11-18 10:00:00,GM0847,Someren,Noord-Brabant,434,35,9
-2020-11-18 10:00:00,GM0848,Son en Breugel,Noord-Brabant,398,32,17
-2020-11-18 10:00:00,GM0851,Steenbergen,Noord-Brabant,687,19,14
-2020-11-18 10:00:00,GM0852,Waterland,Noord-Holland,508,24,11
-2020-11-18 10:00:00,GM0855,Tilburg,Noord-Brabant,6274,299,192
-2020-11-18 10:00:00,GM0856,Uden,Noord-Brabant,889,117,67
-2020-11-18 10:00:00,GM0858,Valkenswaard,Noord-Brabant,896,23,42
-2020-11-18 10:00:00,GM0861,Veldhoven,Noord-Brabant,1295,40,22
-2020-11-18 10:00:00,GM0865,Vught,Noord-Brabant,679,44,21
-2020-11-18 10:00:00,GM0866,Waalre,Noord-Brabant,439,9,9
-2020-11-18 10:00:00,GM0867,Waalwijk,Noord-Brabant,1466,49,47
-2020-11-18 10:00:00,GM0873,Woensdrecht,Noord-Brabant,588,10,20
-2020-11-18 10:00:00,GM0879,Zundert,Noord-Brabant,592,28,12
-2020-11-18 10:00:00,GM0880,Wormerland,Noord-Holland,419,24,12
-2020-11-18 10:00:00,GM0882,Landgraaf,Limburg,492,55,15
-2020-11-18 10:00:00,GM0888,Beek,Limburg,255,18,8
-2020-11-18 10:00:00,GM0889,Beesel,Limburg,258,23,8
-2020-11-18 10:00:00,GM0893,Bergen (L.),Limburg,276,12,3
-2020-11-18 10:00:00,GM0899,Brunssum,Limburg,436,51,21
-2020-11-18 10:00:00,GM0907,Gennep,Limburg,363,18,12
-2020-11-18 10:00:00,GM0917,Heerlen,Limburg,1418,136,57
-2020-11-18 10:00:00,GM0928,Kerkrade,Limburg,705,75,40
-2020-11-18 10:00:00,GM0935,Maastricht,Limburg,2581,207,143
-2020-11-18 10:00:00,GM0938,Meerssen,Limburg,291,23,13
-2020-11-18 10:00:00,GM0944,Mook en Middelaar,Limburg,218,8,8
-2020-11-18 10:00:00,GM0946,Nederweert,Limburg,408,37,8
-2020-11-18 10:00:00,GM0957,Roermond,Limburg,1008,66,24
-2020-11-18 10:00:00,GM0965,Simpelveld,Limburg,155,20,5
-2020-11-18 10:00:00,GM0971,Stein,Limburg,374,49,16
-2020-11-18 10:00:00,GM0981,Vaals,Limburg,92,10,2
-2020-11-18 10:00:00,GM0983,Venlo,Limburg,2591,149,79
-2020-11-18 10:00:00,GM0984,Venray,Limburg,1204,43,23
-2020-11-18 10:00:00,GM0986,Voerendaal,Limburg,181,18,8
-2020-11-18 10:00:00,GM0988,Weert,Limburg,1252,82,21
-2020-11-18 10:00:00,GM0994,Valkenburg aan de Geul,Limburg,287,23,10
-2020-11-18 10:00:00,GM0995,Lelystad,Flevoland,1541,95,39
-2020-11-18 10:00:00,GM1507,Horst aan de Maas,Limburg,1062,47,29
-2020-11-18 10:00:00,GM1509,Oude IJsselstreek,Gelderland,702,25,12
-2020-11-18 10:00:00,GM1525,Teylingen,Zuid-Holland,1027,21,5
-2020-11-18 10:00:00,GM1581,Utrechtse Heuvelrug,Utrecht,1155,33,21
-2020-11-18 10:00:00,GM1586,Oost Gelre,Gelderland,766,22,21
-2020-11-18 10:00:00,GM1598,Koggenland,Noord-Holland,476,12,10
-2020-11-18 10:00:00,GM1621,Lansingerland,Zuid-Holland,2096,57,39
-2020-11-18 10:00:00,GM1640,Leudal,Limburg,701,57,38
-2020-11-18 10:00:00,GM1641,Maasgouw,Limburg,379,28,16
-2020-11-18 10:00:00,GM1652,Gemert-Bakel,Noord-Brabant,747,80,34
-2020-11-18 10:00:00,GM1655,Halderberge,Noord-Brabant,908,30,16
-2020-11-18 10:00:00,GM1658,Heeze-Leende,Noord-Brabant,437,18,11
-2020-11-18 10:00:00,GM1659,Laarbeek,Noord-Brabant,588,42,26
-2020-11-18 10:00:00,GM1667,Reusel-De Mierden,Noord-Brabant,551,15,4
-2020-11-18 10:00:00,GM1669,Roerdalen,Limburg,265,28,9
-2020-11-18 10:00:00,GM1674,Roosendaal,Noord-Brabant,2563,53,40
-2020-11-18 10:00:00,GM1676,Schouwen-Duiveland,Zeeland,493,15,16
-2020-11-18 10:00:00,GM1680,Aa en Hunze,Drenthe,263,1,1
-2020-11-18 10:00:00,GM1681,Borger-Odoorn,Drenthe,356,8,8
-2020-11-18 10:00:00,GM1684,Cuijk,Noord-Brabant,639,19,15
-2020-11-18 10:00:00,GM1685,Landerd,Noord-Brabant,555,42,21
-2020-11-18 10:00:00,GM1690,De Wolden,Drenthe,340,16,6
-2020-11-18 10:00:00,GM1695,Noord-Beveland,Zeeland,95,1,1
-2020-11-18 10:00:00,GM1696,Wijdemeren,Noord-Holland,581,14,5
-2020-11-18 10:00:00,GM1699,Noordenveld,Drenthe,276,7,14
-2020-11-18 10:00:00,GM1700,Twenterand,Overijssel,854,14,5
-2020-11-18 10:00:00,GM1701,Westerveld,Drenthe,192,10,5
-2020-11-18 10:00:00,GM1702,Sint Anthonis,Noord-Brabant,275,21,11
-2020-11-18 10:00:00,GM1705,Lingewaard,Gelderland,1089,43,17
-2020-11-18 10:00:00,GM1706,Cranendonck,Noord-Brabant,662,65,37
-2020-11-18 10:00:00,GM1708,Steenwijkerland,Overijssel,548,18,10
-2020-11-18 10:00:00,GM1709,Moerdijk,Noord-Brabant,1014,24,21
-2020-11-18 10:00:00,GM1711,Echt-Susteren,Limburg,407,44,20
-2020-11-18 10:00:00,GM1714,Sluis,Zeeland,309,15,5
-2020-11-18 10:00:00,GM1719,Drimmelen,Noord-Brabant,656,24,11
-2020-11-18 10:00:00,GM1721,Bernheze,Noord-Brabant,1033,101,67
-2020-11-18 10:00:00,GM1723,Alphen-Chaam,Noord-Brabant,285,18,5
-2020-11-18 10:00:00,GM1724,Bergeijk,Noord-Brabant,571,20,6
-2020-11-18 10:00:00,GM1728,Bladel,Noord-Brabant,934,24,12
-2020-11-18 10:00:00,GM1729,Gulpen-Wittem,Limburg,295,26,16
-2020-11-18 10:00:00,GM1730,Tynaarlo,Drenthe,363,12,9
-2020-11-18 10:00:00,GM1731,Midden-Drenthe,Drenthe,441,7,0
-2020-11-18 10:00:00,GM1734,Overbetuwe,Gelderland,906,62,20
-2020-11-18 10:00:00,GM1735,Hof van Twente,Overijssel,916,21,8
-2020-11-18 10:00:00,GM1740,Neder-Betuwe,Gelderland,658,44,22
-2020-11-18 10:00:00,GM1742,Rijssen-Holten,Overijssel,1086,31,32
-2020-11-18 10:00:00,GM1771,Geldrop-Mierlo,Noord-Brabant,1023,42,18
-2020-11-18 10:00:00,GM1773,Olst-Wijhe,Overijssel,273,12,8
-2020-11-18 10:00:00,GM1774,Dinkelland,Overijssel,896,23,17
-2020-11-18 10:00:00,GM1783,Westland,Zuid-Holland,3514,89,37
-2020-11-18 10:00:00,GM1842,Midden-Delfland,Zuid-Holland,550,11,5
-2020-11-18 10:00:00,GM1859,Berkelland,Gelderland,1054,24,24
-2020-11-18 10:00:00,GM1876,Bronckhorst,Gelderland,757,19,7
-2020-11-18 10:00:00,GM1883,Sittard-Geleen,Limburg,1418,132,69
-2020-11-18 10:00:00,GM1884,Kaag en Braassem,Zuid-Holland,629,10,3
-2020-11-18 10:00:00,GM1891,Dantumadiel,Friesland,177,2,0
-2020-11-18 10:00:00,GM1892,Zuidplas,Zuid-Holland,1430,41,23
-2020-11-18 10:00:00,GM1894,Peel en Maas,Limburg,1061,147,65
-2020-11-18 10:00:00,GM1895,Oldambt,Groningen,290,11,5
-2020-11-18 10:00:00,GM1896,Zwartewaterland,Overijssel,498,36,23
-2020-11-18 10:00:00,GM1900,SÃºdwest-FryslÃ¢n,Friesland,1374,24,19
-2020-11-18 10:00:00,GM1901,Bodegraven-Reeuwijk,Zuid-Holland,967,23,11
-2020-11-18 10:00:00,GM1903,Eijsden-Margraten,Limburg,556,61,29
-2020-11-18 10:00:00,GM1904,Stichtse Vecht,Utrecht,1717,61,21
-2020-11-18 10:00:00,GM1911,Hollands Kroon,Noord-Holland,651,31,6
-2020-11-18 10:00:00,GM1916,Leidschendam-Voorburg,Zuid-Holland,2085,52,37
-2020-11-18 10:00:00,GM1924,Goeree-Overflakkee,Zuid-Holland,1334,70,41
-2020-11-18 10:00:00,GM1926,Pijnacker-Nootdorp,Zuid-Holland,1722,37,20
-2020-11-18 10:00:00,GM1930,Nissewaard,Zuid-Holland,2936,86,35
-2020-11-18 10:00:00,GM1931,Krimpenerwaard,Zuid-Holland,1747,67,43
-2020-11-18 10:00:00,GM1940,De Fryske Marren,Friesland,623,25,10
-2020-11-18 10:00:00,GM1942,Gooise Meren,Noord-Holland,1426,33,17
-2020-11-18 10:00:00,GM1945,Berg en Dal,Gelderland,1100,42,33
-2020-11-18 10:00:00,GM1948,Meierijstad,Noord-Brabant,2121,223,138
-2020-11-18 10:00:00,GM1949,Waadhoeke,Friesland,528,16,18
-2020-11-18 10:00:00,GM1950,Westerwolde,Groningen,272,12,3
-2020-11-18 10:00:00,GM1952,Midden-Groningen,Groningen,510,14,6
-2020-11-18 10:00:00,GM1954,Beekdaelen,Limburg,597,53,27
-2020-11-18 10:00:00,GM1955,Montferland,Gelderland,696,26,12
-2020-11-18 10:00:00,GM1959,Altena,Noord-Brabant,1542,43,31
-2020-11-18 10:00:00,GM1960,West Betuwe,Gelderland,1260,61,33
-2020-11-18 10:00:00,GM1961,Vijfheerenlanden,Utrecht,1753,56,46
-2020-11-18 10:00:00,GM1963,Hoeksche Waard,Zuid-Holland,2424,84,31
-2020-11-18 10:00:00,GM1966,Het Hogeland,Groningen,510,9,6
-2020-11-18 10:00:00,GM1969,Westerkwartier,Groningen,525,20,8
-2020-11-18 10:00:00,GM1970,Noardeast-FryslÃ¢n,Friesland,413,9,4
-2020-11-18 10:00:00,GM1978,Molenlanden,Zuid-Holland,1301,20,16
+Date_of_report,Date_of_publication,Municipality_code,Municipality_name,Province,Security_region_code,Security_region_name,Municipal_health_service,ROAZ_region,Total_reported,Hospital_admission,Deceased
+2020-11-18 10:00:00,2020-11-18,GM0014,Groningen,Groningen,VR01,Groningen,GGD Groningen,Acute Zorgnetwerk Noord Nederland,27,0,0
+2020-11-18 10:00:00,2020-11-18,GM0034,Almere,Flevoland,VR25,Flevoland,GGD Flevoland,SpoedZorgNet,101,0,0
+2020-11-18 10:00:00,2020-11-18,GM0037,Stadskanaal,Groningen,VR01,Groningen,GGD Groningen,Acute Zorgnetwerk Noord Nederland,5,0,0
+2020-11-18 10:00:00,2020-11-18,GM0047,Veendam,Groningen,VR01,Groningen,GGD Groningen,Acute Zorgnetwerk Noord Nederland,1,0,0
+2020-11-18 10:00:00,2020-11-18,GM0050,Zeewolde,Flevoland,VR25,Flevoland,GGD Flevoland,SpoedZorgNet,6,0,0
+2020-11-18 10:00:00,2020-11-18,GM0059,Achtkarspelen,FryslÃ¢n,VR02,FryslÃ¢n,GGD FryslÃ¢n,Acute Zorgnetwerk Noord Nederland,3,0,0
+2020-11-18 10:00:00,2020-11-18,GM0060,Ameland,FryslÃ¢n,VR02,FryslÃ¢n,GGD FryslÃ¢n,Acute Zorgnetwerk Noord Nederland,0,0,0
+2020-11-18 10:00:00,2020-11-18,GM0072,Harlingen,FryslÃ¢n,VR02,FryslÃ¢n,GGD FryslÃ¢n,Acute Zorgnetwerk Noord Nederland,0,0,0
+2020-11-18 10:00:00,2020-11-18,GM0074,Heerenveen,FryslÃ¢n,VR02,FryslÃ¢n,GGD FryslÃ¢n,Acute Zorgnetwerk Noord Nederland,5,0,0
+2020-11-18 10:00:00,2020-11-18,GM0080,Leeuwarden,FryslÃ¢n,VR02,FryslÃ¢n,GGD FryslÃ¢n,Acute Zorgnetwerk Noord Nederland,15,0,4
+2020-11-18 10:00:00,2020-11-18,GM0085,Ooststellingwerf,FryslÃ¢n,VR02,FryslÃ¢n,GGD FryslÃ¢n,Acute Zorgnetwerk Noord Nederland,1,0,0
+2020-11-18 10:00:00,2020-11-18,GM0086,Opsterland,FryslÃ¢n,VR02,FryslÃ¢n,GGD FryslÃ¢n,Acute Zorgnetwerk Noord Nederland,4,2,0
+2020-11-18 10:00:00,2020-11-18,GM0088,Schiermonnikoog,FryslÃ¢n,VR02,FryslÃ¢n,GGD FryslÃ¢n,Acute Zorgnetwerk Noord Nederland,0,0,0
+2020-11-18 10:00:00,2020-11-18,GM0090,Smallingerland,FryslÃ¢n,VR02,FryslÃ¢n,GGD FryslÃ¢n,Acute Zorgnetwerk Noord Nederland,3,0,0
+2020-11-18 10:00:00,2020-11-18,GM0093,Terschelling,FryslÃ¢n,VR02,FryslÃ¢n,GGD FryslÃ¢n,Acute Zorgnetwerk Noord Nederland,0,0,0
+2020-11-18 10:00:00,2020-11-18,GM0096,Vlieland,FryslÃ¢n,VR02,FryslÃ¢n,GGD FryslÃ¢n,Acute Zorgnetwerk Noord Nederland,0,0,0
+2020-11-18 10:00:00,2020-11-18,GM0098,Weststellingwerf,FryslÃ¢n,VR02,FryslÃ¢n,GGD FryslÃ¢n,Acute Zorgnetwerk Noord Nederland,8,0,3
+2020-11-18 10:00:00,2020-11-18,GM0106,Assen,Drenthe,VR03,Drenthe,GGD Drenthe,Acute Zorgnetwerk Noord Nederland,17,0,0
+2020-11-18 10:00:00,2020-11-18,GM0109,Coevorden,Drenthe,VR03,Drenthe,GGD Drenthe,Acute Zorgnetwerk Noord Nederland,14,0,1
+2020-11-18 10:00:00,2020-11-18,GM0114,Emmen,Drenthe,VR03,Drenthe,GGD Drenthe,Acute Zorgnetwerk Noord Nederland,38,0,0
+2020-11-18 10:00:00,2020-11-18,GM0118,Hoogeveen,Drenthe,VR03,Drenthe,GGD Drenthe,Acute Zorgnetwerk Noord Nederland,23,0,0
+2020-11-18 10:00:00,2020-11-18,GM0119,Meppel,Drenthe,VR03,Drenthe,GGD Drenthe,Netwerk Acute Zorg regio Zwolle,9,0,0
+2020-11-18 10:00:00,2020-11-18,GM0141,Almelo,Overijssel,VR05,Twente,GGD Regio Twente,Acute Zorg Euregio,18,0,0
+2020-11-18 10:00:00,2020-11-18,GM0147,Borne,Overijssel,VR05,Twente,GGD Regio Twente,Acute Zorg Euregio,3,0,0
+2020-11-18 10:00:00,2020-11-18,GM0148,Dalfsen,Overijssel,VR04,IJsselland,GGD IJsselland,Netwerk Acute Zorg regio Zwolle,7,0,0
+2020-11-18 10:00:00,2020-11-18,GM0150,Deventer,Overijssel,VR04,IJsselland,GGD IJsselland,Netwerk Acute Zorg regio Zwolle,33,1,2
+2020-11-18 10:00:00,2020-11-18,GM0153,Enschede,Overijssel,VR05,Twente,GGD Regio Twente,Acute Zorg Euregio,26,0,1
+2020-11-18 10:00:00,2020-11-18,GM0158,Haaksbergen,Overijssel,VR05,Twente,GGD Regio Twente,Acute Zorg Euregio,7,0,1
+2020-11-18 10:00:00,2020-11-18,GM0160,Hardenberg,Overijssel,VR04,IJsselland,GGD IJsselland,Netwerk Acute Zorg regio Zwolle,14,0,1
+2020-11-18 10:00:00,2020-11-18,GM0163,Hellendoorn,Overijssel,VR05,Twente,GGD Regio Twente,Acute Zorg Euregio,7,0,0
+2020-11-18 10:00:00,2020-11-18,GM0164,Hengelo (O.),Overijssel,VR05,Twente,GGD Regio Twente,Acute Zorg Euregio,16,0,0
+2020-11-18 10:00:00,2020-11-18,GM0166,Kampen,Overijssel,VR04,IJsselland,GGD IJsselland,Netwerk Acute Zorg regio Zwolle,13,0,0
+2020-11-18 10:00:00,2020-11-18,GM0168,Losser,Overijssel,VR05,Twente,GGD Regio Twente,Acute Zorg Euregio,9,0,0
+2020-11-18 10:00:00,2020-11-18,GM0171,Noordoostpolder,Flevoland,VR25,Flevoland,GGD Flevoland,SpoedZorgNet,32,0,0
+2020-11-18 10:00:00,2020-11-18,GM0173,Oldenzaal,Overijssel,VR05,Twente,GGD Regio Twente,Acute Zorg Euregio,6,0,0
+2020-11-18 10:00:00,2020-11-18,GM0175,Ommen,Overijssel,VR04,IJsselland,GGD IJsselland,Netwerk Acute Zorg regio Zwolle,5,0,0
+2020-11-18 10:00:00,2020-11-18,GM0177,Raalte,Overijssel,VR04,IJsselland,GGD IJsselland,Netwerk Acute Zorg regio Zwolle,8,0,0
+2020-11-18 10:00:00,2020-11-18,GM0180,Staphorst,Overijssel,VR04,IJsselland,GGD IJsselland,Netwerk Acute Zorg regio Zwolle,3,0,0
+2020-11-18 10:00:00,2020-11-18,GM0183,Tubbergen,Overijssel,VR05,Twente,GGD Regio Twente,Acute Zorg Euregio,3,0,0
+2020-11-18 10:00:00,2020-11-18,GM0184,Urk,Flevoland,VR25,Flevoland,GGD Flevoland,SpoedZorgNet,52,1,1
+2020-11-18 10:00:00,2020-11-18,GM0189,Wierden,Overijssel,VR05,Twente,GGD Regio Twente,Acute Zorg Euregio,14,0,0
+2020-11-18 10:00:00,2020-11-18,GM0193,Zwolle,Overijssel,VR04,IJsselland,GGD IJsselland,Netwerk Acute Zorg regio Zwolle,26,0,1
+2020-11-18 10:00:00,2020-11-18,GM0197,Aalten,Gelderland,VR06,Noord- en Oost-Gelderland,GGD Noord- en Oost-Gelderland,Acute Zorg Euregio,3,0,0
+2020-11-18 10:00:00,2020-11-18,GM0200,Apeldoorn,Gelderland,VR06,Noord- en Oost-Gelderland,GGD Noord- en Oost-Gelderland,Netwerk Acute Zorg regio Zwolle,24,0,0
+2020-11-18 10:00:00,2020-11-18,GM0202,Arnhem,Gelderland,VR07,Gelderland-Midden,Veiligheids- en Gezondheidsregio Gelderland-Midden,Acute Zorgregio Oost,33,0,2
+2020-11-18 10:00:00,2020-11-18,GM0203,Barneveld,Gelderland,VR07,Gelderland-Midden,Veiligheids- en Gezondheidsregio Gelderland-Midden,Traumazorgnetwerk Midden-Nederland,26,0,0
+2020-11-18 10:00:00,2020-11-18,GM0209,Beuningen,Gelderland,VR08,Gelderland-Zuid,GGD Gelderland-Zuid,Acute Zorgregio Oost,5,0,0
+2020-11-18 10:00:00,2020-11-18,GM0213,Brummen,Gelderland,VR06,Noord- en Oost-Gelderland,GGD Noord- en Oost-Gelderland,Netwerk Acute Zorg regio Zwolle,1,1,0
+2020-11-18 10:00:00,2020-11-18,GM0214,Buren,Gelderland,VR08,Gelderland-Zuid,GGD Gelderland-Zuid,Acute Zorgregio Oost,5,0,1
+2020-11-18 10:00:00,2020-11-18,GM0216,Culemborg,Gelderland,VR08,Gelderland-Zuid,GGD Gelderland-Zuid,Acute Zorgregio Oost,5,0,0
+2020-11-18 10:00:00,2020-11-18,GM0221,Doesburg,Gelderland,VR07,Gelderland-Midden,Veiligheids- en Gezondheidsregio Gelderland-Midden,Acute Zorgregio Oost,1,0,0
+2020-11-18 10:00:00,2020-11-18,GM0222,Doetinchem,Gelderland,VR06,Noord- en Oost-Gelderland,GGD Noord- en Oost-Gelderland,Acute Zorgregio Oost,7,0,1
+2020-11-18 10:00:00,2020-11-18,GM0225,Druten,Gelderland,VR08,Gelderland-Zuid,GGD Gelderland-Zuid,Acute Zorgregio Oost,3,0,0
+2020-11-18 10:00:00,2020-11-18,GM0226,Duiven,Gelderland,VR07,Gelderland-Midden,Veiligheids- en Gezondheidsregio Gelderland-Midden,Acute Zorgregio Oost,15,0,0
+2020-11-18 10:00:00,2020-11-18,GM0228,Ede,Gelderland,VR07,Gelderland-Midden,Veiligheids- en Gezondheidsregio Gelderland-Midden,Acute Zorgregio Oost,26,0,0
+2020-11-18 10:00:00,2020-11-18,GM0230,Elburg,Gelderland,VR06,Noord- en Oost-Gelderland,GGD Noord- en Oost-Gelderland,Netwerk Acute Zorg regio Zwolle,6,0,1
+2020-11-18 10:00:00,2020-11-18,GM0232,Epe,Gelderland,VR06,Noord- en Oost-Gelderland,GGD Noord- en Oost-Gelderland,Netwerk Acute Zorg regio Zwolle,4,0,0
+2020-11-18 10:00:00,2020-11-18,GM0233,Ermelo,Gelderland,VR06,Noord- en Oost-Gelderland,GGD Noord- en Oost-Gelderland,Netwerk Acute Zorg regio Zwolle,6,0,0
+2020-11-18 10:00:00,2020-11-18,GM0243,Harderwijk,Gelderland,VR06,Noord- en Oost-Gelderland,GGD Noord- en Oost-Gelderland,Netwerk Acute Zorg regio Zwolle,11,0,0
+2020-11-18 10:00:00,2020-11-18,GM0244,Hattem,Gelderland,VR06,Noord- en Oost-Gelderland,GGD Noord- en Oost-Gelderland,Netwerk Acute Zorg regio Zwolle,2,0,0
+2020-11-18 10:00:00,2020-11-18,GM0246,Heerde,Gelderland,VR06,Noord- en Oost-Gelderland,GGD Noord- en Oost-Gelderland,Netwerk Acute Zorg regio Zwolle,2,0,0
+2020-11-18 10:00:00,2020-11-18,GM0252,Heumen,Gelderland,VR08,Gelderland-Zuid,GGD Gelderland-Zuid,Acute Zorgregio Oost,4,0,0
+2020-11-18 10:00:00,2020-11-18,GM0262,Lochem,Gelderland,VR06,Noord- en Oost-Gelderland,GGD Noord- en Oost-Gelderland,Netwerk Acute Zorg regio Zwolle,8,2,0
+2020-11-18 10:00:00,2020-11-18,GM0263,Maasdriel,Gelderland,VR08,Gelderland-Zuid,GGD Gelderland-Zuid,Acute Zorgregio Oost,6,0,0
+2020-11-18 10:00:00,2020-11-18,GM0267,Nijkerk,Gelderland,VR07,Gelderland-Midden,Veiligheids- en Gezondheidsregio Gelderland-Midden,Traumazorgnetwerk Midden-Nederland,17,0,0
+2020-11-18 10:00:00,2020-11-18,GM0268,Nijmegen,Gelderland,VR08,Gelderland-Zuid,GGD Gelderland-Zuid,Acute Zorgregio Oost,34,2,3
+2020-11-18 10:00:00,2020-11-18,GM0269,Oldebroek,Gelderland,VR06,Noord- en Oost-Gelderland,GGD Noord- en Oost-Gelderland,Netwerk Acute Zorg regio Zwolle,2,0,0
+2020-11-18 10:00:00,2020-11-18,GM0273,Putten,Gelderland,VR06,Noord- en Oost-Gelderland,GGD Noord- en Oost-Gelderland,Netwerk Acute Zorg regio Zwolle,5,0,0
+2020-11-18 10:00:00,2020-11-18,GM0274,Renkum,Gelderland,VR07,Gelderland-Midden,Veiligheids- en Gezondheidsregio Gelderland-Midden,Acute Zorgregio Oost,2,0,0
+2020-11-18 10:00:00,2020-11-18,GM0275,Rheden,Gelderland,VR07,Gelderland-Midden,Veiligheids- en Gezondheidsregio Gelderland-Midden,Acute Zorgregio Oost,9,0,0
+2020-11-18 10:00:00,2020-11-18,GM0277,Rozendaal,Gelderland,VR07,Gelderland-Midden,Veiligheids- en Gezondheidsregio Gelderland-Midden,Acute Zorgregio Oost,0,0,0
+2020-11-18 10:00:00,2020-11-18,GM0279,Scherpenzeel,Gelderland,VR07,Gelderland-Midden,Veiligheids- en Gezondheidsregio Gelderland-Midden,Traumazorgnetwerk Midden-Nederland,2,0,0
+2020-11-18 10:00:00,2020-11-18,GM0281,Tiel,Gelderland,VR08,Gelderland-Zuid,GGD Gelderland-Zuid,Acute Zorgregio Oost,10,1,1
+2020-11-18 10:00:00,2020-11-18,GM0285,Voorst,Gelderland,VR06,Noord- en Oost-Gelderland,GGD Noord- en Oost-Gelderland,Netwerk Acute Zorg regio Zwolle,4,0,0
+2020-11-18 10:00:00,2020-11-18,GM0289,Wageningen,Gelderland,VR07,Gelderland-Midden,Veiligheids- en Gezondheidsregio Gelderland-Midden,Acute Zorgregio Oost,6,1,0
+2020-11-18 10:00:00,2020-11-18,GM0293,Westervoort,Gelderland,VR07,Gelderland-Midden,Veiligheids- en Gezondheidsregio Gelderland-Midden,Acute Zorgregio Oost,7,0,0
+2020-11-18 10:00:00,2020-11-18,GM0294,Winterswijk,Gelderland,VR06,Noord- en Oost-Gelderland,GGD Noord- en Oost-Gelderland,Acute Zorg Euregio,6,0,1
+2020-11-18 10:00:00,2020-11-18,GM0296,Wijchen,Gelderland,VR08,Gelderland-Zuid,GGD Gelderland-Zuid,Acute Zorgregio Oost,8,0,0
+2020-11-18 10:00:00,2020-11-18,GM0297,Zaltbommel,Gelderland,VR08,Gelderland-Zuid,GGD Gelderland-Zuid,Acute Zorgregio Oost,6,0,0
+2020-11-18 10:00:00,2020-11-18,GM0299,Zevenaar,Gelderland,VR07,Gelderland-Midden,Veiligheids- en Gezondheidsregio Gelderland-Midden,Acute Zorgregio Oost,4,0,0
+2020-11-18 10:00:00,2020-11-18,GM0301,Zutphen,Gelderland,VR06,Noord- en Oost-Gelderland,GGD Noord- en Oost-Gelderland,Netwerk Acute Zorg regio Zwolle,4,0,0
+2020-11-18 10:00:00,2020-11-18,GM0302,Nunspeet,Gelderland,VR06,Noord- en Oost-Gelderland,GGD Noord- en Oost-Gelderland,Netwerk Acute Zorg regio Zwolle,5,2,1
+2020-11-18 10:00:00,2020-11-18,GM0303,Dronten,Flevoland,VR25,Flevoland,GGD Flevoland,SpoedZorgNet,11,1,0
+2020-11-18 10:00:00,2020-11-18,GM0307,Amersfoort,Utrecht,VR09,Utrecht,GGD Regio Utrecht,Traumazorgnetwerk Midden-Nederland,37,0,3
+2020-11-18 10:00:00,2020-11-18,GM0308,Baarn,Utrecht,VR09,Utrecht,GGD Regio Utrecht,Traumazorgnetwerk Midden-Nederland,3,0,0
+2020-11-18 10:00:00,2020-11-18,GM0310,De Bilt,Utrecht,VR09,Utrecht,GGD Regio Utrecht,Traumazorgnetwerk Midden-Nederland,7,0,1
+2020-11-18 10:00:00,2020-11-18,GM0312,Bunnik,Utrecht,VR09,Utrecht,GGD Regio Utrecht,Traumazorgnetwerk Midden-Nederland,7,0,0
+2020-11-18 10:00:00,2020-11-18,GM0313,Bunschoten,Utrecht,VR09,Utrecht,GGD Regio Utrecht,Traumazorgnetwerk Midden-Nederland,14,0,0
+2020-11-18 10:00:00,2020-11-18,GM0317,Eemnes,Utrecht,VR09,Utrecht,GGD Regio Utrecht,Traumazorgnetwerk Midden-Nederland,4,0,0
+2020-11-18 10:00:00,2020-11-18,GM0321,Houten,Utrecht,VR09,Utrecht,GGD Regio Utrecht,Traumazorgnetwerk Midden-Nederland,8,0,0
+2020-11-18 10:00:00,2020-11-18,GM0327,Leusden,Utrecht,VR09,Utrecht,GGD Regio Utrecht,Traumazorgnetwerk Midden-Nederland,7,1,0
+2020-11-18 10:00:00,2020-11-18,GM0331,Lopik,Utrecht,VR09,Utrecht,GGD Regio Utrecht,Traumazorgnetwerk Midden-Nederland,4,0,0
+2020-11-18 10:00:00,2020-11-18,GM0335,Montfoort,Utrecht,VR09,Utrecht,GGD Regio Utrecht,Traumazorgnetwerk Midden-Nederland,7,0,0
+2020-11-18 10:00:00,2020-11-18,GM0339,Renswoude,Utrecht,VR09,Utrecht,GGD Regio Utrecht,Traumazorgnetwerk Midden-Nederland,2,0,0
+2020-11-18 10:00:00,2020-11-18,GM0340,Rhenen,Utrecht,VR09,Utrecht,GGD Regio Utrecht,Traumazorgnetwerk Midden-Nederland,7,0,0
+2020-11-18 10:00:00,2020-11-18,GM0342,Soest,Utrecht,VR09,Utrecht,GGD Regio Utrecht,Traumazorgnetwerk Midden-Nederland,4,0,0
+2020-11-18 10:00:00,2020-11-18,GM0344,Utrecht,Utrecht,VR09,Utrecht,GGD Regio Utrecht,Traumazorgnetwerk Midden-Nederland,77,3,1
+2020-11-18 10:00:00,2020-11-18,GM0345,Veenendaal,Utrecht,VR09,Utrecht,GGD Regio Utrecht,Traumazorgnetwerk Midden-Nederland,42,0,0
+2020-11-18 10:00:00,2020-11-18,GM0351,Woudenberg,Utrecht,VR09,Utrecht,GGD Regio Utrecht,Traumazorgnetwerk Midden-Nederland,4,0,0
+2020-11-18 10:00:00,2020-11-18,GM0352,Wijk bij Duurstede,Utrecht,VR09,Utrecht,GGD Regio Utrecht,Traumazorgnetwerk Midden-Nederland,10,1,0
+2020-11-18 10:00:00,2020-11-18,GM0353,IJsselstein,Utrecht,VR09,Utrecht,GGD Regio Utrecht,Traumazorgnetwerk Midden-Nederland,6,0,0
+2020-11-18 10:00:00,2020-11-18,GM0355,Zeist,Utrecht,VR09,Utrecht,GGD Regio Utrecht,Traumazorgnetwerk Midden-Nederland,7,0,0
+2020-11-18 10:00:00,2020-11-18,GM0356,Nieuwegein,Utrecht,VR09,Utrecht,GGD Regio Utrecht,Traumazorgnetwerk Midden-Nederland,11,1,0
+2020-11-18 10:00:00,2020-11-18,GM0358,Aalsmeer,Noord-Holland,VR13,Amsterdam-Amstelland,GGD Amsterdam,Netwerk Acute Zorg Noordwest,20,0,0
+2020-11-18 10:00:00,2020-11-18,GM0361,Alkmaar,Noord-Holland,VR10,Noord-Holland-Noord,GGD Hollands-Noorden,Netwerk Acute Zorg Noordwest,23,0,0
+2020-11-18 10:00:00,2020-11-18,GM0362,Amstelveen,Noord-Holland,VR13,Amsterdam-Amstelland,GGD Amsterdam,Netwerk Acute Zorg Noordwest,19,0,0
+2020-11-18 10:00:00,2020-11-18,GM0363,Amsterdam,Noord-Holland,VR13,Amsterdam-Amstelland,GGD Amsterdam,Netwerk Acute Zorg Noordwest,142,3,0
+2020-11-18 10:00:00,2020-11-18,GM0363,Amsterdam,Noord-Holland,VR13,Amsterdam-Amstelland,GGD Amsterdam,SpoedZorgNet,96,4,0
+2020-11-18 10:00:00,2020-11-18,GM0370,Beemster,Noord-Holland,VR11,Zaanstreek-Waterland,GGD Zaanstreek/Waterland,Netwerk Acute Zorg Noordwest,5,0,0
+2020-11-18 10:00:00,2020-11-18,GM0373,Bergen (NH.),Noord-Holland,VR10,Noord-Holland-Noord,GGD Hollands-Noorden,Netwerk Acute Zorg Noordwest,3,0,0
+2020-11-18 10:00:00,2020-11-18,GM0375,Beverwijk,Noord-Holland,VR12,Kennemerland,GGD Kennemerland,Netwerk Acute Zorg Noordwest,8,0,0
+2020-11-18 10:00:00,2020-11-18,GM0376,Blaricum,Noord-Holland,VR14,Gooi en Vechtstreek,GGD Gooi en Vechtstreek,SpoedZorgNet,1,0,0
+2020-11-18 10:00:00,2020-11-18,GM0377,Bloemendaal,Noord-Holland,VR12,Kennemerland,GGD Kennemerland,Netwerk Acute Zorg Noordwest,1,0,0
+2020-11-18 10:00:00,2020-11-18,GM0383,Castricum,Noord-Holland,VR10,Noord-Holland-Noord,GGD Hollands-Noorden,Netwerk Acute Zorg Noordwest,5,0,0
+2020-11-18 10:00:00,2020-11-18,GM0384,Diemen,Noord-Holland,VR13,Amsterdam-Amstelland,GGD Amsterdam,SpoedZorgNet,14,0,0
+2020-11-18 10:00:00,2020-11-18,GM0385,Edam-Volendam,Noord-Holland,VR11,Zaanstreek-Waterland,GGD Zaanstreek/Waterland,SpoedZorgNet,15,0,0
+2020-11-18 10:00:00,2020-11-18,GM0388,Enkhuizen,Noord-Holland,VR10,Noord-Holland-Noord,GGD Hollands-Noorden,SpoedZorgNet,7,0,0
+2020-11-18 10:00:00,2020-11-18,GM0392,Haarlem,Noord-Holland,VR12,Kennemerland,GGD Kennemerland,Netwerk Acute Zorg Noordwest,19,0,0
+2020-11-18 10:00:00,2020-11-18,GM0394,Haarlemmermeer,Noord-Holland,VR12,Kennemerland,GGD Kennemerland,Netwerk Acute Zorg Noordwest,34,0,0
+2020-11-18 10:00:00,2020-11-18,GM0396,Heemskerk,Noord-Holland,VR12,Kennemerland,GGD Kennemerland,Netwerk Acute Zorg Noordwest,7,0,1
+2020-11-18 10:00:00,2020-11-18,GM0397,Heemstede,Noord-Holland,VR12,Kennemerland,GGD Kennemerland,Netwerk Acute Zorg Noordwest,3,0,0
+2020-11-18 10:00:00,2020-11-18,GM0398,Heerhugowaard,Noord-Holland,VR10,Noord-Holland-Noord,GGD Hollands-Noorden,Netwerk Acute Zorg Noordwest,4,0,0
+2020-11-18 10:00:00,2020-11-18,GM0399,Heiloo,Noord-Holland,VR10,Noord-Holland-Noord,GGD Hollands-Noorden,Netwerk Acute Zorg Noordwest,9,0,0
+2020-11-18 10:00:00,2020-11-18,GM0400,Den Helder,Noord-Holland,VR10,Noord-Holland-Noord,GGD Hollands-Noorden,Netwerk Acute Zorg Noordwest,11,0,0
+2020-11-18 10:00:00,2020-11-18,GM0402,Hilversum,Noord-Holland,VR14,Gooi en Vechtstreek,GGD Gooi en Vechtstreek,SpoedZorgNet,17,1,1
+2020-11-18 10:00:00,2020-11-18,GM0405,Hoorn,Noord-Holland,VR10,Noord-Holland-Noord,GGD Hollands-Noorden,SpoedZorgNet,26,1,0
+2020-11-18 10:00:00,2020-11-18,GM0406,Huizen,Noord-Holland,VR14,Gooi en Vechtstreek,GGD Gooi en Vechtstreek,SpoedZorgNet,7,0,0
+2020-11-18 10:00:00,2020-11-18,GM0415,Landsmeer,Noord-Holland,VR11,Zaanstreek-Waterland,GGD Zaanstreek/Waterland,SpoedZorgNet,5,0,0
+2020-11-18 10:00:00,2020-11-18,GM0416,Langedijk,Noord-Holland,VR10,Noord-Holland-Noord,GGD Hollands-Noorden,Netwerk Acute Zorg Noordwest,11,0,0
+2020-11-18 10:00:00,2020-11-18,GM0417,Laren,Noord-Holland,VR14,Gooi en Vechtstreek,GGD Gooi en Vechtstreek,SpoedZorgNet,1,0,0
+2020-11-18 10:00:00,2020-11-18,GM0420,Medemblik,Noord-Holland,VR10,Noord-Holland-Noord,GGD Hollands-Noorden,SpoedZorgNet,6,0,0
+2020-11-18 10:00:00,2020-11-18,GM0431,Oostzaan,Noord-Holland,VR11,Zaanstreek-Waterland,GGD Zaanstreek/Waterland,SpoedZorgNet,7,0,1
+2020-11-18 10:00:00,2020-11-18,GM0432,Opmeer,Noord-Holland,VR10,Noord-Holland-Noord,GGD Hollands-Noorden,Netwerk Acute Zorg Noordwest,0,0,0
+2020-11-18 10:00:00,2020-11-18,GM0437,Ouder-Amstel,Noord-Holland,VR13,Amsterdam-Amstelland,GGD Amsterdam,Netwerk Acute Zorg Noordwest,2,0,0
+2020-11-18 10:00:00,2020-11-18,GM0439,Purmerend,Noord-Holland,VR11,Zaanstreek-Waterland,GGD Zaanstreek/Waterland,SpoedZorgNet,20,0,1
+2020-11-18 10:00:00,2020-11-18,GM0441,Schagen,Noord-Holland,VR10,Noord-Holland-Noord,GGD Hollands-Noorden,Netwerk Acute Zorg Noordwest,9,0,0
+2020-11-18 10:00:00,2020-11-18,GM0448,Texel,Noord-Holland,VR10,Noord-Holland-Noord,GGD Hollands-Noorden,Netwerk Acute Zorg Noordwest,0,0,0
+2020-11-18 10:00:00,2020-11-18,GM0450,Uitgeest,Noord-Holland,VR12,Kennemerland,GGD Kennemerland,Netwerk Acute Zorg Noordwest,5,0,0
+2020-11-18 10:00:00,2020-11-18,GM0451,Uithoorn,Noord-Holland,VR13,Amsterdam-Amstelland,GGD Amsterdam,Netwerk Acute Zorg Noordwest,3,0,0
+2020-11-18 10:00:00,2020-11-18,GM0453,Velsen,Noord-Holland,VR12,Kennemerland,GGD Kennemerland,Netwerk Acute Zorg Noordwest,7,0,0
+2020-11-18 10:00:00,2020-11-18,GM0457,Weesp,Noord-Holland,VR14,Gooi en Vechtstreek,GGD Gooi en Vechtstreek,SpoedZorgNet,13,0,0
+2020-11-18 10:00:00,2020-11-18,GM0473,Zandvoort,Noord-Holland,VR12,Kennemerland,GGD Kennemerland,Netwerk Acute Zorg Noordwest,0,0,0
+2020-11-18 10:00:00,2020-11-18,GM0479,Zaanstad,Noord-Holland,VR11,Zaanstreek-Waterland,GGD Zaanstreek/Waterland,Netwerk Acute Zorg Noordwest,55,0,3
+2020-11-18 10:00:00,2020-11-18,GM0482,Alblasserdam,Zuid-Holland,VR18,Zuid-Holland-Zuid,Dienst Gezondheid & Jeugd ZHZ,Traumacentrum Zuidwest-Nederland,4,0,1
+2020-11-18 10:00:00,2020-11-18,GM0484,Alphen aan den Rijn,Zuid-Holland,VR16,Hollands-Midden,GGD Hollands-Midden,Netwerk Acute Zorg West,55,1,0
+2020-11-18 10:00:00,2020-11-18,GM0489,Barendrecht,Zuid-Holland,VR17,Rotterdam-Rijnmond,GGD Rotterdam-Rijnmond,Traumacentrum Zuidwest-Nederland,17,1,1
+2020-11-18 10:00:00,2020-11-18,GM0498,Drechterland,Noord-Holland,VR10,Noord-Holland-Noord,GGD Hollands-Noorden,SpoedZorgNet,3,0,0
+2020-11-18 10:00:00,2020-11-18,GM0501,Brielle,Zuid-Holland,VR17,Rotterdam-Rijnmond,GGD Rotterdam-Rijnmond,Traumacentrum Zuidwest-Nederland,4,1,0
+2020-11-18 10:00:00,2020-11-18,GM0502,Capelle aan den IJssel,Zuid-Holland,VR17,Rotterdam-Rijnmond,GGD Rotterdam-Rijnmond,Traumacentrum Zuidwest-Nederland,28,3,0
+2020-11-18 10:00:00,2020-11-18,GM0503,Delft,Zuid-Holland,VR15,Haaglanden,GGD Haaglanden,Netwerk Acute Zorg West,40,2,0
+2020-11-18 10:00:00,2020-11-18,GM0505,Dordrecht,Zuid-Holland,VR18,Zuid-Holland-Zuid,Dienst Gezondheid & Jeugd ZHZ,Traumacentrum Zuidwest-Nederland,31,0,0
+2020-11-18 10:00:00,2020-11-18,GM0512,Gorinchem,Zuid-Holland,VR18,Zuid-Holland-Zuid,Dienst Gezondheid & Jeugd ZHZ,Traumacentrum Zuidwest-Nederland,9,0,0
+2020-11-18 10:00:00,2020-11-18,GM0513,Gouda,Zuid-Holland,VR16,Hollands-Midden,GGD Hollands-Midden,Netwerk Acute Zorg West,18,2,1
+2020-11-18 10:00:00,2020-11-18,GM0518,'s-Gravenhage,Zuid-Holland,VR15,Haaglanden,GGD Haaglanden,Netwerk Acute Zorg West,155,6,1
+2020-11-18 10:00:00,2020-11-18,GM0523,Hardinxveld-Giessendam,Zuid-Holland,VR18,Zuid-Holland-Zuid,Dienst Gezondheid & Jeugd ZHZ,Traumacentrum Zuidwest-Nederland,1,0,0
+2020-11-18 10:00:00,2020-11-18,GM0530,Hellevoetsluis,Zuid-Holland,VR17,Rotterdam-Rijnmond,GGD Rotterdam-Rijnmond,Traumacentrum Zuidwest-Nederland,14,0,0
+2020-11-18 10:00:00,2020-11-18,GM0531,Hendrik-Ido-Ambacht,Zuid-Holland,VR18,Zuid-Holland-Zuid,Dienst Gezondheid & Jeugd ZHZ,Traumacentrum Zuidwest-Nederland,7,0,0
+2020-11-18 10:00:00,2020-11-18,GM0532,Stede Broec,Noord-Holland,VR10,Noord-Holland-Noord,GGD Hollands-Noorden,SpoedZorgNet,5,0,0
+2020-11-18 10:00:00,2020-11-18,GM0534,Hillegom,Zuid-Holland,VR16,Hollands-Midden,GGD Hollands-Midden,Netwerk Acute Zorg West,4,0,0
+2020-11-18 10:00:00,2020-11-18,GM0537,Katwijk,Zuid-Holland,VR16,Hollands-Midden,GGD Hollands-Midden,Netwerk Acute Zorg West,14,0,0
+2020-11-18 10:00:00,2020-11-18,GM0542,Krimpen aan den IJssel,Zuid-Holland,VR17,Rotterdam-Rijnmond,GGD Rotterdam-Rijnmond,Traumacentrum Zuidwest-Nederland,13,0,0
+2020-11-18 10:00:00,2020-11-18,GM0546,Leiden,Zuid-Holland,VR16,Hollands-Midden,GGD Hollands-Midden,Netwerk Acute Zorg West,30,1,0
+2020-11-18 10:00:00,2020-11-18,GM0547,Leiderdorp,Zuid-Holland,VR16,Hollands-Midden,GGD Hollands-Midden,Netwerk Acute Zorg West,9,0,0
+2020-11-18 10:00:00,2020-11-18,GM0553,Lisse,Zuid-Holland,VR16,Hollands-Midden,GGD Hollands-Midden,Netwerk Acute Zorg West,2,0,0
+2020-11-18 10:00:00,2020-11-18,GM0556,Maassluis,Zuid-Holland,VR17,Rotterdam-Rijnmond,GGD Rotterdam-Rijnmond,Traumacentrum Zuidwest-Nederland,7,0,0
+2020-11-18 10:00:00,2020-11-18,GM0569,Nieuwkoop,Zuid-Holland,VR16,Hollands-Midden,GGD Hollands-Midden,Netwerk Acute Zorg West,9,0,1
+2020-11-18 10:00:00,2020-11-18,GM0575,Noordwijk,Zuid-Holland,VR16,Hollands-Midden,GGD Hollands-Midden,Netwerk Acute Zorg West,9,0,1
+2020-11-18 10:00:00,2020-11-18,GM0579,Oegstgeest,Zuid-Holland,VR16,Hollands-Midden,GGD Hollands-Midden,Netwerk Acute Zorg West,3,0,0
+2020-11-18 10:00:00,2020-11-18,GM0589,Oudewater,Utrecht,VR09,Utrecht,GGD Regio Utrecht,Traumazorgnetwerk Midden-Nederland,2,0,0
+2020-11-18 10:00:00,2020-11-18,GM0590,Papendrecht,Zuid-Holland,VR18,Zuid-Holland-Zuid,Dienst Gezondheid & Jeugd ZHZ,Traumacentrum Zuidwest-Nederland,7,1,0
+2020-11-18 10:00:00,2020-11-18,GM0597,Ridderkerk,Zuid-Holland,VR17,Rotterdam-Rijnmond,GGD Rotterdam-Rijnmond,Traumacentrum Zuidwest-Nederland,19,0,1
+2020-11-18 10:00:00,2020-11-18,GM0599,Rotterdam,Zuid-Holland,VR17,Rotterdam-Rijnmond,GGD Rotterdam-Rijnmond,Traumacentrum Zuidwest-Nederland,242,14,5
+2020-11-18 10:00:00,2020-11-18,GM0603,Rijswijk,Zuid-Holland,VR15,Haaglanden,GGD Haaglanden,Netwerk Acute Zorg West,20,2,0
+2020-11-18 10:00:00,2020-11-18,GM0606,Schiedam,Zuid-Holland,VR17,Rotterdam-Rijnmond,GGD Rotterdam-Rijnmond,Traumacentrum Zuidwest-Nederland,35,0,0
+2020-11-18 10:00:00,2020-11-18,GM0610,Sliedrecht,Zuid-Holland,VR18,Zuid-Holland-Zuid,Dienst Gezondheid & Jeugd ZHZ,Traumacentrum Zuidwest-Nederland,5,0,0
+2020-11-18 10:00:00,2020-11-18,GM0613,Albrandswaard,Zuid-Holland,VR17,Rotterdam-Rijnmond,GGD Rotterdam-Rijnmond,Traumacentrum Zuidwest-Nederland,8,0,0
+2020-11-18 10:00:00,2020-11-18,GM0614,Westvoorne,Zuid-Holland,VR17,Rotterdam-Rijnmond,GGD Rotterdam-Rijnmond,Traumacentrum Zuidwest-Nederland,1,0,0
+2020-11-18 10:00:00,2020-11-18,GM0622,Vlaardingen,Zuid-Holland,VR17,Rotterdam-Rijnmond,GGD Rotterdam-Rijnmond,Traumacentrum Zuidwest-Nederland,40,3,2
+2020-11-18 10:00:00,2020-11-18,GM0626,Voorschoten,Zuid-Holland,VR16,Hollands-Midden,GGD Hollands-Midden,Netwerk Acute Zorg West,5,0,0
+2020-11-18 10:00:00,2020-11-18,GM0627,Waddinxveen,Zuid-Holland,VR16,Hollands-Midden,GGD Hollands-Midden,Netwerk Acute Zorg West,4,1,0
+2020-11-18 10:00:00,2020-11-18,GM0629,Wassenaar,Zuid-Holland,VR15,Haaglanden,GGD Haaglanden,Netwerk Acute Zorg West,13,2,0
+2020-11-18 10:00:00,2020-11-18,GM0632,Woerden,Utrecht,VR09,Utrecht,GGD Regio Utrecht,Traumazorgnetwerk Midden-Nederland,27,0,0
+2020-11-18 10:00:00,2020-11-18,GM0637,Zoetermeer,Zuid-Holland,VR15,Haaglanden,GGD Haaglanden,Netwerk Acute Zorg West,42,0,0
+2020-11-18 10:00:00,2020-11-18,GM0638,Zoeterwoude,Zuid-Holland,VR16,Hollands-Midden,GGD Hollands-Midden,Netwerk Acute Zorg West,3,0,0
+2020-11-18 10:00:00,2020-11-18,GM0642,Zwijndrecht,Zuid-Holland,VR18,Zuid-Holland-Zuid,Dienst Gezondheid & Jeugd ZHZ,Traumacentrum Zuidwest-Nederland,7,0,2
+2020-11-18 10:00:00,2020-11-18,GM0654,Borsele,Zeeland,VR19,Zeeland,GGD Zeeland,Traumacentrum Zuidwest-Nederland,6,0,0
+2020-11-18 10:00:00,2020-11-18,GM0664,Goes,Zeeland,VR19,Zeeland,GGD Zeeland,Traumacentrum Zuidwest-Nederland,7,0,0
+2020-11-18 10:00:00,2020-11-18,GM0668,West Maas en Waal,Gelderland,VR08,Gelderland-Zuid,GGD Gelderland-Zuid,Acute Zorgregio Oost,4,0,0
+2020-11-18 10:00:00,2020-11-18,GM0677,Hulst,Zeeland,VR19,Zeeland,GGD Zeeland,Traumacentrum Zuidwest-Nederland,9,0,0
+2020-11-18 10:00:00,2020-11-18,GM0678,Kapelle,Zeeland,VR19,Zeeland,GGD Zeeland,Traumacentrum Zuidwest-Nederland,3,0,0
+2020-11-18 10:00:00,2020-11-18,GM0687,Middelburg,Zeeland,VR19,Zeeland,GGD Zeeland,Traumacentrum Zuidwest-Nederland,6,0,0
+2020-11-18 10:00:00,2020-11-18,GM0703,Reimerswaal,Zeeland,VR19,Zeeland,GGD Zeeland,Traumacentrum Zuidwest-Nederland,5,0,0
+2020-11-18 10:00:00,2020-11-18,GM0715,Terneuzen,Zeeland,VR19,Zeeland,GGD Zeeland,Traumacentrum Zuidwest-Nederland,25,1,0
+2020-11-18 10:00:00,2020-11-18,GM0716,Tholen,Zeeland,VR19,Zeeland,GGD Zeeland,Traumacentrum Zuidwest-Nederland,15,0,0
+2020-11-18 10:00:00,2020-11-18,GM0717,Veere,Zeeland,VR19,Zeeland,GGD Zeeland,Traumacentrum Zuidwest-Nederland,2,0,0
+2020-11-18 10:00:00,2020-11-18,GM0718,Vlissingen,Zeeland,VR19,Zeeland,GGD Zeeland,Traumacentrum Zuidwest-Nederland,6,0,0
+2020-11-18 10:00:00,2020-11-18,GM0736,De Ronde Venen,Utrecht,VR09,Utrecht,GGD Regio Utrecht,Traumazorgnetwerk Midden-Nederland,8,2,0
+2020-11-18 10:00:00,2020-11-18,GM0737,Tytsjerksteradiel,FryslÃ¢n,VR02,FryslÃ¢n,GGD FryslÃ¢n,Acute Zorgnetwerk Noord Nederland,2,0,0
+2020-11-18 10:00:00,2020-11-18,GM0743,Asten,Noord-Brabant,VR22,Brabant-Zuidoost,GGD Brabant-Zuidoost,Netwerk Acute Zorg Brabant,0,0,0
+2020-11-18 10:00:00,2020-11-18,GM0744,Baarle-Nassau,Noord-Brabant,VR20,Midden- en West-Brabant,GGD West-Brabant,Netwerk Acute Zorg Brabant,2,0,0
+2020-11-18 10:00:00,2020-11-18,GM0748,Bergen op Zoom,Noord-Brabant,VR20,Midden- en West-Brabant,GGD West-Brabant,Netwerk Acute Zorg Brabant,29,0,1
+2020-11-18 10:00:00,2020-11-18,GM0753,Best,Noord-Brabant,VR22,Brabant-Zuidoost,GGD Brabant-Zuidoost,Netwerk Acute Zorg Brabant,3,0,0
+2020-11-18 10:00:00,2020-11-18,GM0755,Boekel,Noord-Brabant,VR21,Brabant-Noord,GGD Hart voor Brabant,Netwerk Acute Zorg Brabant,3,0,0
+2020-11-18 10:00:00,2020-11-18,GM0756,Boxmeer,Noord-Brabant,VR21,Brabant-Noord,GGD Hart voor Brabant,Netwerk Acute Zorg Brabant,2,0,0
+2020-11-18 10:00:00,2020-11-18,GM0757,Boxtel,Noord-Brabant,VR21,Brabant-Noord,GGD Hart voor Brabant,Netwerk Acute Zorg Brabant,11,1,0
+2020-11-18 10:00:00,2020-11-18,GM0758,Breda,Noord-Brabant,VR20,Midden- en West-Brabant,GGD West-Brabant,Netwerk Acute Zorg Brabant,55,0,3
+2020-11-18 10:00:00,2020-11-18,GM0762,Deurne,Noord-Brabant,VR22,Brabant-Zuidoost,GGD Brabant-Zuidoost,Netwerk Acute Zorg Brabant,1,0,0
+2020-11-18 10:00:00,2020-11-18,GM0765,Pekela,Groningen,VR01,Groningen,GGD Groningen,Acute Zorgnetwerk Noord Nederland,0,0,0
+2020-11-18 10:00:00,2020-11-18,GM0766,Dongen,Noord-Brabant,VR20,Midden- en West-Brabant,GGD Hart voor Brabant,Netwerk Acute Zorg Brabant,11,0,0
+2020-11-18 10:00:00,2020-11-18,GM0770,Eersel,Noord-Brabant,VR22,Brabant-Zuidoost,GGD Brabant-Zuidoost,Netwerk Acute Zorg Brabant,6,0,0
+2020-11-18 10:00:00,2020-11-18,GM0772,Eindhoven,Noord-Brabant,VR22,Brabant-Zuidoost,GGD Brabant-Zuidoost,Netwerk Acute Zorg Brabant,31,2,0
+2020-11-18 10:00:00,2020-11-18,GM0777,Etten-Leur,Noord-Brabant,VR20,Midden- en West-Brabant,GGD West-Brabant,Netwerk Acute Zorg Brabant,13,0,0
+2020-11-18 10:00:00,2020-11-18,GM0779,Geertruidenberg,Noord-Brabant,VR20,Midden- en West-Brabant,GGD West-Brabant,Netwerk Acute Zorg Brabant,4,1,0
+2020-11-18 10:00:00,2020-11-18,GM0784,Gilze en Rijen,Noord-Brabant,VR20,Midden- en West-Brabant,GGD Hart voor Brabant,Netwerk Acute Zorg Brabant,10,0,0
+2020-11-18 10:00:00,2020-11-18,GM0785,Goirle,Noord-Brabant,VR20,Midden- en West-Brabant,GGD Hart voor Brabant,Netwerk Acute Zorg Brabant,12,0,0
+2020-11-18 10:00:00,2020-11-18,GM0786,Grave,Noord-Brabant,VR21,Brabant-Noord,GGD Hart voor Brabant,Netwerk Acute Zorg Brabant,2,0,0
+2020-11-18 10:00:00,2020-11-18,GM0794,Helmond,Noord-Brabant,VR22,Brabant-Zuidoost,GGD Brabant-Zuidoost,Netwerk Acute Zorg Brabant,7,0,0
+2020-11-18 10:00:00,2020-11-18,GM0796,'s-Hertogenbosch,Noord-Brabant,VR21,Brabant-Noord,GGD Hart voor Brabant,Netwerk Acute Zorg Brabant,57,0,0
+2020-11-18 10:00:00,2020-11-18,GM0797,Heusden,Noord-Brabant,VR21,Brabant-Noord,GGD Hart voor Brabant,Netwerk Acute Zorg Brabant,28,0,0
+2020-11-18 10:00:00,2020-11-18,GM0798,Hilvarenbeek,Noord-Brabant,VR20,Midden- en West-Brabant,GGD Hart voor Brabant,Netwerk Acute Zorg Brabant,6,1,0
+2020-11-18 10:00:00,2020-11-18,GM0809,Loon op Zand,Noord-Brabant,VR20,Midden- en West-Brabant,GGD Hart voor Brabant,Netwerk Acute Zorg Brabant,9,0,1
+2020-11-18 10:00:00,2020-11-18,GM0815,Mill en Sint Hubert,Noord-Brabant,VR21,Brabant-Noord,GGD Hart voor Brabant,Netwerk Acute Zorg Brabant,3,0,0
+2020-11-18 10:00:00,2020-11-18,GM0820,"Nuenen, Gerwen en Nederwetten",Noord-Brabant,VR22,Brabant-Zuidoost,GGD Brabant-Zuidoost,Netwerk Acute Zorg Brabant,3,0,0
+2020-11-18 10:00:00,2020-11-18,GM0823,Oirschot,Noord-Brabant,VR22,Brabant-Zuidoost,GGD Brabant-Zuidoost,Netwerk Acute Zorg Brabant,3,1,0
+2020-11-18 10:00:00,2020-11-18,GM0824,Oisterwijk,Noord-Brabant,VR20,Midden- en West-Brabant,GGD Hart voor Brabant,Netwerk Acute Zorg Brabant,10,0,0
+2020-11-18 10:00:00,2020-11-18,GM0826,Oosterhout,Noord-Brabant,VR20,Midden- en West-Brabant,GGD West-Brabant,Netwerk Acute Zorg Brabant,22,0,0
+2020-11-18 10:00:00,2020-11-18,GM0828,Oss,Noord-Brabant,VR21,Brabant-Noord,GGD Hart voor Brabant,Netwerk Acute Zorg Brabant,22,1,1
+2020-11-18 10:00:00,2020-11-18,GM0840,Rucphen,Noord-Brabant,VR20,Midden- en West-Brabant,GGD West-Brabant,Netwerk Acute Zorg Brabant,4,0,0
+2020-11-18 10:00:00,2020-11-18,GM0845,Sint-Michielsgestel,Noord-Brabant,VR21,Brabant-Noord,GGD Hart voor Brabant,Netwerk Acute Zorg Brabant,12,1,0
+2020-11-18 10:00:00,2020-11-18,GM0847,Someren,Noord-Brabant,VR22,Brabant-Zuidoost,GGD Brabant-Zuidoost,Netwerk Acute Zorg Brabant,1,1,0
+2020-11-18 10:00:00,2020-11-18,GM0848,Son en Breugel,Noord-Brabant,VR22,Brabant-Zuidoost,GGD Brabant-Zuidoost,Netwerk Acute Zorg Brabant,3,0,0
+2020-11-18 10:00:00,2020-11-18,GM0851,Steenbergen,Noord-Brabant,VR20,Midden- en West-Brabant,GGD West-Brabant,Netwerk Acute Zorg Brabant,3,0,0
+2020-11-18 10:00:00,2020-11-18,GM0852,Waterland,Noord-Holland,VR11,Zaanstreek-Waterland,GGD Zaanstreek/Waterland,SpoedZorgNet,10,0,1
+2020-11-18 10:00:00,2020-11-18,GM0855,Tilburg,Noord-Brabant,VR20,Midden- en West-Brabant,GGD Hart voor Brabant,Netwerk Acute Zorg Brabant,70,2,1
+2020-11-18 10:00:00,2020-11-18,GM0856,Uden,Noord-Brabant,VR21,Brabant-Noord,GGD Hart voor Brabant,Netwerk Acute Zorg Brabant,4,0,0
+2020-11-18 10:00:00,2020-11-18,GM0858,Valkenswaard,Noord-Brabant,VR22,Brabant-Zuidoost,GGD Brabant-Zuidoost,Netwerk Acute Zorg Brabant,1,0,0
+2020-11-18 10:00:00,2020-11-18,GM0861,Veldhoven,Noord-Brabant,VR22,Brabant-Zuidoost,GGD Brabant-Zuidoost,Netwerk Acute Zorg Brabant,8,0,0
+2020-11-18 10:00:00,2020-11-18,GM0865,Vught,Noord-Brabant,VR21,Brabant-Noord,GGD Hart voor Brabant,Netwerk Acute Zorg Brabant,9,0,0
+2020-11-18 10:00:00,2020-11-18,GM0866,Waalre,Noord-Brabant,VR22,Brabant-Zuidoost,GGD Brabant-Zuidoost,Netwerk Acute Zorg Brabant,0,0,0
+2020-11-18 10:00:00,2020-11-18,GM0867,Waalwijk,Noord-Brabant,VR20,Midden- en West-Brabant,GGD Hart voor Brabant,Netwerk Acute Zorg Brabant,16,0,0
+2020-11-18 10:00:00,2020-11-18,GM0873,Woensdrecht,Noord-Brabant,VR20,Midden- en West-Brabant,GGD West-Brabant,Netwerk Acute Zorg Brabant,4,0,0
+2020-11-18 10:00:00,2020-11-18,GM0879,Zundert,Noord-Brabant,VR20,Midden- en West-Brabant,GGD West-Brabant,Netwerk Acute Zorg Brabant,6,0,1
+2020-11-18 10:00:00,2020-11-18,GM0880,Wormerland,Noord-Holland,VR11,Zaanstreek-Waterland,GGD Zaanstreek/Waterland,Netwerk Acute Zorg Noordwest,8,0,0
+2020-11-18 10:00:00,2020-11-18,GM0882,Landgraaf,Limburg,VR24,Limburg-Zuid,GGD Zuid-Limburg,Netwerk Acute Zorg Limburg,6,0,0
+2020-11-18 10:00:00,2020-11-18,GM0888,Beek,Limburg,VR24,Limburg-Zuid,GGD Zuid-Limburg,Netwerk Acute Zorg Limburg,8,0,0
+2020-11-18 10:00:00,2020-11-18,GM0889,Beesel,Limburg,VR23,Limburg-Noord,GGD Limburg-Noord,Netwerk Acute Zorg Limburg,5,0,0
+2020-11-18 10:00:00,2020-11-18,GM0893,Bergen (L.),Limburg,VR23,Limburg-Noord,GGD Limburg-Noord,Netwerk Acute Zorg Limburg,3,1,0
+2020-11-18 10:00:00,2020-11-18,GM0899,Brunssum,Limburg,VR24,Limburg-Zuid,GGD Zuid-Limburg,Netwerk Acute Zorg Limburg,7,0,0
+2020-11-18 10:00:00,2020-11-18,GM0907,Gennep,Limburg,VR23,Limburg-Noord,GGD Limburg-Noord,Netwerk Acute Zorg Limburg,6,0,1
+2020-11-18 10:00:00,2020-11-18,GM0917,Heerlen,Limburg,VR24,Limburg-Zuid,GGD Zuid-Limburg,Netwerk Acute Zorg Limburg,22,0,0
+2020-11-18 10:00:00,2020-11-18,GM0928,Kerkrade,Limburg,VR24,Limburg-Zuid,GGD Zuid-Limburg,Netwerk Acute Zorg Limburg,9,0,0
+2020-11-18 10:00:00,2020-11-18,GM0935,Maastricht,Limburg,VR24,Limburg-Zuid,GGD Zuid-Limburg,Netwerk Acute Zorg Limburg,23,0,0
+2020-11-18 10:00:00,2020-11-18,GM0938,Meerssen,Limburg,VR24,Limburg-Zuid,GGD Zuid-Limburg,Netwerk Acute Zorg Limburg,2,0,0
+2020-11-18 10:00:00,2020-11-18,GM0944,Mook en Middelaar,Limburg,VR23,Limburg-Noord,GGD Limburg-Noord,Netwerk Acute Zorg Limburg,2,0,0
+2020-11-18 10:00:00,2020-11-18,GM0946,Nederweert,Limburg,VR23,Limburg-Noord,GGD Limburg-Noord,Netwerk Acute Zorg Limburg,4,0,0
+2020-11-18 10:00:00,2020-11-18,GM0957,Roermond,Limburg,VR23,Limburg-Noord,GGD Limburg-Noord,Netwerk Acute Zorg Limburg,21,0,0
+2020-11-18 10:00:00,2020-11-18,GM0965,Simpelveld,Limburg,VR24,Limburg-Zuid,GGD Zuid-Limburg,Netwerk Acute Zorg Limburg,6,0,0
+2020-11-18 10:00:00,2020-11-18,GM0971,Stein,Limburg,VR24,Limburg-Zuid,GGD Zuid-Limburg,Netwerk Acute Zorg Limburg,1,0,0
+2020-11-18 10:00:00,2020-11-18,GM0981,Vaals,Limburg,VR24,Limburg-Zuid,GGD Zuid-Limburg,Netwerk Acute Zorg Limburg,1,0,0
+2020-11-18 10:00:00,2020-11-18,GM0983,Venlo,Limburg,VR23,Limburg-Noord,GGD Limburg-Noord,Netwerk Acute Zorg Limburg,35,0,0
+2020-11-18 10:00:00,2020-11-18,GM0984,Venray,Limburg,VR23,Limburg-Noord,GGD Limburg-Noord,Netwerk Acute Zorg Limburg,21,0,0
+2020-11-18 10:00:00,2020-11-18,GM0986,Voerendaal,Limburg,VR24,Limburg-Zuid,GGD Zuid-Limburg,Netwerk Acute Zorg Limburg,0,0,0
+2020-11-18 10:00:00,2020-11-18,GM0988,Weert,Limburg,VR23,Limburg-Noord,GGD Limburg-Noord,Netwerk Acute Zorg Limburg,20,1,0
+2020-11-18 10:00:00,2020-11-18,GM0994,Valkenburg aan de Geul,Limburg,VR24,Limburg-Zuid,GGD Zuid-Limburg,Netwerk Acute Zorg Limburg,8,0,0
+2020-11-18 10:00:00,2020-11-18,GM0995,Lelystad,Flevoland,VR25,Flevoland,GGD Flevoland,SpoedZorgNet,41,1,1
+2020-11-18 10:00:00,2020-11-18,GM1507,Horst aan de Maas,Limburg,VR23,Limburg-Noord,GGD Limburg-Noord,Netwerk Acute Zorg Limburg,28,0,0
+2020-11-18 10:00:00,2020-11-18,GM1509,Oude IJsselstreek,Gelderland,VR06,Noord- en Oost-Gelderland,GGD Noord- en Oost-Gelderland,Acute Zorgregio Oost,8,0,0
+2020-11-18 10:00:00,2020-11-18,GM1525,Teylingen,Zuid-Holland,VR16,Hollands-Midden,GGD Hollands-Midden,Netwerk Acute Zorg West,8,0,0
+2020-11-18 10:00:00,2020-11-18,GM1581,Utrechtse Heuvelrug,Utrecht,VR09,Utrecht,GGD Regio Utrecht,Traumazorgnetwerk Midden-Nederland,6,0,0
+2020-11-18 10:00:00,2020-11-18,GM1586,Oost Gelre,Gelderland,VR06,Noord- en Oost-Gelderland,GGD Noord- en Oost-Gelderland,Acute Zorg Euregio,5,0,0
+2020-11-18 10:00:00,2020-11-18,GM1598,Koggenland,Noord-Holland,VR10,Noord-Holland-Noord,GGD Hollands-Noorden,Netwerk Acute Zorg Noordwest,5,0,0
+2020-11-18 10:00:00,2020-11-18,GM1621,Lansingerland,Zuid-Holland,VR17,Rotterdam-Rijnmond,GGD Rotterdam-Rijnmond,Traumacentrum Zuidwest-Nederland,16,0,0
+2020-11-18 10:00:00,2020-11-18,GM1640,Leudal,Limburg,VR23,Limburg-Noord,GGD Limburg-Noord,Netwerk Acute Zorg Limburg,17,0,0
+2020-11-18 10:00:00,2020-11-18,GM1641,Maasgouw,Limburg,VR23,Limburg-Noord,GGD Limburg-Noord,Netwerk Acute Zorg Limburg,7,0,0
+2020-11-18 10:00:00,2020-11-18,GM1652,Gemert-Bakel,Noord-Brabant,VR22,Brabant-Zuidoost,GGD Brabant-Zuidoost,Netwerk Acute Zorg Brabant,1,0,0
+2020-11-18 10:00:00,2020-11-18,GM1655,Halderberge,Noord-Brabant,VR20,Midden- en West-Brabant,GGD West-Brabant,Netwerk Acute Zorg Brabant,7,0,0
+2020-11-18 10:00:00,2020-11-18,GM1658,Heeze-Leende,Noord-Brabant,VR22,Brabant-Zuidoost,GGD Brabant-Zuidoost,Netwerk Acute Zorg Brabant,3,0,0
+2020-11-18 10:00:00,2020-11-18,GM1659,Laarbeek,Noord-Brabant,VR22,Brabant-Zuidoost,GGD Brabant-Zuidoost,Netwerk Acute Zorg Brabant,2,0,0
+2020-11-18 10:00:00,2020-11-18,GM1667,Reusel-De Mierden,Noord-Brabant,VR22,Brabant-Zuidoost,GGD Brabant-Zuidoost,Netwerk Acute Zorg Brabant,0,0,0
+2020-11-18 10:00:00,2020-11-18,GM1669,Roerdalen,Limburg,VR23,Limburg-Noord,GGD Limburg-Noord,Netwerk Acute Zorg Limburg,6,0,0
+2020-11-18 10:00:00,2020-11-18,GM1674,Roosendaal,Noord-Brabant,VR20,Midden- en West-Brabant,GGD West-Brabant,Netwerk Acute Zorg Brabant,31,0,1
+2020-11-18 10:00:00,2020-11-18,GM1676,Schouwen-Duiveland,Zeeland,VR19,Zeeland,GGD Zeeland,Traumacentrum Zuidwest-Nederland,7,0,0
+2020-11-18 10:00:00,2020-11-18,GM1680,Aa en Hunze,Drenthe,VR03,Drenthe,GGD Drenthe,Acute Zorgnetwerk Noord Nederland,4,0,0
+2020-11-18 10:00:00,2020-11-18,GM1681,Borger-Odoorn,Drenthe,VR03,Drenthe,GGD Drenthe,Acute Zorgnetwerk Noord Nederland,10,0,0
+2020-11-18 10:00:00,2020-11-18,GM1684,Cuijk,Noord-Brabant,VR21,Brabant-Noord,GGD Hart voor Brabant,Netwerk Acute Zorg Brabant,6,0,0
+2020-11-18 10:00:00,2020-11-18,GM1685,Landerd,Noord-Brabant,VR21,Brabant-Noord,GGD Hart voor Brabant,Netwerk Acute Zorg Brabant,8,0,0
+2020-11-18 10:00:00,2020-11-18,GM1690,De Wolden,Drenthe,VR03,Drenthe,GGD Drenthe,Netwerk Acute Zorg regio Zwolle,3,0,0
+2020-11-18 10:00:00,2020-11-18,GM1695,Noord-Beveland,Zeeland,VR19,Zeeland,GGD Zeeland,Traumacentrum Zuidwest-Nederland,0,0,0
+2020-11-18 10:00:00,2020-11-18,GM1696,Wijdemeren,Noord-Holland,VR14,Gooi en Vechtstreek,GGD Gooi en Vechtstreek,SpoedZorgNet,8,0,0
+2020-11-18 10:00:00,2020-11-18,GM1699,Noordenveld,Drenthe,VR03,Drenthe,GGD Drenthe,Acute Zorgnetwerk Noord Nederland,2,0,0
+2020-11-18 10:00:00,2020-11-18,GM1700,Twenterand,Overijssel,VR05,Twente,GGD Regio Twente,Acute Zorg Euregio,7,0,0
+2020-11-18 10:00:00,2020-11-18,GM1701,Westerveld,Drenthe,VR03,Drenthe,GGD Drenthe,Acute Zorgnetwerk Noord Nederland,7,1,0
+2020-11-18 10:00:00,2020-11-18,GM1702,Sint Anthonis,Noord-Brabant,VR21,Brabant-Noord,GGD Hart voor Brabant,Netwerk Acute Zorg Brabant,0,0,0
+2020-11-18 10:00:00,2020-11-18,GM1705,Lingewaard,Gelderland,VR07,Gelderland-Midden,Veiligheids- en Gezondheidsregio Gelderland-Midden,Acute Zorgregio Oost,11,1,0
+2020-11-18 10:00:00,2020-11-18,GM1706,Cranendonck,Noord-Brabant,VR22,Brabant-Zuidoost,GGD Brabant-Zuidoost,Netwerk Acute Zorg Brabant,5,0,1
+2020-11-18 10:00:00,2020-11-18,GM1708,Steenwijkerland,Overijssel,VR04,IJsselland,GGD IJsselland,Netwerk Acute Zorg regio Zwolle,11,0,0
+2020-11-18 10:00:00,2020-11-18,GM1709,Moerdijk,Noord-Brabant,VR20,Midden- en West-Brabant,GGD West-Brabant,Netwerk Acute Zorg Brabant,5,0,0
+2020-11-18 10:00:00,2020-11-18,GM1711,Echt-Susteren,Limburg,VR23,Limburg-Noord,GGD Limburg-Noord,Netwerk Acute Zorg Limburg,6,0,0
+2020-11-18 10:00:00,2020-11-18,GM1714,Sluis,Zeeland,VR19,Zeeland,GGD Zeeland,Traumacentrum Zuidwest-Nederland,3,0,0
+2020-11-18 10:00:00,2020-11-18,GM1719,Drimmelen,Noord-Brabant,VR20,Midden- en West-Brabant,GGD West-Brabant,Netwerk Acute Zorg Brabant,2,1,0
+2020-11-18 10:00:00,2020-11-18,GM1721,Bernheze,Noord-Brabant,VR21,Brabant-Noord,GGD Hart voor Brabant,Netwerk Acute Zorg Brabant,6,1,0
+2020-11-18 10:00:00,2020-11-18,GM1723,Alphen-Chaam,Noord-Brabant,VR20,Midden- en West-Brabant,GGD West-Brabant,Netwerk Acute Zorg Brabant,6,0,0
+2020-11-18 10:00:00,2020-11-18,GM1724,Bergeijk,Noord-Brabant,VR22,Brabant-Zuidoost,GGD Brabant-Zuidoost,Netwerk Acute Zorg Brabant,3,0,0
+2020-11-18 10:00:00,2020-11-18,GM1728,Bladel,Noord-Brabant,VR22,Brabant-Zuidoost,GGD Brabant-Zuidoost,Netwerk Acute Zorg Brabant,5,0,0
+2020-11-18 10:00:00,2020-11-18,GM1729,Gulpen-Wittem,Limburg,VR24,Limburg-Zuid,GGD Zuid-Limburg,Netwerk Acute Zorg Limburg,0,0,0
+2020-11-18 10:00:00,2020-11-18,GM1730,Tynaarlo,Drenthe,VR03,Drenthe,GGD Drenthe,Acute Zorgnetwerk Noord Nederland,5,0,2
+2020-11-18 10:00:00,2020-11-18,GM1731,Midden-Drenthe,Drenthe,VR03,Drenthe,GGD Drenthe,Acute Zorgnetwerk Noord Nederland,6,0,0
+2020-11-18 10:00:00,2020-11-18,GM1734,Overbetuwe,Gelderland,VR07,Gelderland-Midden,Veiligheids- en Gezondheidsregio Gelderland-Midden,Acute Zorgregio Oost,7,0,0
+2020-11-18 10:00:00,2020-11-18,GM1735,Hof van Twente,Overijssel,VR05,Twente,GGD Regio Twente,Acute Zorg Euregio,4,0,0
+2020-11-18 10:00:00,2020-11-18,GM1740,Neder-Betuwe,Gelderland,VR08,Gelderland-Zuid,GGD Gelderland-Zuid,Acute Zorgregio Oost,18,0,0
+2020-11-18 10:00:00,2020-11-18,GM1742,Rijssen-Holten,Overijssel,VR05,Twente,GGD Regio Twente,Acute Zorg Euregio,7,0,0
+2020-11-18 10:00:00,2020-11-18,GM1771,Geldrop-Mierlo,Noord-Brabant,VR22,Brabant-Zuidoost,GGD Brabant-Zuidoost,Netwerk Acute Zorg Brabant,3,1,0
+2020-11-18 10:00:00,2020-11-18,GM1773,Olst-Wijhe,Overijssel,VR04,IJsselland,GGD IJsselland,Netwerk Acute Zorg regio Zwolle,1,0,0
+2020-11-18 10:00:00,2020-11-18,GM1774,Dinkelland,Overijssel,VR05,Twente,GGD Regio Twente,Acute Zorg Euregio,8,0,0
+2020-11-18 10:00:00,2020-11-18,GM1783,Westland,Zuid-Holland,VR15,Haaglanden,GGD Haaglanden,Netwerk Acute Zorg West,56,1,0
+2020-11-18 10:00:00,2020-11-18,GM1842,Midden-Delfland,Zuid-Holland,VR15,Haaglanden,GGD Haaglanden,Netwerk Acute Zorg West,10,0,0
+2020-11-18 10:00:00,2020-11-18,GM1859,Berkelland,Gelderland,VR06,Noord- en Oost-Gelderland,GGD Noord- en Oost-Gelderland,Acute Zorg Euregio,7,0,1
+2020-11-18 10:00:00,2020-11-18,GM1876,Bronckhorst,Gelderland,VR06,Noord- en Oost-Gelderland,GGD Noord- en Oost-Gelderland,Acute Zorgregio Oost,5,0,0
+2020-11-18 10:00:00,2020-11-18,GM1883,Sittard-Geleen,Limburg,VR24,Limburg-Zuid,GGD Zuid-Limburg,Netwerk Acute Zorg Limburg,30,0,0
+2020-11-18 10:00:00,2020-11-18,GM1884,Kaag en Braassem,Zuid-Holland,VR16,Hollands-Midden,GGD Hollands-Midden,Netwerk Acute Zorg West,6,0,0
+2020-11-18 10:00:00,2020-11-18,GM1891,Dantumadiel,FryslÃ¢n,VR02,FryslÃ¢n,GGD FryslÃ¢n,Acute Zorgnetwerk Noord Nederland,1,0,0
+2020-11-18 10:00:00,2020-11-18,GM1892,Zuidplas,Zuid-Holland,VR16,Hollands-Midden,GGD Hollands-Midden,Netwerk Acute Zorg West,11,1,0
+2020-11-18 10:00:00,2020-11-18,GM1894,Peel en Maas,Limburg,VR23,Limburg-Noord,GGD Limburg-Noord,Netwerk Acute Zorg Limburg,15,0,0
+2020-11-18 10:00:00,2020-11-18,GM1895,Oldambt,Groningen,VR01,Groningen,GGD Groningen,Acute Zorgnetwerk Noord Nederland,1,0,0
+2020-11-18 10:00:00,2020-11-18,GM1896,Zwartewaterland,Overijssel,VR04,IJsselland,GGD IJsselland,Netwerk Acute Zorg regio Zwolle,6,0,1
+2020-11-18 10:00:00,2020-11-18,GM1900,SÃºdwest-FryslÃ¢n,FryslÃ¢n,VR02,FryslÃ¢n,GGD FryslÃ¢n,Acute Zorgnetwerk Noord Nederland,43,1,1
+2020-11-18 10:00:00,2020-11-18,GM1901,Bodegraven-Reeuwijk,Zuid-Holland,VR16,Hollands-Midden,GGD Hollands-Midden,Netwerk Acute Zorg West,14,0,0
+2020-11-18 10:00:00,2020-11-18,GM1903,Eijsden-Margraten,Limburg,VR24,Limburg-Zuid,GGD Zuid-Limburg,Netwerk Acute Zorg Limburg,5,1,0
+2020-11-18 10:00:00,2020-11-18,GM1904,Stichtse Vecht,Utrecht,VR09,Utrecht,GGD Regio Utrecht,Traumazorgnetwerk Midden-Nederland,22,1,1
+2020-11-18 10:00:00,2020-11-18,GM1911,Hollands Kroon,Noord-Holland,VR10,Noord-Holland-Noord,GGD Hollands-Noorden,Netwerk Acute Zorg Noordwest,5,0,0
+2020-11-18 10:00:00,2020-11-18,GM1916,Leidschendam-Voorburg,Zuid-Holland,VR15,Haaglanden,GGD Haaglanden,Netwerk Acute Zorg West,25,0,1
+2020-11-18 10:00:00,2020-11-18,GM1924,Goeree-Overflakkee,Zuid-Holland,VR17,Rotterdam-Rijnmond,GGD Rotterdam-Rijnmond,Traumacentrum Zuidwest-Nederland,13,0,0
+2020-11-18 10:00:00,2020-11-18,GM1926,Pijnacker-Nootdorp,Zuid-Holland,VR15,Haaglanden,GGD Haaglanden,Netwerk Acute Zorg West,15,1,0
+2020-11-18 10:00:00,2020-11-18,GM1930,Nissewaard,Zuid-Holland,VR17,Rotterdam-Rijnmond,GGD Rotterdam-Rijnmond,Traumacentrum Zuidwest-Nederland,44,0,2
+2020-11-18 10:00:00,2020-11-18,GM1931,Krimpenerwaard,Zuid-Holland,VR16,Hollands-Midden,GGD Hollands-Midden,Netwerk Acute Zorg West,18,2,1
+2020-11-18 10:00:00,2020-11-18,GM1940,De Fryske Marren,FryslÃ¢n,VR02,FryslÃ¢n,GGD FryslÃ¢n,Acute Zorgnetwerk Noord Nederland,9,1,0
+2020-11-18 10:00:00,2020-11-18,GM1942,Gooise Meren,Noord-Holland,VR14,Gooi en Vechtstreek,GGD Gooi en Vechtstreek,SpoedZorgNet,16,0,0
+2020-11-18 10:00:00,2020-11-18,GM1945,Berg en Dal,Gelderland,VR08,Gelderland-Zuid,GGD Gelderland-Zuid,Acute Zorgregio Oost,10,0,1
+2020-11-18 10:00:00,2020-11-18,GM1948,Meierijstad,Noord-Brabant,VR21,Brabant-Noord,GGD Hart voor Brabant,Netwerk Acute Zorg Brabant,23,0,0
+2020-11-18 10:00:00,2020-11-18,GM1949,Waadhoeke,FryslÃ¢n,VR02,FryslÃ¢n,GGD FryslÃ¢n,Acute Zorgnetwerk Noord Nederland,8,0,0
+2020-11-18 10:00:00,2020-11-18,GM1950,Westerwolde,Groningen,VR01,Groningen,GGD Groningen,Acute Zorgnetwerk Noord Nederland,2,0,0
+2020-11-18 10:00:00,2020-11-18,GM1952,Midden-Groningen,Groningen,VR01,Groningen,GGD Groningen,Acute Zorgnetwerk Noord Nederland,8,0,0
+2020-11-18 10:00:00,2020-11-18,GM1954,Beekdaelen,Limburg,VR24,Limburg-Zuid,GGD Zuid-Limburg,Netwerk Acute Zorg Limburg,10,0,0
+2020-11-18 10:00:00,2020-11-18,GM1955,Montferland,Gelderland,VR06,Noord- en Oost-Gelderland,GGD Noord- en Oost-Gelderland,Acute Zorgregio Oost,4,0,0
+2020-11-18 10:00:00,2020-11-18,GM1959,Altena,Noord-Brabant,VR20,Midden- en West-Brabant,GGD West-Brabant,Netwerk Acute Zorg Brabant,26,0,2
+2020-11-18 10:00:00,2020-11-18,GM1960,West Betuwe,Gelderland,VR08,Gelderland-Zuid,GGD Gelderland-Zuid,Acute Zorgregio Oost,19,0,0
+2020-11-18 10:00:00,2020-11-18,GM1961,Vijfheerenlanden,Utrecht,VR09,Utrecht,GGD Regio Utrecht,Traumazorgnetwerk Midden-Nederland,14,1,0
+2020-11-18 10:00:00,2020-11-18,GM1963,Hoeksche Waard,Zuid-Holland,VR18,Zuid-Holland-Zuid,Dienst Gezondheid & Jeugd ZHZ,Traumacentrum Zuidwest-Nederland,19,0,0
+2020-11-18 10:00:00,2020-11-18,GM1966,Het Hogeland,Groningen,VR01,Groningen,GGD Groningen,Acute Zorgnetwerk Noord Nederland,8,0,0
+2020-11-18 10:00:00,2020-11-18,GM1969,Westerkwartier,Groningen,VR01,Groningen,GGD Groningen,Acute Zorgnetwerk Noord Nederland,3,0,0
+2020-11-18 10:00:00,2020-11-18,GM1970,Noardeast-FryslÃ¢n,FryslÃ¢n,VR02,FryslÃ¢n,GGD FryslÃ¢n,Acute Zorgnetwerk Noord Nederland,14,0,0
+2020-11-18 10:00:00,2020-11-18,GM1978,Molenlanden,Zuid-Holland,VR18,Zuid-Holland-Zuid,Dienst Gezondheid & Jeugd ZHZ,Traumacentrum Zuidwest-Nederland,5,0,2
+2020-11-18 10:00:00,2020-11-18,GM1979,Eemsdelta,Groningen,VR01,Groningen,GGD Groningen,Acute Zorgnetwerk Noord Nederland,3,0,0
