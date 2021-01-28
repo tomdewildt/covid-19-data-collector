@@ -1,356 +1,354 @@
 Gemeentecode,PositiefGetest,Gemeente,Provinciecode,Provincie,Datum
-3,2,Appingedam,20,Groningen,2020-04-13
-10,13,Delfzijl,20,Groningen,2020-04-13
-14,136,Groningen,20,Groningen,2020-04-13
-24,2,Loppersum,20,Groningen,2020-04-13
-34,171,Almere,24,Flevoland,2020-04-13
-37,4,Stadskanaal,20,Groningen,2020-04-13
-47,7,Veendam,20,Groningen,2020-04-13
-50,20,Zeewolde,24,Flevoland,2020-04-13
-59,5,Achtkarspelen,21,Friesland,2020-04-13
+14,2,Groningen,20,Groningen,2020-04-13
+34,16,Almere,24,Flevoland,2020-04-13
+37,1,Stadskanaal,20,Groningen,2020-04-13
+47,0,Veendam,20,Groningen,2020-04-13
+50,2,Zeewolde,24,Flevoland,2020-04-13
+59,0,Achtkarspelen,21,Friesland,2020-04-13
 60,0,Ameland,21,Friesland,2020-04-13
-72,11,Harlingen,21,Friesland,2020-04-13
-74,57,Heerenveen,21,Friesland,2020-04-13
-80,48,Leeuwarden,21,Friesland,2020-04-13
-85,2,Ooststellingwerf,21,Friesland,2020-04-13
-86,16,Opsterland,21,Friesland,2020-04-13
+72,1,Harlingen,21,Friesland,2020-04-13
+74,2,Heerenveen,21,Friesland,2020-04-13
+80,0,Leeuwarden,21,Friesland,2020-04-13
+85,0,Ooststellingwerf,21,Friesland,2020-04-13
+86,0,Opsterland,21,Friesland,2020-04-13
 88,0,Schiermonnikoog,21,Friesland,2020-04-13
-90,25,Smallingerland,21,Friesland,2020-04-13
-93,1,Terschelling,21,Friesland,2020-04-13
+90,0,Smallingerland,21,Friesland,2020-04-13
+93,0,Terschelling,21,Friesland,2020-04-13
 96,0,Vlieland,21,Friesland,2020-04-13
-98,13,Weststellingwerf,21,Friesland,2020-04-13
-106,29,Assen,22,Drenthe,2020-04-13
-109,40,Coevorden,22,Drenthe,2020-04-13
-114,55,Emmen,22,Drenthe,2020-04-13
-118,41,Hoogeveen,22,Drenthe,2020-04-13
-119,25,Meppel,22,Drenthe,2020-04-13
-141,64,Almelo,23,Overijssel,2020-04-13
-147,40,Borne,23,Overijssel,2020-04-13
-148,52,Dalfsen,23,Overijssel,2020-04-13
-150,122,Deventer,23,Overijssel,2020-04-13
-153,136,Enschede,23,Overijssel,2020-04-13
-158,39,Haaksbergen,23,Overijssel,2020-04-13
-160,120,Hardenberg,23,Overijssel,2020-04-13
-163,41,Hellendoorn,23,Overijssel,2020-04-13
-164,98,Hengelo,23,Overijssel,2020-04-13
-166,216,Kampen,23,Overijssel,2020-04-13
-168,15,Losser,23,Overijssel,2020-04-13
-171,34,Noordoostpolder,24,Flevoland,2020-04-13
-173,39,Oldenzaal,23,Overijssel,2020-04-13
-175,32,Ommen,23,Overijssel,2020-04-13
-177,54,Raalte,23,Overijssel,2020-04-13
-180,41,Staphorst,23,Overijssel,2020-04-13
-183,60,Tubbergen,23,Overijssel,2020-04-13
-184,43,Urk,24,Flevoland,2020-04-13
-189,30,Wierden,23,Overijssel,2020-04-13
-193,222,Zwolle,23,Overijssel,2020-04-13
-197,27,Aalten,25,Gelderland,2020-04-13
-200,174,Apeldoorn,25,Gelderland,2020-04-13
-202,160,Arnhem,25,Gelderland,2020-04-13
-203,75,Barneveld,25,Gelderland,2020-04-13
-209,40,Beuningen,25,Gelderland,2020-04-13
-213,20,Brummen,25,Gelderland,2020-04-13
-214,22,Buren,25,Gelderland,2020-04-13
-216,38,Culemborg,25,Gelderland,2020-04-13
-221,16,Doesburg,25,Gelderland,2020-04-13
-222,53,Doetinchem,25,Gelderland,2020-04-13
-225,74,Druten,25,Gelderland,2020-04-13
-226,27,Duiven,25,Gelderland,2020-04-13
-228,116,Ede,25,Gelderland,2020-04-13
-230,67,Elburg,25,Gelderland,2020-04-13
-232,76,Epe,25,Gelderland,2020-04-13
-233,69,Ermelo,25,Gelderland,2020-04-13
-243,62,Harderwijk,25,Gelderland,2020-04-13
-244,36,Hattem,25,Gelderland,2020-04-13
-246,100,Heerde,25,Gelderland,2020-04-13
-252,44,Heumen,25,Gelderland,2020-04-13
-262,41,Lochem,25,Gelderland,2020-04-13
-263,26,Maasdriel,25,Gelderland,2020-04-13
-267,41,Nijkerk,25,Gelderland,2020-04-13
-268,403,Nijmegen,25,Gelderland,2020-04-13
-269,77,Oldebroek,25,Gelderland,2020-04-13
-273,16,Putten,25,Gelderland,2020-04-13
-274,35,Renkum,25,Gelderland,2020-04-13
-275,55,Rheden,25,Gelderland,2020-04-13
-277,2,Rozendaal,25,Gelderland,2020-04-13
-279,17,Scherpenzeel,25,Gelderland,2020-04-13
-281,67,Tiel,25,Gelderland,2020-04-13
-285,36,Voorst,25,Gelderland,2020-04-13
-289,29,Wageningen,25,Gelderland,2020-04-13
-293,17,Westervoort,25,Gelderland,2020-04-13
-294,19,Winterswijk,25,Gelderland,2020-04-13
-296,86,Wijchen,25,Gelderland,2020-04-13
-297,40,Zaltbommel,25,Gelderland,2020-04-13
-299,61,Zevenaar,25,Gelderland,2020-04-13
-301,49,Zutphen,25,Gelderland,2020-04-13
-302,112,Nunspeet,25,Gelderland,2020-04-13
-303,63,Dronten,24,Flevoland,2020-04-13
-307,117,Amersfoort,26,Utrecht,2020-04-13
-308,25,Baarn,26,Utrecht,2020-04-13
-310,77,De Bilt,26,Utrecht,2020-04-13
-312,19,Bunnik,26,Utrecht,2020-04-13
-313,26,Bunschoten,26,Utrecht,2020-04-13
-317,10,Eemnes,26,Utrecht,2020-04-13
-321,87,Houten,26,Utrecht,2020-04-13
-327,30,Leusden,26,Utrecht,2020-04-13
-331,28,Lopik,26,Utrecht,2020-04-13
-335,29,Montfoort,26,Utrecht,2020-04-13
-339,12,Renswoude,26,Utrecht,2020-04-13
-340,15,Rhenen,26,Utrecht,2020-04-13
-342,59,Soest,26,Utrecht,2020-04-13
-344,558,Utrecht,26,Utrecht,2020-04-13
-345,72,Veenendaal,26,Utrecht,2020-04-13
-351,19,Woudenberg,26,Utrecht,2020-04-13
-352,23,Wijk bij Duurstede,26,Utrecht,2020-04-13
-353,72,IJsselstein,26,Utrecht,2020-04-13
-355,88,Zeist,26,Utrecht,2020-04-13
-356,66,Nieuwegein,26,Utrecht,2020-04-13
-358,29,Aalsmeer,27,Noord-Holland,2020-04-13
-361,164,Alkmaar,27,Noord-Holland,2020-04-13
-362,201,Amstelveen,27,Noord-Holland,2020-04-13
-363,1212,Amsterdam,27,Noord-Holland,2020-04-13
-370,8,Beemster,27,Noord-Holland,2020-04-13
-373,45,Bergen (NH.),27,Noord-Holland,2020-04-13
-375,56,Beverwijk,27,Noord-Holland,2020-04-13
-376,17,Blaricum,27,Noord-Holland,2020-04-13
-377,37,Bloemendaal,27,Noord-Holland,2020-04-13
-383,54,Castricum,27,Noord-Holland,2020-04-13
-384,41,Diemen,27,Noord-Holland,2020-04-13
-385,46,Edam-Volendam,27,Noord-Holland,2020-04-13
-388,25,Enkhuizen,27,Noord-Holland,2020-04-13
-392,217,Haarlem,27,Noord-Holland,2020-04-13
-394,156,Haarlemmermeer,27,Noord-Holland,2020-04-13
-396,67,Heemskerk,27,Noord-Holland,2020-04-13
-397,78,Heemstede,27,Noord-Holland,2020-04-13
-398,79,Heerhugowaard,27,Noord-Holland,2020-04-13
-399,32,Heiloo,27,Noord-Holland,2020-04-13
-400,31,Den Helder,27,Noord-Holland,2020-04-13
-402,66,Hilversum,27,Noord-Holland,2020-04-13
-405,66,Hoorn,27,Noord-Holland,2020-04-13
-406,48,Huizen,27,Noord-Holland,2020-04-13
-415,17,Landsmeer,27,Noord-Holland,2020-04-13
-416,34,Langedijk,27,Noord-Holland,2020-04-13
-417,20,Laren,27,Noord-Holland,2020-04-13
-420,48,Medemblik,27,Noord-Holland,2020-04-13
-431,18,Oostzaan,27,Noord-Holland,2020-04-13
-432,5,Opmeer,27,Noord-Holland,2020-04-13
-437,23,Ouder-Amstel,27,Noord-Holland,2020-04-13
-439,136,Purmerend,27,Noord-Holland,2020-04-13
-441,56,Schagen,27,Noord-Holland,2020-04-13
-448,11,Texel,27,Noord-Holland,2020-04-13
-450,18,Uitgeest,27,Noord-Holland,2020-04-13
-451,33,Uithoorn,27,Noord-Holland,2020-04-13
-453,177,Velsen,27,Noord-Holland,2020-04-13
-457,28,Weesp,27,Noord-Holland,2020-04-13
-473,27,Zandvoort,27,Noord-Holland,2020-04-13
-479,220,Zaanstad,27,Noord-Holland,2020-04-13
-482,26,Alblasserdam,28,Zuid-Holland,2020-04-13
-484,105,Alphen aan den Rijn,28,Zuid-Holland,2020-04-13
-489,69,Barendrecht,28,Zuid-Holland,2020-04-13
-498,33,Drechterland,27,Noord-Holland,2020-04-13
-501,23,Brielle,28,Zuid-Holland,2020-04-13
-502,159,Capelle aan den IJssel,28,Zuid-Holland,2020-04-13
-503,92,Delft,28,Zuid-Holland,2020-04-13
-505,159,Dordrecht,28,Zuid-Holland,2020-04-13
-512,107,Gorinchem,28,Zuid-Holland,2020-04-13
-513,141,Gouda,28,Zuid-Holland,2020-04-13
-518,617,'s-Gravenhage,28,Zuid-Holland,2020-04-13
-523,25,Hardinxveld-Giessendam,28,Zuid-Holland,2020-04-13
-530,50,Hellevoetsluis,28,Zuid-Holland,2020-04-13
-531,22,Hendrik-Ido-Ambacht,28,Zuid-Holland,2020-04-13
-532,39,Stede Broec,27,Noord-Holland,2020-04-13
-534,20,Hillegom,28,Zuid-Holland,2020-04-13
-537,82,Katwijk,28,Zuid-Holland,2020-04-13
-542,41,Krimpen aan den IJssel,28,Zuid-Holland,2020-04-13
-546,93,Leiden,28,Zuid-Holland,2020-04-13
-547,18,Leiderdorp,28,Zuid-Holland,2020-04-13
-553,13,Lisse,28,Zuid-Holland,2020-04-13
-556,37,Maassluis,28,Zuid-Holland,2020-04-13
-569,33,Nieuwkoop,28,Zuid-Holland,2020-04-13
-575,27,Noordwijk,28,Zuid-Holland,2020-04-13
-579,27,Oegstgeest,28,Zuid-Holland,2020-04-13
-589,40,Oudewater,26,Utrecht,2020-04-13
-590,38,Papendrecht,28,Zuid-Holland,2020-04-13
-597,69,Ridderkerk,28,Zuid-Holland,2020-04-13
-599,1230,Rotterdam,28,Zuid-Holland,2020-04-13
-603,55,Rijswijk,28,Zuid-Holland,2020-04-13
-606,80,Schiedam,28,Zuid-Holland,2020-04-13
-610,30,Sliedrecht,28,Zuid-Holland,2020-04-13
-613,57,Albrandswaard,28,Zuid-Holland,2020-04-13
-614,21,Westvoorne,28,Zuid-Holland,2020-04-13
-622,130,Vlaardingen,28,Zuid-Holland,2020-04-13
-626,24,Voorschoten,28,Zuid-Holland,2020-04-13
-627,33,Waddinxveen,28,Zuid-Holland,2020-04-13
-629,31,Wassenaar,28,Zuid-Holland,2020-04-13
-632,97,Woerden,26,Utrecht,2020-04-13
-637,98,Zoetermeer,28,Zuid-Holland,2020-04-13
-638,7,Zoeterwoude,28,Zuid-Holland,2020-04-13
-642,61,Zwijndrecht,28,Zuid-Holland,2020-04-13
-654,18,Borsele,29,Zeeland,2020-04-13
-664,57,Goes,29,Zeeland,2020-04-13
-668,55,West Maas en Waal,25,Gelderland,2020-04-13
-677,25,Hulst,29,Zeeland,2020-04-13
-678,15,Kapelle,29,Zeeland,2020-04-13
-687,34,Middelburg,29,Zeeland,2020-04-13
-703,20,Reimerswaal,29,Zeeland,2020-04-13
-715,73,Terneuzen,29,Zeeland,2020-04-13
-716,102,Tholen,29,Zeeland,2020-04-13
-717,20,Veere,29,Zeeland,2020-04-13
-718,44,Vlissingen,29,Zeeland,2020-04-13
-736,55,De Ronde Venen,26,Utrecht,2020-04-13
-737,14,Tytsjerksteradiel,21,Friesland,2020-04-13
-743,39,Asten,30,Noord-Brabant,2020-04-13
-744,15,Baarle-Nassau,30,Noord-Brabant,2020-04-13
-748,55,Bergen op Zoom,30,Noord-Brabant,2020-04-13
-753,45,Best,30,Noord-Brabant,2020-04-13
-755,80,Boekel,30,Noord-Brabant,2020-04-13
-756,65,Boxmeer,30,Noord-Brabant,2020-04-13
-757,39,Boxtel,30,Noord-Brabant,2020-04-13
-758,366,Breda,30,Noord-Brabant,2020-04-13
-762,107,Deurne,30,Noord-Brabant,2020-04-13
-765,4,Pekela,20,Groningen,2020-04-13
-766,51,Dongen,30,Noord-Brabant,2020-04-13
-770,40,Eersel,30,Noord-Brabant,2020-04-13
-772,294,Eindhoven,30,Noord-Brabant,2020-04-13
-777,111,Etten-Leur,30,Noord-Brabant,2020-04-13
-779,21,Geertruidenberg,30,Noord-Brabant,2020-04-13
-784,51,Gilze en Rijen,30,Noord-Brabant,2020-04-13
-785,60,Goirle,30,Noord-Brabant,2020-04-13
-786,42,Grave,30,Noord-Brabant,2020-04-13
-788,31,Haaren,30,Noord-Brabant,2020-04-13
-794,208,Helmond,30,Noord-Brabant,2020-04-13
-796,292,'s-Hertogenbosch,30,Noord-Brabant,2020-04-13
-797,81,Heusden,30,Noord-Brabant,2020-04-13
-798,28,Hilvarenbeek,30,Noord-Brabant,2020-04-13
-809,42,Loon op Zand,30,Noord-Brabant,2020-04-13
-815,20,Mill en Sint Hubert,30,Noord-Brabant,2020-04-13
-820,33,"Nuenen, Gerwen en Nederwetten",30,Noord-Brabant,2020-04-13
-823,36,Oirschot,30,Noord-Brabant,2020-04-13
-824,47,Oisterwijk,30,Noord-Brabant,2020-04-13
-826,72,Oosterhout,30,Noord-Brabant,2020-04-13
-828,321,Oss,30,Noord-Brabant,2020-04-13
-840,35,Rucphen,30,Noord-Brabant,2020-04-13
-845,64,Sint-Michielsgestel,30,Noord-Brabant,2020-04-13
-847,65,Someren,30,Noord-Brabant,2020-04-13
-848,50,Son en Breugel,30,Noord-Brabant,2020-04-13
-851,45,Steenbergen,30,Noord-Brabant,2020-04-13
-852,21,Waterland,27,Noord-Holland,2020-04-13
-855,503,Tilburg,30,Noord-Brabant,2020-04-13
-856,212,Uden,30,Noord-Brabant,2020-04-13
-858,90,Valkenswaard,30,Noord-Brabant,2020-04-13
-861,66,Veldhoven,30,Noord-Brabant,2020-04-13
-865,75,Vught,30,Noord-Brabant,2020-04-13
-866,20,Waalre,30,Noord-Brabant,2020-04-13
-867,98,Waalwijk,30,Noord-Brabant,2020-04-13
-873,20,Woensdrecht,30,Noord-Brabant,2020-04-13
-879,44,Zundert,30,Noord-Brabant,2020-04-13
-880,29,Wormerland,27,Noord-Holland,2020-04-13
-882,80,Landgraaf,31,Limburg,2020-04-13
-888,25,Beek,31,Limburg,2020-04-13
-889,31,Beesel,31,Limburg,2020-04-13
-893,10,Bergen (L.),31,Limburg,2020-04-13
-899,53,Brunssum,31,Limburg,2020-04-13
-907,39,Gennep,31,Limburg,2020-04-13
-917,190,Heerlen,31,Limburg,2020-04-13
-928,89,Kerkrade,31,Limburg,2020-04-13
-935,400,Maastricht,31,Limburg,2020-04-13
-938,49,Meerssen,31,Limburg,2020-04-13
-944,23,Mook en Middelaar,31,Limburg,2020-04-13
-946,39,Nederweert,31,Limburg,2020-04-13
-957,94,Roermond,31,Limburg,2020-04-13
-965,28,Simpelveld,31,Limburg,2020-04-13
-971,68,Stein,31,Limburg,2020-04-13
-981,19,Vaals,31,Limburg,2020-04-13
-983,198,Venlo,31,Limburg,2020-04-13
-984,71,Venray,31,Limburg,2020-04-13
-986,23,Voerendaal,31,Limburg,2020-04-13
-988,95,Weert,31,Limburg,2020-04-13
-994,46,Valkenburg aan de Geul,31,Limburg,2020-04-13
-995,82,Lelystad,24,Flevoland,2020-04-13
-1507,88,Horst aan de Maas,31,Limburg,2020-04-13
-1509,40,Oude IJsselstreek,25,Gelderland,2020-04-13
-1525,30,Teylingen,28,Zuid-Holland,2020-04-13
-1581,65,Utrechtse Heuvelrug,26,Utrecht,2020-04-13
-1586,35,Oost Gelre,25,Gelderland,2020-04-13
-1598,26,Koggenland,27,Noord-Holland,2020-04-13
-1621,122,Lansingerland,28,Zuid-Holland,2020-04-13
-1640,121,Leudal,31,Limburg,2020-04-13
-1641,51,Maasgouw,31,Limburg,2020-04-13
-1652,133,Gemert-Bakel,30,Noord-Brabant,2020-04-13
-1655,43,Halderberge,30,Noord-Brabant,2020-04-13
-1658,38,Heeze-Leende,30,Noord-Brabant,2020-04-13
-1659,70,Laarbeek,30,Noord-Brabant,2020-04-13
-1667,14,Reusel-De Mierden,30,Noord-Brabant,2020-04-13
-1669,37,Roerdalen,31,Limburg,2020-04-13
-1674,124,Roosendaal,30,Noord-Brabant,2020-04-13
-1676,24,Schouwen-Duiveland,29,Zeeland,2020-04-13
-1680,9,Aa en Hunze,22,Drenthe,2020-04-13
-1681,4,Borger-Odoorn,22,Drenthe,2020-04-13
-1684,39,Cuijk,30,Noord-Brabant,2020-04-13
-1685,98,Landerd,30,Noord-Brabant,2020-04-13
-1690,26,De Wolden,22,Drenthe,2020-04-13
-1695,5,Noord-Beveland,29,Zeeland,2020-04-13
-1696,16,Wijdemeren,27,Noord-Holland,2020-04-13
-1699,12,Noordenveld,22,Drenthe,2020-04-13
-1700,39,Twenterand,23,Overijssel,2020-04-13
-1701,23,Westerveld,22,Drenthe,2020-04-13
-1702,53,Sint Anthonis,30,Noord-Brabant,2020-04-13
-1705,58,Lingewaard,25,Gelderland,2020-04-13
-1706,125,Cranendonck,30,Noord-Brabant,2020-04-13
-1708,47,Steenwijkerland,23,Overijssel,2020-04-13
-1709,41,Moerdijk,30,Noord-Brabant,2020-04-13
-1711,62,Echt-Susteren,31,Limburg,2020-04-13
-1714,15,Sluis,29,Zeeland,2020-04-13
-1719,42,Drimmelen,30,Noord-Brabant,2020-04-13
-1721,194,Bernheze,30,Noord-Brabant,2020-04-13
-1723,40,Alphen-Chaam,30,Noord-Brabant,2020-04-13
-1724,33,Bergeijk,30,Noord-Brabant,2020-04-13
-1728,38,Bladel,30,Noord-Brabant,2020-04-13
-1729,38,Gulpen-Wittem,31,Limburg,2020-04-13
-1730,32,Tynaarlo,22,Drenthe,2020-04-13
-1731,17,Midden-Drenthe,22,Drenthe,2020-04-13
-1734,95,Overbetuwe,25,Gelderland,2020-04-13
-1735,47,Hof van Twente,23,Overijssel,2020-04-13
-1740,62,Neder-Betuwe,25,Gelderland,2020-04-13
-1742,71,Rijssen-Holten,23,Overijssel,2020-04-13
-1771,63,Geldrop-Mierlo,30,Noord-Brabant,2020-04-13
-1773,30,Olst-Wijhe,23,Overijssel,2020-04-13
-1774,59,Dinkelland,23,Overijssel,2020-04-13
-1783,151,Westland,28,Zuid-Holland,2020-04-13
-1842,11,Midden-Delfland,28,Zuid-Holland,2020-04-13
-1859,31,Berkelland,25,Gelderland,2020-04-13
-1876,28,Bronckhorst,25,Gelderland,2020-04-13
-1883,217,Sittard-Geleen,31,Limburg,2020-04-13
-1884,14,Kaag en Braassem,28,Zuid-Holland,2020-04-13
-1891,6,Dantumadiel,21,Friesland,2020-04-13
-1892,64,Zuidplas,28,Zuid-Holland,2020-04-13
-1894,220,Peel en Maas,31,Limburg,2020-04-13
-1895,6,Oldambt,20,Groningen,2020-04-13
-1896,103,Zwartewaterland,23,Overijssel,2020-04-13
-1900,52,Súdwest-Fryslân,21,Friesland,2020-04-13
-1901,28,Bodegraven-Reeuwijk,28,Zuid-Holland,2020-04-13
-1903,105,Eijsden-Margraten,31,Limburg,2020-04-13
-1904,65,Stichtse Vecht,26,Utrecht,2020-04-13
-1911,50,Hollands Kroon,27,Noord-Holland,2020-04-13
-1916,57,Leidschendam-Voorburg,28,Zuid-Holland,2020-04-13
-1924,214,Goeree-Overflakkee,28,Zuid-Holland,2020-04-13
-1926,64,Pijnacker-Nootdorp,28,Zuid-Holland,2020-04-13
-1930,104,Nissewaard,28,Zuid-Holland,2020-04-13
-1931,93,Krimpenerwaard,28,Zuid-Holland,2020-04-13
-1940,45,De Fryske Marren,21,Friesland,2020-04-13
-1942,72,Gooise Meren,27,Noord-Holland,2020-04-13
-1945,105,Berg en Dal,25,Gelderland,2020-04-13
-1948,387,Meierijstad,30,Noord-Brabant,2020-04-13
-1949,58,Waadhoeke,21,Friesland,2020-04-13
-1950,5,Westerwolde,20,Groningen,2020-04-13
-1952,22,Midden-Groningen,20,Groningen,2020-04-13
-1954,68,Beekdaelen,31,Limburg,2020-04-13
-1955,44,Montferland,25,Gelderland,2020-04-13
-1959,85,Altena,30,Noord-Brabant,2020-04-13
-1960,108,West Betuwe,25,Gelderland,2020-04-13
-1961,149,Vijfheerenlanden,26,Utrecht,2020-04-13
-1963,155,Hoeksche Waard,28,Zuid-Holland,2020-04-13
-1966,22,Het Hogeland,20,Groningen,2020-04-13
-1969,50,Westerkwartier,20,Groningen,2020-04-13
-1970,22,Noardeast-Fryslân,21,Friesland,2020-04-13
-1978,73,Molenlanden,28,Zuid-Holland,2020-04-13
+98,2,Weststellingwerf,21,Friesland,2020-04-13
+106,0,Assen,22,Drenthe,2020-04-13
+109,0,Coevorden,22,Drenthe,2020-04-13
+114,3,Emmen,22,Drenthe,2020-04-13
+118,1,Hoogeveen,22,Drenthe,2020-04-13
+119,1,Meppel,22,Drenthe,2020-04-13
+141,0,Almelo,23,Overijssel,2020-04-13
+147,1,Borne,23,Overijssel,2020-04-13
+148,3,Dalfsen,23,Overijssel,2020-04-13
+150,7,Deventer,23,Overijssel,2020-04-13
+153,1,Enschede,23,Overijssel,2020-04-13
+158,0,Haaksbergen,23,Overijssel,2020-04-13
+160,3,Hardenberg,23,Overijssel,2020-04-13
+163,0,Hellendoorn,23,Overijssel,2020-04-13
+164,1,Hengelo,23,Overijssel,2020-04-13
+166,20,Kampen,23,Overijssel,2020-04-13
+168,0,Losser,23,Overijssel,2020-04-13
+171,0,Noordoostpolder,24,Flevoland,2020-04-13
+173,0,Oldenzaal,23,Overijssel,2020-04-13
+175,0,Ommen,23,Overijssel,2020-04-13
+177,2,Raalte,23,Overijssel,2020-04-13
+180,4,Staphorst,23,Overijssel,2020-04-13
+183,0,Tubbergen,23,Overijssel,2020-04-13
+184,2,Urk,24,Flevoland,2020-04-13
+189,0,Wierden,23,Overijssel,2020-04-13
+193,8,Zwolle,23,Overijssel,2020-04-13
+197,4,Aalten,25,Gelderland,2020-04-13
+200,16,Apeldoorn,25,Gelderland,2020-04-13
+202,20,Arnhem,25,Gelderland,2020-04-13
+203,5,Barneveld,25,Gelderland,2020-04-13
+209,3,Beuningen,25,Gelderland,2020-04-13
+213,4,Brummen,25,Gelderland,2020-04-13
+214,1,Buren,25,Gelderland,2020-04-13
+216,1,Culemborg,25,Gelderland,2020-04-13
+221,1,Doesburg,25,Gelderland,2020-04-13
+222,0,Doetinchem,25,Gelderland,2020-04-13
+225,6,Druten,25,Gelderland,2020-04-13
+226,0,Duiven,25,Gelderland,2020-04-13
+228,2,Ede,25,Gelderland,2020-04-13
+230,8,Elburg,25,Gelderland,2020-04-13
+232,7,Epe,25,Gelderland,2020-04-13
+233,1,Ermelo,25,Gelderland,2020-04-13
+243,2,Harderwijk,25,Gelderland,2020-04-13
+244,3,Hattem,25,Gelderland,2020-04-13
+246,15,Heerde,25,Gelderland,2020-04-13
+252,2,Heumen,25,Gelderland,2020-04-13
+262,1,Lochem,25,Gelderland,2020-04-13
+263,1,Maasdriel,25,Gelderland,2020-04-13
+267,0,Nijkerk,25,Gelderland,2020-04-13
+268,15,Nijmegen,25,Gelderland,2020-04-13
+269,6,Oldebroek,25,Gelderland,2020-04-13
+273,0,Putten,25,Gelderland,2020-04-13
+274,0,Renkum,25,Gelderland,2020-04-13
+275,0,Rheden,25,Gelderland,2020-04-13
+277,0,Rozendaal,25,Gelderland,2020-04-13
+279,1,Scherpenzeel,25,Gelderland,2020-04-13
+281,4,Tiel,25,Gelderland,2020-04-13
+285,1,Voorst,25,Gelderland,2020-04-13
+289,3,Wageningen,25,Gelderland,2020-04-13
+293,1,Westervoort,25,Gelderland,2020-04-13
+294,1,Winterswijk,25,Gelderland,2020-04-13
+296,2,Wijchen,25,Gelderland,2020-04-13
+297,2,Zaltbommel,25,Gelderland,2020-04-13
+299,5,Zevenaar,25,Gelderland,2020-04-13
+301,2,Zutphen,25,Gelderland,2020-04-13
+302,10,Nunspeet,25,Gelderland,2020-04-13
+303,7,Dronten,24,Flevoland,2020-04-13
+307,2,Amersfoort,26,Utrecht,2020-04-13
+308,0,Baarn,26,Utrecht,2020-04-13
+310,0,De Bilt,26,Utrecht,2020-04-13
+312,0,Bunnik,26,Utrecht,2020-04-13
+313,2,Bunschoten,26,Utrecht,2020-04-13
+317,0,Eemnes,26,Utrecht,2020-04-13
+321,1,Houten,26,Utrecht,2020-04-13
+327,0,Leusden,26,Utrecht,2020-04-13
+331,0,Lopik,26,Utrecht,2020-04-13
+335,0,Montfoort,26,Utrecht,2020-04-13
+339,2,Renswoude,26,Utrecht,2020-04-13
+340,2,Rhenen,26,Utrecht,2020-04-13
+342,1,Soest,26,Utrecht,2020-04-13
+344,25,Utrecht,26,Utrecht,2020-04-13
+345,2,Veenendaal,26,Utrecht,2020-04-13
+351,0,Woudenberg,26,Utrecht,2020-04-13
+352,2,Wijk bij Duurstede,26,Utrecht,2020-04-13
+353,5,IJsselstein,26,Utrecht,2020-04-13
+355,2,Zeist,26,Utrecht,2020-04-13
+356,2,Nieuwegein,26,Utrecht,2020-04-13
+358,1,Aalsmeer,27,Noord-Holland,2020-04-13
+361,4,Alkmaar,27,Noord-Holland,2020-04-13
+362,3,Amstelveen,27,Noord-Holland,2020-04-13
+363,9,Amsterdam,27,Noord-Holland,2020-04-13
+363,18,Amsterdam,27,Noord-Holland,2020-04-13
+370,0,Beemster,27,Noord-Holland,2020-04-13
+373,0,Bergen (NH.),27,Noord-Holland,2020-04-13
+375,1,Beverwijk,27,Noord-Holland,2020-04-13
+376,0,Blaricum,27,Noord-Holland,2020-04-13
+377,0,Bloemendaal,27,Noord-Holland,2020-04-13
+383,1,Castricum,27,Noord-Holland,2020-04-13
+384,2,Diemen,27,Noord-Holland,2020-04-13
+385,1,Edam-Volendam,27,Noord-Holland,2020-04-13
+388,0,Enkhuizen,27,Noord-Holland,2020-04-13
+392,6,Haarlem,27,Noord-Holland,2020-04-13
+394,5,Haarlemmermeer,27,Noord-Holland,2020-04-13
+396,0,Heemskerk,27,Noord-Holland,2020-04-13
+397,1,Heemstede,27,Noord-Holland,2020-04-13
+398,3,Heerhugowaard,27,Noord-Holland,2020-04-13
+399,0,Heiloo,27,Noord-Holland,2020-04-13
+400,0,Den Helder,27,Noord-Holland,2020-04-13
+402,2,Hilversum,27,Noord-Holland,2020-04-13
+405,4,Hoorn,27,Noord-Holland,2020-04-13
+406,0,Huizen,27,Noord-Holland,2020-04-13
+415,0,Landsmeer,27,Noord-Holland,2020-04-13
+416,0,Langedijk,27,Noord-Holland,2020-04-13
+417,0,Laren,27,Noord-Holland,2020-04-13
+420,0,Medemblik,27,Noord-Holland,2020-04-13
+431,1,Oostzaan,27,Noord-Holland,2020-04-13
+432,1,Opmeer,27,Noord-Holland,2020-04-13
+437,0,Ouder-Amstel,27,Noord-Holland,2020-04-13
+439,2,Purmerend,27,Noord-Holland,2020-04-13
+441,1,Schagen,27,Noord-Holland,2020-04-13
+448,1,Texel,27,Noord-Holland,2020-04-13
+450,1,Uitgeest,27,Noord-Holland,2020-04-13
+451,1,Uithoorn,27,Noord-Holland,2020-04-13
+453,7,Velsen,27,Noord-Holland,2020-04-13
+457,1,Weesp,27,Noord-Holland,2020-04-13
+473,1,Zandvoort,27,Noord-Holland,2020-04-13
+479,8,Zaanstad,27,Noord-Holland,2020-04-13
+482,2,Alblasserdam,28,Zuid-Holland,2020-04-13
+484,3,Alphen aan den Rijn,28,Zuid-Holland,2020-04-13
+489,1,Barendrecht,28,Zuid-Holland,2020-04-13
+498,1,Drechterland,27,Noord-Holland,2020-04-13
+501,0,Brielle,28,Zuid-Holland,2020-04-13
+502,6,Capelle aan den IJssel,28,Zuid-Holland,2020-04-13
+503,9,Delft,28,Zuid-Holland,2020-04-13
+505,9,Dordrecht,28,Zuid-Holland,2020-04-13
+512,8,Gorinchem,28,Zuid-Holland,2020-04-13
+513,8,Gouda,28,Zuid-Holland,2020-04-13
+518,37,'s-Gravenhage,28,Zuid-Holland,2020-04-13
+523,0,Hardinxveld-Giessendam,28,Zuid-Holland,2020-04-13
+530,3,Hellevoetsluis,28,Zuid-Holland,2020-04-13
+531,0,Hendrik-Ido-Ambacht,28,Zuid-Holland,2020-04-13
+532,2,Stede Broec,27,Noord-Holland,2020-04-13
+534,0,Hillegom,28,Zuid-Holland,2020-04-13
+537,9,Katwijk,28,Zuid-Holland,2020-04-13
+542,3,Krimpen aan den IJssel,28,Zuid-Holland,2020-04-13
+546,4,Leiden,28,Zuid-Holland,2020-04-13
+547,0,Leiderdorp,28,Zuid-Holland,2020-04-13
+553,0,Lisse,28,Zuid-Holland,2020-04-13
+556,0,Maassluis,28,Zuid-Holland,2020-04-13
+569,4,Nieuwkoop,28,Zuid-Holland,2020-04-13
+575,1,Noordwijk,28,Zuid-Holland,2020-04-13
+579,0,Oegstgeest,28,Zuid-Holland,2020-04-13
+589,1,Oudewater,26,Utrecht,2020-04-13
+590,0,Papendrecht,28,Zuid-Holland,2020-04-13
+597,1,Ridderkerk,28,Zuid-Holland,2020-04-13
+599,51,Rotterdam,28,Zuid-Holland,2020-04-13
+603,4,Rijswijk,28,Zuid-Holland,2020-04-13
+606,2,Schiedam,28,Zuid-Holland,2020-04-13
+610,1,Sliedrecht,28,Zuid-Holland,2020-04-13
+613,0,Albrandswaard,28,Zuid-Holland,2020-04-13
+614,1,Westvoorne,28,Zuid-Holland,2020-04-13
+622,8,Vlaardingen,28,Zuid-Holland,2020-04-13
+626,1,Voorschoten,28,Zuid-Holland,2020-04-13
+627,2,Waddinxveen,28,Zuid-Holland,2020-04-13
+629,3,Wassenaar,28,Zuid-Holland,2020-04-13
+632,6,Woerden,26,Utrecht,2020-04-13
+637,19,Zoetermeer,28,Zuid-Holland,2020-04-13
+638,0,Zoeterwoude,28,Zuid-Holland,2020-04-13
+642,5,Zwijndrecht,28,Zuid-Holland,2020-04-13
+654,1,Borsele,29,Zeeland,2020-04-13
+664,17,Goes,29,Zeeland,2020-04-13
+668,4,West Maas en Waal,25,Gelderland,2020-04-13
+677,1,Hulst,29,Zeeland,2020-04-13
+678,0,Kapelle,29,Zeeland,2020-04-13
+687,0,Middelburg,29,Zeeland,2020-04-13
+703,0,Reimerswaal,29,Zeeland,2020-04-13
+715,1,Terneuzen,29,Zeeland,2020-04-13
+716,2,Tholen,29,Zeeland,2020-04-13
+717,1,Veere,29,Zeeland,2020-04-13
+718,1,Vlissingen,29,Zeeland,2020-04-13
+736,2,De Ronde Venen,26,Utrecht,2020-04-13
+737,0,Tytsjerksteradiel,21,Friesland,2020-04-13
+743,0,Asten,30,Noord-Brabant,2020-04-13
+744,0,Baarle-Nassau,30,Noord-Brabant,2020-04-13
+748,1,Bergen op Zoom,30,Noord-Brabant,2020-04-13
+753,0,Best,30,Noord-Brabant,2020-04-13
+755,5,Boekel,30,Noord-Brabant,2020-04-13
+756,4,Boxmeer,30,Noord-Brabant,2020-04-13
+757,0,Boxtel,30,Noord-Brabant,2020-04-13
+758,8,Breda,30,Noord-Brabant,2020-04-13
+762,0,Deurne,30,Noord-Brabant,2020-04-13
+765,0,Pekela,20,Groningen,2020-04-13
+766,0,Dongen,30,Noord-Brabant,2020-04-13
+770,0,Eersel,30,Noord-Brabant,2020-04-13
+772,0,Eindhoven,30,Noord-Brabant,2020-04-13
+777,3,Etten-Leur,30,Noord-Brabant,2020-04-13
+779,1,Geertruidenberg,30,Noord-Brabant,2020-04-13
+784,1,Gilze en Rijen,30,Noord-Brabant,2020-04-13
+785,2,Goirle,30,Noord-Brabant,2020-04-13
+786,2,Grave,30,Noord-Brabant,2020-04-13
+794,1,Helmond,30,Noord-Brabant,2020-04-13
+796,12,'s-Hertogenbosch,30,Noord-Brabant,2020-04-13
+797,4,Heusden,30,Noord-Brabant,2020-04-13
+798,1,Hilvarenbeek,30,Noord-Brabant,2020-04-13
+809,0,Loon op Zand,30,Noord-Brabant,2020-04-13
+815,1,Mill en Sint Hubert,30,Noord-Brabant,2020-04-13
+820,0,"Nuenen, Gerwen en Nederwetten",30,Noord-Brabant,2020-04-13
+823,1,Oirschot,30,Noord-Brabant,2020-04-13
+824,2,Oisterwijk,30,Noord-Brabant,2020-04-13
+826,1,Oosterhout,30,Noord-Brabant,2020-04-13
+828,8,Oss,30,Noord-Brabant,2020-04-13
+840,0,Rucphen,30,Noord-Brabant,2020-04-13
+845,2,Sint-Michielsgestel,30,Noord-Brabant,2020-04-13
+847,0,Someren,30,Noord-Brabant,2020-04-13
+848,0,Son en Breugel,30,Noord-Brabant,2020-04-13
+851,0,Steenbergen,30,Noord-Brabant,2020-04-13
+852,1,Waterland,27,Noord-Holland,2020-04-13
+855,23,Tilburg,30,Noord-Brabant,2020-04-13
+856,2,Uden,30,Noord-Brabant,2020-04-13
+858,0,Valkenswaard,30,Noord-Brabant,2020-04-13
+861,0,Veldhoven,30,Noord-Brabant,2020-04-13
+865,3,Vught,30,Noord-Brabant,2020-04-13
+866,0,Waalre,30,Noord-Brabant,2020-04-13
+867,4,Waalwijk,30,Noord-Brabant,2020-04-13
+873,0,Woensdrecht,30,Noord-Brabant,2020-04-13
+879,0,Zundert,30,Noord-Brabant,2020-04-13
+880,0,Wormerland,27,Noord-Holland,2020-04-13
+882,0,Landgraaf,31,Limburg,2020-04-13
+888,1,Beek,31,Limburg,2020-04-13
+889,0,Beesel,31,Limburg,2020-04-13
+893,0,Bergen (L.),31,Limburg,2020-04-13
+899,0,Brunssum,31,Limburg,2020-04-13
+907,1,Gennep,31,Limburg,2020-04-13
+917,1,Heerlen,31,Limburg,2020-04-13
+928,0,Kerkrade,31,Limburg,2020-04-13
+935,7,Maastricht,31,Limburg,2020-04-13
+938,1,Meerssen,31,Limburg,2020-04-13
+944,1,Mook en Middelaar,31,Limburg,2020-04-13
+946,1,Nederweert,31,Limburg,2020-04-13
+957,1,Roermond,31,Limburg,2020-04-13
+965,0,Simpelveld,31,Limburg,2020-04-13
+971,0,Stein,31,Limburg,2020-04-13
+981,0,Vaals,31,Limburg,2020-04-13
+983,7,Venlo,31,Limburg,2020-04-13
+984,3,Venray,31,Limburg,2020-04-13
+986,0,Voerendaal,31,Limburg,2020-04-13
+988,1,Weert,31,Limburg,2020-04-13
+994,0,Valkenburg aan de Geul,31,Limburg,2020-04-13
+995,5,Lelystad,24,Flevoland,2020-04-13
+1507,7,Horst aan de Maas,31,Limburg,2020-04-13
+1509,4,Oude IJsselstreek,25,Gelderland,2020-04-13
+1525,1,Teylingen,28,Zuid-Holland,2020-04-13
+1581,2,Utrechtse Heuvelrug,26,Utrecht,2020-04-13
+1586,1,Oost Gelre,25,Gelderland,2020-04-13
+1598,2,Koggenland,27,Noord-Holland,2020-04-13
+1621,5,Lansingerland,28,Zuid-Holland,2020-04-13
+1640,3,Leudal,31,Limburg,2020-04-13
+1641,2,Maasgouw,31,Limburg,2020-04-13
+1652,0,Gemert-Bakel,30,Noord-Brabant,2020-04-13
+1655,0,Halderberge,30,Noord-Brabant,2020-04-13
+1658,0,Heeze-Leende,30,Noord-Brabant,2020-04-13
+1659,0,Laarbeek,30,Noord-Brabant,2020-04-13
+1667,0,Reusel-De Mierden,30,Noord-Brabant,2020-04-13
+1669,1,Roerdalen,31,Limburg,2020-04-13
+1674,6,Roosendaal,30,Noord-Brabant,2020-04-13
+1676,1,Schouwen-Duiveland,29,Zeeland,2020-04-13
+1680,0,Aa en Hunze,22,Drenthe,2020-04-13
+1681,0,Borger-Odoorn,22,Drenthe,2020-04-13
+1684,2,Cuijk,30,Noord-Brabant,2020-04-13
+1685,6,Landerd,30,Noord-Brabant,2020-04-13
+1690,2,De Wolden,22,Drenthe,2020-04-13
+1695,0,Noord-Beveland,29,Zeeland,2020-04-13
+1696,0,Wijdemeren,27,Noord-Holland,2020-04-13
+1699,1,Noordenveld,22,Drenthe,2020-04-13
+1700,2,Twenterand,23,Overijssel,2020-04-13
+1701,0,Westerveld,22,Drenthe,2020-04-13
+1702,3,Sint Anthonis,30,Noord-Brabant,2020-04-13
+1705,2,Lingewaard,25,Gelderland,2020-04-13
+1706,0,Cranendonck,30,Noord-Brabant,2020-04-13
+1708,1,Steenwijkerland,23,Overijssel,2020-04-13
+1709,1,Moerdijk,30,Noord-Brabant,2020-04-13
+1711,0,Echt-Susteren,31,Limburg,2020-04-13
+1714,1,Sluis,29,Zeeland,2020-04-13
+1719,0,Drimmelen,30,Noord-Brabant,2020-04-13
+1721,7,Bernheze,30,Noord-Brabant,2020-04-13
+1723,0,Alphen-Chaam,30,Noord-Brabant,2020-04-13
+1724,0,Bergeijk,30,Noord-Brabant,2020-04-13
+1728,0,Bladel,30,Noord-Brabant,2020-04-13
+1729,0,Gulpen-Wittem,31,Limburg,2020-04-13
+1730,1,Tynaarlo,22,Drenthe,2020-04-13
+1731,0,Midden-Drenthe,22,Drenthe,2020-04-13
+1734,4,Overbetuwe,25,Gelderland,2020-04-13
+1735,0,Hof van Twente,23,Overijssel,2020-04-13
+1740,2,Neder-Betuwe,25,Gelderland,2020-04-13
+1742,0,Rijssen-Holten,23,Overijssel,2020-04-13
+1771,0,Geldrop-Mierlo,30,Noord-Brabant,2020-04-13
+1773,1,Olst-Wijhe,23,Overijssel,2020-04-13
+1774,0,Dinkelland,23,Overijssel,2020-04-13
+1783,13,Westland,28,Zuid-Holland,2020-04-13
+1842,0,Midden-Delfland,28,Zuid-Holland,2020-04-13
+1859,2,Berkelland,25,Gelderland,2020-04-13
+1876,2,Bronckhorst,25,Gelderland,2020-04-13
+1883,0,Sittard-Geleen,31,Limburg,2020-04-13
+1884,0,Kaag en Braassem,28,Zuid-Holland,2020-04-13
+1891,0,Dantumadiel,21,Friesland,2020-04-13
+1892,2,Zuidplas,28,Zuid-Holland,2020-04-13
+1894,5,Peel en Maas,31,Limburg,2020-04-13
+1895,0,Oldambt,20,Groningen,2020-04-13
+1896,0,Zwartewaterland,23,Overijssel,2020-04-13
+1900,2,Súdwest-Fryslân,21,Friesland,2020-04-13
+1901,0,Bodegraven-Reeuwijk,28,Zuid-Holland,2020-04-13
+1903,0,Eijsden-Margraten,31,Limburg,2020-04-13
+1904,3,Stichtse Vecht,26,Utrecht,2020-04-13
+1911,1,Hollands Kroon,27,Noord-Holland,2020-04-13
+1916,3,Leidschendam-Voorburg,28,Zuid-Holland,2020-04-13
+1924,4,Goeree-Overflakkee,28,Zuid-Holland,2020-04-13
+1926,10,Pijnacker-Nootdorp,28,Zuid-Holland,2020-04-13
+1930,7,Nissewaard,28,Zuid-Holland,2020-04-13
+1931,2,Krimpenerwaard,28,Zuid-Holland,2020-04-13
+1940,3,De Fryske Marren,21,Friesland,2020-04-13
+1942,1,Gooise Meren,27,Noord-Holland,2020-04-13
+1945,4,Berg en Dal,25,Gelderland,2020-04-13
+1948,15,Meierijstad,30,Noord-Brabant,2020-04-13
+1949,3,Waadhoeke,21,Friesland,2020-04-13
+1950,0,Westerwolde,20,Groningen,2020-04-13
+1952,2,Midden-Groningen,20,Groningen,2020-04-13
+1954,0,Beekdaelen,31,Limburg,2020-04-13
+1955,14,Montferland,25,Gelderland,2020-04-13
+1959,3,Altena,30,Noord-Brabant,2020-04-13
+1960,12,West Betuwe,25,Gelderland,2020-04-13
+1961,7,Vijfheerenlanden,26,Utrecht,2020-04-13
+1963,7,Hoeksche Waard,28,Zuid-Holland,2020-04-13
+1966,0,Het Hogeland,20,Groningen,2020-04-13
+1969,3,Westerkwartier,20,Groningen,2020-04-13
+1970,0,Noardeast-Fryslân,21,Friesland,2020-04-13
+1978,4,Molenlanden,28,Zuid-Holland,2020-04-13
+1979,0,,-1,,2020-04-13
