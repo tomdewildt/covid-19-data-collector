@@ -27,10 +27,10 @@ class GetNationalDataset:
 
         log.info("Parsing document")
         data = pd.read_csv(buffer, delimiter=";")
-        date = data["Date_of_report"].iat[-1]
+        date = data["Date_of_publication"].iat[-1]
 
         log.info("Parsing data")
-        data = data[data["Date_of_report"] == date]
+        data = data[data["Date_of_publication"] == date]
         data = pd.DataFrame(
             {
                 "PositiefGetest": [data["Total_reported"].sum()],
