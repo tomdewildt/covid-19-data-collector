@@ -31,6 +31,7 @@ class GetNationalDataset:
 
         log.info("Parsing data")
         data = data[data["Date_of_publication"] == date]
+        data = data.dropna(subset=["Municipality_code"])
         data = pd.DataFrame(
             {
                 "PositiefGetest": [data["Total_reported"].sum()],
