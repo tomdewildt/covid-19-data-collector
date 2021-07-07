@@ -21,6 +21,7 @@ class MergeMunicipalityDataset:
         return self.run(kwargs)
 
     def run(self, inputs):
+        # pylint: disable=no-member,unsubscriptable-object
         data = pd.DataFrame(
             columns=[
                 "Gemeentecode",
