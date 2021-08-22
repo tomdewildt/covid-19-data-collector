@@ -13,7 +13,7 @@ class TestStoreOpen:
             handle.write("content")
 
         mock_ensure_dir_exists.assert_called_once_with("/tmp/test.txt")
-        mock_open.assert_called_once_with("/tmp/test.txt", "w")
+        mock_open.assert_called_once_with("/tmp/test.txt", "w", encoding="utf8")
 
     @mock.patch("collector.store.open")
     @mock.patch.object(LocalStore, "_ensure_dir_exists")
@@ -25,7 +25,7 @@ class TestStoreOpen:
             content = handle.readlines()
 
         mock_ensure_dir_exists.assert_not_called()
-        mock_open.assert_called_once_with("/tmp/test.txt", "r")
+        mock_open.assert_called_once_with("/tmp/test.txt", "r", encoding="utf8")
 
         assert content == ["content"]
 

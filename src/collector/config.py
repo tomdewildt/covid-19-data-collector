@@ -14,7 +14,7 @@ def load_config(stream):
 def read_config(path=None):
     path = path or os.environ.get("CONFIG", "config.yaml")
 
-    with open(path, "r") as stream:
+    with open(path, "r", encoding="utf8") as stream:
         return load_config(stream)
 
 
@@ -25,6 +25,6 @@ def init_logging(config=None):
     if path is None:
         return
 
-    with open(path, "r") as handle:
+    with open(path, "r", encoding="utf8") as handle:
         log_config = yaml.load(handle.read(), Loader=yaml.SafeLoader)
         logging.config.dictConfig(log_config)

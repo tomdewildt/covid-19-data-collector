@@ -33,7 +33,7 @@ class TestReadConfig:
 
         config = read_config("env/test/config.yaml")
 
-        mock_open.assert_called_once_with("env/test/config.yaml", "r")
+        mock_open.assert_called_once_with("env/test/config.yaml", "r", encoding="utf8")
 
         assert config == self.config
 
@@ -46,7 +46,7 @@ class TestReadConfig:
 
         config = read_config()
 
-        mock_open.assert_called_once_with("env/test/config.yaml", "r")
+        mock_open.assert_called_once_with("env/test/config.yaml", "r", encoding="utf8")
 
         assert config == self.config
 
@@ -71,7 +71,7 @@ class TestInitLogging:
         init_logging(self.config)
 
         mock_read_config.assert_not_called()
-        mock_open.assert_called_once_with("env/test/logging.yaml", "r")
+        mock_open.assert_called_once_with("env/test/logging.yaml", "r", encoding="utf8")
 
     @mock.patch("collector.config.open")
     @mock.patch("collector.config.read_config")
