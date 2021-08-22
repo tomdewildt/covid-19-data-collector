@@ -13,7 +13,7 @@ class LocalStore:
         expanded_path = os.path.join(self._base_path, path)
         if self._is_write_mode(mode):
             self._ensure_dir_exists(expanded_path)
-        with open(expanded_path, mode, *args, **kwargs) as handle:
+        with open(expanded_path, mode, encoding="utf8", *args, **kwargs) as handle:
             yield handle
 
     def list(self, path):
