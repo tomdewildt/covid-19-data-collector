@@ -111,13 +111,13 @@ Gemeentecode,PositiefGetest,Gemeente,Provinciecode,Provincie,Datum
 373,5,Bergen (NH.),27,Noord-Holland,2020-10-07
 375,14,Beverwijk,27,Noord-Holland,2020-10-07
 376,6,Blaricum,27,Noord-Holland,2020-10-07
-377,8,Bloemendaal,27,Noord-Holland,2020-10-07
+377,7,Bloemendaal,27,Noord-Holland,2020-10-07
 383,2,Castricum,27,Noord-Holland,2020-10-07
 384,21,Diemen,27,Noord-Holland,2020-10-07
 385,18,Edam-Volendam,27,Noord-Holland,2020-10-07
 388,5,Enkhuizen,27,Noord-Holland,2020-10-07
-392,60,Haarlem,27,Noord-Holland,2020-10-07
-394,72,Haarlemmermeer,27,Noord-Holland,2020-10-07
+392,61,Haarlem,27,Noord-Holland,2020-10-07
+394,73,Haarlemmermeer,27,Noord-Holland,2020-10-07
 396,18,Heemskerk,27,Noord-Holland,2020-10-07
 397,6,Heemstede,27,Noord-Holland,2020-10-07
 398,4,Heerhugowaard,27,Noord-Holland,2020-10-07
@@ -144,7 +144,7 @@ Gemeentecode,PositiefGetest,Gemeente,Provinciecode,Provincie,Datum
 479,40,Zaanstad,27,Noord-Holland,2020-10-07
 482,12,Alblasserdam,28,Zuid-Holland,2020-10-07
 484,33,Alphen aan den Rijn,28,Zuid-Holland,2020-10-07
-489,35,Barendrecht,28,Zuid-Holland,2020-10-07
+489,34,Barendrecht,28,Zuid-Holland,2020-10-07
 498,2,Drechterland,27,Noord-Holland,2020-10-07
 501,15,Brielle,28,Zuid-Holland,2020-10-07
 502,39,Capelle aan den IJssel,28,Zuid-Holland,2020-10-07
@@ -158,7 +158,7 @@ Gemeentecode,PositiefGetest,Gemeente,Provinciecode,Provincie,Datum
 531,16,Hendrik-Ido-Ambacht,28,Zuid-Holland,2020-10-07
 532,3,Stede Broec,27,Noord-Holland,2020-10-07
 534,6,Hillegom,28,Zuid-Holland,2020-10-07
-537,32,Katwijk,28,Zuid-Holland,2020-10-07
+537,31,Katwijk,28,Zuid-Holland,2020-10-07
 542,18,Krimpen aan den IJssel,28,Zuid-Holland,2020-10-07
 546,31,Leiden,28,Zuid-Holland,2020-10-07
 547,10,Leiderdorp,28,Zuid-Holland,2020-10-07
@@ -170,7 +170,7 @@ Gemeentecode,PositiefGetest,Gemeente,Provinciecode,Provincie,Datum
 589,3,Oudewater,26,Utrecht,2020-10-07
 590,11,Papendrecht,28,Zuid-Holland,2020-10-07
 597,21,Ridderkerk,28,Zuid-Holland,2020-10-07
-599,326,Rotterdam,28,Zuid-Holland,2020-10-07
+599,325,Rotterdam,28,Zuid-Holland,2020-10-07
 603,19,Rijswijk,28,Zuid-Holland,2020-10-07
 606,44,Schiedam,28,Zuid-Holland,2020-10-07
 610,4,Sliedrecht,28,Zuid-Holland,2020-10-07
@@ -317,38 +317,4 @@ Gemeentecode,PositiefGetest,Gemeente,Provinciecode,Provincie,Datum
 1842,7,Midden-Delfland,28,Zuid-Holland,2020-10-07
 1859,3,Berkelland,25,Gelderland,2020-10-07
 1876,3,Bronckhorst,25,Gelderland,2020-10-07
-1883,11,Sittard-Geleen,31,Limburg,2020-10-07
-1884,10,Kaag en Braassem,28,Zuid-Holland,2020-10-07
-1891,3,Dantumadiel,21,Friesland,2020-10-07
-1892,8,Zuidplas,28,Zuid-Holland,2020-10-07
-1894,10,Peel en Maas,31,Limburg,2020-10-07
-1895,5,Oldambt,20,Groningen,2020-10-07
-1896,0,Zwartewaterland,23,Overijssel,2020-10-07
-1900,7,Súdwest-Fryslân,21,Friesland,2020-10-07
-1901,4,Bodegraven-Reeuwijk,28,Zuid-Holland,2020-10-07
-1903,2,Eijsden-Margraten,31,Limburg,2020-10-07
-1904,29,Stichtse Vecht,26,Utrecht,2020-10-07
-1911,5,Hollands Kroon,27,Noord-Holland,2020-10-07
-1916,22,Leidschendam-Voorburg,28,Zuid-Holland,2020-10-07
-1924,14,Goeree-Overflakkee,28,Zuid-Holland,2020-10-07
-1926,12,Pijnacker-Nootdorp,28,Zuid-Holland,2020-10-07
-1930,32,Nissewaard,28,Zuid-Holland,2020-10-07
-1931,17,Krimpenerwaard,28,Zuid-Holland,2020-10-07
-1940,7,De Fryske Marren,21,Friesland,2020-10-07
-1942,27,Gooise Meren,27,Noord-Holland,2020-10-07
-1945,6,Berg en Dal,25,Gelderland,2020-10-07
-1948,17,Meierijstad,30,Noord-Brabant,2020-10-07
-1949,10,Waadhoeke,21,Friesland,2020-10-07
-1950,1,Westerwolde,20,Groningen,2020-10-07
-1952,6,Midden-Groningen,20,Groningen,2020-10-07
-1954,8,Beekdaelen,31,Limburg,2020-10-07
-1955,0,Montferland,25,Gelderland,2020-10-07
-1959,18,Altena,30,Noord-Brabant,2020-10-07
-1960,9,West Betuwe,25,Gelderland,2020-10-07
-1961,24,Vijfheerenlanden,26,Utrecht,2020-10-07
-1963,28,Hoeksche Waard,28,Zuid-Holland,2020-10-07
-1966,7,Het Hogeland,20,Groningen,2020-10-07
-1969,12,Westerkwartier,20,Groningen,2020-10-07
-1970,1,Noardeast-Fryslân,21,Friesland,2020-10-07
-1978,17,Molenlanden,28,Zuid-Holland,2020-10-07
-1979,2,Eemsdelta,20,Groningen,2020-10-07
+1883,0,Sittard-Geleen,31,Limburg,2020-10-07
