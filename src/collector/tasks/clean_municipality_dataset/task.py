@@ -32,9 +32,11 @@ class CleanMunicipalityDataset:
 
             # Fix municipality code
             if "Municipality_code" in data:
+                # pylint: disable=unsupported-assignment-operation, unsubscriptable-object
                 data["Municipality_code"] = data["Municipality_code"].str[2:6]
 
             # Rename columns
+            # pylint: disable=no-member
             data = data.rename(
                 columns={
                     "id": "Gemeentecode",
@@ -95,4 +97,4 @@ class CleanMunicipalityDataset:
             data.to_csv(handle, **kwargs)
 
     def __repr__(self):
-        return "<{}()>".format(self.__class__.__name__)
+        return f"<{self.__class__.__name__}()>"
