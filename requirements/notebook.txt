@@ -1,2 +1,2 @@
-matplotlib==3.5.0
+matplotlib==3.5.1
 notebook==6.4.6
