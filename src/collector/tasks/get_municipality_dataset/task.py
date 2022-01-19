@@ -21,21 +21,45 @@ class GetMunicipalityDataset:
         return self.run(kwargs)
 
     def run(self, inputs):
-        log.info("Requesting document")
-        document = self._client.get(self._config["urls"]["municipality"])
-        buffer = io.StringIO(document)
+        log.info("Requesting cases document")
+        cases_document = self._client.get(self._config["urls"]["municipality"]["cases"])
+        cases_buffer = io.StringIO(cases_document)
 
-        log.info("Parsing document")
-        data = pd.read_csv(buffer, delimiter=";")
-        date = data["Date_of_publication"].iat[-1]
+        log.info("Requesting hospitalized document")
+        hospitalized_document = self._client.get(
+            self._config["urls"]["municipality"]["hospitalized"],
+        )
+        hospitalized_buffer = io.StringIO(hospitalized_document)
 
-        log.info("Parsing data")
-        data = data[data["Date_of_publication"] == date]
-        data = data.dropna(subset=["Municipality_code"])
-        date = date.split()[0]
+        log.info("Parsing cases document")
+        cases_data = pd.read_csv(cases_buffer, delimiter=";")
+        cases_date = cases_data["Date_of_publication"].iat[-1]
+
+        log.info("Parsing hospitalized document")
+        hospitalized_data = pd.read_csv(hospitalized_buffer, delimiter=";")
+        hospitalized_date = hospitalized_data["Date_of_statistics"].iat[-1]
+
+        log.info("Parsing cases data")
+        cases_data = cases_data[cases_data["Date_of_publication"] == cases_date]
+        cases_data = cases_data.dropna(subset=["Municipality_code"])
+
+        log.info("Parsing hospitalized data")
+        hospitalized_data = hospitalized_data[
+            hospitalized_data["Date_of_statistics"] == hospitalized_date
+        ]
+        hospitalized_data = hospitalized_data.dropna(subset=["Municipality_code"])
+
+        log.info("Merging data")
+        data = pd.merge(
+            cases_data,
+            hospitalized_data[["Municipality_code", "Hospital_admission"]],
+            left_on=["Municipality_code"],
+            right_on=["Municipality_code"],
+            how="left",
+        )
 
         log.info("Storing dataset")
-        path = f"{inputs['output_folder']}/{date}.csv"
+        path = f"{inputs['output_folder']}/{cases_date}.csv"
 
         self._write(data, path, index=False)
 

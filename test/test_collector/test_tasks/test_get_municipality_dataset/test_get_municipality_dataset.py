@@ -48,13 +48,18 @@ class TestGetMunicipalityDatasetRun:
     @mock.patch.object(Client, "get")
     @mock.patch.object(GetMunicipalityDataset, "_write")
     def test_run(self, mock_write, mock_get):
-        mock_get.return_value = self.municipality_response
+        mock_get.side_effect = self.municipality_response
 
         task = GetMunicipalityDataset(self.config["collector"], Client(), Store())
         task(output_folder="raw")
 
-        mock_get.assert_called_once_with(
-            self.config["collector"]["urls"]["municipality"]
+        mock_get.assert_has_calls(
+            [
+                mock.call(self.config["collector"]["urls"]["municipality"]["cases"]),
+                mock.call(
+                    self.config["collector"]["urls"]["municipality"]["hospitalized"]
+                ),
+            ]
         )
         mock_write.assert_called_once_with(mock.ANY, "raw/1970-01-01.csv", index=False)
 
@@ -62,16 +67,13 @@ class TestGetMunicipalityDatasetRun:
             mock_write.call_args.args[0],
             pd.DataFrame(
                 {
-                    "Date_of_publication": [
-                        "1970-01-01 12:00:00",
-                        "1970-01-01 12:00:00",
-                    ],
+                    "Date_of_publication": ["1970-01-01", "1970-01-01",],
                     "Municipality_code": ["GM0001", "GM0002"],
                     "Municipality_name": ["gemeente 1", "gemeente 2"],
                     "Province": ["provincie 1", "provincie 2"],
                     "Total_reported": [500, 500],
-                    "Hospital_admission": [1000, 1000],
                     "Deceased": [1500, 1500],
+                    "Hospital_admission": [1000, 1000],
                 }
             ),
             check_dtype=False,

@@ -2,8 +2,12 @@ environment: development
 log_config: env/dev/logging.yaml
 collector:
   urls:
-    national: https://data.rivm.nl/covid-19/COVID-19_aantallen_gemeente_per_dag.csv
-    municipality: https://data.rivm.nl/covid-19/COVID-19_aantallen_gemeente_per_dag.csv
+    national:
+      cases: https://data.rivm.nl/covid-19/COVID-19_aantallen_gemeente_per_dag.csv
+      hospitalized: https://data.rivm.nl/covid-19/COVID-19_ziekenhuisopnames.csv
+    municipality:
+      cases: https://data.rivm.nl/covid-19/COVID-19_aantallen_gemeente_per_dag.csv
+      hospitalized: https://data.rivm.nl/covid-19/COVID-19_ziekenhuisopnames.csv
     intensive_care:
       - https://www.stichting-nice.nl/covid-19/public/new-intake
       - https://www.stichting-nice.nl/covid-19/public/intake-count
