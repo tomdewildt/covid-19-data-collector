@@ -7,8 +7,14 @@ _CONFIG_DEFAULTS = {
     "log_config": None,
     "collector": {
         "urls": {
-            "national": "http://data.com/national",
-            "municipality": "http://data.com/municipality",
+            "national": {
+                "cases": "http://data.com/national-cases",
+                "hospitalized": "http://data.com/national-hospitalized",
+            },
+            "municipality": {
+                "cases": "http://data.com/municipality-cases",
+                "hospitalized": "http://data.com/municipality-hospitalized",
+            },
             "intensive_care": [
                 "http://data.com/ic-count",
                 "http://data.com/new-intake",
@@ -41,45 +47,77 @@ _LOG_CONFIG_DEFAULTS = {
 }
 
 _RESPONSE_NATIONAL_DEFAULTS = [
-    {
-        "Date_of_publication": "1970-01-01 12:00:00",
-        "Municipality_code": "GM0001",
-        "Municipality_name": "gemeente 1",
-        "Province": "provincie 1",
-        "Total_reported": 500,
-        "Hospital_admission": 1000,
-        "Deceased": 1500,
-    },
-    {
-        "Date_of_publication": "1970-01-01 12:00:00",
-        "Municipality_code": "GM0002",
-        "Municipality_name": "gemeente 2",
-        "Province": "provincie 2",
-        "Total_reported": 500,
-        "Hospital_admission": 1000,
-        "Deceased": 1500,
-    },
+    [
+        {
+            "Date_of_publication": "1970-01-01",
+            "Municipality_code": "GM0001",
+            "Municipality_name": "gemeente 1",
+            "Province": "provincie 1",
+            "Total_reported": 500,
+            "Deceased": 1500,
+        },
+        {
+            "Date_of_publication": "1970-01-01",
+            "Municipality_code": "GM0002",
+            "Municipality_name": "gemeente 2",
+            "Province": "provincie 2",
+            "Total_reported": 500,
+            "Deceased": 1500,
+        },
+    ],
+    [
+        {
+            "Date_of_statistics": "1970-01-01",
+            "Municipality_code": "GM0001",
+            "Municipality_name": "gemeente 1",
+            "Province": "provincie 1",
+            "Hospital_admission": 1000,
+        },
+        {
+            "Date_of_statistics": "1970-01-01",
+            "Municipality_code": "GM0002",
+            "Municipality_name": "gemeente 2",
+            "Province": "provincie 2",
+            "Hospital_admission": 1000,
+        },
+    ],
 ]
 
 _RESPONSE_MUNICIPALITY_DEFAULTS = [
-    {
-        "Date_of_publication": "1970-01-01 12:00:00",
-        "Municipality_code": "GM0001",
-        "Municipality_name": "gemeente 1",
-        "Province": "provincie 1",
-        "Total_reported": 500,
-        "Hospital_admission": 1000,
-        "Deceased": 1500,
-    },
-    {
-        "Date_of_publication": "1970-01-01 12:00:00",
-        "Municipality_code": "GM0002",
-        "Municipality_name": "gemeente 2",
-        "Province": "provincie 2",
-        "Total_reported": 500,
-        "Hospital_admission": 1000,
-        "Deceased": 1500,
-    },
+    [
+        {
+            "Date_of_publication": "1970-01-01",
+            "Municipality_code": "GM0001",
+            "Municipality_name": "gemeente 1",
+            "Province": "provincie 1",
+            "Total_reported": 500,
+            "Deceased": 1500,
+        },
+        {
+            "Date_of_publication": "1970-01-01",
+            "Municipality_code": "GM0002",
+            "Municipality_name": "gemeente 2",
+            "Province": "provincie 2",
+            "Total_reported": 500,
+            "Deceased": 1500,
+        },
+    ],
+    [
+        {
+            "Date_of_statistics": "1970-01-01",
+            "Municipality_code": "GM0001",
+            "Municipality_name": "gemeente 1",
+            "Province": "provincie 1",
+            "Hospital_admission": 1000,
+        },
+        {
+            "Date_of_statistics": "1970-01-01",
+            "Municipality_code": "GM0002",
+            "Municipality_name": "gemeente 2",
+            "Province": "provincie 2",
+            "Hospital_admission": 1000,
+        },
+    ],
 ]
 
 _RESPONSE_INTENSIVE_CARE_DEFAULTS = [
@@ -100,25 +138,35 @@ def create_log_config(**kwargs):
 
 
 def create_national_response():
-    buffer = io.StringIO()
-    keys = _RESPONSE_NATIONAL_DEFAULTS[0].keys()
+    responses = []
 
-    writer = csv.DictWriter(buffer, keys, delimiter=";")
-    writer.writeheader()
-    writer.writerows(_RESPONSE_NATIONAL_DEFAULTS)
+    for response in _RESPONSE_NATIONAL_DEFAULTS:
+        buffer = io.StringIO()
+        keys = response[0].keys()
 
-    return buffer.getvalue()
+        writer = csv.DictWriter(buffer, keys, delimiter=";")
+        writer.writeheader()
+        writer.writerows(response)
+
+        responses.append(buffer.getvalue())
+
+    return responses
 
 
 def create_municipality_response():
-    buffer = io.StringIO()
-    keys = _RESPONSE_MUNICIPALITY_DEFAULTS[0].keys()
+    responses = []
 
-    writer = csv.DictWriter(buffer, keys, delimiter=";")
-    writer.writeheader()
-    writer.writerows(_RESPONSE_MUNICIPALITY_DEFAULTS)
+    for response in _RESPONSE_MUNICIPALITY_DEFAULTS:
+        buffer = io.StringIO()
+        keys = response[0].keys()
 
-    return buffer.getvalue()
+        writer = csv.DictWriter(buffer, keys, delimiter=";")
+        writer.writeheader()
+        writer.writerows(response)
+
+        responses.append(buffer.getvalue())
+
+    return responses
 
 
 def create_intensive_care_response():
