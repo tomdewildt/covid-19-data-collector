@@ -48,12 +48,17 @@ class TestGetNationalDatasetRun:
     @mock.patch.object(Client, "get")
     @mock.patch.object(GetNationalDataset, "_write")
     def test_run(self, mock_write, mock_get):
-        mock_get.return_value = self.national_response
+        mock_get.side_effect = self.national_response
 
         task = GetNationalDataset(self.config["collector"], Client(), Store())
         task(output_folder="raw")
 
-        mock_get.assert_called_once_with(self.config["collector"]["urls"]["national"])
+        mock_get.assert_has_calls(
+            [
+                mock.call(self.config["collector"]["urls"]["national"]["cases"]),
+                mock.call(self.config["collector"]["urls"]["national"]["hospitalized"]),
+            ]
+        )
         mock_write.assert_called_once_with(mock.ANY, "raw/1970-01-01.csv", index=False)
 
         pd.testing.assert_frame_equal(
