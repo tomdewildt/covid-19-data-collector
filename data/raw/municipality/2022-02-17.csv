@@ -1,12 +1,12 @@
 Version,Date_of_report,Date_of_publication,Municipality_code,Municipality_name,Province,Security_region_code,Security_region_name,Municipal_health_service,ROAZ_region,Total_reported,Deceased,Hospital_admission
 4,2022-02-17 10:00:00,2022-02-17,GM0014,Groningen,Groningen,VR01,Groningen,GGD Groningen,Acute Zorgnetwerk Noord Nederland,1024,0,2
-4,2022-02-17 10:00:00,2022-02-17,GM0034,Almere,Flevoland,VR25,Flevoland,GGD Flevoland,SpoedZorgNet,354,1,0
+4,2022-02-17 10:00:00,2022-02-17,GM0034,Almere,Flevoland,VR25,Flevoland,GGD Flevoland,SpoedZorgNet,354,1,1
 4,2022-02-17 10:00:00,2022-02-17,GM0037,Stadskanaal,Groningen,VR01,Groningen,GGD Groningen,Acute Zorgnetwerk Noord Nederland,124,0,0
 4,2022-02-17 10:00:00,2022-02-17,GM0047,Veendam,Groningen,VR01,Groningen,GGD Groningen,Acute Zorgnetwerk Noord Nederland,107,0,0
 4,2022-02-17 10:00:00,2022-02-17,GM0050,Zeewolde,Flevoland,VR25,Flevoland,GGD Flevoland,SpoedZorgNet,123,0,0
 4,2022-02-17 10:00:00,2022-02-17,GM0059,Achtkarspelen,FryslÃ¢n,VR02,FryslÃ¢n,GGD FryslÃ¢n,Acute Zorgnetwerk Noord Nederland,187,0,0
 4,2022-02-17 10:00:00,2022-02-17,GM0060,Ameland,FryslÃ¢n,VR02,FryslÃ¢n,GGD FryslÃ¢n,Acute Zorgnetwerk Noord Nederland,9,0,0
-4,2022-02-17 10:00:00,2022-02-17,GM0072,Harlingen,FryslÃ¢n,VR02,FryslÃ¢n,GGD FryslÃ¢n,Acute Zorgnetwerk Noord Nederland,59,0,0
+4,2022-02-17 10:00:00,2022-02-17,GM0072,Harlingen,FryslÃ¢n,VR02,FryslÃ¢n,GGD FryslÃ¢n,Acute Zorgnetwerk Noord Nederland,59,0,1
 4,2022-02-17 10:00:00,2022-02-17,GM0074,Heerenveen,FryslÃ¢n,VR02,FryslÃ¢n,GGD FryslÃ¢n,Acute Zorgnetwerk Noord Nederland,240,0,0
 4,2022-02-17 10:00:00,2022-02-17,GM0080,Leeuwarden,FryslÃ¢n,VR02,FryslÃ¢n,GGD FryslÃ¢n,Acute Zorgnetwerk Noord Nederland,572,0,0
 4,2022-02-17 10:00:00,2022-02-17,GM0085,Ooststellingwerf,FryslÃ¢n,VR02,FryslÃ¢n,GGD FryslÃ¢n,Acute Zorgnetwerk Noord Nederland,172,0,0
@@ -21,20 +21,20 @@ Version,Date_of_report,Date_of_publication,Municipality_code,Municipality_name,P
 4,2022-02-17 10:00:00,2022-02-17,GM0114,Emmen,Drenthe,VR03,Drenthe,GGD Drenthe,Acute Zorgnetwerk Noord Nederland,414,0,0
 4,2022-02-17 10:00:00,2022-02-17,GM0118,Hoogeveen,Drenthe,VR03,Drenthe,GGD Drenthe,Acute Zorgnetwerk Noord Nederland,204,0,0
 4,2022-02-17 10:00:00,2022-02-17,GM0119,Meppel,Drenthe,VR03,Drenthe,GGD Drenthe,Netwerk Acute Zorg regio Zwolle,137,0,0
-4,2022-02-17 10:00:00,2022-02-17,GM0141,Almelo,Overijssel,VR05,Twente,GGD Twente,Acute Zorg Euregio,172,0,1
+4,2022-02-17 10:00:00,2022-02-17,GM0141,Almelo,Overijssel,VR05,Twente,GGD Twente,Acute Zorg Euregio,172,0,0
 4,2022-02-17 10:00:00,2022-02-17,GM0147,Borne,Overijssel,VR05,Twente,GGD Twente,Acute Zorg Euregio,64,0,0
 4,2022-02-17 10:00:00,2022-02-17,GM0148,Dalfsen,Overijssel,VR04,IJsselland,GGD IJsselland,Netwerk Acute Zorg regio Zwolle,122,0,0
 4,2022-02-17 10:00:00,2022-02-17,GM0150,Deventer,Overijssel,VR04,IJsselland,GGD IJsselland,Netwerk Acute Zorg regio Zwolle,410,0,0
-4,2022-02-17 10:00:00,2022-02-17,GM0153,Enschede,Overijssel,VR05,Twente,GGD Twente,Acute Zorg Euregio,574,0,1
+4,2022-02-17 10:00:00,2022-02-17,GM0153,Enschede,Overijssel,VR05,Twente,GGD Twente,Acute Zorg Euregio,574,0,2
 4,2022-02-17 10:00:00,2022-02-17,GM0158,Haaksbergen,Overijssel,VR05,Twente,GGD Twente,Acute Zorg Euregio,68,0,0
 4,2022-02-17 10:00:00,2022-02-17,GM0160,Hardenberg,Overijssel,VR04,IJsselland,GGD IJsselland,Netwerk Acute Zorg regio Zwolle,250,0,0
 4,2022-02-17 10:00:00,2022-02-17,GM0163,Hellendoorn,Overijssel,VR05,Twente,GGD Twente,Acute Zorg Euregio,146,0,0
-4,2022-02-17 10:00:00,2022-02-17,GM0164,Hengelo,Overijssel,VR05,Twente,GGD Twente,Acute Zorg Euregio,223,0,0
+4,2022-02-17 10:00:00,2022-02-17,GM0164,Hengelo,Overijssel,VR05,Twente,GGD Twente,Acute Zorg Euregio,223,0,2
 4,2022-02-17 10:00:00,2022-02-17,GM0166,Kampen,Overijssel,VR04,IJsselland,GGD IJsselland,Netwerk Acute Zorg regio Zwolle,195,0,0
 4,2022-02-17 10:00:00,2022-02-17,GM0168,Losser,Overijssel,VR05,Twente,GGD Twente,Acute Zorg Euregio,78,0,0
 4,2022-02-17 10:00:00,2022-02-17,GM0171,Noordoostpolder,Flevoland,VR25,Flevoland,GGD Flevoland,SpoedZorgNet,116,0,0
 4,2022-02-17 10:00:00,2022-02-17,GM0173,Oldenzaal,Overijssel,VR05,Twente,GGD Twente,Acute Zorg Euregio,98,1,0
-4,2022-02-17 10:00:00,2022-02-17,GM0175,Ommen,Overijssel,VR04,IJsselland,GGD IJsselland,Netwerk Acute Zorg regio Zwolle,62,0,0
+4,2022-02-17 10:00:00,2022-02-17,GM0175,Ommen,Overijssel,VR04,IJsselland,GGD IJsselland,Netwerk Acute Zorg regio Zwolle,62,0,1
 4,2022-02-17 10:00:00,2022-02-17,GM0177,Raalte,Overijssel,VR04,IJsselland,GGD IJsselland,Netwerk Acute Zorg regio Zwolle,182,0,0
 4,2022-02-17 10:00:00,2022-02-17,GM0180,Staphorst,Overijssel,VR04,IJsselland,GGD IJsselland,Netwerk Acute Zorg regio Zwolle,71,0,0
 4,2022-02-17 10:00:00,2022-02-17,GM0183,Tubbergen,Overijssel,VR05,Twente,GGD Twente,Acute Zorg Euregio,61,0,0
@@ -42,7 +42,7 @@ Version,Date_of_report,Date_of_publication,Municipality_code,Municipality_name,P
 4,2022-02-17 10:00:00,2022-02-17,GM0189,Wierden,Overijssel,VR05,Twente,GGD Twente,Acute Zorg Euregio,68,0,0
 4,2022-02-17 10:00:00,2022-02-17,GM0193,Zwolle,Overijssel,VR04,IJsselland,GGD IJsselland,Netwerk Acute Zorg regio Zwolle,548,1,0
 4,2022-02-17 10:00:00,2022-02-17,GM0197,Aalten,Gelderland,VR06,Noord- en Oost-Gelderland,GGD Noord- en Oost-Gelderland,Acute Zorg Euregio,112,0,0
-4,2022-02-17 10:00:00,2022-02-17,GM0200,Apeldoorn,Gelderland,VR06,Noord- en Oost-Gelderland,GGD Noord- en Oost-Gelderland,Netwerk Acute Zorg regio Zwolle,539,0,0
+4,2022-02-17 10:00:00,2022-02-17,GM0200,Apeldoorn,Gelderland,VR06,Noord- en Oost-Gelderland,GGD Noord- en Oost-Gelderland,Netwerk Acute Zorg regio Zwolle,539,0,1
 4,2022-02-17 10:00:00,2022-02-17,GM0202,Arnhem,Gelderland,VR07,Gelderland-Midden,Veiligheids- en Gezondheidsregio Gelderland-Midden,Acute Zorgregio Oost,670,2,0
 4,2022-02-17 10:00:00,2022-02-17,GM0203,Barneveld,Gelderland,VR07,Gelderland-Midden,Veiligheids- en Gezondheidsregio Gelderland-Midden,Traumazorgnetwerk Midden-Nederland,310,1,0
 4,2022-02-17 10:00:00,2022-02-17,GM0209,Beuningen,Gelderland,VR08,Gelderland-Zuid,GGD Gelderland-Zuid,Acute Zorgregio Oost,79,0,0
@@ -98,13 +98,13 @@ Version,Date_of_report,Date_of_publication,Municipality_code,Municipality_name,P
 4,2022-02-17 10:00:00,2022-02-17,GM0344,Utrecht,Utrecht,VR09,Utrecht,GGD Regio Utrecht,Traumazorgnetwerk Midden-Nederland,1523,1,3
 4,2022-02-17 10:00:00,2022-02-17,GM0345,Veenendaal,Utrecht,VR09,Utrecht,GGD Regio Utrecht,Traumazorgnetwerk Midden-Nederland,282,0,0
 4,2022-02-17 10:00:00,2022-02-17,GM0351,Woudenberg,Utrecht,VR09,Utrecht,GGD Regio Utrecht,Traumazorgnetwerk Midden-Nederland,79,0,0
-4,2022-02-17 10:00:00,2022-02-17,GM0352,Wijk bij Duurstede,Utrecht,VR09,Utrecht,GGD Regio Utrecht,Traumazorgnetwerk Midden-Nederland,103,0,1
+4,2022-02-17 10:00:00,2022-02-17,GM0352,Wijk bij Duurstede,Utrecht,VR09,Utrecht,GGD Regio Utrecht,Traumazorgnetwerk Midden-Nederland,103,0,0
 4,2022-02-17 10:00:00,2022-02-17,GM0353,IJsselstein,Utrecht,VR09,Utrecht,GGD Regio Utrecht,Traumazorgnetwerk Midden-Nederland,132,0,0
 4,2022-02-17 10:00:00,2022-02-17,GM0355,Zeist,Utrecht,VR09,Utrecht,GGD Regio Utrecht,Traumazorgnetwerk Midden-Nederland,170,0,0
 4,2022-02-17 10:00:00,2022-02-17,GM0356,Nieuwegein,Utrecht,VR09,Utrecht,GGD Regio Utrecht,Traumazorgnetwerk Midden-Nederland,205,0,0
 4,2022-02-17 10:00:00,2022-02-17,GM0358,Aalsmeer,Noord-Holland,VR13,Amsterdam-Amstelland,GGD Amsterdam,Netwerk Acute Zorg Noordwest,88,0,0
 4,2022-02-17 10:00:00,2022-02-17,GM0361,Alkmaar,Noord-Holland,VR10,Noord-Holland-Noord,GGD Hollands-Noorden,Netwerk Acute Zorg Noordwest,379,0,0
-4,2022-02-17 10:00:00,2022-02-17,GM0362,Amstelveen,Noord-Holland,VR13,Amsterdam-Amstelland,GGD Amsterdam,Netwerk Acute Zorg Noordwest,249,0,1
+4,2022-02-17 10:00:00,2022-02-17,GM0362,Amstelveen,Noord-Holland,VR13,Amsterdam-Amstelland,GGD Amsterdam,Netwerk Acute Zorg Noordwest,249,0,0
 4,2022-02-17 10:00:00,2022-02-17,GM0363,Amsterdam,Noord-Holland,VR13,Amsterdam-Amstelland,GGD Amsterdam,Netwerk Acute Zorg Noordwest,1365,0,0
 4,2022-02-17 10:00:00,2022-02-17,GM0363,Amsterdam,Noord-Holland,VR13,Amsterdam-Amstelland,GGD Amsterdam,SpoedZorgNet,864,1,0
 4,2022-02-17 10:00:00,2022-02-17,GM0373,Bergen (NH.),Noord-Holland,VR10,Noord-Holland-Noord,GGD Hollands-Noorden,Netwerk Acute Zorg Noordwest,88,0,0
@@ -113,14 +113,14 @@ Version,Date_of_report,Date_of_publication,Municipality_code,Municipality_name,P
 4,2022-02-17 10:00:00,2022-02-17,GM0377,Bloemendaal,Noord-Holland,VR12,Kennemerland,GGD Kennemerland,Netwerk Acute Zorg Noordwest,43,0,0
 4,2022-02-17 10:00:00,2022-02-17,GM0383,Castricum,Noord-Holland,VR10,Noord-Holland-Noord,GGD Hollands-Noorden,Netwerk Acute Zorg Noordwest,83,0,0
 4,2022-02-17 10:00:00,2022-02-17,GM0384,Diemen,Noord-Holland,VR13,Amsterdam-Amstelland,GGD Amsterdam,SpoedZorgNet,73,0,0
-4,2022-02-17 10:00:00,2022-02-17,GM0385,Edam-Volendam,Noord-Holland,VR11,Zaanstreek-Waterland,GGD Zaanstreek/Waterland,SpoedZorgNet,107,0,0
+4,2022-02-17 10:00:00,2022-02-17,GM0385,Edam-Volendam,Noord-Holland,VR11,Zaanstreek-Waterland,GGD Zaanstreek/Waterland,SpoedZorgNet,107,0,1
 4,2022-02-17 10:00:00,2022-02-17,GM0388,Enkhuizen,Noord-Holland,VR10,Noord-Holland-Noord,GGD Hollands-Noorden,SpoedZorgNet,58,0,0
 4,2022-02-17 10:00:00,2022-02-17,GM0392,Haarlem,Noord-Holland,VR12,Kennemerland,GGD Kennemerland,Netwerk Acute Zorg Noordwest,471,1,0
 4,2022-02-17 10:00:00,2022-02-17,GM0394,Haarlemmermeer,Noord-Holland,VR12,Kennemerland,GGD Kennemerland,Netwerk Acute Zorg Noordwest,397,0,0
 4,2022-02-17 10:00:00,2022-02-17,GM0396,Heemskerk,Noord-Holland,VR12,Kennemerland,GGD Kennemerland,Netwerk Acute Zorg Noordwest,115,0,0
 4,2022-02-17 10:00:00,2022-02-17,GM0397,Heemstede,Noord-Holland,VR12,Kennemerland,GGD Kennemerland,Netwerk Acute Zorg Noordwest,84,0,0
 4,2022-02-17 10:00:00,2022-02-17,GM0399,Heiloo,Noord-Holland,VR10,Noord-Holland-Noord,GGD Hollands-Noorden,Netwerk Acute Zorg Noordwest,57,0,0
-4,2022-02-17 10:00:00,2022-02-17,GM0400,Den Helder,Noord-Holland,VR10,Noord-Holland-Noord,GGD Hollands-Noorden,Netwerk Acute Zorg Noordwest,258,1,3
+4,2022-02-17 10:00:00,2022-02-17,GM0400,Den Helder,Noord-Holland,VR10,Noord-Holland-Noord,GGD Hollands-Noorden,Netwerk Acute Zorg Noordwest,258,1,0
 4,2022-02-17 10:00:00,2022-02-17,GM0402,Hilversum,Noord-Holland,VR14,Gooi en Vechtstreek,GGD Gooi en Vechtstreek,SpoedZorgNet,387,0,0
 4,2022-02-17 10:00:00,2022-02-17,GM0405,Hoorn,Noord-Holland,VR10,Noord-Holland-Noord,GGD Hollands-Noorden,SpoedZorgNet,205,0,0
 4,2022-02-17 10:00:00,2022-02-17,GM0406,Huizen,Noord-Holland,VR14,Gooi en Vechtstreek,GGD Gooi en Vechtstreek,SpoedZorgNet,98,0,0
@@ -130,8 +130,8 @@ Version,Date_of_report,Date_of_publication,Municipality_code,Municipality_name,P
 4,2022-02-17 10:00:00,2022-02-17,GM0431,Oostzaan,Noord-Holland,VR11,Zaanstreek-Waterland,GGD Zaanstreek/Waterland,SpoedZorgNet,22,0,0
 4,2022-02-17 10:00:00,2022-02-17,GM0432,Opmeer,Noord-Holland,VR10,Noord-Holland-Noord,GGD Hollands-Noorden,Netwerk Acute Zorg Noordwest,29,0,0
 4,2022-02-17 10:00:00,2022-02-17,GM0437,Ouder-Amstel,Noord-Holland,VR13,Amsterdam-Amstelland,GGD Amsterdam,Netwerk Acute Zorg Noordwest,31,0,0
-4,2022-02-17 10:00:00,2022-02-17,GM0439,Purmerend,Noord-Holland,VR11,Zaanstreek-Waterland,GGD Zaanstreek/Waterland,Netwerk Acute Zorg Noordwest,37,0,2
-4,2022-02-17 10:00:00,2022-02-17,GM0439,Purmerend,Noord-Holland,VR11,Zaanstreek-Waterland,GGD Zaanstreek/Waterland,SpoedZorgNet,187,1,2
+4,2022-02-17 10:00:00,2022-02-17,GM0439,Purmerend,Noord-Holland,VR11,Zaanstreek-Waterland,GGD Zaanstreek/Waterland,Netwerk Acute Zorg Noordwest,37,0,0
+4,2022-02-17 10:00:00,2022-02-17,GM0439,Purmerend,Noord-Holland,VR11,Zaanstreek-Waterland,GGD Zaanstreek/Waterland,SpoedZorgNet,187,1,0
 4,2022-02-17 10:00:00,2022-02-17,GM0441,Schagen,Noord-Holland,VR10,Noord-Holland-Noord,GGD Hollands-Noorden,Netwerk Acute Zorg Noordwest,111,2,0
 4,2022-02-17 10:00:00,2022-02-17,GM0448,Texel,Noord-Holland,VR10,Noord-Holland-Noord,GGD Hollands-Noorden,Netwerk Acute Zorg Noordwest,69,0,0
 4,2022-02-17 10:00:00,2022-02-17,GM0450,Uitgeest,Noord-Holland,VR12,Kennemerland,GGD Kennemerland,Netwerk Acute Zorg Noordwest,61,0,0
@@ -147,9 +147,9 @@ Version,Date_of_report,Date_of_publication,Municipality_code,Municipality_name,P
 4,2022-02-17 10:00:00,2022-02-17,GM0501,Brielle,Zuid-Holland,VR17,Rotterdam-Rijnmond,GGD Rotterdam-Rijnmond,Traumacentrum Zuidwest-Nederland,65,0,0
 4,2022-02-17 10:00:00,2022-02-17,GM0502,Capelle aan den IJssel,Zuid-Holland,VR17,Rotterdam-Rijnmond,GGD Rotterdam-Rijnmond,Traumacentrum Zuidwest-Nederland,132,0,0
 4,2022-02-17 10:00:00,2022-02-17,GM0503,Delft,Zuid-Holland,VR15,Haaglanden,GGD Haaglanden,Netwerk Acute Zorg West,210,0,0
-4,2022-02-17 10:00:00,2022-02-17,GM0505,Dordrecht,Zuid-Holland,VR18,Zuid-Holland-Zuid,Dienst Gezondheid & Jeugd ZHZ,Traumacentrum Zuidwest-Nederland,372,0,0
+4,2022-02-17 10:00:00,2022-02-17,GM0505,Dordrecht,Zuid-Holland,VR18,Zuid-Holland-Zuid,Dienst Gezondheid & Jeugd ZHZ,Traumacentrum Zuidwest-Nederland,372,0,1
 4,2022-02-17 10:00:00,2022-02-17,GM0512,Gorinchem,Zuid-Holland,VR18,Zuid-Holland-Zuid,Dienst Gezondheid & Jeugd ZHZ,Traumacentrum Zuidwest-Nederland,134,0,0
-4,2022-02-17 10:00:00,2022-02-17,GM0513,Gouda,Zuid-Holland,VR16,Hollands-Midden,GGD Hollands-Midden,Netwerk Acute Zorg West,191,0,1
+4,2022-02-17 10:00:00,2022-02-17,GM0513,Gouda,Zuid-Holland,VR16,Hollands-Midden,GGD Hollands-Midden,Netwerk Acute Zorg West,191,0,0
 4,2022-02-17 10:00:00,2022-02-17,GM0518,'s-Gravenhage,Zuid-Holland,VR15,Haaglanden,GGD Haaglanden,Netwerk Acute Zorg West,1307,0,2
 4,2022-02-17 10:00:00,2022-02-17,GM0523,Hardinxveld-Giessendam,Zuid-Holland,VR18,Zuid-Holland-Zuid,Dienst Gezondheid & Jeugd ZHZ,Traumacentrum Zuidwest-Nederland,54,0,0
 4,2022-02-17 10:00:00,2022-02-17,GM0530,Hellevoetsluis,Zuid-Holland,VR17,Rotterdam-Rijnmond,GGD Rotterdam-Rijnmond,Traumacentrum Zuidwest-Nederland,88,0,0
@@ -157,7 +157,7 @@ Version,Date_of_report,Date_of_publication,Municipality_code,Municipality_name,P
 4,2022-02-17 10:00:00,2022-02-17,GM0532,Stede Broec,Noord-Holland,VR10,Noord-Holland-Noord,GGD Hollands-Noorden,SpoedZorgNet,57,0,0
 4,2022-02-17 10:00:00,2022-02-17,GM0534,Hillegom,Zuid-Holland,VR16,Hollands-Midden,GGD Hollands-Midden,Netwerk Acute Zorg West,47,0,0
 4,2022-02-17 10:00:00,2022-02-17,GM0537,Katwijk,Zuid-Holland,VR16,Hollands-Midden,GGD Hollands-Midden,Netwerk Acute Zorg West,221,0,1
-4,2022-02-17 10:00:00,2022-02-17,GM0542,Krimpen aan den IJssel,Zuid-Holland,VR17,Rotterdam-Rijnmond,GGD Rotterdam-Rijnmond,Traumacentrum Zuidwest-Nederland,67,0,0
+4,2022-02-17 10:00:00,2022-02-17,GM0542,Krimpen aan den IJssel,Zuid-Holland,VR17,Rotterdam-Rijnmond,GGD Rotterdam-Rijnmond,Traumacentrum Zuidwest-Nederland,67,0,1
 4,2022-02-17 10:00:00,2022-02-17,GM0546,Leiden,Zuid-Holland,VR16,Hollands-Midden,GGD Hollands-Midden,Netwerk Acute Zorg West,472,0,0
 4,2022-02-17 10:00:00,2022-02-17,GM0547,Leiderdorp,Zuid-Holland,VR16,Hollands-Midden,GGD Hollands-Midden,Netwerk Acute Zorg West,93,0,0
 4,2022-02-17 10:00:00,2022-02-17,GM0553,Lisse,Zuid-Holland,VR16,Hollands-Midden,GGD Hollands-Midden,Netwerk Acute Zorg West,50,0,0
@@ -168,7 +168,7 @@ Version,Date_of_report,Date_of_publication,Municipality_code,Municipality_name,P
 4,2022-02-17 10:00:00,2022-02-17,GM0589,Oudewater,Utrecht,VR09,Utrecht,GGD Regio Utrecht,Traumazorgnetwerk Midden-Nederland,39,0,0
 4,2022-02-17 10:00:00,2022-02-17,GM0590,Papendrecht,Zuid-Holland,VR18,Zuid-Holland-Zuid,Dienst Gezondheid & Jeugd ZHZ,Traumacentrum Zuidwest-Nederland,129,0,0
 4,2022-02-17 10:00:00,2022-02-17,GM0597,Ridderkerk,Zuid-Holland,VR17,Rotterdam-Rijnmond,GGD Rotterdam-Rijnmond,Traumacentrum Zuidwest-Nederland,123,0,0
-4,2022-02-17 10:00:00,2022-02-17,GM0599,Rotterdam,Zuid-Holland,VR17,Rotterdam-Rijnmond,GGD Rotterdam-Rijnmond,Traumacentrum Zuidwest-Nederland,1513,0,3
+4,2022-02-17 10:00:00,2022-02-17,GM0599,Rotterdam,Zuid-Holland,VR17,Rotterdam-Rijnmond,GGD Rotterdam-Rijnmond,Traumacentrum Zuidwest-Nederland,1513,0,2
 4,2022-02-17 10:00:00,2022-02-17,GM0603,Rijswijk,Zuid-Holland,VR15,Haaglanden,GGD Haaglanden,Netwerk Acute Zorg West,110,0,0
 4,2022-02-17 10:00:00,2022-02-17,GM0606,Schiedam,Zuid-Holland,VR17,Rotterdam-Rijnmond,GGD Rotterdam-Rijnmond,Traumacentrum Zuidwest-Nederland,182,0,0
 4,2022-02-17 10:00:00,2022-02-17,GM0610,Sliedrecht,Zuid-Holland,VR18,Zuid-Holland-Zuid,Dienst Gezondheid & Jeugd ZHZ,Traumacentrum Zuidwest-Nederland,96,0,0
@@ -236,19 +236,19 @@ Version,Date_of_report,Date_of_publication,Municipality_code,Municipality_name,P
 4,2022-02-17 10:00:00,2022-02-17,GM0873,Woensdrecht,Noord-Brabant,VR20,Midden- en West-Brabant,GGD West-Brabant,Netwerk Acute Zorg Brabant,55,0,0
 4,2022-02-17 10:00:00,2022-02-17,GM0879,Zundert,Noord-Brabant,VR20,Midden- en West-Brabant,GGD West-Brabant,Netwerk Acute Zorg Brabant,72,0,0
 4,2022-02-17 10:00:00,2022-02-17,GM0880,Wormerland,Noord-Holland,VR11,Zaanstreek-Waterland,GGD Zaanstreek/Waterland,Netwerk Acute Zorg Noordwest,36,0,0
-4,2022-02-17 10:00:00,2022-02-17,GM0882,Landgraaf,Limburg,VR24,Limburg-Zuid,GGD Zuid-Limburg,Netwerk Acute Zorg Limburg,101,0,1
+4,2022-02-17 10:00:00,2022-02-17,GM0882,Landgraaf,Limburg,VR24,Limburg-Zuid,GGD Zuid-Limburg,Netwerk Acute Zorg Limburg,101,0,0
 4,2022-02-17 10:00:00,2022-02-17,GM0888,Beek,Limburg,VR24,Limburg-Zuid,GGD Zuid-Limburg,Netwerk Acute Zorg Limburg,30,0,0
 4,2022-02-17 10:00:00,2022-02-17,GM0889,Beesel,Limburg,VR23,Limburg-Noord,GGD Limburg-Noord,Netwerk Acute Zorg Limburg,30,0,0
 4,2022-02-17 10:00:00,2022-02-17,GM0893,Bergen (L.),Limburg,VR23,Limburg-Noord,GGD Limburg-Noord,Netwerk Acute Zorg Limburg,26,0,0
 4,2022-02-17 10:00:00,2022-02-17,GM0899,Brunssum,Limburg,VR24,Limburg-Zuid,GGD Zuid-Limburg,Netwerk Acute Zorg Limburg,76,0,0
 4,2022-02-17 10:00:00,2022-02-17,GM0907,Gennep,Limburg,VR23,Limburg-Noord,GGD Limburg-Noord,Netwerk Acute Zorg Limburg,71,0,0
 4,2022-02-17 10:00:00,2022-02-17,GM0917,Heerlen,Limburg,VR24,Limburg-Zuid,GGD Zuid-Limburg,Netwerk Acute Zorg Limburg,264,0,0
-4,2022-02-17 10:00:00,2022-02-17,GM0928,Kerkrade,Limburg,VR24,Limburg-Zuid,GGD Zuid-Limburg,Netwerk Acute Zorg Limburg,120,0,1
+4,2022-02-17 10:00:00,2022-02-17,GM0928,Kerkrade,Limburg,VR24,Limburg-Zuid,GGD Zuid-Limburg,Netwerk Acute Zorg Limburg,120,0,0
 4,2022-02-17 10:00:00,2022-02-17,GM0935,Maastricht,Limburg,VR24,Limburg-Zuid,GGD Zuid-Limburg,Netwerk Acute Zorg Limburg,398,0,0
 4,2022-02-17 10:00:00,2022-02-17,GM0938,Meerssen,Limburg,VR24,Limburg-Zuid,GGD Zuid-Limburg,Netwerk Acute Zorg Limburg,56,0,0
 4,2022-02-17 10:00:00,2022-02-17,GM0944,Mook en Middelaar,Limburg,VR23,Limburg-Noord,GGD Limburg-Noord,Netwerk Acute Zorg Limburg,36,0,0
 4,2022-02-17 10:00:00,2022-02-17,GM0946,Nederweert,Limburg,VR23,Limburg-Noord,GGD Limburg-Noord,Netwerk Acute Zorg Limburg,62,0,0
-4,2022-02-17 10:00:00,2022-02-17,GM0957,Roermond,Limburg,VR23,Limburg-Noord,GGD Limburg-Noord,Netwerk Acute Zorg Limburg,140,0,0
+4,2022-02-17 10:00:00,2022-02-17,GM0957,Roermond,Limburg,VR23,Limburg-Noord,GGD Limburg-Noord,Netwerk Acute Zorg Limburg,140,0,1
 4,2022-02-17 10:00:00,2022-02-17,GM0965,Simpelveld,Limburg,VR24,Limburg-Zuid,GGD Zuid-Limburg,Netwerk Acute Zorg Limburg,32,1,0
 4,2022-02-17 10:00:00,2022-02-17,GM0971,Stein,Limburg,VR24,Limburg-Zuid,GGD Zuid-Limburg,Netwerk Acute Zorg Limburg,58,0,0
 4,2022-02-17 10:00:00,2022-02-17,GM0981,Vaals,Limburg,VR24,Limburg-Zuid,GGD Zuid-Limburg,Netwerk Acute Zorg Limburg,19,0,0
@@ -283,7 +283,7 @@ Version,Date_of_report,Date_of_publication,Municipality_code,Municipality_name,P
 4,2022-02-17 10:00:00,2022-02-17,GM1699,Noordenveld,Drenthe,VR03,Drenthe,GGD Drenthe,Acute Zorgnetwerk Noord Nederland,99,0,0
 4,2022-02-17 10:00:00,2022-02-17,GM1700,Twenterand,Overijssel,VR05,Twente,GGD Twente,Acute Zorg Euregio,96,0,0
 4,2022-02-17 10:00:00,2022-02-17,GM1701,Westerveld,Drenthe,VR03,Drenthe,GGD Drenthe,Acute Zorgnetwerk Noord Nederland,74,0,0
-4,2022-02-17 10:00:00,2022-02-17,GM1705,Lingewaard,Gelderland,VR07,Gelderland-Midden,Veiligheids- en Gezondheidsregio Gelderland-Midden,Acute Zorgregio Oost,213,0,0
+4,2022-02-17 10:00:00,2022-02-17,GM1705,Lingewaard,Gelderland,VR07,Gelderland-Midden,Veiligheids- en Gezondheidsregio Gelderland-Midden,Acute Zorgregio Oost,213,0,1
 4,2022-02-17 10:00:00,2022-02-17,GM1706,Cranendonck,Noord-Brabant,VR22,Brabant-Zuidoost,GGD Brabant-Zuidoost,Netwerk Acute Zorg Brabant,53,0,0
 4,2022-02-17 10:00:00,2022-02-17,GM1708,Steenwijkerland,Overijssel,VR04,IJsselland,GGD IJsselland,Netwerk Acute Zorg regio Zwolle,134,1,0
 4,2022-02-17 10:00:00,2022-02-17,GM1709,Moerdijk,Noord-Brabant,VR20,Midden- en West-Brabant,GGD West-Brabant,Netwerk Acute Zorg Brabant,123,0,0
@@ -295,7 +295,7 @@ Version,Date_of_report,Date_of_publication,Municipality_code,Municipality_name,P
 4,2022-02-17 10:00:00,2022-02-17,GM1724,Bergeijk,Noord-Brabant,VR22,Brabant-Zuidoost,GGD Brabant-Zuidoost,Netwerk Acute Zorg Brabant,60,1,0
 4,2022-02-17 10:00:00,2022-02-17,GM1728,Bladel,Noord-Brabant,VR22,Brabant-Zuidoost,GGD Brabant-Zuidoost,Netwerk Acute Zorg Brabant,92,0,0
 4,2022-02-17 10:00:00,2022-02-17,GM1729,Gulpen-Wittem,Limburg,VR24,Limburg-Zuid,GGD Zuid-Limburg,Netwerk Acute Zorg Limburg,44,0,0
-4,2022-02-17 10:00:00,2022-02-17,GM1730,Tynaarlo,Drenthe,VR03,Drenthe,GGD Drenthe,Acute Zorgnetwerk Noord Nederland,121,0,0
+4,2022-02-17 10:00:00,2022-02-17,GM1730,Tynaarlo,Drenthe,VR03,Drenthe,GGD Drenthe,Acute Zorgnetwerk Noord Nederland,121,0,1
 4,2022-02-17 10:00:00,2022-02-17,GM1731,Midden-Drenthe,Drenthe,VR03,Drenthe,GGD Drenthe,Acute Zorgnetwerk Noord Nederland,126,0,0
 4,2022-02-17 10:00:00,2022-02-17,GM1734,Overbetuwe,Gelderland,VR07,Gelderland-Midden,Veiligheids- en Gezondheidsregio Gelderland-Midden,Acute Zorgregio Oost,195,0,0
 4,2022-02-17 10:00:00,2022-02-17,GM1735,Hof van Twente,Overijssel,VR05,Twente,GGD Twente,Acute Zorg Euregio,111,0,0
@@ -303,12 +303,12 @@ Version,Date_of_report,Date_of_publication,Municipality_code,Municipality_name,P
 4,2022-02-17 10:00:00,2022-02-17,GM1742,Rijssen-Holten,Overijssel,VR05,Twente,GGD Twente,Acute Zorg Euregio,165,0,0
 4,2022-02-17 10:00:00,2022-02-17,GM1771,Geldrop-Mierlo,Noord-Brabant,VR22,Brabant-Zuidoost,GGD Brabant-Zuidoost,Netwerk Acute Zorg Brabant,125,0,0
 4,2022-02-17 10:00:00,2022-02-17,GM1773,Olst-Wijhe,Overijssel,VR04,IJsselland,GGD IJsselland,Netwerk Acute Zorg regio Zwolle,75,0,0
-4,2022-02-17 10:00:00,2022-02-17,GM1774,Dinkelland,Overijssel,VR05,Twente,GGD Twente,Acute Zorg Euregio,63,0,0
+4,2022-02-17 10:00:00,2022-02-17,GM1774,Dinkelland,Overijssel,VR05,Twente,GGD Twente,Acute Zorg Euregio,63,0,1
 4,2022-02-17 10:00:00,2022-02-17,GM1783,Westland,Zuid-Holland,VR15,Haaglanden,GGD Haaglanden,Netwerk Acute Zorg West,215,0,0
 4,2022-02-17 10:00:00,2022-02-17,GM1842,Midden-Delfland,Zuid-Holland,VR15,Haaglanden,GGD Haaglanden,Netwerk Acute Zorg West,52,0,0
 4,2022-02-17 10:00:00,2022-02-17,GM1859,Berkelland,Gelderland,VR06,Noord- en Oost-Gelderland,GGD Noord- en Oost-Gelderland,Acute Zorg Euregio,165,0,0
 4,2022-02-17 10:00:00,2022-02-17,GM1876,Bronckhorst,Gelderland,VR06,Noord- en Oost-Gelderland,GGD Noord- en Oost-Gelderland,Acute Zorgregio Oost,210,0,0
-4,2022-02-17 10:00:00,2022-02-17,GM1883,Sittard-Geleen,Limburg,VR24,Limburg-Zuid,GGD Zuid-Limburg,Netwerk Acute Zorg Limburg,243,0,2
+4,2022-02-17 10:00:00,2022-02-17,GM1883,Sittard-Geleen,Limburg,VR24,Limburg-Zuid,GGD Zuid-Limburg,Netwerk Acute Zorg Limburg,243,0,0
 4,2022-02-17 10:00:00,2022-02-17,GM1884,Kaag en Braassem,Zuid-Holland,VR16,Hollands-Midden,GGD Hollands-Midden,Netwerk Acute Zorg West,71,0,0
 4,2022-02-17 10:00:00,2022-02-17,GM1891,Dantumadiel,FryslÃ¢n,VR02,FryslÃ¢n,GGD FryslÃ¢n,Acute Zorgnetwerk Noord Nederland,75,0,0
 4,2022-02-17 10:00:00,2022-02-17,GM1892,Zuidplas,Zuid-Holland,VR16,Hollands-Midden,GGD Hollands-Midden,Netwerk Acute Zorg West,112,0,0
@@ -324,7 +324,7 @@ Version,Date_of_report,Date_of_publication,Municipality_code,Municipality_name,P
 4,2022-02-17 10:00:00,2022-02-17,GM1924,Goeree-Overflakkee,Zuid-Holland,VR17,Rotterdam-Rijnmond,GGD Rotterdam-Rijnmond,Traumacentrum Zuidwest-Nederland,152,0,0
 4,2022-02-17 10:00:00,2022-02-17,GM1926,Pijnacker-Nootdorp,Zuid-Holland,VR15,Haaglanden,GGD Haaglanden,Netwerk Acute Zorg West,147,0,0
 4,2022-02-17 10:00:00,2022-02-17,GM1930,Nissewaard,Zuid-Holland,VR17,Rotterdam-Rijnmond,GGD Rotterdam-Rijnmond,Traumacentrum Zuidwest-Nederland,265,0,0
-4,2022-02-17 10:00:00,2022-02-17,GM1931,Krimpenerwaard,Zuid-Holland,VR16,Hollands-Midden,GGD Hollands-Midden,Netwerk Acute Zorg West,270,0,1
+4,2022-02-17 10:00:00,2022-02-17,GM1931,Krimpenerwaard,Zuid-Holland,VR16,Hollands-Midden,GGD Hollands-Midden,Netwerk Acute Zorg West,270,0,0
 4,2022-02-17 10:00:00,2022-02-17,GM1940,De Fryske Marren,FryslÃ¢n,VR02,FryslÃ¢n,GGD FryslÃ¢n,Acute Zorgnetwerk Noord Nederland,221,0,0
 4,2022-02-17 10:00:00,2022-02-17,GM1942,Gooise Meren,Noord-Holland,VR14,Gooi en Vechtstreek,GGD Gooi en Vechtstreek,SpoedZorgNet,222,0,0
 4,2022-02-17 10:00:00,2022-02-17,GM1945,Berg en Dal,Gelderland,VR08,Gelderland-Zuid,GGD Gelderland-Zuid,Acute Zorgregio Oost,98,0,0
@@ -334,12 +334,12 @@ Version,Date_of_report,Date_of_publication,Municipality_code,Municipality_name,P
 4,2022-02-17 10:00:00,2022-02-17,GM1952,Midden-Groningen,Groningen,VR01,Groningen,GGD Groningen,Acute Zorgnetwerk Noord Nederland,211,0,0
 4,2022-02-17 10:00:00,2022-02-17,GM1954,Beekdaelen,Limburg,VR24,Limburg-Zuid,GGD Zuid-Limburg,Netwerk Acute Zorg Limburg,107,0,0
 4,2022-02-17 10:00:00,2022-02-17,GM1955,Montferland,Gelderland,VR06,Noord- en Oost-Gelderland,GGD Noord- en Oost-Gelderland,Acute Zorgregio Oost,157,0,0
-4,2022-02-17 10:00:00,2022-02-17,GM1959,Altena,Noord-Brabant,VR20,Midden- en West-Brabant,GGD West-Brabant,Netwerk Acute Zorg Brabant,194,0,0
+4,2022-02-17 10:00:00,2022-02-17,GM1959,Altena,Noord-Brabant,VR20,Midden- en West-Brabant,GGD West-Brabant,Netwerk Acute Zorg Brabant,194,0,1
 4,2022-02-17 10:00:00,2022-02-17,GM1960,West Betuwe,Gelderland,VR08,Gelderland-Zuid,GGD Gelderland-Zuid,Acute Zorgregio Oost,193,0,0
-4,2022-02-17 10:00:00,2022-02-17,GM1961,Vijfheerenlanden,Utrecht,VR09,Utrecht,GGD Regio Utrecht,Traumazorgnetwerk Midden-Nederland,184,0,1
+4,2022-02-17 10:00:00,2022-02-17,GM1961,Vijfheerenlanden,Utrecht,VR09,Utrecht,GGD Regio Utrecht,Traumazorgnetwerk Midden-Nederland,184,0,0
 4,2022-02-17 10:00:00,2022-02-17,GM1963,Hoeksche Waard,Zuid-Holland,VR18,Zuid-Holland-Zuid,Dienst Gezondheid & Jeugd ZHZ,Traumacentrum Zuidwest-Nederland,394,0,0
 4,2022-02-17 10:00:00,2022-02-17,GM1966,Het Hogeland,Groningen,VR01,Groningen,GGD Groningen,Acute Zorgnetwerk Noord Nederland,203,0,0
-4,2022-02-17 10:00:00,2022-02-17,GM1969,Westerkwartier,Groningen,VR01,Groningen,GGD Groningen,Acute Zorgnetwerk Noord Nederland,288,0,1
+4,2022-02-17 10:00:00,2022-02-17,GM1969,Westerkwartier,Groningen,VR01,Groningen,GGD Groningen,Acute Zorgnetwerk Noord Nederland,288,0,0
 4,2022-02-17 10:00:00,2022-02-17,GM1970,Noardeast-FryslÃ¢n,FryslÃ¢n,VR02,FryslÃ¢n,GGD FryslÃ¢n,Acute Zorgnetwerk Noord Nederland,215,0,0
 4,2022-02-17 10:00:00,2022-02-17,GM1978,Molenlanden,Zuid-Holland,VR18,Zuid-Holland-Zuid,Dienst Gezondheid & Jeugd ZHZ,Traumacentrum Zuidwest-Nederland,185,0,0
 4,2022-02-17 10:00:00,2022-02-17,GM1979,Eemsdelta,Groningen,VR01,Groningen,GGD Groningen,Acute Zorgnetwerk Noord Nederland,190,0,0
