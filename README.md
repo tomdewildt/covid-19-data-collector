@@ -5,6 +5,10 @@
 ![Size](https://img.shields.io/github/repo-size/tomdewildt/covid-19-data-collector)
 [![License](https://img.shields.io/github/license/tomdewildt/covid-19-data-collector)](https://github.com/tomdewildt/covid-19-data-collector/blob/master/LICENSE)
 
+> **DEPRECATED**
+> 
+> This tool is deprecated in favor of the government provided [dashboard](https://coronadashboard.rijksoverheid.nl/) and [data](https://data.rivm.nl/covid-19/).
+
 This tool automatically collects and parses the data from the RIVM and NICE websites on the COVID-19 oubreak in The Netherlands.
 
 # How To Run
