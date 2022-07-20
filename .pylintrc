@@ -1,18 +1,11 @@
-[master]
-ignore=notebooks
-
 [messages control]
-disable=too-few-public-methods,
-        redefined-outer-name,
+disable=too-many-instance-attributes,
+        missing-function-docstring,
+        missing-module-docstring,
+        missing-class-docstring,
+        too-few-public-methods,
         too-many-arguments,
-        redefined-builtin,
-        missing-docstring,
-        locally-disabled,
         duplicate-code,
         invalid-name,
-        no-self-use,
+        no-member,
         fixme,
-
-[report]
-exclude_lines =
-    if __name__ == .__main__.:
