@@ -1,6 +1,6 @@
 # COVID-19 Data Collector
-[![Build](https://img.shields.io/github/workflow/status/tomdewildt/covid-19-data-collector/ci/master)](https://github.com/tomdewildt/covid-19-data-collector/actions?query=workflow%3Aci)
-[![Scheduler](https://img.shields.io/github/workflow/status/tomdewildt/covid-19-data-collector/scheduler/master?label=scheduler)](https://github.com/tomdewildt/covid-19-data-collector/actions?query=workflow%3Ascheduler)
+[![Build](https://img.shields.io/github/actions/workflow/status/tomdewildt/covid-19-data-collector/ci.yml?branch=master)](https://github.com/tomdewildt/covid-19-data-collector/actions/workflows/ci.yml)
+[![Scheduler](https://img.shields.io/github/actions/workflow/status/tomdewildt/covid-19-data-collector/scheduler.yml?branch=master&label=scheduler)](https://github.com/tomdewildt/covid-19-data-collector/actions/workflows/scheduler.yml)
 [![Coverage](https://img.shields.io/codecov/c/gh/tomdewildt/covid-19-data-collector)](https://codecov.io/gh/tomdewildt/covid-19-data-collector)
 ![Size](https://img.shields.io/github/repo-size/tomdewildt/covid-19-data-collector)
 [![License](https://img.shields.io/github/license/tomdewildt/covid-19-data-collector)](https://github.com/tomdewildt/covid-19-data-collector/blob/master/LICENSE)
